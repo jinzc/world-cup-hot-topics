@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-08 13:13:41",
+  "update_time": "2026-06-08 17:26:42",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "辉瑞减重埃诺亮相美国ADA",
+          "url": "https://s.weibo.com/weibo?q=%E8%BE%89%E7%91%9E%E5%87%8F%E9%87%8D%E5%9F%83%E8%AF%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BDADA",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -19,17 +26,12 @@
           "hot": 0
         },
         {
-          "title": "UP主盘点各国世界杯阵容",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%9B%98%E7%82%B9%E5%90%84%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B5%E5%AE%B9",
-          "hot": 0
-        },
-        {
           "title": "浪姐7四公跨团合作解说",
           "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4",
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
