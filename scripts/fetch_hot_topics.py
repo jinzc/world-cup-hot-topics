@@ -254,15 +254,16 @@ def fetch_xiaohongshu():
 def fetch_migu():
     """咪咕体育推荐内容（网页端抓取）"""
     topics = []
+    wc_keywords = "世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰"
     try:
         # 抓取咪咕体育首页
         html = fetch_html("https://www.miguvideo.com/p/home", timeout=10)
         if html:
-            # 提取标题（多种模式）
+            # 提取标题（多种模式）—— 用双引号包裹避免单引号冲突
             patterns = [
-                r'title=["']([^"']*?(?:世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰)[^"']*)["']',
-                r'alt=["']([^"']*?(?:世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰)[^"']*)["']',
-                r'<h[1-6][^>]*>([^<]*?(?:世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰)[^<]*)</h[1-6]>',
+                r'title=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
+                r'alt=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
+                r'<h[1-6][^>]*>([^<<]*?(?:' + wc_keywords + r')[^<<]*)</h[1-6]>',
             ]
             for pattern in patterns:
                 matches = re.findall(pattern, html, re.IGNORECASE)
@@ -281,7 +282,7 @@ def fetch_migu():
     try:
         html = fetch_html("https://www.miguvideo.com/p/channel/10010000008", timeout=10)
         if html:
-            titles = re.findall(r'<[^>]*title=["']([^"']+)["'][^>]*>', html)
+            titles = re.findall(r'<[^>]*title=["\']([^"\']+)["\'][^>]*>', html)
             for title in titles[:15]:
                 if is_world_cup_related(title):
                     topics.append({
@@ -304,7 +305,7 @@ def fetch_migu():
 
 def main():
     """主入口"""
-    print(f"🚀 开始抓取世界杯话题... {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"开始抓取世界杯话题... {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
     all_data = {
         "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -324,7 +325,7 @@ def main():
     }
 
     for name, fetcher in fetchers.items():
-        print(f"📡 正在抓取 {name}...")
+        print(f"正在抓取 {name}...")
         try:
             result = fetcher()
             if isinstance(result, dict) and "_error" in result:
@@ -333,27 +334,27 @@ def main():
                     "count": 0,
                     "status": f"error: {result['_error']}"
                 }
-                print(f"  ❌ {name}: 抓取失败 - {result['_error']}")
+                print(f"  {name}: 抓取失败 - {result['_error']}")
             else:
                 all_data["sources"][name] = {
                     "topics": result,
                     "count": len(result),
                     "status": "success" if result else "empty"
                 }
-                print(f"  ✅ {name}: 抓到 {len(result)} 条世界杯话题")
+                print(f"  {name}: 抓到 {len(result)} 条世界杯话题")
         except Exception as e:
             all_data["sources"][name] = {
                 "topics": [],
                 "count": 0,
                 "status": f"error: {str(e)}"
             }
-            print(f"  ❌ {name}: 抓取失败 - {e}")
+            print(f"  {name}: 抓取失败 - {e}")
         time.sleep(1)
 
     save_data(all_data, DATA_FILE)
     total = sum(s["count"] for s in all_data["sources"].values())
-    print(f"💾 数据已保存到 {DATA_FILE}")
-    print(f"🎉 抓取完成！共 {total} 条世界杯话题")
+    print(f"数据已保存到 {DATA_FILE}")
+    print(f"抓取完成！共 {total} 条世界杯话题")
 
 
 if __name__ == "__main__":
