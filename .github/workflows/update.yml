@@ -1,0 +1,34 @@
+name: Update World Cup Hot Topics
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时整点运行（UTC）
+  workflow_dispatch:      # 支持手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run fetch script
+      env:
+        # 从 GitHub Secrets 读取小红书 Cookie
+        # 在仓库 Settings -> Secrets -> Actions 中配置
+        XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
+      run: |
+        python scripts/fetch_hot_topics.py
+
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/world_cup_topics.json
+        git diff --cached --quiet || (git commit -m "Update world cup topics - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
