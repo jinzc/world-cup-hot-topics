@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏆 2026世界杯话题热榜</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        header { text-align: center; padding: 30px 0; }
+        header h1 {
+            font-size: 2.5em;
+            background: linear-gradient(90deg, #00d4ff, #7b2cbf, #ff006e);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+        .update-time { color: #888; font-size: 0.9em; }
+        .filters {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        .filter-btn {
+            padding: 8px 16px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #fff;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9em;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            background: rgba(0, 212, 255, 0.2);
+            border-color: #00d4ff;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .column {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .column-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .column-header .icon {
+            width: 36px; height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2em;
+        }
+        .column-header h2 { font-size: 1.1em; font-weight: 600; }
+        .column-header .count {
+            margin-left: auto;
+            background: rgba(0,212,255,0.2);
+            color: #00d4ff;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.8em;
+        }
+        .topic-list { list-style: none; }
+        .topic-item {
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            transition: all 0.2s;
+        }
+        .topic-item:hover {
+            background: rgba(255,255,255,0.03);
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .topic-item:last-child { border-bottom: none; }
+        .rank {
+            width: 24px; height: 24px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8em;
+            font-weight: 700;
+            flex-shrink: 0;
+            margin-top: 2px;
+            background: rgba(255,255,255,0.1);
+            color: #888;
+        }
+        .rank.top3 {
+            background: linear-gradient(135deg, #ffd700, #ffaa00);
+            color: #000;
+        }
+        .topic-content { flex: 1; min-width: 0; }
+        .topic-title {
+            color: #fff;
+            text-decoration: none;
+            font-size: 0.95em;
+            line-height: 1.4;
+            display: block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .topic-title:hover { color: #00d4ff; }
+        .topic-meta {
+            font-size: 0.75em;
+            color: #666;
+            margin-top: 4px;
+            display: flex;
+            gap: 10px;
+        }
+        .topic-meta .hot { color: #ff6b6b; }
+        .empty-state {
+            text-align: center;
+            padding: 30px 0;
+            color: #666;
+            font-size: 0.9em;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #888;
+        }
+        .error-state {
+            color: #ff6b6b;
+            font-size: 0.85em;
+            padding: 10px;
+            background: rgba(255,0,0,0.05);
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .config-hint {
+            font-size: 0.75em;
+            color: #888;
+            margin-top: 5px;
+            line-height: 1.5;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            font-size: 0.8em;
+        }
+        footer a { color: #00d4ff; }
+        @media (max-width: 768px) {
+            .grid { grid-template-columns: 1fr; }
+            header h1 { font-size: 1.8em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏆 2026 世界杯话题热榜</h1>
+            <div class="update-time" id="updateTime">加载中...</div>
+        </header>
+
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterSource('all')">全部平台</button>
+            <button class="filter-btn" onclick="filterSource('微博')">微博</button>
+            <button class="filter-btn" onclick="filterSource('百度')">百度</button>
+            <button class="filter-btn" onclick="filterSource('B站')">B站</button>
+            <button class="filter-btn" onclick="filterSource('知乎')">知乎</button>
+            <button class="filter-btn" onclick="filterSource('抖音')">抖音</button>
+            <button class="filter-btn" onclick="filterSource('虎扑')">虎扑</button>
+            <button class="filter-btn" onclick="filterSource('懂球帝')">懂球帝</button>
+            <button class="filter-btn" onclick="filterSource('小红书')">小红书</button>
+            <button class="filter-btn" onclick="filterSource('咪咕')">咪咕</button>
+        </div>
+
+        <div class="loading" id="loading">正在加载数据...</div>
+        <div class="grid" id="grid" style="display:none;"></div>
+    </div>
+
+    <footer>
+        <p>数据来源各平台公开接口 · 仅供学习交流使用</p>
+        <p>自动更新 · 每小时刷新</p>
+    </footer>
+
+    <script>
+        let allData = null;
+        let currentFilter = 'all';
+
+        const sourceIcons = {
+            '微博': '🔥', '百度': '🔍', 'B站': '📺', '知乎': '❓',
+            '抖音': '🎵', '虎扑': '🏀', '懂球帝': '⚽', '小红书': '📕', '咪咕': '📡'
+        };
+        const sourceColors = {
+            '微博': '#e6162d', '百度': '#2932e1', 'B站': '#00a1d6', '知乎': '#0084ff',
+            '抖音': '#000000', '虎扑': '#c01e2f', '懂球帝': '#00b96b', '小红书': '#ff2442', '咪咕': '#0091ff'
+        };
+
+        async function loadData() {
+            try {
+                const response = await fetch('data/world_cup_topics.json?t=' + Date.now());
+                allData = await response.json();
+                document.getElementById('updateTime').textContent = '最后更新：' + allData.update_time;
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('grid').style.display = 'grid';
+                renderGrid();
+            } catch (e) {
+                document.getElementById('loading').textContent = '数据加载失败，请稍后刷新';
+                console.error(e);
+            }
+        }
+
+        function renderGrid() {
+            const grid = document.getElementById('grid');
+            grid.innerHTML = '';
+            const sources = currentFilter === 'all' ? Object.keys(allData.sources) : [currentFilter];
+
+            sources.forEach(sourceName => {
+                const sourceData = allData.sources[sourceName];
+                if (!sourceData) return;
+
+                const column = document.createElement('div');
+                column.className = 'column';
+                const icon = sourceIcons[sourceName] || '📰';
+                const color = sourceColors[sourceName] || '#666';
+
+                let topicsHtml = '';
+                if (sourceData.status.startsWith('error')) {
+                    topicsHtml = `<div class="error-state">⚠️ 抓取失败：${sourceData.status}</div>`;
+                } else if (sourceData.count === 0) {
+                    let hint = '';
+                    if (sourceName === '小红书') {
+                        hint = `<div class="config-hint">💡 小红书无公开API，需在 GitHub Secrets 中配置 Cookie。<br>仓库 Settings → Secrets → Actions → 添加 XIAOHONGSHU_COOKIE</div>`;
+                    } else if (sourceName === '咪咕') {
+                        hint = `<div class="config-hint">💡 咪咕无公开热榜API，通过网页端抓取，数据可能有限。</div>`;
+                    } else if (sourceName === '抖音') {
+                        hint = `<div class="config-hint">💡 抖音接口可能受反爬限制，如遇失败可稍后重试。</div>`;
+                    } else if (sourceName === '虎扑' || sourceName === '懂球帝') {
+                        hint = `<div class="config-hint">💡 接口可能变动，如遇失败请检查接口是否更新。</div>`;
+                    }
+                    topicsHtml = `<div class="empty-state">暂无世界杯相关话题</div>${hint}`;
+                } else {
+                    topicsHtml = '<ul class="topic-list">';
+                    sourceData.topics.slice(0, 15).forEach((topic, index) => {
+                        const rankClass = index < 3 ? 'top3' : '';
+                        const hotText = topic.hot || '';
+                        topicsHtml += `
+                            <li class="topic-item">
+                                <span class="rank ${rankClass}">${index + 1}</span>
+                                <div class="topic-content">
+                                    <a href="${topic.url || '#'}" target="_blank" class="topic-title" title="${topic.title}">${topic.title}</a>
+                                    <div class="topic-meta">
+                                        ${hotText ? `<span class="hot">🔥 ${hotText}</span>` : ''}
+                                        ${topic.label ? `<span>${topic.label}</span>` : ''}
+                                        ${topic.category ? `<span>${topic.category}</span>` : ''}
+                                    </div>
+                                </div>
+                            </li>
+                        `;
+                    });
+                    topicsHtml += '</ul>';
+                }
+
+                column.innerHTML = `
+                    <div class="column-header">
+                        <div class="icon" style="background: ${color}20; color: ${color};">${icon}</div>
+                        <h2>${sourceName}</h2>
+                        <span class="count">${sourceData.count} 条</span>
+                    </div>
+                    ${topicsHtml}
+                `;
+                grid.appendChild(column);
+            });
+        }
+
+        function filterSource(source) {
+            currentFilter = source;
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.textContent === (source === 'all' ? '全部平台' : source)) {
+                    btn.classList.add('active');
+                }
+            });
+            renderGrid();
+        }
+
+        loadData();
+        setInterval(loadData, 300000); // 每5分钟自动刷新
+    </script>
+</body>
+</html>
