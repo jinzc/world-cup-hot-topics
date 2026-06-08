@@ -1,29 +1,10 @@
 {
-  "update_time": "2026-06-08 08:47:48",
+  "update_time": "2026-06-08 13:13:41",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "霍思燕爱犬在意大利夺冠",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E7%88%B1%E7%8A%AC%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%BA%E5%86%A0",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "Gemini 美国大豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 3,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -33,37 +14,22 @@
     "B站": {
       "topics": [
         {
-          "title": "浪姐7四公跨团合作解说",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4",
-          "hot": 0
-        },
-        {
           "title": "管泽元对线世界杯主裁马宁",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E7%BA%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E9%A9%AC%E5%AE%81",
           "hot": 0
         },
         {
-          "title": "一口气看完美国UFO档案解密",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E7%BE%8E%E5%9B%BDUFO%E6%A1%A3%E6%A1%88%E8%A7%A3%E5%AF%86",
+          "title": "UP主盘点各国世界杯阵容",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%9B%98%E7%82%B9%E5%90%84%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B5%E5%AE%B9",
           "hot": 0
         },
         {
-          "title": "世界杯期间不抓移民了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97",
-          "hot": 0
-        },
-        {
-          "title": "华强买瓜世界杯版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88",
-          "hot": 0
-        },
-        {
-          "title": "德国为何落选安理会席位",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%90%BD%E9%80%89%E5%AE%89%E7%90%86%E4%BC%9A%E5%B8%AD%E4%BD%8D",
+          "title": "浪姐7四公跨团合作解说",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4",
           "hot": 0
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
