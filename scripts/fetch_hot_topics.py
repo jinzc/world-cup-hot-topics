@@ -53,8 +53,10 @@ def fetch_weibo():
 
 
 def fetch_baidu():
-    """百度热搜"""
+    """百度热搜（全站 + 体育榜备用）"""
     topics = []
+    
+    # 方式1：全站实时榜
     try:
         data = fetch_json("https://top.baidu.com/api/board?platform=wise&tab=realtime")
         if isinstance(data, dict) and data.get("data", {}).get("cards"):
@@ -69,7 +71,26 @@ def fetch_baidu():
                             "desc": item.get("desc", ""),
                         })
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"  百度全站榜失败: {e}")
+    
+    # 方式2：体育榜
+    if not topics:
+        try:
+            data = fetch_json("https://top.baidu.com/api/board?platform=wise&tab=sport")
+            if isinstance(data, dict) and data.get("data", {}).get("cards"):
+                for card in data["data"]["cards"]:
+                    for item in card.get("content", []):
+                        title = item.get("word", "")
+                        if is_world_cup_related(title):
+                            topics.append({
+                                "title": title,
+                                "url": item.get("url", ""),
+                                "hot": item.get("hotScore", ""),
+                                "desc": item.get("desc", ""),
+                            })
+        except Exception as e:
+            print(f"  百度体育榜失败: {e}")
+    
     return topics
 
 
@@ -96,10 +117,35 @@ def fetch_bilibili():
 
 
 def fetch_zhihu():
-    """知乎热榜"""
+    """知乎热榜（多接口尝试）"""
     topics = []
+    
+    # 方式1：标准热榜接口
     try:
         data = fetch_json("https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50", headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://www.zhihu.com/",
+            "Accept": "application/json",
+            "x-requested-with": "fetch",
+        })
+        if isinstance(data, dict) and data.get("data"):
+            for item in data["data"]:
+                target = item.get("target", {})
+                title = target.get("title", "")
+                if is_world_cup_related(title):
+                    topics.append({
+                        "title": title,
+                        "url": target.get("url", ""),
+                        "hot": item.get("detail_text", ""),
+                    })
+            if topics:
+                return topics
+    except Exception as e:
+        print(f"  知乎接口1失败: {e}")
+    
+    # 方式2：备用接口
+    try:
+        data = fetch_json("https://www.zhihu.com/api/v3/feed/topstory/hot-lists?limit=50", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "Referer": "https://www.zhihu.com/",
         })
@@ -114,12 +160,13 @@ def fetch_zhihu():
                         "hot": item.get("detail_text", ""),
                     })
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"  知乎接口2失败: {e}")
+    
     return topics
 
 
 def fetch_douyin():
-    """抖音热搜（官方接口 + 备用第三方接口）"""
+    """抖音热搜（多备用接口）"""
     topics = []
     
     # 方式1：官方接口
@@ -142,7 +189,7 @@ def fetch_douyin():
     except Exception as e:
         print(f"  抖音官方接口失败: {e}")
     
-    # 方式2：备用第三方接口
+    # 方式2：备用第三方接口1
     try:
         data = fetch_json("https://dabenshi.cn/other/api/hot.php?type=douyinhot", timeout=10)
         if isinstance(data, dict) and data.get("data"):
@@ -154,17 +201,34 @@ def fetch_douyin():
                         "url": item.get("url", ""),
                         "hot": item.get("hot", ""),
                     })
+            if topics:
+                return topics
     except Exception as e:
-        print(f"  抖音备用接口失败: {e}")
+        print(f"  抖音备用接口1失败: {e}")
+    
+    # 方式3：备用第三方接口2
+    try:
+        data = fetch_json("https://api-hot.imsyy.top/douyin", timeout=10)
+        if isinstance(data, dict) and data.get("data"):
+            for item in data["data"]:
+                title = item.get("title", "")
+                if is_world_cup_related(title):
+                    topics.append({
+                        "title": title,
+                        "url": item.get("url", ""),
+                        "hot": item.get("hot", ""),
+                    })
+    except Exception as e:
+        print(f"  抖音备用接口2失败: {e}")
     
     return topics
 
 
 def fetch_hupu():
-    """虎扑热帖（API + 网页端备用）"""
+    """虎扑热帖（API + 网页端多尝试）"""
     topics = []
     
-    # 方式1：API
+    # 方式1：原API
     try:
         data = fetch_json("https://bbs.hupu.com/api/v1/all-gambia?limit=50", headers={
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
@@ -183,9 +247,47 @@ def fetch_hupu():
             if topics:
                 return topics
     except Exception as e:
-        print(f"  虎扑API失败: {e}")
+        print(f"  虎扑API1失败: {e}")
     
-    # 方式2：网页端抓取热帖
+    # 方式2：topic-web API
+    try:
+        data = fetch_json("https://bbs.hupu.com/api/v1/topic-web?limit=50", headers={
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
+            "Referer": "https://bbs.hupu.com/",
+        })
+        if isinstance(data, dict) and data.get("data"):
+            for item in data["data"]:
+                title = item.get("title", "")
+                if is_world_cup_related(title):
+                    topics.append({
+                        "title": title,
+                        "url": item.get("url", ""),
+                        "hot": item.get("replies", 0),
+                    })
+            if topics:
+                return topics
+    except Exception as e:
+        print(f"  虎扑API2失败: {e}")
+    
+    # 方式3：足球专区网页抓取
+    try:
+        html = fetch_html("https://bbs.hupu.com/soccer", timeout=10)
+        if html:
+            matches = re.findall(r'<a[^>]*class="post-title"[^>]*>([^<<]+)</a>', html)
+            for title in matches[:20]:
+                clean = title.strip()
+                if is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://bbs.hupu.com/soccer",
+                        "hot": "",
+                    })
+            if topics:
+                return topics
+    except Exception as e:
+        print(f"  虎扑足球专区失败: {e}")
+    
+    # 方式4：步行街网页抓取
     try:
         html = fetch_html("https://bbs.hupu.com/all-gambia", timeout=10)
         if html:
@@ -199,13 +301,13 @@ def fetch_hupu():
                         "hot": "",
                     })
     except Exception as e:
-        print(f"  虎扑网页端失败: {e}")
+        print(f"  虎扑步行街失败: {e}")
     
     return topics
 
 
 def fetch_dongqiudi():
-    """懂球帝热帖（多接口尝试）"""
+    """懂球帝热帖（多接口 + 网页端）"""
     topics = []
     
     # 方式1：原接口
@@ -228,7 +330,7 @@ def fetch_dongqiudi():
     except Exception as e:
         print(f"  懂球帝接口1失败: {e}")
     
-    # 方式2：备用接口
+    # 方式2：推荐文章接口
     try:
         data = fetch_json("https://www.dongqiudi.com/api/v2/article/recommend?page=1", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -243,8 +345,26 @@ def fetch_dongqiudi():
                         "url": item.get("share_url", ""),
                         "hot": item.get("total_replies", 0),
                     })
+            if topics:
+                return topics
     except Exception as e:
         print(f"  懂球帝接口2失败: {e}")
+    
+    # 方式3：首页网页抓取
+    try:
+        html = fetch_html("https://www.dongqiudi.com/", timeout=10)
+        if html:
+            matches = re.findall(r'<a[^>]*href="/article/[^"]*"[^>]*>([^<<]{10,100})</a>', html)
+            for title in matches[:20]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://www.dongqiudi.com/",
+                        "hot": "",
+                    })
+    except Exception as e:
+        print(f"  懂球帝首页失败: {e}")
     
     return topics
 
@@ -315,9 +435,9 @@ def fetch_migu():
         html = fetch_html("https://www.miguvideo.com/p/home", timeout=10)
         if html:
             patterns = [
-                r'title=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
-                r'alt=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
-                r'<h[1-6][^>]*>([^<<]*?(?:' + wc_keywords + r')[^<<]*)</h[1-6]>',
+                r"title=[\"\\']([^\"\\']*?(?:" + wc_keywords + r")[^\"\\']*)[\"\\']",
+                r"alt=[\"\\']([^\"\\']*?(?:" + wc_keywords + r")[^\"\\']*)[\"\\']",
+                r"<h[1-6][^>]*>([^<<]*?(?:" + wc_keywords + r")[^<<]*)</h[1-6]>",
             ]
             for pattern in patterns:
                 matches = re.findall(pattern, html, re.IGNORECASE)
@@ -335,7 +455,7 @@ def fetch_migu():
     try:
         html = fetch_html("https://www.miguvideo.com/p/channel/10010000008", timeout=10)
         if html:
-            titles = re.findall(r'<[^>]*title=["\']([^"\']+)["\'][^>]*>', html)
+            titles = re.findall(r'<[^>]*title=[\"\\']([^\"\\']+)[\"\\'][^>]*>', html)
             for title in titles[:15]:
                 if is_world_cup_related(title):
                     topics.append({
@@ -392,31 +512,31 @@ def fetch_netease():
 
 
 def fetch_tencent():
-    """腾讯新闻体育内容"""
+    """腾讯新闻体育内容（多URL尝试）"""
     topics = []
-    try:
-        html = fetch_html("https://new.qq.com/ch/sports/", timeout=10)
-        if html:
-            matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
-            for title in matches[:30]:
-                clean = re.sub(r'<[^>]+>', '', title).strip()
-                if clean and is_world_cup_related(clean):
-                    topics.append({
-                        "title": clean,
-                        "url": "https://new.qq.com/ch/sports/",
-                        "hot": "",
-                    })
-            if not topics:
-                matches = re.findall(r'title=["\']([^"\']*?(?:世界杯|世预赛|梅西|姆巴佩|C罗|内马尔)[^"\']*)["\']', html, re.IGNORECASE)
-                for title in matches[:15]:
-                    if is_world_cup_related(title):
+    
+    urls = [
+        "https://new.qq.com/ch/sports/",
+        "https://sports.qq.com/",
+    ]
+    
+    for url in urls:
+        try:
+            html = fetch_html(url, timeout=10)
+            if html:
+                matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
+                for title in matches[:30]:
+                    clean = re.sub(r'<[^>]+>', '', title).strip()
+                    if clean and is_world_cup_related(clean):
                         topics.append({
-                            "title": title,
-                            "url": "https://new.qq.com/ch/sports/",
+                            "title": clean,
+                            "url": url,
                             "hot": "",
                         })
-    except Exception as e:
-        print(f"  腾讯新闻抓取失败: {e}")
+                if topics:
+                    break
+        except Exception as e:
+            print(f"  腾讯 {url} 失败: {e}")
     
     seen = set()
     unique = []
