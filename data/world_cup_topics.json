@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-09 17:22:06",
+  "update_time": "2026-06-09 17:33:53",
   "sources": {
     "微博": {
       "topics": [
@@ -29,14 +29,9 @@
           "title": "管泽元对线世界杯主裁马宁",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E7%BA%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E9%A9%AC%E5%AE%81",
           "hot": 0
-        },
-        {
-          "title": "西班牙世界杯阵容解析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B5%E5%AE%B9%E8%A7%A3%E6%9E%90",
-          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -49,7 +44,7 @@
         {
           "title": "中国男足将迎战泰国",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E6%B3%B0%E5%9B%BD",
-          "hot": "1151.6万"
+          "hot": "1152.1万"
         },
         {
           "title": "中国足球小将抵达巴西参赛",
@@ -57,23 +52,79 @@
           "hot": "781.9万"
         },
         {
+          "title": "葡萄牙总统为C罗授旗",
+          "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%BB%9F%E4%B8%BAC%E7%BD%97%E6%8E%88%E6%97%97",
+          "hot": "770.3万"
+        },
+        {
           "title": "陪青春里的C罗再战一次",
           "url": "https://www.douyin.com/search/%E9%99%AA%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84C%E7%BD%97%E5%86%8D%E6%88%98%E4%B8%80%E6%AC%A1",
-          "hot": "768.4万"
+          "hot": "767.2万"
         },
         {
           "title": "世界杯应援妆轻松get",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
-          "hot": "764.5万"
+          "hot": "764.7万"
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "美加墨黑马盘点：挪威、墨西哥、塞内加尔、日本力争新突破",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "C罗训练中与队友搞怪互动，做出“竖中指”手势逗笑对方",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "8名球员参加世界杯，利物浦官方网站发布观赛指南",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼联跟队：否认阿根廷跟队有关罗梅罗的报道，完全没有兴趣",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "德体育一台：马宁成世界杯顶流，“卡牌大师”两周涨粉20万",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "蹲美加墨世界杯的来唠！原来这些经典战术都是世界杯整出来的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "太好笑了 我魔完全不像帮抬价罗梅罗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA：若巴萨无法签下小蜘蛛或其他目标，可能亚马尔会改中场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]皇马想试探恩佐是否咬死1.2亿镑；切尔西卖库库更想卖给海外",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马最准跟队GuillermoRai_：马德里竞技完全无意放走胡利安·阿尔瓦雷斯，拒绝让他加盟皇家马德里。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 10,
+      "status": "success"
     },
     "懂球帝": {
       "topics": [],
@@ -93,57 +144,37 @@
     "网易": {
       "topics": [
         {
-          "title": "劳塔罗传射，梅西伤缺，阿根廷友谊赛2比0战胜洪都拉斯",
-          "url": "https://sports.163.com/",
+          "title": "奥利塞离场时超过10秒触犯国际足联新规，科内被迫延迟入场",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "去年非洲最佳裁判！世界杯裁判被美国禁止入境，国际足联保持沉默",
-          "url": "https://sports.163.com/",
+          "title": "法国锋线最弱1环？27岁姆巴佩6射0正+2次吐饼 携3场球荒赴世界杯",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "本届世界杯最老球员，43岁迎来首秀",
-          "url": "https://sports.163.com/",
+          "title": "索马里裁判入境美国遭拒，无缘执法世界杯！",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "3-1！法国派最强阵完胜世界第70 拜仁1.5亿飞翼戴帽 姆巴佩失单刀",
-          "url": "https://sports.163.com/",
+          "title": "英格兰世界杯基地遭6.1级地震 佛州多地建筑物摇晃",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "西班牙3-1秘鲁，佩德里、奥亚萨瓦尔建功，皮诺造乌龙",
-          "url": "https://sports.163.com/",
+          "title": "若塔遗孀致信罗伯逊：带着他的梦去世界杯",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯48强巡礼之哥伦比亚：阵容齐整，向着更高目标发起冲击",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
-          "title": "1443万欧vs643万欧，国足大名单球员身价超泰国队一倍以上",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
-          "title": "普利希奇：美国队梦想闯进世界杯决赛并夺冠",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
-          "title": "国足上次战泰国还是在世预赛第二阶段，拜合拉木打进扳平进球",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：曼联今夏并不打算买中卫，和罗梅罗没有任何联系",
-          "url": "https://sports.163.com/",
+          "title": "伊朗队戴特殊徽章，参加世界杯",
+          "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 6,
       "status": "success"
     },
     "腾讯": {
