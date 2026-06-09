@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 2026 世界杯话题热榜爬虫
-聚合微博、百度、B站、知乎、抖音、虎扑、懂球帝、小红书、咪咕等平台
+聚合微博、百度、B站、知乎、抖音、虎扑、懂球帝、小红书、咪咕、网易、腾讯等平台
 """
 import sys
 import os
 import urllib.parse
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from utils import fetch_json, fetch_html, is_world_cup_related, save_data
@@ -17,19 +17,12 @@ from utils import fetch_json, fetch_html, is_world_cup_related, save_data
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(BASE_DIR, "data", "world_cup_topics.json")
 
-# ============================================================
 # 小红书 Cookie 配置（支持 GitHub Secrets）
-# ============================================================
-# 方式1：GitHub Secrets（推荐，安全）
-#   在仓库 Settings -> Secrets -> Actions 中添加 XIAOHONGSHU_COOKIE
-#   GitHub Actions 会自动通过环境变量传入
-#
-# 方式2：本地环境变量
-#   export XIAOHONGSHU_COOKIE="你的Cookie"
-#
-# 方式3：直接修改下方默认值（不推荐，会暴露Cookie）
-# ============================================================
 XIAOHONGSHU_COOKIE = os.environ.get("XIAOHONGSHU_COOKIE", "")
+
+# 获取北京时间
+def get_beijing_time():
+    return datetime.now(timezone(timedelta(hours=8)))
 
 
 # ============================================================
@@ -126,8 +119,10 @@ def fetch_zhihu():
 
 
 def fetch_douyin():
-    """抖音热搜"""
+    """抖音热搜（官方接口 + 备用第三方接口）"""
     topics = []
+    
+    # 方式1：官方接口
     try:
         data = fetch_json("https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -142,14 +137,34 @@ def fetch_douyin():
                         "url": f"https://www.douyin.com/search/{urllib.parse.quote(title)}",
                         "hot": item.get("hot_value", 0),
                     })
+            if topics:
+                return topics
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"  抖音官方接口失败: {e}")
+    
+    # 方式2：备用第三方接口
+    try:
+        data = fetch_json("https://dabenshi.cn/other/api/hot.php?type=douyinhot", timeout=10)
+        if isinstance(data, dict) and data.get("data"):
+            for item in data["data"]:
+                title = item.get("title", "")
+                if is_world_cup_related(title):
+                    topics.append({
+                        "title": title,
+                        "url": item.get("url", ""),
+                        "hot": item.get("hot", ""),
+                    })
+    except Exception as e:
+        print(f"  抖音备用接口失败: {e}")
+    
     return topics
 
 
 def fetch_hupu():
-    """虎扑热帖"""
+    """虎扑热帖（API + 网页端备用）"""
     topics = []
+    
+    # 方式1：API
     try:
         data = fetch_json("https://bbs.hupu.com/api/v1/all-gambia?limit=50", headers={
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
@@ -165,14 +180,35 @@ def fetch_hupu():
                         "hot": item.get("replies", 0),
                         "author": item.get("user", {}).get("name", ""),
                     })
+            if topics:
+                return topics
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"  虎扑API失败: {e}")
+    
+    # 方式2：网页端抓取热帖
+    try:
+        html = fetch_html("https://bbs.hupu.com/all-gambia", timeout=10)
+        if html:
+            matches = re.findall(r'<a[^>]*class="post-title"[^>]*>([^<<]+)</a>', html)
+            for title in matches[:20]:
+                clean = title.strip()
+                if is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://bbs.hupu.com/all-gambia",
+                        "hot": "",
+                    })
+    except Exception as e:
+        print(f"  虎扑网页端失败: {e}")
+    
     return topics
 
 
 def fetch_dongqiudi():
-    """懂球帝热帖"""
+    """懂球帝热帖（多接口尝试）"""
     topics = []
+    
+    # 方式1：原接口
     try:
         data = fetch_json("https://www.dongqiudi.com/api/app/tabs/web/56", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -187,8 +223,29 @@ def fetch_dongqiudi():
                         "url": item.get("url", ""),
                         "hot": item.get("total_replies", 0),
                     })
+            if topics:
+                return topics
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"  懂球帝接口1失败: {e}")
+    
+    # 方式2：备用接口
+    try:
+        data = fetch_json("https://www.dongqiudi.com/api/v2/article/recommend?page=1", headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://www.dongqiudi.com/",
+        })
+        if isinstance(data, dict) and data.get("data"):
+            for item in data["data"]:
+                title = item.get("title", "")
+                if is_world_cup_related(title):
+                    topics.append({
+                        "title": title,
+                        "url": item.get("share_url", ""),
+                        "hot": item.get("total_replies", 0),
+                    })
+    except Exception as e:
+        print(f"  懂球帝接口2失败: {e}")
+    
     return topics
 
 
@@ -197,7 +254,6 @@ def fetch_xiaohongshu():
     topics = []
     if not XIAOHONGSHU_COOKIE:
         print("  小红书: 未配置 Cookie，跳过")
-        print("  提示: 在 GitHub Secrets 中添加 XIAOHONGSHU_COOKIE")
         return topics
 
     # 方式1：搜索热词
@@ -256,10 +312,8 @@ def fetch_migu():
     topics = []
     wc_keywords = "世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰"
     try:
-        # 抓取咪咕体育首页
         html = fetch_html("https://www.miguvideo.com/p/home", timeout=10)
         if html:
-            # 提取标题（多种模式）—— 用双引号包裹避免单引号冲突
             patterns = [
                 r'title=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
                 r'alt=["\']([^"\']*?(?:' + wc_keywords + r')[^"\']*)["\']',
@@ -278,7 +332,6 @@ def fetch_migu():
     except Exception as e:
         print(f"  咪咕首页抓取失败: {e}")
 
-    # 抓取咪咕体育频道
     try:
         html = fetch_html("https://www.miguvideo.com/p/channel/10010000008", timeout=10)
         if html:
@@ -293,7 +346,78 @@ def fetch_migu():
     except Exception as e:
         print(f"  咪咕体育频道抓取失败: {e}")
 
-    # 去重
+    seen = set()
+    unique = []
+    for t in topics:
+        if t["title"] and t["title"] not in seen:
+            seen.add(t["title"])
+            unique.append(t)
+    return unique
+
+
+def fetch_netease():
+    """网易体育世界杯内容"""
+    topics = []
+    try:
+        html = fetch_html("https://sports.163.com/", timeout=10)
+        if html:
+            matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
+            for title in matches[:30]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://sports.163.com/",
+                        "hot": "",
+                    })
+            if not topics:
+                matches = re.findall(r'title=["\']([^"\']*?(?:世界杯|世预赛|梅西|姆巴佩|C罗|内马尔)[^"\']*)["\']', html, re.IGNORECASE)
+                for title in matches[:15]:
+                    if is_world_cup_related(title):
+                        topics.append({
+                            "title": title,
+                            "url": "https://sports.163.com/",
+                            "hot": "",
+                        })
+    except Exception as e:
+        print(f"  网易体育抓取失败: {e}")
+    
+    seen = set()
+    unique = []
+    for t in topics:
+        if t["title"] and t["title"] not in seen:
+            seen.add(t["title"])
+            unique.append(t)
+    return unique
+
+
+def fetch_tencent():
+    """腾讯新闻体育内容"""
+    topics = []
+    try:
+        html = fetch_html("https://new.qq.com/ch/sports/", timeout=10)
+        if html:
+            matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
+            for title in matches[:30]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://new.qq.com/ch/sports/",
+                        "hot": "",
+                    })
+            if not topics:
+                matches = re.findall(r'title=["\']([^"\']*?(?:世界杯|世预赛|梅西|姆巴佩|C罗|内马尔)[^"\']*)["\']', html, re.IGNORECASE)
+                for title in matches[:15]:
+                    if is_world_cup_related(title):
+                        topics.append({
+                            "title": title,
+                            "url": "https://new.qq.com/ch/sports/",
+                            "hot": "",
+                        })
+    except Exception as e:
+        print(f"  腾讯新闻抓取失败: {e}")
+    
     seen = set()
     unique = []
     for t in topics:
@@ -305,10 +429,11 @@ def fetch_migu():
 
 def main():
     """主入口"""
-    print(f"开始抓取世界杯话题... {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    beijing_now = get_beijing_time()
+    print(f"开始抓取世界杯话题... {beijing_now.strftime('%Y-%m-%d %H:%M:%S')}")
 
     all_data = {
-        "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "update_time": beijing_now.strftime("%Y-%m-%d %H:%M:%S"),
         "sources": {}
     }
 
@@ -322,6 +447,8 @@ def main():
         "懂球帝": fetch_dongqiudi,
         "小红书": fetch_xiaohongshu,
         "咪咕": fetch_migu,
+        "网易": fetch_netease,
+        "腾讯": fetch_tencent,
     }
 
     for name, fetcher in fetchers.items():
