@@ -512,7 +512,7 @@ def fetch_netease():
 
 
 def fetch_tencent():
-    """腾讯新闻体育内容（多URL尝试）"""
+    """腾讯新闻体育内容（多URL尝试，简化正则避免语法错误）"""
     topics = []
     
     urls = [
@@ -524,7 +524,8 @@ def fetch_tencent():
         try:
             html = fetch_html(url, timeout=10)
             if html:
-                matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
+                # 简化正则：直接提取所有链接文本，然后过滤
+                matches = re.findall(r'<a[^>]*>([^<<]{10,80})</a>', html)
                 for title in matches[:30]:
                     clean = re.sub(r'<[^>]+>', '', title).strip()
                     if clean and is_world_cup_related(clean):
@@ -545,7 +546,6 @@ def fetch_tencent():
             seen.add(t["title"])
             unique.append(t)
     return unique
-
 
 def main():
     """主入口"""
