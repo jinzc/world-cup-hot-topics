@@ -428,38 +428,33 @@ def fetch_xiaohongshu():
 
 
 def fetch_migu():
-    """咪咕体育推荐内容（网页端抓取）"""
+    """咪咕体育推荐内容（网页端抓取，简化正则避免语法错误）"""
     topics = []
-    wc_keywords = "世界杯|世预赛|足球|体育|梅西|姆巴佩|C罗|内马尔|阿根廷|巴西|德国|法国|西班牙|英格兰"
     try:
         html = fetch_html("https://www.miguvideo.com/p/home", timeout=10)
         if html:
-            patterns = [
-                r"title=[\"\\']([^\"\\']*?(?:" + wc_keywords + r")[^\"\\']*)[\"\\']",
-                r"alt=[\"\\']([^\"\\']*?(?:" + wc_keywords + r")[^\"\\']*)[\"\\']",
-                r"<h[1-6][^>]*>([^<<]*?(?:" + wc_keywords + r")[^<<]*)</h[1-6]>",
-            ]
-            for pattern in patterns:
-                matches = re.findall(pattern, html, re.IGNORECASE)
-                for title in matches[:15]:
-                    clean_title = re.sub(r'<[^>]+>', '', title).strip()
-                    if clean_title and len(clean_title) > 5 and is_world_cup_related(clean_title):
-                        topics.append({
-                            "title": clean_title,
-                            "url": "https://www.miguvideo.com/p/home",
-                            "hot": "",
-                        })
+            # 简化提取：直接提取所有链接文本，然后过滤
+            matches = re.findall(r'<a[^>]*>([^<<]{10,80})</a>', html)
+            for title in matches[:30]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://www.miguvideo.com/p/home",
+                        "hot": "",
+                    })
     except Exception as e:
         print(f"  咪咕首页抓取失败: {e}")
 
     try:
         html = fetch_html("https://www.miguvideo.com/p/channel/10010000008", timeout=10)
         if html:
-            titles = re.findall(r'<[^>]*title=[\"\\']([^\"\\']+)[\"\\'][^>]*>', html)
-            for title in titles[:15]:
-                if is_world_cup_related(title):
+            matches = re.findall(r'<a[^>]*>([^<<]{10,80})</a>', html)
+            for title in matches[:30]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
                     topics.append({
-                        "title": title,
+                        "title": clean,
                         "url": "https://www.miguvideo.com/p/channel/10010000008",
                         "hot": "",
                     })
@@ -476,12 +471,13 @@ def fetch_migu():
 
 
 def fetch_netease():
-    """网易体育世界杯内容"""
+    """网易体育世界杯内容（简化正则避免语法错误）"""
     topics = []
     try:
         html = fetch_html("https://sports.163.com/", timeout=10)
         if html:
-            matches = re.findall(r'<a[^>]*href=["\'][^"\']*["\'][^>]*>([^<<]{10,80})</a>', html)
+            # 简化提取：直接提取所有链接文本，然后过滤
+            matches = re.findall(r'<a[^>]*>([^<<]{10,80})</a>', html)
             for title in matches[:30]:
                 clean = re.sub(r'<[^>]+>', '', title).strip()
                 if clean and is_world_cup_related(clean):
@@ -490,15 +486,6 @@ def fetch_netease():
                         "url": "https://sports.163.com/",
                         "hot": "",
                     })
-            if not topics:
-                matches = re.findall(r'title=["\']([^"\']*?(?:世界杯|世预赛|梅西|姆巴佩|C罗|内马尔)[^"\']*)["\']', html, re.IGNORECASE)
-                for title in matches[:15]:
-                    if is_world_cup_related(title):
-                        topics.append({
-                            "title": title,
-                            "url": "https://sports.163.com/",
-                            "hot": "",
-                        })
     except Exception as e:
         print(f"  网易体育抓取失败: {e}")
     
@@ -546,6 +533,7 @@ def fetch_tencent():
             seen.add(t["title"])
             unique.append(t)
     return unique
+
 
 def main():
     """主入口"""
