@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-09 13:12:39",
+  "update_time": "2026-06-09 17:22:06",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
           "hot": 0,
           "label": ""
         }
@@ -21,37 +21,22 @@
     "B站": {
       "topics": [
         {
-          "title": "NBA总决赛G3复盘",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
-          "hot": 0
-        },
-        {
-          "title": "高考联盟全球总决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%81%94%E7%9B%9F%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B",
-          "hot": 0
-        },
-        {
-          "title": "假如印度举办世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
-        {
-          "title": "G2晋级stage3",
-          "url": "https://search.bilibili.com/all?keyword=G2%E6%99%8B%E7%BA%A7stage3",
-          "hot": 0
-        },
-        {
           "title": "美加墨 我的家乡",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%20%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1",
           "hot": 0
         },
         {
-          "title": "奥利塞帽子戏法",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%88%A9%E5%A1%9E%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
+          "title": "管泽元对线世界杯主裁马宁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E7%BA%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E9%A9%AC%E5%AE%81",
+          "hot": 0
+        },
+        {
+          "title": "西班牙世界杯阵容解析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B5%E5%AE%B9%E8%A7%A3%E6%9E%90",
           "hot": 0
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -64,20 +49,25 @@
         {
           "title": "中国男足将迎战泰国",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E6%B3%B0%E5%9B%BD",
-          "hot": "868.8万"
+          "hot": "1151.6万"
         },
         {
-          "title": "看我用早茶拿捏哈兰德",
-          "url": "https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%94%A8%E6%97%A9%E8%8C%B6%E6%8B%BF%E6%8D%8F%E5%93%88%E5%85%B0%E5%BE%B7",
-          "hot": "766.6万"
+          "title": "中国足球小将抵达巴西参赛",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8A%B5%E8%BE%BE%E5%B7%B4%E8%A5%BF%E5%8F%82%E8%B5%9B",
+          "hot": "781.9万"
+        },
+        {
+          "title": "陪青春里的C罗再战一次",
+          "url": "https://www.douyin.com/search/%E9%99%AA%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84C%E7%BD%97%E5%86%8D%E6%88%98%E4%B8%80%E6%AC%A1",
+          "hot": "768.4万"
         },
         {
           "title": "世界杯应援妆轻松get",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
-          "hot": "764.7万"
+          "hot": "764.5万"
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
@@ -103,17 +93,7 @@
     "网易": {
       "topics": [
         {
-          "title": "法网捧杯！兹维列夫3-2科博利 首夺大满贯冠军",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
           "title": "劳塔罗传射，梅西伤缺，阿根廷友谊赛2比0战胜洪都拉斯",
-          "url": "https://sports.163.com/",
-          "hot": ""
-        },
-        {
-          "title": "首位05后大满贯！安德列娃夺法网女单冠军",
           "url": "https://sports.163.com/",
           "hot": ""
         },
@@ -123,7 +103,7 @@
           "hot": ""
         },
         {
-          "title": "曼努埃尔·诺伊尔带来积极消息——但仍有诸多疑问",
+          "title": "本届世界杯最老球员，43岁迎来首秀",
           "url": "https://sports.163.com/",
           "hot": ""
         },
@@ -138,32 +118,32 @@
           "hot": ""
         },
         {
-          "title": "本届世界杯最老球员，43岁迎来首秀",
+          "title": "世界杯48强巡礼之哥伦比亚：阵容齐整，向着更高目标发起冲击",
           "url": "https://sports.163.com/",
           "hot": ""
         },
         {
-          "title": "肖华：我也看足球我知道世界杯很火，但现在纽约人只关心NBA总决赛",
+          "title": "1443万欧vs643万欧，国足大名单球员身价超泰国队一倍以上",
           "url": "https://sports.163.com/",
           "hot": ""
         },
         {
-          "title": "NBA总决赛已铁定撞车世界杯，若打到G6将撞车阿根廷小组赛首轮",
+          "title": "普利希奇：美国队梦想闯进世界杯决赛并夺冠",
           "url": "https://sports.163.com/",
           "hot": ""
         },
         {
-          "title": "桑德兰公布季前赛赛程：7月26日战利物浦，7月31日战利兹联",
+          "title": "国足上次战泰国还是在世预赛第二阶段，拜合拉木打进扳平进球",
           "url": "https://sports.163.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷主场迎冰岛 10倍身价差能否复刻2018世界杯剧本",
+          "title": "记者：曼联今夏并不打算买中卫，和罗梅罗没有任何联系",
           "url": "https://sports.163.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
