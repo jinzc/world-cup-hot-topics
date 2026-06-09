@@ -225,10 +225,29 @@ def fetch_douyin():
 
 
 def fetch_hupu():
-    """虎扑热帖（API + 网页端多尝试）"""
+    """虎扑足球板块（soccer.hupu.com）"""
     topics = []
     
-    # 方式1：原API
+    # 方式1：足球板块首页
+    try:
+        html = fetch_html("https://soccer.hupu.com/", timeout=10)
+        if html:
+            # 提取新闻标题
+            matches = re.findall(r'<a[^>]*>([^<<]{10,100})</a>', html)
+            for title in matches[:30]:
+                clean = re.sub(r'<[^>]+>', '', title).strip()
+                if clean and is_world_cup_related(clean):
+                    topics.append({
+                        "title": clean,
+                        "url": "https://soccer.hupu.com/",
+                        "hot": "",
+                    })
+            if topics:
+                return topics
+    except Exception as e:
+        print(f"  虎扑足球板块首页失败: {e}")
+    
+    # 方式2：原API（保留作为备用）
     try:
         data = fetch_json("https://bbs.hupu.com/api/v1/all-gambia?limit=50", headers={
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
@@ -247,9 +266,9 @@ def fetch_hupu():
             if topics:
                 return topics
     except Exception as e:
-        print(f"  虎扑API1失败: {e}")
+        print(f"  虎扑API备用失败: {e}")
     
-    # 方式2：topic-web API
+    # 方式3：topic-web API
     try:
         data = fetch_json("https://bbs.hupu.com/api/v1/topic-web?limit=50", headers={
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
@@ -264,44 +283,8 @@ def fetch_hupu():
                         "url": item.get("url", ""),
                         "hot": item.get("replies", 0),
                     })
-            if topics:
-                return topics
     except Exception as e:
-        print(f"  虎扑API2失败: {e}")
-    
-    # 方式3：足球专区网页抓取
-    try:
-        html = fetch_html("https://bbs.hupu.com/soccer", timeout=10)
-        if html:
-            matches = re.findall(r'<a[^>]*class="post-title"[^>]*>([^<<]+)</a>', html)
-            for title in matches[:20]:
-                clean = title.strip()
-                if is_world_cup_related(clean):
-                    topics.append({
-                        "title": clean,
-                        "url": "https://bbs.hupu.com/soccer",
-                        "hot": "",
-                    })
-            if topics:
-                return topics
-    except Exception as e:
-        print(f"  虎扑足球专区失败: {e}")
-    
-    # 方式4：步行街网页抓取
-    try:
-        html = fetch_html("https://bbs.hupu.com/all-gambia", timeout=10)
-        if html:
-            matches = re.findall(r'<a[^>]*class="post-title"[^>]*>([^<<]+)</a>', html)
-            for title in matches[:20]:
-                clean = title.strip()
-                if is_world_cup_related(clean):
-                    topics.append({
-                        "title": clean,
-                        "url": "https://bbs.hupu.com/all-gambia",
-                        "hot": "",
-                    })
-    except Exception as e:
-        print(f"  虎扑步行街失败: {e}")
+        print(f"  虎扑topic-web失败: {e}")
     
     return topics
 
@@ -471,23 +454,34 @@ def fetch_migu():
 
 
 def fetch_netease():
-    """网易体育世界杯内容（简化正则避免语法错误）"""
+    """网易体育2026世界杯专区"""
     topics = []
     try:
-        html = fetch_html("https://sports.163.com/", timeout=10)
+        html = fetch_html("https://sports.163.com/worldcup2026/", timeout=10)
         if html:
-            # 简化提取：直接提取所有链接文本，然后过滤
-            matches = re.findall(r'<a[^>]*>([^<<]{10,80})</a>', html)
+            # 提取新闻标题
+            matches = re.findall(r'<a[^>]*>([^<<]{10,100})</a>', html)
             for title in matches[:30]:
                 clean = re.sub(r'<[^>]+>', '', title).strip()
                 if clean and is_world_cup_related(clean):
                     topics.append({
                         "title": clean,
-                        "url": "https://sports.163.com/",
+                        "url": "https://sports.163.com/worldcup2026/",
                         "hot": "",
                     })
+            # 如果上面没抓到，尝试提取h标签
+            if not topics:
+                matches = re.findall(r'<h[1-6][^>]*>([^<<]{10,100})</h[1-6]>', html)
+                for title in matches[:20]:
+                    clean = re.sub(r'<[^>]+>', '', title).strip()
+                    if clean and is_world_cup_related(clean):
+                        topics.append({
+                            "title": clean,
+                            "url": "https://sports.163.com/worldcup2026/",
+                            "hot": "",
+                        })
     except Exception as e:
-        print(f"  网易体育抓取失败: {e}")
+        print(f"  网易世界杯专区抓取失败: {e}")
     
     seen = set()
     unique = []
@@ -496,6 +490,7 @@ def fetch_netease():
             seen.add(t["title"])
             unique.append(t)
     return unique
+
 
 
 def fetch_tencent():
