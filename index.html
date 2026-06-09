@@ -179,7 +179,7 @@
             <h1>🏆 2026 世界杯话题热榜</h1>
             <div class="update-time" id="updateTime">加载中...</div>
         </header>
-
+        
         <div class="filters">
             <button class="filter-btn active" onclick="filterSource('all')">全部平台</button>
             <button class="filter-btn" onclick="filterSource('微博')">微博</button>
@@ -191,28 +191,32 @@
             <button class="filter-btn" onclick="filterSource('懂球帝')">懂球帝</button>
             <button class="filter-btn" onclick="filterSource('小红书')">小红书</button>
             <button class="filter-btn" onclick="filterSource('咪咕')">咪咕</button>
+            <button class="filter-btn" onclick="filterSource('网易')">网易</button>
+            <button class="filter-btn" onclick="filterSource('腾讯')">腾讯</button>
         </div>
-
+        
         <div class="loading" id="loading">正在加载数据...</div>
         <div class="grid" id="grid" style="display:none;"></div>
     </div>
-
+    
     <footer>
         <p>数据来源各平台公开接口 · 仅供学习交流使用</p>
-        <p>自动更新 · 每小时刷新</p>
+        <p>自动更新 · 每小时刷新（北京时间）</p>
     </footer>
 
     <script>
         let allData = null;
         let currentFilter = 'all';
-
+        
         const sourceIcons = {
             '微博': '🔥', '百度': '🔍', 'B站': '📺', '知乎': '❓',
-            '抖音': '🎵', '虎扑': '🏀', '懂球帝': '⚽', '小红书': '📕', '咪咕': '📡'
+            '抖音': '🎵', '虎扑': '🏀', '懂球帝': '⚽', '小红书': '📕',
+            '咪咕': '📡', '网易': '📰', '腾讯': '🐧'
         };
         const sourceColors = {
             '微博': '#e6162d', '百度': '#2932e1', 'B站': '#00a1d6', '知乎': '#0084ff',
-            '抖音': '#000000', '虎扑': '#c01e2f', '懂球帝': '#00b96b', '小红书': '#ff2442', '咪咕': '#0091ff'
+            '抖音': '#000000', '虎扑': '#c01e2f', '懂球帝': '#00b96b', '小红书': '#ff2442',
+            '咪咕': '#0091ff', '网易': '#d43c33', '腾讯': '#00a3ff'
         };
 
         async function loadData() {
@@ -228,21 +232,21 @@
                 console.error(e);
             }
         }
-
+        
         function renderGrid() {
             const grid = document.getElementById('grid');
             grid.innerHTML = '';
             const sources = currentFilter === 'all' ? Object.keys(allData.sources) : [currentFilter];
-
+            
             sources.forEach(sourceName => {
                 const sourceData = allData.sources[sourceName];
                 if (!sourceData) return;
-
+                
                 const column = document.createElement('div');
                 column.className = 'column';
                 const icon = sourceIcons[sourceName] || '📰';
                 const color = sourceColors[sourceName] || '#666';
-
+                
                 let topicsHtml = '';
                 if (sourceData.status.startsWith('error')) {
                     topicsHtml = `<div class="error-state">⚠️ 抓取失败：${sourceData.status}</div>`;
@@ -250,8 +254,8 @@
                     let hint = '';
                     if (sourceName === '小红书') {
                         hint = `<div class="config-hint">💡 小红书无公开API，需在 GitHub Secrets 中配置 Cookie。<br>仓库 Settings → Secrets → Actions → 添加 XIAOHONGSHU_COOKIE</div>`;
-                    } else if (sourceName === '咪咕') {
-                        hint = `<div class="config-hint">💡 咪咕无公开热榜API，通过网页端抓取，数据可能有限。</div>`;
+                    } else if (sourceName === '咪咕' || sourceName === '网易' || sourceName === '腾讯') {
+                        hint = `<div class="config-hint">💡 通过网页端抓取，数据可能有限。</div>`;
                     } else if (sourceName === '抖音') {
                         hint = `<div class="config-hint">💡 抖音接口可能受反爬限制，如遇失败可稍后重试。</div>`;
                     } else if (sourceName === '虎扑' || sourceName === '懂球帝') {
@@ -279,7 +283,7 @@
                     });
                     topicsHtml += '</ul>';
                 }
-
+                
                 column.innerHTML = `
                     <div class="column-header">
                         <div class="icon" style="background: ${color}20; color: ${color};">${icon}</div>
@@ -291,7 +295,7 @@
                 grid.appendChild(column);
             });
         }
-
+        
         function filterSource(source) {
             currentFilter = source;
             document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -302,7 +306,7 @@
             });
             renderGrid();
         }
-
+        
         loadData();
         setInterval(loadData, 300000); // 每5分钟自动刷新
     </script>
