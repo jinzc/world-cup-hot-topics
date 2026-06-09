@@ -2,46 +2,36 @@ import json
 import ssl
 import urllib.request
 
-# 世界杯关键词库（严格围绕世界杯，移除易误匹配的国家名单个词）
-WORLD_CUP_KEYWORDS = [
-    # 中文核心词（必须包含这些才认为是世界杯相关）
+# ============================================================
+# 世界杯关键词库（严格过滤，只保留核心词 + 顶级球星名）
+# ============================================================
+# 核心词：单独出现即认为是世界杯相关
+CORE_KEYWORDS = [
     "世界杯", "世预赛", "美加墨", "国足", "中国男足", "国足世预赛",
-    "中国vs", "vs中国", "出线", "晋级", "淘汰", "小组赛", "淘汰赛",
-    "1/8决赛", "1/4决赛", "半决赛", "决赛", "冠军", "金球奖", "金靴奖",
-    "VAR", "点球", "红牌", "黄牌", "越位", "进球", "绝杀", "扳平",
-    "逆转", "爆冷", "黑马", "死亡之组", "射手榜", "积分榜", "赛程",
-    "直播", "转播", "解说", "预测", "竞猜", "帽子戏法", "梅开二度",
-    "伤停补时", "加时赛", "点球大战", "揭幕战", "开幕", "闭幕式",
-    "大力神杯", "足联", "FIFA", "国际足联",
-    # 球星（知名世界杯球星，避免普通球员名误匹配）
-    "梅西", "姆巴佩", "C罗", "内马尔", "哈兰德", "贝林厄姆", "维尼修斯",
-    "德布劳内", "莱万", "凯恩", "孙兴慜", "三笘薰", "久保建英",
-    "莫德里奇", "亚马尔", "拉什福德", "萨卡", "贝林", "恩德里克",
-    "佩德里", "加维", "罗德里", "范戴克", "萨拉赫", "卢卡库",
-    "格列兹曼", "登贝莱", "萨利巴", "赖斯", "贝林厄姆",
+    "中国vs", "vs中国", "fifa world cup", "wc2026", "world cup 2026",
+    "2026 world cup", "大力神杯", "足联", "国际足联", "揭幕战",
+    "开幕式", "闭幕式", "诸神黄昏",
+]
+
+# 顶级球星名：单独出现即匹配（已确认参加2026世界杯或极大概率参加的顶级球星）
+STAR_KEYWORDS = [
+    "梅西", "姆巴佩", "C罗", "内马尔", "莫德里奇", "亚马尔",
+    "贝林厄姆", "维尼修斯", "德布劳内", "凯恩", "孙兴慜", "莱万",
     "马丁内斯", "大马丁", "迪马利亚", "阿尔瓦雷斯", "恩佐",
-    "琼阿梅尼", "卡马文加", "孔德", "于帕", "科纳特",
+    "佩德里", "加维", "罗德里", "萨卡", "拉什福德",
     "穆西亚拉", "维尔茨", "哈弗茨", "基米希", "诺伊尔",
     "罗德里戈", "米利唐", "马尔基尼奥斯", "阿利松", "埃德森",
     "奥塔门迪", "罗梅罗", "麦卡利斯特", "帕雷德斯", "德保罗",
-    "B费", "B席", "菲利克斯", "莱奥", "努诺", "门德斯",
-    "孙兴慜", "李刚仁", "金玟哉", "黄喜灿",
-    "久保建英", "三笘薰", "富安健洋", "远藤航",
-    "塔雷米", "阿兹蒙", "贾汉巴赫什",
-    # 英文核心词
-    "world cup", "worldcup", "wc2026", "fifa world cup", "group stage", "knockout",
-    "round of 16", "quarter final", "semi final", "final", "champion",
-    "golden ball", "golden boot", "var", "penalty", "red card", "yellow card",
-    "offside", "goal", "hat trick", "brace", "injury time", "extra time",
-    "penalty shootout", "opening match", "opening ceremony", "closing ceremony",
-    # 英文球星
-    "messi", "mbappe", "mbappé", "neymar", "ronaldo", "haaland", "bellingham", "vinicius",
-    "de bruyne", "lewandowski", "kane", "son heung-min", "mitoma", "kubo",
-    "modric", "lamine yamal", "rashford", "saka", "endrick",
-    "pedri", "gavi", "rodri", "van dijk", "salah", "lukaku",
-    "griezmann", "dembele", "saliba", "rice", "musiala",
-    "wirtz", "havertz", "kimmich", "neuer", "alisson", "ederson",
+    "B费", "B席", "菲利克斯", "莱奥", "李刚仁", "金玟哉",
+    "富安健洋", "远藤航", "塔雷米", "阿兹蒙",
+    "messi", "mbappe", "mbappé", "neymar", "ronaldo", "modric",
+    "lamine yamal", "bellingham", "vinicius", "de bruyne", "kane",
+    "son heung-min", "lewandowski", "martinez", "di maria", "alvarez",
+    "enzo", "pedri", "gavi", "rodri", "saka", "rashford",
+    "musiala", "wirtz", "havertz", "kimmich", "neuer", "alisson", "ederson",
 ]
+
+WORLD_CUP_KEYWORDS = CORE_KEYWORDS + STAR_KEYWORDS
 
 
 def is_world_cup_related(text):
