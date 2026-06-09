@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-09 17:59:24",
+  "update_time": "2026-06-09 20:48:25",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "伊朗开启世界杯史上最特殊参赛模式",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
+          "title": "国足vs泰国",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E6%B3%B0%E5%9B%BD",
           "hot": 0,
           "label": ""
         }
@@ -21,6 +21,16 @@
     "B站": {
       "topics": [
         {
+          "title": "美加墨世界杯前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E7%9E%BB",
+          "hot": 0
+        },
+        {
+          "title": "美加墨 我的家乡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%20%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1",
+          "hot": 0
+        },
+        {
           "title": "美加墨世界杯能赚多少钱",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1",
           "hot": 0
@@ -29,14 +39,9 @@
           "title": "詹俊评世界杯法国队",
           "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B3%95%E5%9B%BD%E9%98%9F",
           "hot": 0
-        },
-        {
-          "title": "美加墨 我的家乡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%20%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1",
-          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -47,78 +52,83 @@
     "抖音": {
       "topics": [
         {
-          "title": "中国男足将迎战泰国",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E6%B3%B0%E5%9B%BD",
-          "hot": "1122.4万"
-        },
-        {
           "title": "中国足球小将抵达巴西参赛",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%8A%B5%E8%BE%BE%E5%B7%B4%E8%A5%BF%E5%8F%82%E8%B5%9B",
-          "hot": "784.5万"
+          "hot": "920.4万"
         },
         {
           "title": "世界杯预言家已就位",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D",
-          "hot": "775.4万"
+          "hot": "837.6万"
+        },
+        {
+          "title": "葡萄牙总统为C罗授旗",
+          "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%BB%9F%E4%B8%BAC%E7%BD%97%E6%8E%88%E6%97%97",
+          "hot": "775.9万"
+        },
+        {
+          "title": "陪青春里的C罗再战一次",
+          "url": "https://www.douyin.com/search/%E9%99%AA%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84C%E7%BD%97%E5%86%8D%E6%88%98%E4%B8%80%E6%AC%A1",
+          "hot": "770.6万"
+        },
+        {
+          "title": "世界杯应援妆轻松get",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
+          "hot": "766.5万"
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "皇马名宿：姆巴佩是世界上最好前锋，他被批主要因场外行为",
+          "title": "库库雷利亚：这是我第一届世界杯，西班牙为何不梦想决赛呢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：巴萨不与皇马竞价签阿尔瓦雷斯，报价维持此前1亿不变",
+          "title": "米库：姆巴佩做不了内马尔，虽然我们不敢说但这却是事实",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "美加墨黑马盘点：挪威、墨西哥、塞内加尔、日本力争新突破",
+          "title": "跟队：内马尔最早对阵海地复出，其刻苦康复训练得全队赞誉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗训练中与队友搞怪互动，做出“竖中指”手势逗笑对方",
+          "title": "半场：U23国足2-0塔吉克斯坦U23，木塔力甫闪击",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "8名球员参加世界杯，利物浦官方网站发布观赛指南",
+          "title": "C罗训练中朝着队友“竖中指”，结果旁边的达洛特没绷住",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联跟队：否认阿根廷跟队有关罗梅罗的报道，完全没有兴趣",
+          "title": "姆巴佩赛前训练连续射门不进，之后特奥一脚兜射直挂死角",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷记者：曼联有意热刺队长罗梅罗，正在准备一份报价",
+          "title": "理查兹：基恩对B费没有任何意见，他只是不理解曼联标准下滑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "蹲美加墨世界杯的来唠！原来这些经典战术都是世界杯整出来的",
+          "title": "[流言板]每体：小蜘蛛希望巴萨低调处理转会，他需要全力征战世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名记：曼联与有意罗梅罗的传闻保持距离，买中卫不是首要目标",
+          "title": "[流言板]马卡：马竞承诺B席核心角色，希望复刻苏亚雷斯式转会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩是不是超重了，有了中锋的体重没中锋的功能啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "4球！姆巴佩是世界杯决赛历史上进球最多的球员！",
+          "title": "B席世界杯后定确实很麻烦,对巴萨不是刚需，属于长板加长，能来欢迎",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -128,12 +138,12 @@
           "hot": ""
         },
         {
-          "title": "[流言板]皇马想试探恩佐是否咬死1.2亿镑；切尔西卖库库更想卖给海外",
+          "title": "媲美C罗和齐达内的1.5亿球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
@@ -153,6 +163,11 @@
     },
     "网易": {
       "topics": [
+        {
+          "title": "争议？孙兴慜训练遭韩国记者群嘲：没服过兵役 跑步姿势却像排长",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
         {
           "title": "奥利塞离场时超过10秒触犯国际足联新规，科内被迫延迟入场",
           "url": "https://sports.163.com/worldcup2026/",
@@ -175,11 +190,6 @@
         },
         {
           "title": "若塔遗孀致信罗伯逊：带着他的梦去世界杯",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "伊朗队戴特殊徽章，参加世界杯",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
