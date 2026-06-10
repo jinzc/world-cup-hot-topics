@@ -1,28 +1,22 @@
 {
-  "update_time": "2026-06-10 10:14:21",
+  "update_time": "2026-06-10 12:26:38",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "梅西刚登场就破门",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%88%9A%E7%99%BB%E5%9C%BA%E5%B0%B1%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "皇马1.5亿欧报价阿尔瓦雷斯被拒",
-          "url": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC1.5%E4%BA%BF%E6%AC%A7%E6%8A%A5%E4%BB%B7%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E8%A2%AB%E6%8B%92",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯夺冠概率更新",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%9B%B4%E6%96%B0",
+          "title": "梅西点球破门",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -33,22 +27,17 @@
     "B站": {
       "topics": [
         {
+          "title": "关于世界杯的夏日记忆",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86",
+          "hot": 0
+        },
+        {
           "title": "中国足球小将将迎战巴西圣保罗",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%B0%86%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97",
           "hot": 0
-        },
-        {
-          "title": "皇马报价阿尔瓦雷斯被拒",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E6%8A%A5%E4%BB%B7%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E8%A2%AB%E6%8B%92",
-          "hot": 0
-        },
-        {
-          "title": "美加墨 我的家乡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%20%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1",
-          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -61,22 +50,22 @@
         {
           "title": "美加墨世界杯倒计时1天",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9",
-          "hot": "1139.9万"
-        },
-        {
-          "title": "美加墨世界杯十大巨星盘点",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%A4%A7%E5%B7%A8%E6%98%9F%E7%9B%98%E7%82%B9",
-          "hot": "1027.1万"
+          "hot": "1212.2万"
         },
         {
           "title": "世界杯预言家已就位",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D",
-          "hot": "917.2万"
+          "hot": "920.3万"
         },
         {
-          "title": "国足主场0:0战平泰国队",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA0%3A0%E6%88%98%E5%B9%B3%E6%B3%B0%E5%9B%BD%E9%98%9F",
-          "hot": "896.5万"
+          "title": "美加墨世界杯十大巨星盘点",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%A4%A7%E5%B7%A8%E6%98%9F%E7%9B%98%E7%82%B9",
+          "hot": "773.1万"
+        },
+        {
+          "title": "世界杯应援妆轻松get",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4%E5%A6%86%E8%BD%BB%E6%9D%BEget",
+          "hot": "767万"
         }
       ],
       "count": 4,
@@ -85,17 +74,72 @@
     "虎扑": {
       "topics": [
         {
-          "title": "内马尔：这显然是我最后一届世界杯，享受它成为特别的一次",
+          "title": "复出破门！梅西Ins：冲啊，比以往任何时候都更加团结",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "温格：亚马尔是球场艺术家；法国队完美结合身体+战术+意识",
+          "title": "38岁11个月14天！梅西刷新阿根廷国家队最年长进球纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为第六届世界杯蓄力！C罗晒葡萄牙训练照：一步一步来",
+          "title": "117球！梅西继续刷新阿根廷队史射手纪录，领先第二巴蒂63球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "法国是世界杯受高温影响第二大球队，球员难适应赛程+时差",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "座无虚席！梅西赛后赤膊向球迷致意，烟花点亮球场夜空",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆西亚拉：梅西内马尔控球能力超强，即使丢球他们依然自信",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "达利奇回击英媒：英格兰60年无世界杯奖牌，克罗地亚有3枚",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆西亚拉：和奥利塞在切尔西青训很快乐，他是世界最佳之一",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西策动反击，阿尔马达中路包抄破门，阿根廷3-0冰岛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "喊中场价格贵的可以看看恩佐 凯塞多转会什么价格",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看了阿根廷的友谊赛，感叹梅西还是厉害",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔瓦雷斯和格里兹曼谁更强？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]温格：亚马尔是球场艺术家；法国队完美结合身体+战术+意识",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2026美加墨世界杯｜巴萨球迷观赛指南",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -105,43 +149,68 @@
           "hot": ""
         },
         {
+          "title": "我有理由怀疑姆巴佩修改了年龄",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "温格：姆巴佩加盟了一支实力平平的队。皇马现在只有三四个世界级球员，以前可是有十个呢。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 17,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "官方：C罗的精彩倒钩破门当选25/26赛季沙特联最佳进球",
+          "title": "阿根廷3-0冰岛，梅西直塞造点+点射，巴尔科、阿尔马达破门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "小球迷请求哈弗茨回切尔西，后者笑答：你想得美",
+          "title": "懂球译站｜纽约客：因凡蒂诺的世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "斯基拉：尤文给大马丁开550万年薪，斑马军团想低价引进",
+          "title": "懂球帝世界杯系列海报：经典瞬间，片刻永恒",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯转会陷僵局：马竞寸步不让，皇马巴萨各有算盘",
+          "title": "阿根廷跟队：帕斯通过体能测试；大马丁将首发参加世界杯首战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "六台：阿尔瓦雷斯让巴萨放心，他只想去巴萨，不想去皇马",
+          "title": "阿根廷3-0冰岛，德保罗：梅西回归令人兴奋",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西下一次出场就将解锁阿根廷国家队200场里程碑",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卜拉欣-迪亚斯：如果摩洛哥赢下世界杯，我就直播唱歌",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "古德约翰森造访阿根廷更衣室，如愿收获梅西10号球衣",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西替补登场时，全场球迷起立欢呼",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
@@ -162,6 +231,16 @@
           "hot": ""
         },
         {
+          "title": "梅西又光膀子！和小古德交换球衣，冰岛球员集体追星，记者调侃",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "阿根廷3-0冰岛 梅西复出点射劳塔罗造点+中柱",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "2026世界杯，我们看什么？",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -178,11 +257,6 @@
         },
         {
           "title": "C罗晒世界杯备战训练照：一步一步来",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "争议？孙兴慜训练遭韩国记者群嘲：没服过兵役 跑步姿势却像排长",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -217,7 +291,7 @@
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 13,
       "status": "success"
     },
     "腾讯": {
