@@ -290,10 +290,36 @@ def fetch_hupu():
 
 
 def fetch_dongqiudi():
-    """懂球帝热帖（多接口 + 网页端）"""
+    """懂球帝热帖（优先首页抓取，API备用）"""
     topics = []
     
-    # 方式1：原接口
+    # 方式1：首页网页抓取（优先）
+    try:
+        html = fetch_html("https://www.dongqiudi.com/", timeout=10)
+        if html:
+            # 提取新闻标题（多种模式）
+            patterns = [
+                r'<a[^>]*href="/article/[^"]*"[^>]*>([^<<]{10,100})</a>',
+                r'<a[^>]*href="https://www.dongqiudi.com/articles/[^"]*"[^>]*>([^<<]{10,100})</a>',
+                r'<h[1-6][^>]*>([^<<]{10,100})</h[1-6]>',
+                r'<div[^>]*class="title"[^>]*>([^<<]{10,100})</div>',
+            ]
+            for pattern in patterns:
+                matches = re.findall(pattern, html)
+                for title in matches[:20]:
+                    clean = re.sub(r'<[^>]+>', '', title).strip()
+                    if clean and is_world_cup_related(clean):
+                        topics.append({
+                            "title": clean,
+                            "url": "https://www.dongqiudi.com/",
+                            "hot": "",
+                        })
+            if topics:
+                return topics
+    except Exception as e:
+        print(f"  懂球帝首页抓取失败: {e}")
+    
+    # 方式2：原API
     try:
         data = fetch_json("https://www.dongqiudi.com/api/app/tabs/web/56", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -311,9 +337,9 @@ def fetch_dongqiudi():
             if topics:
                 return topics
     except Exception as e:
-        print(f"  懂球帝接口1失败: {e}")
+        print(f"  懂球帝API1失败: {e}")
     
-    # 方式2：推荐文章接口
+    # 方式3：推荐文章接口
     try:
         data = fetch_json("https://www.dongqiudi.com/api/v2/article/recommend?page=1", headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -328,26 +354,8 @@ def fetch_dongqiudi():
                         "url": item.get("share_url", ""),
                         "hot": item.get("total_replies", 0),
                     })
-            if topics:
-                return topics
     except Exception as e:
-        print(f"  懂球帝接口2失败: {e}")
-    
-    # 方式3：首页网页抓取
-    try:
-        html = fetch_html("https://www.dongqiudi.com/", timeout=10)
-        if html:
-            matches = re.findall(r'<a[^>]*href="/article/[^"]*"[^>]*>([^<<]{10,100})</a>', html)
-            for title in matches[:20]:
-                clean = re.sub(r'<[^>]+>', '', title).strip()
-                if clean and is_world_cup_related(clean):
-                    topics.append({
-                        "title": clean,
-                        "url": "https://www.dongqiudi.com/",
-                        "hot": "",
-                    })
-    except Exception as e:
-        print(f"  懂球帝首页失败: {e}")
+        print(f"  懂球帝API2失败: {e}")
     
     return topics
 
