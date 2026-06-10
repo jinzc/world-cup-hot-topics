@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-11 03:42:13",
+  "update_time": "2026-06-11 06:12:17",
   "sources": {
     "微博": {
       "topics": [
@@ -10,14 +10,14 @@
           "label": ""
         },
         {
-          "title": "世界杯赛程",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B",
+          "title": "中国足球小将vs圣保罗",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%9C%A3%E4%BF%9D%E7%BD%97",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "中国足球小将vs圣保罗",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%9C%A3%E4%BF%9D%E7%BD%97",
+          "title": "世界杯赛程",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B",
           "hot": 0,
           "label": ""
         },
@@ -58,14 +58,9 @@
           "title": "世界杯巡礼之法国",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A1%E7%A4%BC%E4%B9%8B%E6%B3%95%E5%9B%BD",
           "hot": 0
-        },
-        {
-          "title": "关于世界杯的夏日记忆",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E5%A4%8F%E6%97%A5%E8%AE%B0%E5%BF%86",
-          "hot": 0
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -76,29 +71,29 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯你的唐梓回来了",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "1029.4万"
+          "title": "2026世界杯小组赛赛程",
+          "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%B5%9B%E7%A8%8B",
+          "hot": "1141.9万"
         },
         {
-          "title": "世界杯预言家已就位",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D",
-          "hot": "874.2万"
+          "title": "世界杯你的唐梓回来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "hot": "923.6万"
         },
         {
           "title": "梅西热身赛点射破门",
           "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8",
-          "hot": "826.6万"
+          "hot": "780.7万"
         },
         {
           "title": "起猛了无处不在的世界杯",
           "url": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "809.9万"
+          "hot": "772.8万"
         },
         {
           "title": "是谁还没有内马尔棉花娃娃",
           "url": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E8%BF%98%E6%B2%A1%E6%9C%89%E5%86%85%E9%A9%AC%E5%B0%94%E6%A3%89%E8%8A%B1%E5%A8%83%E5%A8%83",
-          "hot": "772.1万"
+          "hot": "766.3万"
         }
       ],
       "count": 5,
@@ -107,32 +102,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "从雷米特杯遗失到大力神杯传世，解锁世界杯奖杯的百年过往",
+          "title": "半场：葡萄牙1-1尼日利亚，内托破门，C罗失良机",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯开战在即！恩佐社媒发文：准备好为这身蓝白拼尽全力",
+          "title": "引争议！世界杯开幕前获准离营，姆巴佩被曝赴马德里见女友",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "从长传冲吊到精细传控，拆解世界杯跨越半世纪的战术进化史",
+          "title": "谢尔基晒出征照：行李中的拳套，姆巴佩打游戏，图拉姆睡觉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧足联公布新赛季欧冠赛程：资格赛7月开打，决赛在马竞主场",
+          "title": "距开赛不足24h！Opta最新世界杯夺冠预测：西班牙15.98%居首",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "OneFootball票选世界杯历史最佳阵：梅西、大罗、姆巴佩领衔",
+          "title": "英格兰vs哥斯达黎加首发：凯恩领衔，贝林、戈登、赖斯出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷官方发文致敬马拉多纳与梅西：从一颗星到另一颗星",
+          "title": "回归曼联！罗马诺：巴萨不会付3000万买断拉什福德，愿意再次租借",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -142,53 +137,28 @@
           "hot": ""
         },
         {
-          "title": "西媒：巴黎有意巴萨后卫孔德，希望在世界杯开启之前敲定交易",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：巴萨并没有向B席保证主力位置，球员因此开始犹豫",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：巴萨对B席十分不满，曾达成初步协议如今他又换了说法",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马球员国际友谊赛极简热线—贝林厄姆",
+          "title": "罗马诺：皇马不计划为阿尔瓦雷斯提出任何新报价。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "葡萄牙vs尼日利亚：C罗领衔，布鲁诺-费尔南德斯、内托出战",
+          "title": "葡萄牙2-1尼日利亚，内托、孔塞桑建功，C罗不在状态",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "莫雷托：最迟在世界杯开始前，米兰将完成选帅工作",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费：我们上届世界杯输给摩洛哥后憋着一口气，这次想复仇",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "距离世界杯开幕倒计时24小时！",
+          "title": "TA：特朗普目前没计划现场观看美国队本届世界杯首场比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
