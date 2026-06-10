@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-06-10 16:57:05",
+  "update_time": "2026-06-10 20:33:52",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "梅西赛后被冰岛球员围住了",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯揭幕战",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -21,13 +27,18 @@
     "B站": {
       "topics": [
         {
+          "title": "演员洪剑涛现场看世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%91%98%E6%B4%AA%E5%89%91%E6%B6%9B%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
           "title": "这届世界杯含梗量过多",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A",
           "hot": 0
         },
         {
-          "title": "演员洪剑涛现场看世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%91%98%E6%B4%AA%E5%89%91%E6%B6%9B%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "世界杯巡礼之法国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A1%E7%A4%BC%E4%B9%8B%E6%B3%95%E5%9B%BD",
           "hot": 0
         },
         {
@@ -36,7 +47,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -49,96 +60,106 @@
         {
           "title": "美加墨世界杯倒计时1天",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%80%92%E8%AE%A1%E6%97%B61%E5%A4%A9",
-          "hot": "1211.1万"
+          "hot": "1189.8万"
         },
         {
           "title": "全抖音寻找世界杯梗王",
           "url": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B",
-          "hot": "1109.5万"
+          "hot": "918.8万"
+        },
+        {
+          "title": "世界杯你的唐梓回来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "hot": "907万"
         },
         {
           "title": "梅西热身赛点射破门",
           "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E7%83%AD%E8%BA%AB%E8%B5%9B%E7%82%B9%E5%B0%84%E7%A0%B4%E9%97%A8",
-          "hot": "868.6万"
-        },
-        {
-          "title": "梅西赛后被冰岛球员围住要球衣",
-          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E8%A6%81%E7%90%83%E8%A1%A3",
-          "hot": "780万"
+          "hot": "891.5万"
         },
         {
           "title": "世界杯预言家已就位",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E5%B0%B1%E4%BD%8D",
-          "hot": "776万"
-        },
-        {
-          "title": "起猛了无处不在的世界杯",
-          "url": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "774.1万"
+          "hot": "824.8万"
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "韦霍斯特：难忘22年世界杯对阿根廷双响，那是生涯巅峰体验",
+          "title": "桑德罗：曼联3800万签埃德森算捡漏了，他绝对是中场节拍器",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "必须给大侄子留件！小古德约翰森披着梅西球衣从更衣室走出",
+          "title": "群星齐聚的世界杯真有那么完美？拆解盛会背后的重重问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "北青：国足基本放弃参加东盟杯，乌兹、塔吉克或9月来华热身",
+          "title": "梅里诺：差点因伤错过世界杯，如今更加珍惜首次参赛的机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西赛后谈与小古德约翰森交流：小时候见过，但真没认出来",
+          "title": "莫雷托：李刚仁想去马竞；切尔西标价库库5000万&amp;马竞称偏高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰巴西葡萄牙能否破咒？世界杯历史从无外籍主帅夺冠",
+          "title": "莫雷托：B席现在改主意了，他优先考虑加盟马竞而不是巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "滕哈格：荷兰有能力世界杯夺魁；廷贝尔伤缺确实对他太残酷",
+          "title": "2010年的章鱼保罗将以AI形式回归，用以预测世界杯比赛结果",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：穆里尼奥7月13日起执教球队，未参加世界杯球员需报到",
+          "title": "德国杯决赛上演帽子戏法，拜仁官方：凯恩当选5月队内最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯场馆容量榜：AT&amp;T体育场9万4居首，阿兹特克球场第二",
+          "title": "李刚仁：年少立下的3个目标已完成2个，仅剩在国家队出成绩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：小蜘蛛希望巴萨低调处理转会，他需要全力征战世界杯",
+          "title": "理智引援！BBC：曼联不会为安德森卷入竞价战，莱万工资可能极高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看阿根廷比赛  恩佐就是高级货  而且是唯一可能能买到的大牌",
+          "title": "莫雷托：西蒙尼小蜘蛛关系并不好 拉什福德不会买断但可能再次引进",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我有理由怀疑姆巴佩修改了年龄",
+          "title": "每体：巴萨并没有向B席保证主力位置，球员因此开始犹豫",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "称自己还有其他选择！每体：巴萨很愤怒B席言论，不会再参与竞争",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "神烦这些蓝白，天天就恩佐恩佐",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]温格：姆巴佩世界杯一定大放异彩；他遭遇不公是皇马替罪羊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
@@ -149,67 +170,32 @@
           "hot": ""
         },
         {
-          "title": "懂球译站｜纽约客：因凡蒂诺的世界杯",
+          "title": "世界杯裁判巡礼亚洲篇：法加尼领衔，马宁冲击世界杯执哨",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯48强巡礼之英格兰：九子离宫储位定，三狮出阵问金瓯",
+          "title": "每体：英格兰围绕凯恩备战世界杯，帕尔默和福登落选引争议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亚足联官方：海港参加26/27赛季亚冠精英，申花参加亚冠二",
+          "title": "世界杯48强巡礼之约旦：中东“侠士”的首次亮剑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：新泽西将提供770张世界杯免费票",
+          "title": "FIFA官网：2026世界杯将有1248名球员参赛，刷新历史纪录",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "贝尼特斯：这支西班牙能成大事；十分意外皇马报价阿尔瓦雷斯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "外媒：摩根-罗杰斯称年少以C罗为偶像；曼联有意签下他",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：巴塞罗那不会支付3000万欧元买断拉什福德，球员将回归曼联",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德保罗：阿根廷是夺冠热门很正常，我们会尽全力甚至付出更多",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "海地队世界杯球衣印有波兰国旗，以此纪念两国百年深厚友谊",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德尚：世界杯前不会决定未来去向；姆巴佩担任着领导作用",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "北青：国足放弃东盟杯成定局，将在9到10月举办多支球队的邀请赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：马丁内斯与尤文达原则协议，薪资要价仍可能拖长谈判",
+          "title": "布拉特批评美拒世界杯裁判入境：这太离谱、太荒唐了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
