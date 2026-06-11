@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-06-11 08:23:52",
+  "update_time": "2026-06-11 13:58:53",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "五粮液喊大咖来预测世界杯冠军",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%96%8A%E5%A4%A7%E5%92%96%E6%9D%A5%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗两次错失单刀",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%A4%E6%AC%A1%E9%94%99%E5%A4%B1%E5%8D%95%E5%88%80",
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         }
@@ -27,13 +27,13 @@
     "B站": {
       "topics": [
         {
-          "title": "索马里籍世界杯裁判被美国遣返",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E9%A9%AC%E9%87%8C%E7%B1%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94",
+          "title": "解析C罗如何影响葡萄牙队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90C%E7%BD%97%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F",
           "hot": 0
         },
         {
-          "title": "这届世界杯含梗量过多",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%AB%E6%A2%97%E9%87%8F%E8%BF%87%E5%A4%9A",
+          "title": "管泽元世界杯预测",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
           "hot": 0
         }
       ],
@@ -48,179 +48,109 @@
     "抖音": {
       "topics": [
         {
+          "title": "盘一盘这届世界杯跟中国的关系",
+          "url": "https://www.douyin.com/search/%E7%9B%98%E4%B8%80%E7%9B%98%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB",
+          "hot": "771.8万"
+        },
+        {
           "title": "2026世界杯小组赛赛程",
           "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%B5%9B%E7%A8%8B",
-          "hot": "1171.3万"
+          "hot": "770.3万"
         },
         {
           "title": "世界杯你的唐梓回来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "1040.7万"
-        },
-        {
-          "title": "全抖音寻找世界杯梗王",
-          "url": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E5%AF%BB%E6%89%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%A2%97%E7%8E%8B",
-          "hot": "867.9万"
-        },
-        {
-          "title": "亚马尔称若西班牙夺冠将蓄须",
-          "url": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%A7%B0%E8%8B%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%B0%86%E8%93%84%E9%A1%BB",
-          "hot": "776.8万"
+          "hot": "769.7万"
         },
         {
           "title": "乐评甲亢哥世界杯主题曲",
           "url": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
-          "hot": "771.9万"
-        },
-        {
-          "title": "起猛了无处不在的世界杯",
-          "url": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "768.1万"
+          "hot": "768.2万"
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "捷克主帅：孙兴慜是传奇前锋，相信能防住他；高原只能接受",
+          "title": "阿斯：穆帅坚持要皇马引进B席，他欣赏后者的团队意识",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "范志毅谈防守梅西：千万别让他正面冲你，要防他只能在梦里",
+          "title": "马德兴：从我98年采访世界杯开始，这届体验感是最***的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺：不后悔在美办世界杯；票价贵？那NBA总决赛更贵呢",
+          "title": "波切蒂诺：特朗普问美国能否拿世界杯，我若说不就该被换掉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孙兴慜：还配不上洛杉矶球迷的厚爱；从未说过这是最后一届",
+          "title": "波切蒂诺：离开切尔西我以为要错过世界杯，但美国等队要我",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "美国务卿卢比奥出席美国队世界杯揭幕战，特朗普预计将缺席",
+          "title": "为世界杯开幕式做最后准备：夏奇拉彩排，海耶克熟悉场地",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔电台：专家提醒，2026年世界杯上操纵黄牌现象恐大增",
+          "title": "世界杯揭幕战二手票价飙升，最便宜的门票也达到2.7万人民币",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：西班牙成功晋级1/4决赛后，球员才能获世界杯奖金分配",
+          "title": "安切洛蒂在今天的训练中测试了埃德森作为右后卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆勒：C罗仍有终结能力，但防守端只有10.5人；仍难防守梅西",
+          "title": "罗马诺:巴萨将不会支付拉什福德的买断条款",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "尼科能否踢西班牙世界杯首场存疑，毕包称对他治疗策略错了",
+          "title": "巴萨和弗里克，没有真正认清B席的价值！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：若大马丁离队，日本国门铃木彩艳是维拉的目标之一",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "觉得墨西哥的莫拉不错，有点b费的感觉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "回归曼联！罗马诺：巴萨不会付3000万买断拉什福德，愿意再次租借",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：巴萨对B席十分不满，曾达成初步协议如今他又换了说法",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿尔瓦雷斯和格里兹曼谁更强？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "登贝莱是足坛司马懿，他让姆巴佩走进死胡同",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]塞尔：B席首选马竞而非巴萨，但穆帅介入恐影响其最终选择",
+          "title": "[流言板]阿斯：穆帅坚持要皇马引进B席，他欣赏后者的团队意识",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 16,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "葡萄牙2-1尼日利亚，内托、孔塞桑建功，C罗不在状态",
+          "title": "西吉斯蒙迪杯不是“小世界杯”，别急着喊“弯道超车”",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "尼日利亚后卫奥涅梅奇获得C罗球衣：梦想成真！🐐",
+          "title": "马特乌斯：梅西对国家队比赛的影响力大于C罗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "C罗：准备完毕，目标世界杯",
+          "title": "马特乌斯：欧洲国家将赢得美加墨世界杯冠军",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿吉雷：墨西哥7次踢世界杯揭幕战从来没赢过？那必须打破它",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "奥乔亚：六战世界杯的确不可思议；世界杯后100%从国家队退役",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：阿尔瓦雷斯对未来保持缄默，无意谈论去留",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "小孔塞桑：世界杯前我们要找到理想默契，还有几天时间能训练",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "希勒：戈登与拉什福德之间的竞争或影响英格兰队表现",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "亨利：法国是世界杯头号竞争者，替补席是优势",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马丁内斯：我们没有固定首发11人，这两场热身赛都让我满意",
+          "title": "阿斯：穆帅看中B席的领袖气质和求胜欲，可成为皇马精神标杆",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
@@ -236,37 +166,52 @@
     "网易": {
       "topics": [
         {
-          "title": "梅西赛后发声：我们比以往任何时候都更加团结",
+          "title": "巴萨8000万新援传射，英格兰3-0哥斯达黎加，世界杯首战克罗地亚",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "阿根廷3-0冰岛 梅西复出点射劳塔罗造点+中柱",
+          "title": "葡萄牙主帅暗示41岁C罗将首发踢世界杯：让他踢60分钟很重要",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯金靴赔率：姆巴佩最热门，凯恩次席",
+          "title": "世界杯开幕式：2天3国3场！致敬贝利马拉多纳 夏奇拉水果姐献唱",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "阿根廷球星梅西受球迷热捧，友谊赛进球再创历史纪录",
+          "title": "世界杯揭幕战前瞻！墨西哥誓破96年魔咒，南非或捍卫非洲荣耀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "梅西又光膀子！和小古德交换球衣，冰岛球员集体追星，记者调侃",
+          "title": "太离谱！41岁C罗巨大低迷：40分钟2次错失单刀 队友抱头不敢相信",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "2026世界杯，我们看什么？",
+          "title": "穆勒：梅罗还在踢世界杯让我心动，但让我复出完全是胡扯",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯夺冠赔率更新：西班牙领跑 葡萄牙反超阿根廷",
+          "title": "法国队启程出征世界杯，奥利赛骑摩托车到机场报到",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "英格兰世界杯热身 多个首发仍待敲定",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "孙兴慜：我从未断言这是我的最后一届世界杯",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "混乱世界杯谁来担责？因凡蒂诺：冷静放松，我们只是个体育组织",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -274,34 +219,9 @@
           "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "维护草坪质量，图片报：德国足协带了专职草坪养护师去美国",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "欧文：英格兰队有十分强大的阵容，能在本届世界杯中走得很远",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "RMC：墨西哥抗议活动升级，世界杯揭幕战球场入口遭示威者封锁",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "克洛普：世界杯夺冠热门？难选，西班牙、法国、巴西很有天赋",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "索马里裁判入境美国遭拒，无缘执法世界杯！",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 13,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
