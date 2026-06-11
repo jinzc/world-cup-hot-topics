@@ -1,11 +1,29 @@
 {
-  "update_time": "2026-06-11 22:49:57",
+  "update_time": "2026-06-12 02:23:23",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "轮奸犯踢世界杯日本足协沉默",
-          "url": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "title": "世界杯开幕式",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯冠军和蒙牛有个秘密",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%92%8C%E8%92%99%E7%89%9B%E6%9C%89%E4%B8%AA%E7%A7%98%E5%AF%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "熬夜看世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯开幕式 吓我一跳",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3",
           "hot": 0,
           "label": ""
         },
@@ -16,19 +34,31 @@
           "label": ""
         },
         {
-          "title": "叫美加墨世界杯是崇美症吗",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%AB%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%B4%87%E7%BE%8E%E7%97%87%E5%90%97",
+          "title": "labubu都进世界杯了",
+          "url": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗世界杯小组赛首关便遇三强敌挑战",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E9%A6%96%E5%85%B3%E4%BE%BF%E9%81%87%E4%B8%89%E5%BC%BA%E6%95%8C%E6%8C%91%E6%88%98",
+          "title": "世界杯开幕式 收音好差",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%94%B6%E9%9F%B3%E5%A5%BD%E5%B7%AE",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "轮奸犯踢世界杯日本足协沉默",
+          "url": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯揭幕战",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 9,
       "status": "success"
     },
     "百度": {
@@ -49,8 +79,8 @@
           "hot": 0
         },
         {
-          "title": "世界杯谁最可能夺冠",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E6%9C%80%E5%8F%AF%E8%83%BD%E5%A4%BA%E5%86%A0",
+          "title": "管泽元世界杯预测",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
           "hot": 0
         }
       ],
@@ -65,34 +95,34 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯将在墨西哥举行首场开幕式",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%BE%E8%A1%8C%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "1180万"
+          "title": "美加墨世界杯首场开幕式",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "1209.1万"
         },
         {
-          "title": "美加墨世界杯主题曲DNA发布",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2DNA%E5%8F%91%E5%B8%83",
-          "hot": "1085.8万"
+          "title": "世界杯揭幕战墨西哥vs南非",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E",
+          "hot": "1079.8万"
         },
         {
-          "title": "美加墨世界杯揭幕战前瞻",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%89%8D%E7%9E%BB",
-          "hot": "832.9万"
+          "title": "LABUBU亮相世界杯开幕式",
+          "url": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "778.5万"
         },
         {
           "title": "第一批世界杯观赛团已到达现场",
           "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA",
-          "hot": "793.3万"
-        },
-        {
-          "title": "我的世界杯宝藏应援妆",
-          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
-          "hot": "773.2万"
+          "hot": "776.4万"
         },
         {
           "title": "世界杯你的唐梓回来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "770.4万"
+          "hot": "764.9万"
+        },
+        {
+          "title": "我的世界杯宝藏应援妆",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
+          "hot": "764.4万"
         }
       ],
       "count": 6,
@@ -101,68 +131,118 @@
     "虎扑": {
       "topics": [
         {
-          "title": "拜仁跟队：曼联关注金玟哉，将在世界杯期间考察他的表现",
+          "title": "远藤航社媒：缺席世界杯心有不甘，我将正式从国家队退役",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯购彩指南：冷门、平局与地理玄学 ft.老魏",
+          "title": "全球春晚，世界杯依旧值得期待！（feat.颜强）",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA官方：和伊朗足协举行融洽的会晤，确保世界杯安全完赛",
+          "title": "墨西哥已连续7届世界杯首战保持不败，战绩为5胜2平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯终极前瞻(上)：八大豪门，谁主沉浮？",
+          "title": "墨西哥城体育场将迎来第20场世界杯，刷新赛事历史纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "中锋别想了，尽量b席吧",
+          "title": "巴黎双中场+b费不赖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看阿根廷比赛  恩佐就是高级货  而且是唯一可能能买到的大牌",
+          "title": "真不懂现在觉得b费换钱的……",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B席来了，是不是就代表着不会买恩佐了",
+          "title": "之前不都说为了世界杯球员不会转会的吗，咋这两天转会那么频繁呢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界级中场的统治力 面对哥斯达黎加，贝林厄姆打出完美答卷：3次盘带全部成功、传球成功率高达92%、创造2次机会，对抗、出球、推进一把抓，100%成功率的长传和过人更是细节拉满",
+          "title": "没有必要为了一个b席破坏夏天的转会策略",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨和弗里克，没有真正认清B席的价值！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不至于b席去了隔壁 然后西甲又大结局了吧，我希望巴萨买中场可以买一个防守型后腰，b席这种能来最好，不来也不至于这么破防吧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "强烈感觉：穆里尼奥会把姆巴佩改造成罗纳尔多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为什么说B席这笔引援对皇马很重要",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗马诺：皇马向B席正式报价，这笔交易可能很快Here we go",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿吉雷：揭幕战不对掉以轻心，现在没有所谓的弱队",
+          "title": "世界杯揭幕战墨西哥vs南非：劳尔-希门尼斯首发，福斯特出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥街头的世界杯氛围",
+          "title": "28场，墨西哥是世界杯输球最多的球队，比第二名阿根廷多4场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：曼联如果让拉什福德回归，会给球员们传递不好信号",
+          "title": "阿根廷官方：补招中卫塞内西进入世界杯名单，顶替巴列尔迪",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "官方：莱万特免签敦刻尔克中场巴尔德利，双方签约至2029年",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：安切洛蒂已敲定巴西首战首发，内马尔将缺阵",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "波罗：世界杯后再处理转会的事，现在不想听取任何报价",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "约纳坦-塔：诺伊尔有特别的气场；比起AI歌曲更喜欢真人创作",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德尚：姆巴佩在法国队当队长做得很不错；和齐达内没竞争矛盾",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
