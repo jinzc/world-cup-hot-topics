@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-11 13:58:53",
+  "update_time": "2026-06-11 18:56:27",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "五粮液喊大咖来预测世界杯冠军",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%96%8A%E5%A4%A7%E5%92%96%E6%9D%A5%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "title": "轮奸犯踢世界杯日本足协沉默",
+          "url": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
           "hot": 0,
           "label": ""
         },
@@ -14,9 +14,27 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "世界杯三场开幕式",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%89%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "蒙牛是懂世界杯的",
+          "url": "https://s.weibo.com/weibo?q=%E8%92%99%E7%89%9B%E6%98%AF%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "第一批世界杯受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -27,17 +45,22 @@
     "B站": {
       "topics": [
         {
-          "title": "解析C罗如何影响葡萄牙队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90C%E7%BD%97%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F",
+          "title": "一代人有一代人的世界杯记忆",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%B0%E5%BF%86",
           "hot": 0
         },
         {
-          "title": "管泽元世界杯预测",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
+          "title": "世界杯A组前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFA%E7%BB%84%E5%89%8D%E7%9E%BB",
+          "hot": 0
+        },
+        {
+          "title": "如何评价姆巴佩近期状态",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%91%E6%9C%9F%E7%8A%B6%E6%80%81",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -48,24 +71,24 @@
     "抖音": {
       "topics": [
         {
-          "title": "盘一盘这届世界杯跟中国的关系",
-          "url": "https://www.douyin.com/search/%E7%9B%98%E4%B8%80%E7%9B%98%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB",
-          "hot": "771.8万"
+          "title": "美加墨世界杯主题曲DNA发布",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2DNA%E5%8F%91%E5%B8%83",
+          "hot": "1097.9万"
         },
         {
-          "title": "2026世界杯小组赛赛程",
-          "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%B5%9B%E7%A8%8B",
-          "hot": "770.3万"
+          "title": "第一批世界杯观赛团已到达现场",
+          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA",
+          "hot": "775.8万"
+        },
+        {
+          "title": "盘一盘这届世界杯跟中国的关系",
+          "url": "https://www.douyin.com/search/%E7%9B%98%E4%B8%80%E7%9B%98%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB",
+          "hot": "774.2万"
         },
         {
           "title": "世界杯你的唐梓回来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "769.7万"
-        },
-        {
-          "title": "乐评甲亢哥世界杯主题曲",
-          "url": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
-          "hot": "768.2万"
+          "hot": "766.1万"
         }
       ],
       "count": 4,
@@ -74,83 +97,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿斯：穆帅坚持要皇马引进B席，他欣赏后者的团队意识",
+          "title": "即将迎来世界杯首秀的西甲球星：亚马尔、居莱尔、小西蒙尼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马德兴：从我98年采访世界杯开始，这届体验感是最***的",
+          "title": "本届世界杯U21球员身价：亚马尔2亿欧居首，内维斯、杜埃前3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "波切蒂诺：特朗普问美国能否拿世界杯，我若说不就该被换掉",
+          "title": "过去两届世界杯冠军均出自C组，本届该组有巴西、摩洛哥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "波切蒂诺：离开切尔西我以为要错过世界杯，但美国等队要我",
+          "title": "本届世界杯年龄40+的参赛球员：C罗领衔，魔笛、诺伊尔在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为世界杯开幕式做最后准备：夏奇拉彩排，海耶克熟悉场地",
+          "title": "内马尔确定无法出战摩洛哥，小组赛剩余2场能否出战也存疑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯揭幕战二手票价飙升，最便宜的门票也达到2.7万人民币",
+          "title": "FIFA盘点世界杯十大金靴热门：梅罗在列，凯恩、哈兰德入围",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂在今天的训练中测试了埃德森作为右后卫",
+          "title": "[流言板]巴萨官方：已正式向欧足联提交2029年欧冠决赛申办报告",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺:巴萨将不会支付拉什福德的买断条款",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨和弗里克，没有真正认清B席的价值！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]阿斯：穆帅坚持要皇马引进B席，他欣赏后者的团队意识",
+          "title": "温格：姆巴佩加盟了一支实力平平的队。皇马现在只有三四个世界级球员，以前可是有十个呢。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "西吉斯蒙迪杯不是“小世界杯”，别急着喊“弯道超车”",
+          "title": "记者：贝蒂斯边锋阿布德至少要伤缺一个月，因此无缘世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马特乌斯：梅西对国家队比赛的影响力大于C罗",
+          "title": "RMC：世界杯VAR可查黄牌和角球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马特乌斯：欧洲国家将赢得美加墨世界杯冠军",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：穆帅看中B席的领袖气质和求胜欲，可成为皇马精神标杆",
+          "title": "每体：国际足联批准解约条款改革；球员可分5%转会费",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
@@ -196,6 +204,11 @@
           "hot": ""
         },
         {
+          "title": "4亿买世界杯版权！央视出重拳：禁止录视频发朋友圈 禁用贺炜声音",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "法国队启程出征世界杯，奥利赛骑摩托车到机场报到",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -212,11 +225,6 @@
         },
         {
           "title": "混乱世界杯谁来担责？因凡蒂诺：冷静放松，我们只是个体育组织",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
