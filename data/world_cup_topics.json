@@ -1,29 +1,23 @@
 {
-  "update_time": "2026-06-12 02:23:23",
+  "update_time": "2026-06-12 05:27:24",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯开幕式",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯冠军和蒙牛有个秘密",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%92%8C%E8%92%99%E7%89%9B%E6%9C%89%E4%B8%AA%E7%A7%98%E5%AF%86",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "熬夜看世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
           "title": "世界杯开幕式 吓我一跳",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯 红牌比进球多",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E7%BA%A2%E7%89%8C%E6%AF%94%E8%BF%9B%E7%90%83%E5%A4%9A",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯开幕式",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
           "hot": 0,
           "label": ""
         },
@@ -40,14 +34,32 @@
           "label": ""
         },
         {
-          "title": "世界杯开幕式 收音好差",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%94%B6%E9%9F%B3%E5%A5%BD%E5%B7%AE",
+          "title": "熬夜看世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "轮奸犯踢世界杯日本足协沉默",
-          "url": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "title": "美加墨世界杯首球",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "美加墨世界杯首张红牌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯揭幕战三张红牌",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E4%B8%89%E5%BC%A0%E7%BA%A2%E7%89%8C",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯开幕式 收音好差",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%94%B6%E9%9F%B3%E5%A5%BD%E5%B7%AE",
           "hot": 0,
           "label": ""
         },
@@ -56,9 +68,15 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "轮奸犯踢世界杯日本足协沉默",
+          "url": "https://s.weibo.com/weibo?q=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 9,
+      "count": 12,
       "status": "success"
     },
     "百度": {
@@ -69,18 +87,18 @@
     "B站": {
       "topics": [
         {
-          "title": "世界杯揭幕战墨西哥有优势吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97",
+          "title": "世界杯首战墨西哥2-0南非",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A52-0%E5%8D%97%E9%9D%9E",
           "hot": 0
         },
         {
-          "title": "世界杯A组前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFA%E7%BB%84%E5%89%8D%E7%9E%BB",
+          "title": "韩国人怎么评价LISA世界杯主题曲",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
           "hot": 0
         },
         {
-          "title": "管泽元世界杯预测",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
+          "title": "硬核解析世界杯谁能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
           "hot": 0
         }
       ],
@@ -97,17 +115,37 @@
         {
           "title": "美加墨世界杯首场开幕式",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "1209.1万"
+          "hot": "1210.3万"
         },
         {
-          "title": "世界杯揭幕战墨西哥vs南非",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E",
-          "hot": "1079.8万"
+          "title": "美加墨世界杯五大必看",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%94%E5%A4%A7%E5%BF%85%E7%9C%8B",
+          "hot": "1103.7万"
+        },
+        {
+          "title": "我的世界杯宝藏应援妆",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
+          "hot": "917.9万"
+        },
+        {
+          "title": "夏奇拉开幕式撑场子",
+          "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A5%87%E6%8B%89%E5%BC%80%E5%B9%95%E5%BC%8F%E6%92%91%E5%9C%BA%E5%AD%90",
+          "hot": "826万"
         },
         {
           "title": "LABUBU亮相世界杯开幕式",
           "url": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "778.5万"
+          "hot": "810万"
+        },
+        {
+          "title": "熬夜看完世界杯开幕式的我想说",
+          "url": "https://www.douyin.com/search/%E7%86%AC%E5%A4%9C%E7%9C%8B%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9A%84%E6%88%91%E6%83%B3%E8%AF%B4",
+          "hot": "803.3万"
+        },
+        {
+          "title": "世界杯开幕式我们来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
+          "hot": "783.3万"
         },
         {
           "title": "第一批世界杯观赛团已到达现场",
@@ -117,132 +155,172 @@
         {
           "title": "世界杯你的唐梓回来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "764.9万"
-        },
-        {
-          "title": "我的世界杯宝藏应援妆",
-          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
-          "hot": "764.4万"
+          "hot": "764.2万"
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "远藤航社媒：缺席世界杯心有不甘，我将正式从国家队退役",
+          "title": "18年和22年世界杯整届都只有4张，本届世界杯首场便出现3红",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "全球春晚，世界杯依旧值得期待！（feat.颜强）",
+          "title": "墨西哥vs南非揭幕战共有3张红牌，比全场比赛的进球数还多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥已连续7届世界杯首战保持不败，战绩为5胜2平",
+          "title": "打入本届世界杯首球，基尼奥内斯当选揭幕战全场最佳球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥城体育场将迎来第20场世界杯，刷新赛事历史纪录",
+          "title": "17胜6平1负！世界杯历史东道主揭幕战仅卡塔尔输过一次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎双中场+b费不赖",
+          "title": "轻取南非，墨西哥近8届世界杯的首轮比赛均保持不败",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "真不懂现在觉得b费换钱的……",
+          "title": "墨西哥vs南非3人染红，世界杯历史第7次出现单场3张红牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "之前不都说为了世界杯球员不会转会的吗，咋这两天转会那么频繁呢",
+          "title": "继喀麦隆后，南非成世界杯历史第二支单场两红的非洲球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "没有必要为了一个b席破坏夏天的转会策略",
+          "title": "双方共3人染红，世界杯揭幕战历史首次有3名球员被红牌罚下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨和弗里克，没有真正认清B席的价值！",
+          "title": "06年世界杯葡荷大战之后，世界杯时隔20年再现“两红”球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不至于b席去了隔壁 然后西甲又大结局了吧，我希望巴萨买中场可以买一个防守型后腰，b席这种能来最好，不来也不至于这么破防吧",
+          "title": "阿根廷跟队：大马丁通过赛前检查，可以出战阿尔及利亚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "强烈感觉：穆里尼奥会把姆巴佩改造成罗纳尔多",
+          "title": "我靠世界杯的球场都好大啊，大得离谱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为什么说B席这笔引援对皇马很重要",
+          "title": "B席被皇马劫走了有点可惜。但是…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗马诺：皇马向B席正式报价，这笔交易可能很快Here we go",
+          "title": "结合新闻，b席是穆鸟钦点了，这一点就很难竞争了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯补水放的外星人电解质广告给我看傻了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "聊聊b席的签约对皇马的价值",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席来了，是不是就代表着不会买恩佐了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 16,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯揭幕战墨西哥vs南非：劳尔-希门尼斯首发，福斯特出战",
+          "title": "兹瓦内成南非历史上最年长的世界杯出场球员，但球员本场染红",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "28场，墨西哥是世界杯输球最多的球队，比第二名阿根廷多4场",
+          "title": "ESPN记者：B席已完成皇马体检，双方在马德里的会面促成签约",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷官方：补招中卫塞内西进入世界杯名单，顶替巴列尔迪",
+          "title": "塞内西谈参加世界杯：非常开心能有机会实现自己一直以来的梦想",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：莱万特免签敦刻尔克中场巴尔德利，双方签约至2029年",
+          "title": "打入本届世界杯首球，墨西哥前锋基尼奥内斯当选全场最佳球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：安切洛蒂已敲定巴西首战首发，内马尔将缺阵",
+          "title": "跟队：大马丁检查良好，将会出战阿根廷对阵阿尔及利亚的比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "波罗：世界杯后再处理转会的事，现在不想听取任何报价",
+          "title": "2022年世界杯64场比赛出现4张红牌，本届揭幕战就出现3张",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "约纳坦-塔：诺伊尔有特别的气场；比起AI歌曲更喜欢真人创作",
+          "title": "红牌满天飞的揭幕战，墨西哥vs南非共80824名观众到场观战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德尚：姆巴佩在法国队当队长做得很不错；和齐达内没竞争矛盾",
+          "title": "世界杯历史东道主球队首战24战17胜，只有上届卡塔尔输球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "2-0完胜南非，墨西哥队史首次赢得世界杯揭幕战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "球迷态度：世界杯揭幕战结束，你如何评价这场比赛？",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "共取6胜2平，墨西哥队连续8届世界杯首战不败",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "墨西哥vs南非单场3红，世界杯历史仅次于06年葡萄牙vs荷兰4红",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队：B席有望成为皇马今夏第三签，球队还会继续补强",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "自2006年以来，南非是第一支世界杯单场领到两张红牌的球队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 14,
       "status": "success"
     },
     "小红书": {
@@ -258,37 +336,57 @@
     "网易": {
       "topics": [
         {
-          "title": "巴萨8000万新援传射，英格兰3-0哥斯达黎加，世界杯首战克罗地亚",
+          "title": "世界杯揭幕战三红！十人墨西哥2-0九人南非开门红",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "葡萄牙主帅暗示41岁C罗将首发踢世界杯：让他踢60分钟很重要",
+          "title": "17岁240天，墨西哥小将莫拉成世界杯历史第六年轻出场球员",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯开幕式：2天3国3场！致敬贝利马拉多纳 夏奇拉水果姐献唱",
+          "title": "个人第四届世界杯，35岁老将劳尔-希门尼斯斩获世界杯首球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯揭幕战前瞻！墨西哥誓破96年魔咒，南非或捍卫非洲荣耀",
+          "title": "本届世界杯首球诞生！墨西哥开场9分钟闪击 29岁沙特联金靴创历史",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "太离谱！41岁C罗巨大低迷：40分钟2次错失单刀 队友抱头不敢相信",
+          "title": "阿根廷官方：补招中卫塞内西进入世界杯名单，顶替巴列尔迪",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "穆勒：梅罗还在踢世界杯让我心动，但让我复出完全是胡扯",
+          "title": "日本队官方：远藤航伤别世界杯，补招町野修斗；板仓滉任队长",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "正式进入世界杯时间，因凡蒂诺和影星海耶克共同展示大力神杯",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "临阵因伤无缘世界杯，日本队队长远藤航：我将借此从国家队退役",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "草帽雨，墨西哥球迷在世界杯揭幕战开赛时刻将座位上的宽边帽抛下",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "4亿买世界杯版权！央视出重拳：禁止录视频发朋友圈 禁用贺炜声音",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯开幕式：2天3国3场！致敬贝利马拉多纳 夏奇拉水果姐献唱",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -301,19 +399,9 @@
           "title": "英格兰世界杯热身 多个首发仍待敲定",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "孙兴慜：我从未断言这是我的最后一届世界杯",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "混乱世界杯谁来担责？因凡蒂诺：冷静放松，我们只是个体育组织",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 11,
+      "count": 13,
       "status": "success"
     },
     "腾讯": {
