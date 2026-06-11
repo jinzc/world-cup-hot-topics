@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-11 18:56:27",
+  "update_time": "2026-06-11 22:49:57",
   "sources": {
     "微博": {
       "topics": [
@@ -16,25 +16,19 @@
           "label": ""
         },
         {
-          "title": "世界杯三场开幕式",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%89%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "title": "叫美加墨世界杯是崇美症吗",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%AB%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%B4%87%E7%BE%8E%E7%97%87%E5%90%97",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "蒙牛是懂世界杯的",
-          "url": "https://s.weibo.com/weibo?q=%E8%92%99%E7%89%9B%E6%98%AF%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "第一批世界杯受益者出现了",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "title": "C罗世界杯小组赛首关便遇三强敌挑战",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E9%A6%96%E5%85%B3%E4%BE%BF%E9%81%87%E4%B8%89%E5%BC%BA%E6%95%8C%E6%8C%91%E6%88%98",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -45,8 +39,8 @@
     "B站": {
       "topics": [
         {
-          "title": "一代人有一代人的世界杯记忆",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%AE%B0%E5%BF%86",
+          "title": "世界杯揭幕战墨西哥有优势吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97",
           "hot": 0
         },
         {
@@ -55,8 +49,8 @@
           "hot": 0
         },
         {
-          "title": "如何评价姆巴佩近期状态",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%91%E6%9C%9F%E7%8A%B6%E6%80%81",
+          "title": "世界杯谁最可能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E6%9C%80%E5%8F%AF%E8%83%BD%E5%A4%BA%E5%86%A0",
           "hot": 0
         }
       ],
@@ -71,68 +65,78 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯将在墨西哥举行首场开幕式",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%BE%E8%A1%8C%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "1180万"
+        },
+        {
           "title": "美加墨世界杯主题曲DNA发布",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2DNA%E5%8F%91%E5%B8%83",
-          "hot": "1097.9万"
+          "hot": "1085.8万"
+        },
+        {
+          "title": "美加墨世界杯揭幕战前瞻",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%89%8D%E7%9E%BB",
+          "hot": "832.9万"
         },
         {
           "title": "第一批世界杯观赛团已到达现场",
           "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA",
-          "hot": "775.8万"
+          "hot": "793.3万"
         },
         {
-          "title": "盘一盘这届世界杯跟中国的关系",
-          "url": "https://www.douyin.com/search/%E7%9B%98%E4%B8%80%E7%9B%98%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B7%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB",
-          "hot": "774.2万"
+          "title": "我的世界杯宝藏应援妆",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
+          "hot": "773.2万"
         },
         {
           "title": "世界杯你的唐梓回来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%A0%E7%9A%84%E5%94%90%E6%A2%93%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "766.1万"
+          "hot": "770.4万"
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "即将迎来世界杯首秀的西甲球星：亚马尔、居莱尔、小西蒙尼",
+          "title": "拜仁跟队：曼联关注金玟哉，将在世界杯期间考察他的表现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯U21球员身价：亚马尔2亿欧居首，内维斯、杜埃前3",
+          "title": "世界杯购彩指南：冷门、平局与地理玄学 ft.老魏",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "过去两届世界杯冠军均出自C组，本届该组有巴西、摩洛哥",
+          "title": "FIFA官方：和伊朗足协举行融洽的会晤，确保世界杯安全完赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯年龄40+的参赛球员：C罗领衔，魔笛、诺伊尔在列",
+          "title": "世界杯终极前瞻(上)：八大豪门，谁主沉浮？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔确定无法出战摩洛哥，小组赛剩余2场能否出战也存疑",
+          "title": "中锋别想了，尽量b席吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA盘点世界杯十大金靴热门：梅罗在列，凯恩、哈兰德入围",
+          "title": "看阿根廷比赛  恩佐就是高级货  而且是唯一可能能买到的大牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨官方：已正式向欧足联提交2029年欧冠决赛申办报告",
+          "title": "B席来了，是不是就代表着不会买恩佐了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "温格：姆巴佩加盟了一支实力平平的队。皇马现在只有三四个世界级球员，以前可是有十个呢。",
+          "title": "世界级中场的统治力 面对哥斯达黎加，贝林厄姆打出完美答卷：3次盘带全部成功、传球成功率高达92%、创造2次机会，对抗、出球、推进一把抓，100%成功率的长传和过人更是细节拉满",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -143,17 +147,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：贝蒂斯边锋阿布德至少要伤缺一个月，因此无缘世界杯",
+          "title": "阿吉雷：揭幕战不对掉以轻心，现在没有所谓的弱队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "RMC：世界杯VAR可查黄牌和角球",
+          "title": "墨西哥街头的世界杯氛围",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：国际足联批准解约条款改革；球员可分5%转会费",
+          "title": "费迪南德：曼联如果让拉什福德回归，会给球员们传递不好信号",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
