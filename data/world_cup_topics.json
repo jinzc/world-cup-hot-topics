@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-13 03:14:22",
+  "update_time": "2026-06-13 05:57:07",
   "sources": {
     "微博": {
       "topics": [
@@ -10,20 +10,20 @@
           "label": ""
         },
         {
-          "title": "梅西6到飞起",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF6%E5%88%B0%E9%A3%9E%E8%B5%B7",
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "加拿大开幕式 草台班子",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%20%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90",
           "hot": 0,
           "label": ""
         },
         {
           "title": "世界杯加拿大开幕式",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         },
@@ -72,64 +72,64 @@
     "抖音": {
       "topics": [
         {
-          "title": "美加墨世界杯加拿大开幕式",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "1209.5万"
-        },
-        {
-          "title": "世界杯加拿大vs波黑",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%B3%A2%E9%BB%91",
-          "hot": "1162.8万"
-        },
-        {
           "title": "现场观赛世界杯是什么体验",
           "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "1040万"
+          "hot": "1210.4万"
+        },
+        {
+          "title": "美加墨世界杯加拿大开幕式",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "1210.3万"
         },
         {
           "title": "世界杯精彩程度下降了吗",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%B2%BE%E5%BD%A9%E7%A8%8B%E5%BA%A6%E4%B8%8B%E9%99%8D%E4%BA%86%E5%90%97",
-          "hot": "1016.4万"
+          "hot": "811.2万"
         },
         {
           "title": "姆巴佩称若法国夺冠他可一球不进",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E8%8B%A5%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E4%BB%96%E5%8F%AF%E4%B8%80%E7%90%83%E4%B8%8D%E8%BF%9B",
-          "hot": "893.8万"
+          "hot": "778.2万"
         },
         {
           "title": "世界杯加拿大开幕式我们来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
-          "hot": "783.6万"
+          "hot": "771.9万"
         },
         {
           "title": "世界杯开幕式我们来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
-          "hot": "773万"
+          "hot": "770万"
         },
         {
-          "title": "林树和王浩宇立起了世界杯预测flag",
-          "url": "https://www.douyin.com/search/%E6%9E%97%E6%A0%91%E5%92%8C%E7%8E%8B%E6%B5%A9%E5%AE%87%E7%AB%8B%E8%B5%B7%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8Bflag",
-          "hot": "772.6万"
+          "title": "世界杯揭幕战预言家来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E9%A2%84%E8%A8%80%E5%AE%B6%E6%9D%A5%E4%BA%86",
+          "hot": "769.3万"
         },
         {
-          "title": "美加墨世界杯首场开幕式",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "771.7万"
+          "title": "唱世界杯主题曲被夏奇拉评论了",
+          "url": "https://www.douyin.com/search/%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%A2%AB%E5%A4%8F%E5%A5%87%E6%8B%89%E8%AF%84%E8%AE%BA%E4%BA%86",
+          "hot": "768万"
         },
         {
           "title": "汉字复刻C罗Siu名场面",
           "url": "https://www.douyin.com/search/%E6%B1%89%E5%AD%97%E5%A4%8D%E5%88%BBC%E7%BD%97Siu%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "hot": "771.6万"
+          "hot": "767.6万"
+        },
+        {
+          "title": "林树和王浩宇立起了世界杯预测flag",
+          "url": "https://www.douyin.com/search/%E6%9E%97%E6%A0%91%E5%92%8C%E7%8E%8B%E6%B5%A9%E5%AE%87%E7%AB%8B%E8%B5%B7%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8Bflag",
+          "hot": "766.1万"
         },
         {
           "title": "我的世界杯宝藏应援妆",
           "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9D%E8%97%8F%E5%BA%94%E6%8F%B4%E5%A6%86",
-          "hot": "768.8万"
+          "hot": "763万"
         },
         {
-          "title": "LABUBU亮相世界杯开幕式",
-          "url": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "768.8万"
+          "title": "柳智敏金玟庭现场看世界杯",
+          "url": "https://www.douyin.com/search/%E6%9F%B3%E6%99%BA%E6%95%8F%E9%87%91%E7%8E%9F%E5%BA%AD%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "762.3万"
         }
       ],
       "count": 12,
@@ -138,22 +138,57 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马特塔：荣幸能跟法国踢世界杯，无论给我多少时间都准备好",
+          "title": "波黑全队本场完成71次解围，创2002瑞典以来世界杯纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卢卡斯：外界会用放大镜看姆巴佩；他和登贝莱相处得很好",
+          "title": "普罗米斯助攻拉林，中北美球队第四次在世界杯替补连线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隆戈：米兰的计划没打动莫德里奇，伊布也没和他再谈了",
+          "title": "美国9点出战！世界杯历史首战输球的东道主仍只有卡塔尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗晒出征图集：带着数百万葡萄牙人的力量，我们出发了",
+          "title": "替补124秒破门！拉林创近12年世界杯替补最快进球纪录",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "各获一分，加拿大/波黑队史在世界杯都从未取得过零封",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯：加拿大1-1波黑，卢基奇、拉林破门，胖虎救险",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "首触即进球！拉林创中北美球员世界杯替补进球第四快纪录",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加拿大世界杯历史7战均曾落后，对波黑为首次实现扳平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "替补破门，拉林成为第三位为加拿大在世界杯进球的球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "致那些贬低B费抬M费的朋友",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席就是穆鸟的另一个桑切斯呀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -163,48 +198,38 @@
           "hot": ""
         },
         {
-          "title": "巴萨和弗里克，没有真正认清B席的价值！",
+          "title": "罗马诺说，B席在皇马的薪水比曼城低！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b席会不会是第二队长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果法国夺冠且姆巴佩进球一骑绝尘有机会争金球奖吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "私人去切尔西还有恩佐的引援现在什么情况了",
+          "title": "[流言板]博格巴力挺姆巴佩：一年进40球算艰难赛季？对我来说可不是",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "队报：61%的受访球迷不希望姆巴佩首发踢中锋",
+          "title": "加拿大1-1波黑迎世界杯首场不败，卢基奇破僵，拉林替补建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：皇马今夏不追罗德里，曼城已续约",
+          "title": "助加拿大平波黑取队史世界杯首分，伊斯梅尔-科内当选全场最佳",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：卡利亚里与主教练皮萨卡内续约至2028年",
+          "title": "昂达夫：我觉得我已经算是德甲进球最多的了，凯恩简直是作弊",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：加拿大世界杯开幕式引争议",
+          "title": "波黑全场解围71次，有统计以来世界杯单场解围70+第四队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -225,6 +250,31 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-加拿大1-1波黑终结6连败 斩获队史首分",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "时隔8年重返世界杯！欧洲最弱队险砸场东道主 9场不败+淘汰意大利",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯狂欢夜：加拿大创历史，获队史首分，欧洲球队遭遇2场不胜",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "1-1战平波黑，加拿大拿到队史世界杯首个积分",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "加拿大队前6场世界杯全负，但在多伦多体育场28场仅1负",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-韩国2-1逆袭捷克开门红 黄仁范吴贤揆建功",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -235,27 +285,22 @@
           "hot": ""
         },
         {
-          "title": "随着韩国2-1逆转捷克，墨西哥2-0南非，世界杯A组最新积分榜出炉",
+          "title": "草台班子?世界杯开幕式离谱翻车 大力神杯掉皮",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "韩国也有胡尔克！25岁吴贤揆世界杯首秀致胜 大腿肌肉如绿巨人",
+          "title": "受强奸指控!托马斯被拒绝入境 无缘世界杯首战",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "孙兴慜首战屡失良机 尴尬!被替换球员完成逆袭进球",
+          "title": "2026世界杯韩捷战上座数据引争议",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯首场逆转诞生 韩国13分钟狂飙：奇兵绝杀 喜迎开门红",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "35岁墨西哥中锋激动落泪 4战世界杯终获首球 6年前头部重伤险丧命",
+          "title": "卢卡斯：登贝莱和姆巴佩是两位关系非常好的朋友",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -263,34 +308,9 @@
           "title": "世体：C罗表示以良好的身体状态出征2026年世界杯",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "临阵因伤无缘世界杯，日本队队长远藤航：我将借此从国家队退役",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "今日未训练！曝34岁内马尔基本无缘首场小组赛 且可能3场全踢不了",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "2亿欧，亚马尔身价超两支世界杯东道主球队全队身价",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯没开始，法国队先赢一局？全员拎着“一套房”出行，把机场走出高定T台！",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "时隔16年重返世界杯，巴拉圭主帅和球员在赛前发布会抱头痛哭",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 13,
+      "count": 12,
       "status": "success"
     },
     "腾讯": {
