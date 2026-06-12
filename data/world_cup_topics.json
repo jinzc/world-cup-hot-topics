@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-12 12:52:09",
+  "update_time": "2026-06-12 17:06:45",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯冠军和蒙牛有个秘密",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%92%8C%E8%92%99%E7%89%9B%E6%9C%89%E4%B8%AA%E7%A7%98%E5%AF%86",
+          "title": "世界杯在中国的收视率爆了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%B6%E8%A7%86%E7%8E%87%E7%88%86%E4%BA%86",
           "hot": 0,
           "label": ""
         },
@@ -16,14 +16,20 @@
           "label": ""
         },
         {
-          "title": "孙兴慜状态",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E7%8A%B6%E6%80%81",
+          "title": "世界杯冠军和蒙牛有个秘密",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%92%8C%E8%92%99%E7%89%9B%E6%9C%89%E4%B8%AA%E7%A7%98%E5%AF%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "一代人有一代人的世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "世界杯期间如何用2元赚2000万",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E5%A6%82%E4%BD%95%E7%94%A82%E5%85%83%E8%B5%9A2000%E4%B8%87",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "Lisa登台2026世界杯开幕式",
+          "url": "https://s.weibo.com/weibo?q=Lisa%E7%99%BB%E5%8F%B02026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
           "hot": 0,
           "label": ""
         },
@@ -32,21 +38,9 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "韩国梅西式进球",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%A2%85%E8%A5%BF%E5%BC%8F%E8%BF%9B%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯开幕式",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "百度": {
@@ -56,21 +50,6 @@
     },
     "B站": {
       "topics": [
-        {
-          "title": "世界杯到底有没有假球",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E5%81%87%E7%90%83",
-          "hot": 0
-        },
-        {
-          "title": "世界杯揭幕战高清大图",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE",
-          "hot": 0
-        },
-        {
-          "title": "世界杯首张红牌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C",
-          "hot": 0
-        },
         {
           "title": "夏奇拉世界杯开幕式压轴表演",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E5%8E%8B%E8%BD%B4%E8%A1%A8%E6%BC%94",
@@ -82,8 +61,8 @@
           "hot": 0
         },
         {
-          "title": "韩国人怎么评价LISA世界杯主题曲",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7LISA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "title": "世界杯首张红牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C",
           "hot": 0
         },
         {
@@ -92,12 +71,12 @@
           "hot": 0
         },
         {
-          "title": "世界杯揭幕战三张红牌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E4%B8%89%E5%BC%A0%E7%BA%A2%E7%89%8C",
+          "title": "地缘政治下的美加墨世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "知乎": {
@@ -108,108 +87,113 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯开幕式我们来了",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
-          "hot": "1112.9万"
-        },
-        {
-          "title": "熬夜看完世界杯开幕式的我想说",
-          "url": "https://www.douyin.com/search/%E7%86%AC%E5%A4%9C%E7%9C%8B%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9A%84%E6%88%91%E6%83%B3%E8%AF%B4",
-          "hot": "876.2万"
+          "title": "墨西哥2:0南非赢下揭幕战",
+          "url": "https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A52%3A0%E5%8D%97%E9%9D%9E%E8%B5%A2%E4%B8%8B%E6%8F%AD%E5%B9%95%E6%88%98",
+          "hot": "836.1万"
         },
         {
           "title": "现场观赛世界杯是什么体验",
           "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "781.9万"
+          "hot": "782.4万"
         },
         {
-          "title": "墨西哥2:0南非赢下揭幕战",
-          "url": "https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A52%3A0%E5%8D%97%E9%9D%9E%E8%B5%A2%E4%B8%8B%E6%8F%AD%E5%B9%95%E6%88%98",
-          "hot": "780.8万"
+          "title": "世界杯揭幕战预言家来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E9%A2%84%E8%A8%80%E5%AE%B6%E6%9D%A5%E4%BA%86",
+          "hot": "774.6万"
         },
         {
-          "title": "夏奇拉抖音分享开幕式表演",
-          "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A5%87%E6%8B%89%E6%8A%96%E9%9F%B3%E5%88%86%E4%BA%AB%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94",
-          "hot": "776.2万"
+          "title": "水果姐世界杯开幕表演预热抖音",
+          "url": "https://www.douyin.com/search/%E6%B0%B4%E6%9E%9C%E5%A7%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E8%A1%A8%E6%BC%94%E9%A2%84%E7%83%AD%E6%8A%96%E9%9F%B3",
+          "hot": "774.5万"
         },
         {
-          "title": "美加墨世界杯首场开幕式",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "773.4万"
-        },
-        {
-          "title": "陈赫摇人一起看世界杯",
-          "url": "https://www.douyin.com/search/%E9%99%88%E8%B5%AB%E6%91%87%E4%BA%BA%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "769.8万"
+          "title": "世界杯精彩程度下降了吗",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%B2%BE%E5%BD%A9%E7%A8%8B%E5%BA%A6%E4%B8%8B%E9%99%8D%E4%BA%86%E5%90%97",
+          "hot": "774.2万"
         },
         {
           "title": "世界杯志愿者第一视角来了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BF%97%E6%84%BF%E8%80%85%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%9D%A5%E4%BA%86",
-          "hot": "769.2万"
+          "hot": "773.7万"
+        },
+        {
+          "title": "林树和王浩宇立起了世界杯预测flag",
+          "url": "https://www.douyin.com/search/%E6%9E%97%E6%A0%91%E5%92%8C%E7%8E%8B%E6%B5%A9%E5%AE%87%E7%AB%8B%E8%B5%B7%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8Bflag",
+          "hot": "773.5万"
+        },
+        {
+          "title": "柳智敏金玟庭现场看世界杯",
+          "url": "https://www.douyin.com/search/%E6%9F%B3%E6%99%BA%E6%95%8F%E9%87%91%E7%8E%9F%E5%BA%AD%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "772.9万"
+        },
+        {
+          "title": "美加墨世界杯首场开幕式",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "771.6万"
+        },
+        {
+          "title": "世界杯开幕式我们来了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
+          "hot": "770.5万"
+        },
+        {
+          "title": "夏奇拉抖音分享开幕式表演",
+          "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A5%87%E6%8B%89%E6%8A%96%E9%9F%B3%E5%88%86%E4%BA%AB%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94",
+          "hot": "769.4万"
         },
         {
           "title": "万物皆可世界杯应援",
           "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BA%94%E6%8F%B4",
-          "hot": "766.3万"
+          "hot": "768.2万"
         },
         {
-          "title": "第一批世界杯观赛团已到达现场",
-          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%9B%A2%E5%B7%B2%E5%88%B0%E8%BE%BE%E7%8E%B0%E5%9C%BA",
-          "hot": "765.7万"
+          "title": "唱世界杯主题曲被夏奇拉评论了",
+          "url": "https://www.douyin.com/search/%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%A2%AB%E5%A4%8F%E5%A5%87%E6%8B%89%E8%AF%84%E8%AE%BA%E4%BA%86",
+          "hot": "764.9万"
         },
         {
           "title": "LABUBU亮相世界杯开幕式",
           "url": "https://www.douyin.com/search/LABUBU%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "762.5万"
+          "hot": "764.3万"
         }
       ],
-      "count": 11,
+      "count": 14,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "范志毅：C罗参加2030世界杯也没多少人有反对意见",
+          "title": "黄仁范进球前韩国队连续完成25次传球，创队史世界杯纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看看捷克世界杯进球功臣克雷伊奇女友的身材，你觉得如何？",
+          "title": "塞内西接到世界杯征召电话后和女友激动相拥，女方也是球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "74岁284天，捷克主帅科乌贝克刷新世界杯首秀年龄纪录",
+          "title": "詹俊：本届世界杯高温高原下，会不会是田径强队爆冷称王？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "金玟哉本场送出2次关键传球，对抗9胜6，3次夺回球权",
+          "title": "赢下世界杯揭幕战后，墨西哥球迷登上建筑物庆祝",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德国/利物浦都希望增肌后的维尔茨世界杯大放异彩，证明自己",
+          "title": "罗马诺：皇马今夏不会再考虑签罗德里；穆帅也点名要签M费",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯非欧洲球队连胜欧洲球队榜：巴西6场第1，韩国3场第4",
+          "title": "洪明甫：孙兴慜很好地执行了战术，错过得分机会不是啥问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "连克德国、葡萄牙、捷克！韩国连续三届世界杯战胜欧洲球队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "李刚仁本场送出1次助攻，5过人3关键传球，对抗14胜10",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马的影响力太强了，轻松截胡B席尔瓦",
+          "title": "虎扑美加墨世界杯征稿大赛来袭！投稿可赢取世界杯官方周边",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -219,27 +203,12 @@
           "hot": ""
         },
         {
-          "title": "我看某些人要b席单纯是好面子啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "不至于b席去了隔壁 然后西甲又大结局了吧，我希望巴萨买中场可以买一个防守型后腰，b席这种能来最好，不来也不至于这么破防吧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "JFD：穆里尼奥亲自联系了B席，这就是为什么他决定暂停与巴萨和马竞谈判的原因。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：我不会惊讶B席加盟皇马很快成为“HERE WE GO”，皇马已经非常强势地加入了竞争。",
+          "title": "B席就是穆鸟的另一个桑切斯呀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -250,37 +219,42 @@
           "hot": ""
         },
         {
-          "title": "太阳报：亚马尔逛沃尔玛，顾客未认出",
+          "title": "克洛普&amp;穆勒：德国队应该让昂达夫首发，穆西亚拉下半场替补",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "捷克主帅：我们本来有机会赢球的；孙兴慜是一位优秀的球员",
+          "title": "懂球帝6月12日世界杯之星：黄仁范",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "2-1逆转捷克，韩国队近3届世界杯首次在小组赛首战取得进球",
+          "title": "韩国世界杯首战在韩国同时观看人数破386万，约占总人口7.48%",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "黄仁范是第二位世界杯传射建功的韩国球员，上一位是洪明甫",
+          "title": "李刚仁：首战能获胜我非常高兴；助攻是因为黄仁范的跑位出色",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：梅西御用理发师为半数英格兰球员剪发",
+          "title": "洪明甫：孙兴慜理应首发，他表现出色；吴贤揆是一张王牌",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯非欧球队对欧洲球队连胜榜：巴西居首，韩国3连胜跻身第4",
+          "title": "能拿一分、赢一场吗？加拿大队史曾2次参加世界杯，但6战皆负",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "无缘世界杯成导火索，曼联欲挖角纽卡左闸霍尔",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
