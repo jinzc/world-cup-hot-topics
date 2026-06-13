@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-06-13 19:22:25",
+  "update_time": "2026-06-13 22:18:40",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "曝女顶流是梅西C罗梦女",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%A5%B3%E9%A1%B6%E6%B5%81%E6%98%AF%E6%A2%85%E8%A5%BFC%E7%BD%97%E6%A2%A6%E5%A5%B3",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "甲亢哥预测C罗夺冠被驱逐",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E4%BA%A2%E5%93%A5%E9%A2%84%E6%B5%8BC%E7%BD%97%E5%A4%BA%E5%86%A0%E8%A2%AB%E9%A9%B1%E9%80%90",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -27,11 +21,6 @@
     "B站": {
       "topics": [
         {
-          "title": "英格兰队世界杯惨遭零元购",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E9%9B%B6%E5%85%83%E8%B4%AD",
-          "hot": 0
-        },
-        {
           "title": "在MC里体验世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
@@ -40,9 +29,19 @@
           "title": "为什么各国抢着申办世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
+        },
+        {
+          "title": "解读美加墨世界杯政治含量",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%BF%E6%B2%BB%E5%90%AB%E9%87%8F",
+          "hot": 0
+        },
+        {
+          "title": "英格兰世界杯物资被盗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%A9%E8%B5%84%E8%A2%AB%E7%9B%97",
+          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -53,103 +52,83 @@
     "抖音": {
       "topics": [
         {
-          "title": "巴西队将迎美加墨世界杯首秀",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%B0%86%E8%BF%8E%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": "1107.3万"
-        },
-        {
-          "title": "内马尔无缘巴西队世界杯首战",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
-          "hot": "932.3万"
-        },
-        {
-          "title": "全网最懂球的人如何选边梅西C罗",
-          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%9C%80%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E9%80%89%E8%BE%B9%E6%A2%85%E8%A5%BFC%E7%BD%97",
-          "hot": "916.8万"
-        },
-        {
-          "title": "沉浸式体验美加墨世界杯",
-          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "914.1万"
-        },
-        {
-          "title": "美加墨世界杯美国开幕式",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "869.8万"
-        },
-        {
-          "title": "加拿大开幕式翻车",
-          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F%E7%BF%BB%E8%BD%A6",
-          "hot": "856.1万"
-        },
-        {
-          "title": "世界杯新单曲IN MY HAND",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%96%B0%E5%8D%95%E6%9B%B2IN+MY+HAND",
-          "hot": "823万"
-        },
-        {
-          "title": "现场观战美国队揭幕战",
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%BE%8E%E5%9B%BD%E9%98%9F%E6%8F%AD%E5%B9%95%E6%88%98",
-          "hot": "817.4万"
-        },
-        {
           "title": "体验史上最贵世界杯要花多少钱",
           "url": "https://www.douyin.com/search/%E4%BD%93%E9%AA%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1",
-          "hot": "807.4万"
-        },
-        {
-          "title": "Lisa白色机能风亮相世界杯",
-          "url": "https://www.douyin.com/search/Lisa%E7%99%BD%E8%89%B2%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "783万"
+          "hot": "1208.2万"
         },
         {
           "title": "我在世界杯现场偶遇了贝克汉姆",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E5%81%B6%E9%81%87%E4%BA%86%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86",
-          "hot": "777.3万"
+          "hot": "1128.3万"
         },
         {
-          "title": "姆巴佩给中国粉丝签名",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
+          "title": "世界杯新单曲IN MY HAND",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%96%B0%E5%8D%95%E6%9B%B2IN+MY+HAND",
+          "hot": "1068.9万"
+        },
+        {
+          "title": "内马尔无缘巴西队世界杯首战",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
+          "hot": "1038.9万"
+        },
+        {
+          "title": "内马尔教野兽先生庆祝手势舞",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%95%99%E9%87%8E%E5%85%BD%E5%85%88%E7%94%9F%E5%BA%86%E7%A5%9D%E6%89%8B%E5%8A%BF%E8%88%9E",
+          "hot": "902.8万"
+        },
+        {
+          "title": "全网最懂球的人如何选边梅西C罗",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%9C%80%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E9%80%89%E8%BE%B9%E6%A2%85%E8%A5%BFC%E7%BD%97",
+          "hot": "812.2万"
+        },
+        {
+          "title": "C罗自信回击状态质疑",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%87%AA%E4%BF%A1%E5%9B%9E%E5%87%BB%E7%8A%B6%E6%80%81%E8%B4%A8%E7%96%91",
+          "hot": "809.1万"
+        },
+        {
+          "title": "美加墨世界杯美国开幕式",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%95%E5%BC%8F",
           "hot": "773.8万"
+        },
+        {
+          "title": "巴西队将迎美加墨世界杯首秀",
+          "url": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%B0%86%E8%BF%8E%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
+          "hot": "770.1万"
         },
         {
           "title": "萌宠界世界杯预言家已上线",
           "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E7%95%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "hot": "773万"
+          "hot": "768.5万"
         },
         {
-          "title": "美加墨世界杯加拿大开幕式",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "772.9万"
-        },
-        {
-          "title": "现场观赛世界杯是什么体验",
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "769万"
+          "title": "沉浸式体验美加墨世界杯",
+          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "766.8万"
         }
       ],
-      "count": 15,
+      "count": 11,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "克洛普+穆勒建议纳帅让穆西亚拉替补，但纳帅会坚持让他首发",
+          "title": "世界杯裁判员安排：法加尼将执法法国对塞内加尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德天空：如果德国本届世界杯进入八强，德国足协将视为成功",
+          "title": "奥塔门迪：这是我的最后一届世界杯，只有团结才能征服一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：芝加哥火焰追逐格雷茨卡，想同时免签他和莱万作为主力",
+          "title": "小西蒙尼：我会努力将家族姓氏带到最高峰；梅西就是一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "厄德高：我15岁就完成国家队首秀，和挪威踢世界杯梦想成真",
+          "title": "塞内西：带着对世界杯的期望我一直在训练，直到最后一刻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -159,32 +138,32 @@
           "hot": ""
         },
         {
-          "title": "克洛泽说希望梅西破掉他世界杯16球的记录，不懂就问，对梅西和巴萨造成最大伤害的德拜球迷，为什么对梅西如此偏爱？",
+          "title": "你们有没发现，这届世界杯，能跑的球队都很好看，不管结果怎么样，加拿大，美国，韩国，瑞士，奥地利，有英超这种节奏的球队都爽得飞起，淘汰赛除外，一般节奏很慢，很谨慎，磨点球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：戴维因索薪过高被巴萨放弃，世界杯首秀表现低迷",
+          "title": "是有病吗，满屏幕的b席。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "据转会记者罗马诺透露，皇马计划在世界杯结束后再完成2-3笔签约，核心补强方向为防线与中场，在签下b席，科纳特，邓弗里斯后，哪些球员还可能被签约？",
+          "title": "世界杯年——26夏天弗里克的小妖名单",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "居莱尔加5000万换恩佐谁赞成谁反对",
+          "title": "B席就是穆鸟的另一个桑切斯呀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "蹲今晚巴西VS摩洛哥的兄弟集合！顺便唠唠姆巴佩那离谱民调",
+          "title": "在B席到位之后，进入一出一进模式",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【绯闻对象】曼城中场——B席（31岁/葡萄牙）",
+          "title": "罗马诺：皇马希望莫德里奇退役后在俱乐部担任职务。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -193,45 +172,9 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "世界杯第三比赛日前瞻：五星巴西亮相，袋鼠军团将战土耳其",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德罗-内托：世界杯对我是很大的动力，我想为大家赢得胜利",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "本届世界杯球队参赛次数榜：巴西23次，自首届至今从未缺席",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：瓦伦西亚仅居马尔特出战世界杯，但因租借补偿金将减半",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "里斯-詹姆斯：我一直都想踢世界杯，比赛充满悬念时氛围更好",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：梅西已恢复正常合练，预计将在对阿尔及利亚比赛中首发",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意媒：意大利无缘世界杯，意大利球星缺少一个表现自己的机会",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 7,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
@@ -276,6 +219,11 @@
           "hot": ""
         },
         {
+          "title": "早上6点 世界杯首场强强对话：8万人围观14亿大战 首发曝光",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "知名演员吐槽台湾看不了世界杯：满屏棒球NBA，唯独没足球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -296,7 +244,7 @@
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
