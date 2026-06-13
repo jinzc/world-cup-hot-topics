@@ -1,11 +1,17 @@
 {
-  "update_time": "2026-06-14 02:16:23",
+  "update_time": "2026-06-14 04:22:14",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "巴西球迷嘲讽梅西C罗",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E5%98%B2%E8%AE%BD%E6%A2%85%E8%A5%BFC%E7%BD%97",
+          "title": "巴西选内马尔去世界杯是正确决定吗",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%80%89%E5%86%85%E9%A9%AC%E5%B0%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%AD%A3%E7%A1%AE%E5%86%B3%E5%AE%9A%E5%90%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "巴西主帅给内马尔提三大要求",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E4%B8%BB%E5%B8%85%E7%BB%99%E5%86%85%E9%A9%AC%E5%B0%94%E6%8F%90%E4%B8%89%E5%A4%A7%E8%A6%81%E6%B1%82",
           "hot": 0,
           "label": ""
         },
@@ -16,13 +22,19 @@
           "label": ""
         },
         {
+          "title": "巴西球迷嘲讽梅西C罗",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E5%98%B2%E8%AE%BD%E6%A2%85%E8%A5%BFC%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
           "title": "甲亢哥预测C罗夺冠被驱逐",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E4%BA%A2%E5%93%A5%E9%A2%84%E6%B5%8BC%E7%BD%97%E5%A4%BA%E5%86%A0%E8%A2%AB%E9%A9%B1%E9%80%90",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -33,13 +45,13 @@
     "B站": {
       "topics": [
         {
-          "title": "为什么各国抢着申办世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "在MC里体验世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
-          "title": "在MC里体验世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "为什么各国抢着申办世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
@@ -61,91 +73,101 @@
         {
           "title": "全网最懂球的人如何选边梅西C罗",
           "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%9C%80%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E9%80%89%E8%BE%B9%E6%A2%85%E8%A5%BFC%E7%BD%97",
-          "hot": "1134.7万"
+          "hot": "1068.7万"
         },
         {
           "title": "体验史上最贵世界杯要花多少钱",
           "url": "https://www.douyin.com/search/%E4%BD%93%E9%AA%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1",
-          "hot": "1053.1万"
+          "hot": "1060.6万"
         },
         {
           "title": "内马尔教野兽先生庆祝手势舞",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%95%99%E9%87%8E%E5%85%BD%E5%85%88%E7%94%9F%E5%BA%86%E7%A5%9D%E6%89%8B%E5%8A%BF%E8%88%9E",
-          "hot": "937.3万"
+          "hot": "932.1万"
         },
         {
           "title": "内马尔无缘巴西队世界杯首战",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
-          "hot": "935.1万"
+          "hot": "916.7万"
         },
         {
           "title": "C罗自信回击状态质疑",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E8%87%AA%E4%BF%A1%E5%9B%9E%E5%87%BB%E7%8A%B6%E6%80%81%E8%B4%A8%E7%96%91",
-          "hot": "912.7万"
+          "hot": "787.8万"
         },
         {
           "title": "美加墨世界杯美国开幕式",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "807.1万"
+          "hot": "775.6万"
         },
         {
           "title": "我在世界杯现场偶遇了贝克汉姆",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E5%81%B6%E9%81%87%E4%BA%86%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86",
-          "hot": "781.7万"
-        },
-        {
-          "title": "姆巴佩给中国粉丝签名",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
-          "hot": "772.4万"
+          "hot": "768.8万"
         },
         {
           "title": "Lisa白色机能风亮相世界杯",
           "url": "https://www.douyin.com/search/Lisa%E7%99%BD%E8%89%B2%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "772.2万"
-        },
-        {
-          "title": "万物皆可世界杯涂鸦风",
-          "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B6%82%E9%B8%A6%E9%A3%8E",
-          "hot": "769.4万"
+          "hot": "767.1万"
         },
         {
           "title": "沉浸式体验美加墨世界杯",
           "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "768万"
+          "hot": "766.6万"
+        },
+        {
+          "title": "姆巴佩给中国粉丝签名",
+          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
+          "hot": "765.4万"
+        },
+        {
+          "title": "万物皆可世界杯涂鸦风",
+          "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B6%82%E9%B8%A6%E9%A3%8E",
+          "hot": "765万"
+        },
+        {
+          "title": "美加墨世界杯加拿大开幕式",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "763.7万"
+        },
+        {
+          "title": "世界杯新单曲IN MY HAND",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%96%B0%E5%8D%95%E6%9B%B2IN+MY+HAND",
+          "hot": "761.4万"
         }
       ],
-      "count": 11,
+      "count": 13,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "节目效果！甲亢哥预测C罗夺冠，伊布将他赶出直播间",
+          "title": "世界杯应有的样子！瑞士与卡塔尔球迷赛前友好共舞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "BBC解析世界杯新规：VAR抓假摔规则层面属错判；补水断节奏",
+          "title": "恩博洛世界杯生涯3粒进球，分别攻破非洲欧洲和亚洲球队球门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "懂伪装！秘鲁警方扮世界杯吉祥物抓毒贩，查获2524包可卡因",
+          "title": "恩博洛点射破门，成为第6位连续多届世界杯进球的瑞士球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皮尔斯：英格兰要抓住这次绝佳机会去赢得世界杯",
+          "title": "劳逸结合！C罗社媒晒沙滩照，轻松备战个人第六届世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西世界杯首战热度爆棚，对阵摩洛哥的比赛已售出约8万张票",
+          "title": "本届第13次参赛，瑞士首次在世界杯常规时间获得点球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "未经允许接受采访，菲利克斯被工作人员当场提醒，面露不悦",
+          "title": "本届世界杯首粒点球！恩博洛操刀命中，瑞士1-0卡塔尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -155,17 +177,17 @@
           "hot": ""
         },
         {
-          "title": "C罗曼联队史的地位能进前十吗？",
+          "title": "嘛的为了一个b席这么贬低自己球员我真见识到了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "引进B席，有了后场出球洗球的人，再引进一个防守好硬一点的后腰就行，不用买恩佐了！",
+          "title": "截胡b席，让我想到当年曼联截胡374，没啥大影响的，",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "AbrahamPRomero：皇马正在等待维尼修斯在世界杯上的表现，以决定是提高续约报价，还是在转会市场上寻找替代人选。",
+          "title": "文体两开花，谁能想到姆巴佩居然还有长笛技能包",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -176,32 +198,32 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：亚马尔和尼科已完成训练，可以出战世界杯首轮比赛",
+          "title": "认真投入，姆巴佩和登贝莱在法国队队内训练中激烈拼抢",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "库拉索前锋：世界杯对我来说是一生一次的舞台，错过不会再来",
+          "title": "雷纳：不会再去回想四年前世界杯的风波，如今我已经更加成熟",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国记者：姆巴佩想踢左路把中路让给登贝莱，但没被德尚准许",
+          "title": "杜维尔：海地等了52年重返世界杯，现在我们要为创造历史而战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德尚：姆巴佩清楚发言时不只代表自己，他作为队长成长很多",
+          "title": "布林德：荷兰队参加世界杯就要相信能夺冠，否则没必要参赛了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "支持西班牙还是法国？姆巴佩女友：很难选择，我不知道",
+          "title": "本届世界杯首粒点球出现，瑞士队史首次在世界杯比赛获得点球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿比亚蒂：世界杯支持安切洛蒂；盼米兰重返高水平",
+          "title": "德容：我们的阵容有些难以预测，这可能会成为踢世界杯的优势",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
