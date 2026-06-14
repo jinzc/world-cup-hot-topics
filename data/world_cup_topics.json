@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-15 03:48:38",
+  "update_time": "2026-06-15 05:22:29",
   "sources": {
     "微博": {
       "topics": [
@@ -16,20 +16,8 @@
           "label": ""
         },
         {
-          "title": "库拉索世界杯首球",
-          "url": "https://s.weibo.com/weibo?q=%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
           "title": "哈弗茨梅开二度",
           "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%BC%97%E8%8C%A8%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "穆西亚拉低射破门",
-          "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%E4%BD%8E%E5%B0%84%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         },
@@ -40,13 +28,19 @@
           "label": ""
         },
         {
-          "title": "张继科谈C罗封神瞬间",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B0%88C%E7%BD%97%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4",
+          "title": "穆西亚拉低射破门",
+          "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%E4%BD%8E%E5%B0%84%E7%A0%B4%E9%97%A8",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "库拉索世界杯首球",
+          "url": "https://s.weibo.com/weibo?q=%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "百度": {
@@ -57,12 +51,17 @@
     "B站": {
       "topics": [
         {
+          "title": "世界周刊谈世界杯政治化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%BF%E6%B2%BB%E5%8C%96",
+          "hot": 0
+        },
+        {
           "title": "在MC里体验世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -75,106 +74,61 @@
         {
           "title": "库拉索世界杯历史首球",
           "url": "https://www.douyin.com/search/%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%A6%96%E7%90%83",
-          "hot": "784.7万"
+          "hot": "780.5万"
         },
         {
           "title": "内马尔之舞又杀回来了",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "772.9万"
-        },
-        {
-          "title": "现场见证美加墨巴西首秀",
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E7%BE%8E%E5%8A%A0%E5%A2%A8%E5%B7%B4%E8%A5%BF%E9%A6%96%E7%A7%80",
-          "hot": "770万"
-        },
-        {
-          "title": "日本队称世界杯夺冠是白日做梦吗",
-          "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E9%98%9F%E7%A7%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%98%AF%E7%99%BD%E6%97%A5%E5%81%9A%E6%A2%A6%E5%90%97",
-          "hot": "766.1万"
+          "hot": "775.2万"
         },
         {
           "title": "梁洛施亮相上影节开幕式",
           "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "764.5万"
+          "hot": "772.1万"
         },
         {
-          "title": "内马尔 意难平",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
-          "hot": "764万"
+          "title": "日本队称世界杯夺冠是白日做梦吗",
+          "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E9%98%9F%E7%A7%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%98%AF%E7%99%BD%E6%97%A5%E5%81%9A%E6%A2%A6%E5%90%97",
+          "hot": "768万"
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "荷兰世界杯首发首次无荷甲球员，对手日本却有两名荷甲球员",
+          "title": "哈弗茨：14年7-1已载入史册，如今同样比分开局给了我们信心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "日耳曼守望者！诺伊尔见证了两场德国队在世界杯的7-1之战",
+          "title": "诺伊尔：开门红带来信心，但这场7-1不能与14年的半决赛相比",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尔茨本场送出1次助攻，4关键传球8夺回球权，对抗7胜3",
+          "title": "梅西与阿根廷队友驻地狂欢，背景放着德国vs库拉索的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本世纪世界杯仅出现5次某队单场进球7+，其中德国占3次",
+          "title": "净胜6球！德国7-1大胜并列世界杯历史第12大分差",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "翁达夫替补登场贡献1球2助，继2014年J罗后世界杯第二人",
+          "title": "你们有没发现，这届世界杯，能跑的球队都很好看，不管结果怎么样，加拿大，美国，韩国，瑞士，奥地利，有英超这种节奏的球队都爽得飞起，淘汰赛除外，一般节奏很慢，很谨慎，磨点球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨国家队首秀后大赛打进8球，欧洲仅凯恩姆巴佩更多",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈弗茨本场梅开二度，1关键传球1解围，对抗8胜2",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯历史第4次出现7-1的比分，也是21世纪里的第2次",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯首秀单场丢7球，库拉索是1954韩国后的首队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "超越巴西，德国239粒进球登顶世界杯历史总进球榜",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "20球，德国队是世界杯历史替补球员进球最多的球队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "德国队本场由6名不同球员进球，距世界杯纪录仅差1人",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "突发：恩佐·费尔南德斯的经纪人与皇家马德里的谈判已持续两个月！这是世界杯结束后值得关注的一桩转会动态！@ESPNArgentina",
+          "title": "恩佐和小蜘蛛哪一个会去皇马？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
@@ -185,62 +139,17 @@
           "hot": ""
         },
         {
-          "title": "哈弗茨连续5场比赛参与进球，国家队进球数超过马特乌斯",
+          "title": "诺伊尔：这支德国队有很多可能性，7-1不是轻松能踢出的比分",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费兰：7号一直对我很特别；世界杯首战要打好开局踢出风格",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "诺伊尔：为这一天我等待了太久；我们从未停止过对进球的渴望",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈弗茨在德国队连续3场进球，追平个人最佳纪录",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "进攻属性强，德国后卫布朗世界杯首秀传射建功",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯历史大比分榜：德国7-1库拉索未进前10，匈牙利保持纪录",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德国队上一届世界杯一共打入6球，本届第一场已进7球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "荷兰首次在世界杯排出无荷甲球员首发，日本则有两名荷甲球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德国队2000年至今世界杯取胜24场，超越巴西同期所有球队第一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "自哈弗茨德国首秀以来，欧洲球员仅凯恩姆巴佩大赛进球比他多",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "莫德里奇：我在意大利最好的俱乐部圆梦；伊涅斯塔最难对付",
+          "title": "RMC：乌拉圭队赴美航班延误，或遭国际足联罚款",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
