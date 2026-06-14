@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-14 06:13:21",
+  "update_time": "2026-06-14 08:17:00",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "巴西醒醒 这是世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%86%92%E9%86%92%20%E8%BF%99%E6%98%AF%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         },
@@ -16,43 +16,25 @@
           "label": ""
         },
         {
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "美加墨世界杯首个点球",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%B8%AA%E7%82%B9%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
           "title": "姆巴佩想换位置被法国主帅拒绝",
           "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%83%B3%E6%8D%A2%E4%BD%8D%E7%BD%AE%E8%A2%AB%E6%B3%95%E5%9B%BD%E4%B8%BB%E5%B8%85%E6%8B%92%E7%BB%9D",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "世界杯预测",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "巴西队美加墨世界杯首秀",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%98%9F%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "巴西主帅给内马尔提三大要求",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E4%B8%BB%E5%B8%85%E7%BB%99%E5%86%85%E9%A9%AC%E5%B0%94%E6%8F%90%E4%B8%89%E5%A4%A7%E8%A6%81%E6%B1%82",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "本届世界杯迎来首场强强对决",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E9%A6%96%E5%9C%BA%E5%BC%BA%E5%BC%BA%E5%AF%B9%E5%86%B3",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "甲亢哥预测C罗夺冠被驱逐",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E4%BA%A2%E5%93%A5%E9%A2%84%E6%B5%8BC%E7%BD%97%E5%A4%BA%E5%86%A0%E8%A2%AB%E9%A9%B1%E9%80%90",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -63,6 +45,11 @@
     "B站": {
       "topics": [
         {
+          "title": "退钱哥看世界杯美国揭幕战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E6%8F%AD%E5%B9%95%E6%88%98",
+          "hot": 0
+        },
+        {
           "title": "在MC里体验世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
@@ -71,19 +58,9 @@
           "title": "为什么各国抢着申办世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
-        },
-        {
-          "title": "退钱哥看世界杯美国揭幕战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E6%8F%AD%E5%B9%95%E6%88%98",
-          "hot": 0
-        },
-        {
-          "title": "解读美加墨世界杯政治含量",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%BF%E6%B2%BB%E5%90%AB%E9%87%8F",
-          "hot": 0
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -94,209 +71,149 @@
     "抖音": {
       "topics": [
         {
-          "title": "C罗自信回击状态质疑",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%87%AA%E4%BF%A1%E5%9B%9E%E5%87%BB%E7%8A%B6%E6%80%81%E8%B4%A8%E7%96%91",
-          "hot": "1043.2万"
-        },
-        {
-          "title": "内马尔无缘巴西队世界杯首战",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
-          "hot": "925.6万"
-        },
-        {
           "title": "全网最懂球的人如何选边梅西C罗",
           "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%9C%80%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E9%80%89%E8%BE%B9%E6%A2%85%E8%A5%BFC%E7%BD%97",
-          "hot": "868.6万"
-        },
-        {
-          "title": "内马尔教野兽先生庆祝手势舞",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%95%99%E9%87%8E%E5%85%BD%E5%85%88%E7%94%9F%E5%BA%86%E7%A5%9D%E6%89%8B%E5%8A%BF%E8%88%9E",
-          "hot": "775.4万"
+          "hot": "1028.5万"
         },
         {
           "title": "世界杯还需要内马尔吗",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%98%E9%9C%80%E8%A6%81%E5%86%85%E9%A9%AC%E5%B0%94%E5%90%97",
-          "hot": "767.7万"
+          "hot": "878.5万"
         },
         {
           "title": "体验史上最贵世界杯要花多少钱",
           "url": "https://www.douyin.com/search/%E4%BD%93%E9%AA%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1",
-          "hot": "766.2万"
+          "hot": "874.8万"
         },
         {
-          "title": "Lisa白色机能风亮相世界杯",
-          "url": "https://www.douyin.com/search/Lisa%E7%99%BD%E8%89%B2%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "764.8万"
+          "title": "内马尔教野兽先生庆祝手势舞",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%95%99%E9%87%8E%E5%85%BD%E5%85%88%E7%94%9F%E5%BA%86%E7%A5%9D%E6%89%8B%E5%8A%BF%E8%88%9E",
+          "hot": "793.5万"
         },
         {
-          "title": "万物皆可世界杯涂鸦风",
-          "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B6%82%E9%B8%A6%E9%A3%8E",
-          "hot": "764.5万"
-        },
-        {
-          "title": "沉浸式体验美加墨世界杯",
-          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "764.1万"
-        },
-        {
-          "title": "姆巴佩给中国粉丝签名",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
-          "hot": "763.9万"
+          "title": "内马尔无缘巴西队世界杯首战",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
+          "hot": "771.2万"
         },
         {
           "title": "我在世界杯现场偶遇了贝克汉姆",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E5%81%B6%E9%81%87%E4%BA%86%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86",
-          "hot": "763.3万"
+          "hot": "771.1万"
         },
         {
           "title": "萌宠界世界杯预言家已上线",
           "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E7%95%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "hot": "763.2万"
+          "hot": "770.1万"
         },
         {
           "title": "美加墨世界杯都有什么看点",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E7%9C%8B%E7%82%B9",
-          "hot": "762.8万"
-        }
-      ],
-      "count": 13,
-      "status": "success"
-    },
-    "虎扑": {
-      "topics": [
-        {
-          "title": "恩博洛本场禁区11次触球，超卡塔尔全队总和&amp;领跑本届世界杯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "hot": "770万"
         },
         {
-          "title": "35岁69天，布努成为摩洛哥队史世界杯出场最年长球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "万物皆可世界杯涂鸦风",
+          "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B6%82%E9%B8%A6%E9%A3%8E",
+          "hot": "767.9万"
         },
         {
-          "title": "非洲球员世界杯出场榜：阿什拉夫/吉安/比耶克并列第一",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "姆巴佩给中国粉丝签名",
+          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
+          "hot": "767.2万"
         },
         {
-          "title": "库奇93分59秒绝平瑞士进球，为世界杯小组赛第三晚扳平球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "世界杯主题曲DNA演唱者是谁",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2DNA%E6%BC%94%E5%94%B1%E8%80%85%E6%98%AF%E8%B0%81",
+          "hot": "766.9万"
         },
         {
-          "title": "11场，阿什拉夫成为摩洛哥队史世界杯出场数最多的球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "沉浸式体验美加墨世界杯",
+          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "766.4万"
         },
         {
-          "title": "创造历史！安切洛蒂成为首位率领巴西征战世界杯的外籍主帅",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "C罗自信回击状态质疑",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%87%AA%E4%BF%A1%E5%9B%9E%E5%87%BB%E7%8A%B6%E6%80%81%E8%B4%A8%E7%96%91",
+          "hot": "765.6万"
         },
         {
-          "title": "维尼修斯迎来代表巴西出战的第50场里程碑，前49场9球9助",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "梁洛施亮相上影节开幕式",
+          "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "764.4万"
         },
         {
-          "title": "巴西首发平均年龄29岁235天，创近20年世界杯最老纪录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "连续7届世界杯首战不败！瑞士追平比利时，仅次于巴西等3队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "会不会觉得欧冠甚至是欧联的比赛强度比世界杯高得多？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "截胡b席，让我想到当年曼联截胡374，没啥大影响的，",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：戴维因索薪过高被巴萨放弃，世界杯首秀表现低迷",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马球员世界杯热线——26/6/14日场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "好消息是，弗洛伦蒂诺不可能再死保姆巴佩了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "B席，邓弗里斯和科纳特，如果再把格瓦拿下，再签一个中场，这个转会窗完美",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "title": "陈坤高圆圆亮相上影节开幕式",
+          "url": "https://www.douyin.com/search/%E9%99%88%E5%9D%A4%E9%AB%98%E5%9C%86%E5%9C%86%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "763.7万"
         }
       ],
       "count": 15,
       "status": "success"
     },
+    "虎扑": {
+      "topics": [
+        {
+          "title": "世界杯：巴西1-1摩洛哥，萨伊瓦里建功，维尼修斯扳平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "内马尔亲友团在美国租别墅观战世界杯，日租金高达2900英镑",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "18岁254天，布阿迪是世界杯历史首发时第三年轻非洲球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "现在c罗被黑的很惨，好奇他在曼联和皇马时期巅峰到底真正的是什么水平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "嘛的为了一个b席这么贬低自己球员我真见识到了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "熊这场也散大步了，处理球也不行，踢得不好。安胖要好好敲打一下啦。不过世界杯才刚开始，巴西只能依靠熊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 6,
+      "status": "success"
+    },
     "懂球帝": {
       "topics": [
         {
-          "title": "卡塔尔1-1瑞士收获世界杯第一分，恩博洛点射，胡希绝平",
+          "title": "巴西1-1战平摩洛哥，萨伊瓦里破僵，维尼修斯个人能力扳平",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "106场超越卢西奥，马尔基尼奥斯独占巴西队史出场榜第六",
+          "title": "扳平比分，维尼修斯当选巴西vs摩洛哥全场最佳球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "18岁254天，布阿迪成为非洲国家队世界杯首发第三年轻球员",
+          "title": "17胜4平，巴西队已连续21届世界杯首战保持不败",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "乌拉圭前锋比尼亚斯：我们状态很好，对世界杯首战动力十足",
+          "title": "摩洛哥同时派出11名非本国出生球员，世界杯历史第一队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "11场，阿什拉夫追平非洲球员世界杯出场次数纪录",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "凯恩：克罗地亚是一支很难对付的球队，我们必须对此做好准备",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯B组积分榜：四队均战平，且进球数均为1个",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "平均年龄29岁235天，巴西排出自2006年以来世界杯最年长首发",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "旧将：米兰现在没总监没主帅，伊布却还在解说世界杯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "93分59秒绝平，胡希打入世界杯小组赛第三晚的扳平进球",
+          "title": "澳大利亚球迷：加入亚足联可能是我们做的最正确的决定",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -312,17 +229,22 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-维尼修斯世界波救主 巴西首战1-1摩洛哥",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯：队史首分！卡塔尔1-1瑞士终结3连败 胡希读秒绝平救主",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯首次出现VAR介入后让“黄牌易主”：巴拉圭队球员假摔“陷害”对手险得手",
+          "title": "摩洛哥反击破门！破28年魔咒，塞巴里世界杯处子球，迪亚斯妙传",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯狂欢夜：加拿大创历史，获队史首分，欧洲球队遭遇2场不胜",
+          "title": "世界杯变天？亚洲队2战欧洲队不败！近2届已占上风 压力给到日本",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -357,7 +279,7 @@
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
