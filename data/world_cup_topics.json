@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-14 23:11:19",
+  "update_time": "2026-06-15 01:37:36",
   "sources": {
     "微博": {
       "topics": [
@@ -8,9 +8,27 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%A2%84%E8%A8%80%E5%AE%B6",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "库拉索世界杯首球",
+          "url": "https://s.weibo.com/weibo?q=%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "朋友圈很少人发世界杯了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BE%88%E5%B0%91%E4%BA%BA%E5%8F%91%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "诺伊尔首发出战",
+          "url": "https://s.weibo.com/weibo?q=%E8%AF%BA%E4%BC%8A%E5%B0%94%E9%A6%96%E5%8F%91%E5%87%BA%E6%88%98",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -21,17 +39,12 @@
     "B站": {
       "topics": [
         {
-          "title": "功夫世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
-        {
           "title": "在MC里体验世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "知乎": {
@@ -42,94 +55,124 @@
     "抖音": {
       "topics": [
         {
-          "title": "内马尔 意难平",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
-          "hot": "917.8万"
+          "title": "库拉索世界杯历史首球",
+          "url": "https://www.douyin.com/search/%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%A6%96%E7%90%83",
+          "hot": "850.9万"
         },
         {
           "title": "内马尔之舞又杀回来了",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "781.4万"
+          "hot": "776.6万"
         },
         {
           "title": "日本队称世界杯夺冠是白日做梦吗",
           "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E9%98%9F%E7%A7%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%98%AF%E7%99%BD%E6%97%A5%E5%81%9A%E6%A2%A6%E5%90%97",
-          "hot": "778.6万"
+          "hot": "773.4万"
+        },
+        {
+          "title": "内马尔 意难平",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
+          "hot": "771.8万"
         },
         {
           "title": "梁洛施亮相上影节开幕式",
           "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "774.1万"
+          "hot": "768.9万"
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世体：李刚仁对加盟马竞持积极态度，巴黎对其估价3500万欧",
+          "title": "历史性时刻，库拉索队攻入队史在世界杯的首粒进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "日媒：包括利雅得胜利在内多支沙特球队希望签下远藤航",
+          "title": "6分钟，恩梅查的进球是2010以来德国队世界杯最快进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "吉鲁：22世界杯德尚对我给本泽马打替补有疑虑；他总支持我",
+          "title": "德国队史世界杯对中北美队7胜1平1负，仅2018不敌墨西哥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：我和德尚关系早已超越教练和球员，我打心底了解他",
+          "title": "78岁260天！艾德沃卡特成世界杯史上最年长主帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沃克选英格兰首发：中场赖斯+安德森+贝林，左边选拉什福德",
+          "title": "森林对安德森&amp;怀特均要价1.25亿镑；皇马不愿1.2亿购买恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德国数学家预测今年荷兰夺冠，他连续预测对三届世界杯冠军",
+          "title": "40岁79天！诺伊尔排名世界杯历史最年长出场球员第七位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有一个摩洛哥后腰也因为世界杯超神被曼联寄予厚望过",
+          "title": "你们有没发现，这届世界杯，能跑的球队都很好看，不管结果怎么样，加拿大，美国，韩国，瑞士，奥地利，有英超这种节奏的球队都爽得飞起，淘汰赛除外，一般节奏很慢，很谨慎，磨点球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]摩洛哥足协主席：希望决赛对阵西班牙，看亚马尔是否选对了",
+          "title": "隔壁这么有钱，恩佐也要去隔壁了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "习惯了看巴萨和欧冠 再看世界杯感觉差太远了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩的重心在踢球上吗？",
+          "title": "库库转会对西班牙世界杯不太利好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "库拉索球迷：目睹球队晋级世界杯的喜悦，仅次于我孩子出生那天",
+          "title": "自1970年以来，德国队首次连续7场世界杯丢球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "攻破德国队球门，科梅嫩西亚打进库拉索队史世界杯首球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "又丢球了，德国队上一次在世界杯零封对手是2014年决赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "开场第6分钟破门，恩梅加打入本届世界杯最快进球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "名记：蓝军愿让恩佐留队，尚未收到有球队准备满足要价的信号",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "摩洛哥世界杯小组赛连续5场不败，首次在南美球队身上拿分",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "ESPN：恩佐的经纪人从4月起就一直在和皇马进行谈判",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -150,6 +193,11 @@
           "hot": ""
         },
         {
+          "title": "超越马特乌斯，40岁诺伊尔成为德国队史最年长出场国脚",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "中国裁判本届世界杯首次执法！澳大利亚2比0战胜土耳其",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -166,11 +214,6 @@
         },
         {
           "title": "最强归化军团 摩洛哥同时派11位非本国出生球员登场 创世界杯历史",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "魔幻世界杯：欧洲南美非洲球队全部没赢球 最弱的2地区爆冷拿11分",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
