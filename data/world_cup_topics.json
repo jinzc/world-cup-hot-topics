@@ -1,28 +1,16 @@
 {
-  "update_time": "2026-06-14 20:04:53",
+  "update_time": "2026-06-14 23:11:19",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "梅西6到飞起",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF6%E5%88%B0%E9%A3%9E%E8%B5%B7",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "阿迪达斯在上海建了一座梅西之屋",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BB%BA%E4%BA%86%E4%B8%80%E5%BA%A7%E6%A2%85%E8%A5%BF%E4%B9%8B%E5%B1%8B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "看世界杯遭持枪抢劫中国男子已回国",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E9%81%AD%E6%8C%81%E6%9E%AA%E6%8A%A2%E5%8A%AB%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%B7%B2%E5%9B%9E%E5%9B%BD",
+          "title": "世界杯出现了真正的预言家",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%A2%84%E8%A8%80%E5%AE%B6",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -33,13 +21,13 @@
     "B站": {
       "topics": [
         {
-          "title": "在MC里体验世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "功夫世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%9F%E5%A4%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
-          "title": "为什么各国抢着申办世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "在MC里体验世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
@@ -56,71 +44,66 @@
         {
           "title": "内马尔 意难平",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
-          "hot": "847.6万"
-        },
-        {
-          "title": "维尼修斯说巴西会变更强",
-          "url": "https://www.douyin.com/search/%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%E8%AF%B4%E5%B7%B4%E8%A5%BF%E4%BC%9A%E5%8F%98%E6%9B%B4%E5%BC%BA",
-          "hot": "778.3万"
+          "hot": "917.8万"
         },
         {
           "title": "内马尔之舞又杀回来了",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "776.7万"
+          "hot": "781.4万"
         },
         {
-          "title": "现场见证美加墨巴西首秀",
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E7%BE%8E%E5%8A%A0%E5%A2%A8%E5%B7%B4%E8%A5%BF%E9%A6%96%E7%A7%80",
-          "hot": "774.5万"
+          "title": "日本队称世界杯夺冠是白日做梦吗",
+          "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E9%98%9F%E7%A7%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%98%AF%E7%99%BD%E6%97%A5%E5%81%9A%E6%A2%A6%E5%90%97",
+          "hot": "778.6万"
         },
         {
           "title": "梁洛施亮相上影节开幕式",
           "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "772.7万"
-        },
-        {
-          "title": "带你走进美加墨",
-          "url": "https://www.douyin.com/search/%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E7%BE%8E%E5%8A%A0%E5%A2%A8",
-          "hot": "772.2万"
+          "hot": "774.1万"
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "走出无缘世界杯的失落，福登和女友现场观看拳击比赛",
+          "title": "世体：李刚仁对加盟马竞持积极态度，巴黎对其估价3500万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "草根苏超全面崛起！基层足球热潮能否助力国足重返世界杯？",
+          "title": "日媒：包括利雅得胜利在内多支沙特球队希望签下远藤航",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝隆：梅西必须学会接受他人的帮助，这种心态的转变很难",
+          "title": "吉鲁：22世界杯德尚对我给本泽马打替补有疑虑；他总支持我",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不止足球对决！极端高温成新考验，探秘本届世界杯气候难题",
+          "title": "姆巴佩：我和德尚关系早已超越教练和球员，我打心底了解他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：拉什福德已做好无法留巴萨的心理准备，可能重返曼联",
+          "title": "沃克选英格兰首发：中场赖斯+安德森+贝林，左边选拉什福德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "索马里裁判因被拒签无法执法世界杯，但仍将获全额执法报酬",
+          "title": "德国数学家预测今年荷兰夺冠，他连续预测对三届世界杯冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马体育报：埃德森将于今天在纽约接受曼联的体检",
+          "title": "有一个摩洛哥后腰也因为世界杯超神被曼联寄予厚望过",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]摩洛哥足协主席：希望决赛对阵西班牙，看亚马尔是否选对了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -130,58 +113,23 @@
           "hot": ""
         },
         {
-          "title": "为什么会有人信占卜能推测出世界杯冠军啊，问大数据AI都比这准吧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "刷传奇赛刷到萨内蒂聊世界杯！小蜘蛛根本不受转会瓜影响",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "穆里尼奥看贝林厄姆的表情，简直没救了",
+          "title": "姆巴佩的重心在踢球上吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第四比赛日前瞻：德国战车盼碾碎库拉索，荷兰日本狭路相逢",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "科内：目前只考虑世界杯，未来等赛后再谈",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "波媒：莱万将在芝加哥考察两日，并与高层和教练会面",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "埃及队将不会在世界杯球衣上使用代表非洲杯冠军的星标",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩女友：曾对足球一无所知，现在开始感兴趣",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：美国队世界杯首战收视2490万创纪录，超NBA总决赛前4场",
+          "title": "库拉索球迷：目睹球队晋级世界杯的喜悦，仅次于我孩子出生那天",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
@@ -227,6 +175,16 @@
           "hot": ""
         },
         {
+          "title": "78岁260天，库拉索主帅艾德沃卡特是世界杯史上最年长主教练",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "队报：美国队世界杯首战收视2490万创纪录，超NBA总决赛前4场",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "因伤缺战！34岁内马尔戴帽亮相 全身金首饰+名表 开心与妻女互动",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -240,24 +198,9 @@
           "title": "草台班子?世界杯开幕式离谱翻车 大力神杯掉皮",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "知名演员吐槽台湾看不了世界杯：满屏棒球NBA，唯独没足球",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "阿媒：阿根廷9人将佩戴世界杯首秀徽章出战",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "英格兰队世界杯遭盗窃 训练装备+专属球鞋被洗劫一空 仅剩1个足球",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 12,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
