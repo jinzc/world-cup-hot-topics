@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-14 08:17:00",
+  "update_time": "2026-06-14 13:58:49",
   "sources": {
     "微博": {
       "topics": [
@@ -10,31 +10,13 @@
           "label": ""
         },
         {
-          "title": "巴西选内马尔去世界杯是正确决定吗",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%80%89%E5%86%85%E9%A9%AC%E5%B0%94%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%AD%A3%E7%A1%AE%E5%86%B3%E5%AE%9A%E5%90%97",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "美加墨世界杯首个点球",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%B8%AA%E7%82%B9%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "姆巴佩想换位置被法国主帅拒绝",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%83%B3%E6%8D%A2%E4%BD%8D%E7%BD%AE%E8%A2%AB%E6%B3%95%E5%9B%BD%E4%B8%BB%E5%B8%85%E6%8B%92%E7%BB%9D",
+          "title": "央视播世界杯不播NBA总决赛",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%92%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E6%92%ADNBA%E6%80%BB%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -44,11 +26,6 @@
     },
     "B站": {
       "topics": [
-        {
-          "title": "退钱哥看世界杯美国揭幕战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E5%93%A5%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E6%8F%AD%E5%B9%95%E6%88%98",
-          "hot": 0
-        },
         {
           "title": "在MC里体验世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
@@ -60,7 +37,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -71,118 +48,98 @@
     "抖音": {
       "topics": [
         {
-          "title": "全网最懂球的人如何选边梅西C罗",
-          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%9C%80%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E9%80%89%E8%BE%B9%E6%A2%85%E8%A5%BFC%E7%BD%97",
-          "hot": "1028.5万"
+          "title": "内马尔 意难平",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
+          "hot": "1048.5万"
         },
         {
-          "title": "世界杯还需要内马尔吗",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%98%E9%9C%80%E8%A6%81%E5%86%85%E9%A9%AC%E5%B0%94%E5%90%97",
-          "hot": "878.5万"
+          "title": "现场见证美加墨巴西首秀",
+          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E7%BE%8E%E5%8A%A0%E5%A2%A8%E5%B7%B4%E8%A5%BF%E9%A6%96%E7%A7%80",
+          "hot": "862.3万"
         },
         {
-          "title": "体验史上最贵世界杯要花多少钱",
-          "url": "https://www.douyin.com/search/%E4%BD%93%E9%AA%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1",
-          "hot": "874.8万"
+          "title": "内马尔之舞又杀回来了",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "hot": "774.4万"
         },
         {
-          "title": "内马尔教野兽先生庆祝手势舞",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%95%99%E9%87%8E%E5%85%BD%E5%85%88%E7%94%9F%E5%BA%86%E7%A5%9D%E6%89%8B%E5%8A%BF%E8%88%9E",
-          "hot": "793.5万"
-        },
-        {
-          "title": "内马尔无缘巴西队世界杯首战",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98",
-          "hot": "771.2万"
-        },
-        {
-          "title": "我在世界杯现场偶遇了贝克汉姆",
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E5%81%B6%E9%81%87%E4%BA%86%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86",
-          "hot": "771.1万"
-        },
-        {
-          "title": "萌宠界世界杯预言家已上线",
-          "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E7%95%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "hot": "770.1万"
-        },
-        {
-          "title": "美加墨世界杯都有什么看点",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E7%9C%8B%E7%82%B9",
-          "hot": "770万"
-        },
-        {
-          "title": "万物皆可世界杯涂鸦风",
-          "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B6%82%E9%B8%A6%E9%A3%8E",
-          "hot": "767.9万"
-        },
-        {
-          "title": "姆巴佩给中国粉丝签名",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E7%AD%BE%E5%90%8D",
-          "hot": "767.2万"
+          "title": "带你走进美加墨",
+          "url": "https://www.douyin.com/search/%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E7%BE%8E%E5%8A%A0%E5%A2%A8",
+          "hot": "771.6万"
         },
         {
           "title": "世界杯主题曲DNA演唱者是谁",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2DNA%E6%BC%94%E5%94%B1%E8%80%85%E6%98%AF%E8%B0%81",
-          "hot": "766.9万"
-        },
-        {
-          "title": "沉浸式体验美加墨世界杯",
-          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "766.4万"
-        },
-        {
-          "title": "C罗自信回击状态质疑",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%87%AA%E4%BF%A1%E5%9B%9E%E5%87%BB%E7%8A%B6%E6%80%81%E8%B4%A8%E7%96%91",
-          "hot": "765.6万"
+          "hot": "765.3万"
         },
         {
           "title": "梁洛施亮相上影节开幕式",
           "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "764.4万"
+          "hot": "764.8万"
         },
         {
           "title": "陈坤高圆圆亮相上影节开幕式",
           "url": "https://www.douyin.com/search/%E9%99%88%E5%9D%A4%E9%AB%98%E5%9C%86%E5%9C%86%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "763.7万"
+          "hot": "762.4万"
         }
       ],
-      "count": 15,
+      "count": 7,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯：巴西1-1摩洛哥，萨伊瓦里建功，维尼修斯扳平",
+          "title": "世界杯：澳大利亚2-0土耳其，伊兰昆达、梅特卡夫建功",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔亲友团在美国租别墅观战世界杯，日租金高达2900英镑",
+          "title": "纽约参加活动！罗德里戈晒与齐达内、马塞洛和博格巴合影",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "18岁254天，布阿迪是世界杯历史首发时第三年轻非洲球员",
+          "title": "时隔16年！梅特卡夫打进澳大利亚世界杯历史第3粒禁区外远射",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在c罗被黑的很惨，好奇他在曼联和皇马时期巅峰到底真正的是什么水平",
+          "title": "上次还是2014年！澳大利亚时隔三届世界杯再次单场打进2球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "嘛的为了一个b席这么贬低自己球员我真见识到了",
+          "title": "为何品牌都抢着赞助？揭秘世界杯碾压其他赛事的原因",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "熊这场也散大步了，处理球也不行，踢得不好。安胖要好好敲打一下啦。不过世界杯才刚开始，巴西只能依靠熊",
+          "title": "阿利松：失球因在不该丢球的地方丢失球权，全队都失误了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "国足缺席世界杯，但中国制造、中国IP全方位闪耀全球赛场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看了今天的巴西中场，埃德森后面的上场机会应该会比预想的多一些了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我看摩洛哥的塞瓦里和布巴迪就不错 没必要盯着阿尔瓦雷斯吧 都成玻璃渣了...",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "熊这场也散大步了，处理球也不行，踢得不好。安胖要好好敲打一下啦。不过世界杯才刚开始，巴西只能依靠熊，他能做的更好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
@@ -193,27 +150,32 @@
           "hot": ""
         },
         {
-          "title": "扳平比分，维尼修斯当选巴西vs摩洛哥全场最佳球员",
+          "title": "世界杯午报：巴西摩洛哥握手言和",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "17胜4平，巴西队已连续21届世界杯首战保持不败",
+          "title": "20岁伊兰昆达世界杯首秀破门，成为澳大利亚最年轻世界杯进球者",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "摩洛哥同时派出11名非本国出生球员，世界杯历史第一队",
+          "title": "阿根廷前国门罗梅罗：被进球后像在笑？其实我是气笑了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "澳大利亚球迷：加入亚足联可能是我们做的最正确的决定",
+          "title": "马德兴：4年前王钰栋和伊兰昆达差不多，现在人家在世界杯进球了",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：西班牙首战阵容基本确定，罗德里、费兰在列",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -234,27 +196,37 @@
           "hot": ""
         },
         {
-          "title": "世界杯：队史首分！卡塔尔1-1瑞士终结3连败 胡希读秒绝平救主",
+          "title": "世界杯：麦克托米奈中柱 麦金补射一剑封喉 苏格兰1-0送海地4连败",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "摩洛哥反击破门！破28年魔咒，塞巴里世界杯处子球，迪亚斯妙传",
+          "title": "世界杯官方社媒：苏格兰1998年以来首次进球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯变天？亚洲队2战欧洲队不败！近2届已占上风 压力给到日本",
+          "title": "最强归化军团 摩洛哥同时派11位非本国出生球员登场 创世界杯历史",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "魔幻世界杯：欧洲南美非洲球队全部没赢球 最弱的2地区爆冷拿11分",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "因伤缺战！34岁内马尔戴帽亮相 全身金首饰+名表 开心与妻女互动",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "克洛普：世界杯中补水暂停就是个幌子，他们是为塞进更多广告",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "草台班子?世界杯开幕式离谱翻车 大力神杯掉皮",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "早上6点 世界杯首场强强对话：8万人围观14亿大战 首发曝光",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -272,14 +244,9 @@
           "title": "英格兰队世界杯遭盗窃 训练装备+专属球鞋被洗劫一空 仅剩1个足球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "坑惨安帅？曝34岁内马尔无缘世界杯小组赛！巴西队换人期限将截止",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
