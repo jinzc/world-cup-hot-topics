@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-06-15 07:18:03",
+  "update_time": "2026-06-15 13:17:59",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯出现了真正的预言家",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%A2%84%E8%A8%80%E5%AE%B6",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "朋友圈很少人发世界杯了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BE%88%E5%B0%91%E4%BA%BA%E5%8F%91%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "title": "C罗美加墨世界杯定妆照",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9A%E5%A6%86%E7%85%A7",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -27,17 +21,22 @@
     "B站": {
       "topics": [
         {
-          "title": "在MC里体验世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "世界杯德国梦回2014",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%B7%E5%9B%BD%E6%A2%A6%E5%9B%9E2014",
           "hot": 0
         },
         {
-          "title": "世界周刊谈世界杯政治化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%BF%E6%B2%BB%E5%8C%96",
+          "title": "世界杯十大疯狂的历史事件盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%A4%A7%E7%96%AF%E7%8B%82%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%8B%E4%BB%B6%E7%9B%98%E7%82%B9",
+          "hot": 0
+        },
+        {
+          "title": "2026世界杯赞助全解析",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9E%E5%8A%A9%E5%85%A8%E8%A7%A3%E6%9E%90",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -48,94 +47,69 @@
     "抖音": {
       "topics": [
         {
-          "title": "内马尔之舞又杀回来了",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "778.8万"
-        },
-        {
-          "title": "库拉索世界杯历史首球",
-          "url": "https://www.douyin.com/search/%E5%BA%93%E6%8B%89%E7%B4%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%A6%96%E7%90%83",
-          "hot": "772.4万"
+          "title": "带你走进美加墨",
+          "url": "https://www.douyin.com/search/%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9B%E7%BE%8E%E5%8A%A0%E5%A2%A8",
+          "hot": "778.5万"
         },
         {
           "title": "日本队称世界杯夺冠是白日做梦吗",
           "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E9%98%9F%E7%A7%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%98%AF%E7%99%BD%E6%97%A5%E5%81%9A%E6%A2%A6%E5%90%97",
-          "hot": "764.3万"
+          "hot": "767.3万"
         },
         {
-          "title": "梁洛施亮相上影节开幕式",
-          "url": "https://www.douyin.com/search/%E6%A2%81%E6%B4%9B%E6%96%BD%E4%BA%AE%E7%9B%B8%E4%B8%8A%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "762.9万"
-        },
-        {
-          "title": "内马尔 意难平",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94+%E6%84%8F%E9%9A%BE%E5%B9%B3",
-          "hot": "732.1万"
+          "title": "内马尔之舞又杀回来了",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E4%B9%8B%E8%88%9E%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "hot": "763.9万"
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "莱因克尔：无法理解霍尔落选世界杯，能限制亚马尔的只有他",
+          "title": "20场，诺伊尔追平洛里所创造的世界杯历史门将出场纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "25年有人建议登贝莱在法国更高调，但他称愿让姆巴佩当领袖",
+          "title": "开门红！穆西亚拉Ins：良好开端，让我们在此基础上继续推进",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "最后一舞！内马尔更换社媒头像，剑指个人最后一届世界杯",
+          "title": "阿兹蒙未受伤、未被拒签，但伊朗队直接放弃不让他踢世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯最新俱乐部制造进球榜：利物浦4次居首，拜仁并列第二",
+          "title": "这位置对吗？C罗为女球迷球衣签名，落笔在胸前部位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有一个摩洛哥后腰也因为世界杯超神被曼联寄予厚望过",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Ben Jacobs：恩佐想加盟皇马，俱乐部正在考虑哪种类型的中场球员。",
+          "title": "王楚琪说恩佐和托尼很像，他们真是一个类型的吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德国7-1大胜库拉索，哈弗茨梅开二度，德国多点开花",
+          "title": "世界杯午报：德国再造7-1惨案；日本绝平荷兰",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "19岁212天，扬-迪奥曼德成为科特迪瓦世界杯最年轻出场球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德拉富恩特：亚马尔还不能打满全场，但明天能上",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "荷兰在世界杯小组赛17场不败，队史34场小组赛仅2负&amp;从未出局",
+          "title": "懂球帝美加墨世界杯6月15日红黑榜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
@@ -161,6 +135,16 @@
           "hot": ""
         },
         {
+          "title": "世界杯：伊萨克独造3球 约克雷斯传射 瑞典5-1力压日本荷兰登顶",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "科特迪瓦世界杯开门红！3届首战不败，迪亚洛绝杀，连破2大魔咒",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "德国最水主力 5队友获世界杯首球仅他失意 3射0正+丢单刀获最低分",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -171,17 +155,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯替补登场贡献1球2助，昂达夫是有统计以来第二人",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "比国足快！16万人口小岛创历史：世界杯首秀轰首球，却1-7输德国",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "78岁老帅落泪！世界杯首秀吞1-7惨案 赛后崩溃",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "安保压力升级！世界杯最棘手的故事来了，伊朗队提前一天抵达美国",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -189,19 +168,9 @@
           "title": "RMC：乌拉圭队赴美航班延误，或遭国际足联罚款",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "78岁260天，库拉索主帅艾德沃卡特是世界杯史上最年长主教练",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "队报：美国队世界杯首战收视2490万创纪录，超NBA总决赛前4场",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
