@@ -1,17 +1,29 @@
 {
-  "update_time": "2026-06-17 01:13:12",
+  "update_time": "2026-06-17 05:13:59",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "梅西发微博",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%8F%91%E5%BE%AE%E5%8D%9A",
+          "title": "姆巴佩破门",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "梅西阿根廷队进球分布",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E8%BF%9B%E7%90%83%E5%88%86%E5%B8%83",
+          "title": "姆巴佩还没睡醒吗",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%98%E6%B2%A1%E7%9D%A1%E9%86%92%E5%90%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩梅开二度",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "梅西发微博",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%8F%91%E5%BE%AE%E5%8D%9A",
           "hot": 0,
           "label": ""
         },
@@ -22,13 +34,13 @@
           "label": ""
         },
         {
-          "title": "梅西的最后一舞",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
+          "title": "梅西阿根廷队进球分布",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E8%BF%9B%E7%90%83%E5%88%86%E5%B8%83",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "百度": {
@@ -39,11 +51,6 @@
     "B站": {
       "topics": [
         {
-          "title": "美加墨世界杯的五个历史之最",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E4%BA%94%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%80",
-          "hot": 0
-        },
-        {
           "title": "阿根廷如何对待世界杯首秀",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
           "hot": 0
@@ -51,6 +58,11 @@
         {
           "title": "当CS职业哥参加世界杯",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93CS%E8%81%8C%E4%B8%9A%E5%93%A5%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "美加墨世界杯的五个历史之最",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E4%BA%94%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%80",
           "hot": 0
         },
         {
@@ -70,58 +82,68 @@
     "抖音": {
       "topics": [
         {
-          "title": "梅西本届世界杯首秀将上演",
-          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%86%E4%B8%8A%E6%BC%94",
-          "hot": "1043.9万"
-        },
-        {
           "title": "西班牙的世界杯之路暗藏隐患",
           "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B9%8B%E8%B7%AF%E6%9A%97%E8%97%8F%E9%9A%90%E6%82%A3",
-          "hot": "776万"
+          "hot": "836.1万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "与C罗重聚？记者：利雅得胜利希望世界杯后聘请马丁内斯执教",
+          "title": "国际足联允许赛前24小时更换名单中的球员，查洛巴因此递补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西世界杯首秀20周年纪念日当天，将迎代表阿根廷的第200场",
+          "title": "姆巴佩vs塞内加尔全场数据：2进球，4射4正，14次丢失球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基米希遇到毒蛇，图片报：德国队没有提出特别的防范措施",
+          "title": "58球，姆巴佩超越吉鲁，成为法国历史最佳射手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不让须眉！美国裁判彭索将成第二位执法男足世界杯的女主裁",
+          "title": "世界杯历史射手榜：姆巴佩14球追平盖德穆勒升至第三位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔首次随巴西队进行场地训练，但未触球或与他人配合",
+          "title": "世界波！姆巴佩远射破门完成梅开二度，法国3-1塞内加尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "ESPN：曼联对拉什福德标价4千万镑，禁止其转会利物浦或曼城",
+          "title": "131秒，巴尔科拉成为法国队史世界杯最快进球的替补球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩蒂特：萨卡已无法产生任何影响，有人比他更配得上首发",
+          "title": "23岁287天，仅亨利为法国世界杯首秀进球时比巴尔科拉年轻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2014年以来阿根廷队内参与世界杯进球榜：梅西18球居首",
+          "title": "法国队连续5场世界杯至少打进2球，离队史纪录还差2场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴黎球员已在世界杯为法国打进18球，追平兰斯的纪录",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "要是姆巴佩世界杯表现超群……",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "DO ：拉什福德更倾向履行曼联现有合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -131,38 +153,88 @@
           "hot": ""
         },
         {
-          "title": "恩佐的处境反应了中场市场的低迷",
+          "title": "姆巴佩进球！！法兰西之剑一己之力拯救球队！！！世一人再次天神下凡！！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为什么都喜欢用加维，感觉不到他的存在，费兰好歹进过好多球，但他不适合巴萨了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩还是太让人安心了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "有一说一，姆巴佩表现的确实不好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 16,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "两尊法国大神，世界杯单届进球和助攻纪录由方丹和科帕保持",
+          "title": "法国3-1塞内加尔，姆巴佩双响，巴尔科拉建功，奥利塞献助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内马尔首次进行场地训练，但没有碰球也没和其他球员接触",
+          "title": "此剑锋利如何？姆巴佩全场数据：4次射门进两球，补时轰世界波",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "都市传说？厄瓜多尔球迷给洛奇雕像套球衣，随后在世界杯输球",
+          "title": "后程发力，姆巴佩世界杯14球里13球是在第60分钟后打进的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "卫报谈葡萄牙的夺冠前景：拥有维蒂尼亚和B费一切皆有可能",
+          "title": "长友佑都：第二场小组赛不能松懈，卡塔尔世界杯给了前车之鉴",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩14球升至世界杯历史射手榜第三，距追平纪录仅差2球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "打破两项纪录！姆巴佩同时加冕法国队史最佳射手&amp;队史世界杯最佳射手",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "因宗教原因，世界杯赛前仪式的沙特国旗以志愿者手持悬空的方式展示",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "新超跑，巴尔科拉世界杯首秀仅用2分钟就攻入世界杯处子球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩世界杯13球只用了15场，仅次于方丹和老穆勒",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩世界杯13球追平梅西、方丹，仅次于克洛泽、大罗和老穆勒",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "57球，姆巴佩追平吉鲁并列法国队队史射手榜榜首",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 11,
       "status": "success"
     },
     "小红书": {
@@ -177,6 +249,11 @@
     },
     "网易": {
       "topics": [
+        {
+          "title": "世界杯-法国3-1复仇塞内加尔 姆巴佩世界波+双响",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
         {
           "title": "西班牙遭爆冷!0-0平佛得角 费兰中框亚马尔完成首秀",
           "url": "https://sports.163.com/worldcup2026/",
@@ -213,7 +290,7 @@
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "腾讯": {
