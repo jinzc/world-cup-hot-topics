@@ -1,28 +1,34 @@
 {
-  "update_time": "2026-06-16 19:28:50",
+  "update_time": "2026-06-17 01:13:12",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯已经战成一锅粥",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E7%BB%8F%E6%88%98%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5",
+          "title": "梅西发微博",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%8F%91%E5%BE%AE%E5%8D%9A",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗也有佛得角血统",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%9F%E6%9C%89%E4%BD%9B%E5%BE%97%E8%A7%92%E8%A1%80%E7%BB%9F",
+          "title": "梅西阿根廷队进球分布",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E8%BF%9B%E7%90%83%E5%88%86%E5%B8%83",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "佛得角官方感谢中国帮圆梦世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%AE%98%E6%96%B9%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%9C%86%E6%A2%A6%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "梅西姆巴佩哈兰德同一天登场",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%88%E5%85%B0%E5%BE%B7%E5%90%8C%E4%B8%80%E5%A4%A9%E7%99%BB%E5%9C%BA",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "梅西的最后一舞",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -33,17 +39,27 @@
     "B站": {
       "topics": [
         {
-          "title": "世界杯为何沦为补水杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BA%E4%BD%95%E6%B2%A6%E4%B8%BA%E8%A1%A5%E6%B0%B4%E6%9D%AF",
+          "title": "美加墨世界杯的五个历史之最",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E4%BA%94%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%80",
           "hot": 0
         },
         {
-          "title": "世界杯但野外田野版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%86%E9%87%8E%E5%A4%96%E7%94%B0%E9%87%8E%E7%89%88",
+          "title": "阿根廷如何对待世界杯首秀",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
+          "hot": 0
+        },
+        {
+          "title": "当CS职业哥参加世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93CS%E8%81%8C%E4%B8%9A%E5%93%A5%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "世界杯为何沦为补水杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BA%E4%BD%95%E6%B2%A6%E4%B8%BA%E8%A1%A5%E6%B0%B4%E6%9D%AF",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -56,87 +72,97 @@
         {
           "title": "梅西本届世界杯首秀将上演",
           "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%86%E4%B8%8A%E6%BC%94",
-          "hot": "918.8万"
-        },
-        {
-          "title": "哈兰德迎世界杯首秀",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": "776.4万"
+          "hot": "1043.9万"
         },
         {
           "title": "西班牙的世界杯之路暗藏隐患",
           "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B9%8B%E8%B7%AF%E6%9A%97%E8%97%8F%E9%9A%90%E6%82%A3",
-          "hot": "770.9万"
+          "hot": "776万"
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "天体：贝林训练比罗杰斯更好或首发，拉什福德状态全队最佳",
+          "title": "与C罗重聚？记者：利雅得胜利希望世界杯后聘请马丁内斯执教",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "助教：22世界杯决赛法国前60分钟失常；世界记得姆巴佩戴帽",
+          "title": "梅西世界杯首秀20周年纪念日当天，将迎代表阿根廷的第200场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马奎尔：图赫尔视频通知我落选真尴尬，没机会再踢世界杯了",
+          "title": "基米希遇到毒蛇，图片报：德国队没有提出特别的防范措施",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前英国门：建议红军签拉什福德，宿敌关系不该阻碍追逐球员",
+          "title": "不让须眉！美国裁判彭索将成第二位执法男足世界杯的女主裁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法足协主席：球员足协冲突是无稽之谈，姆巴佩带头和我沟通",
+          "title": "内马尔首次随巴西队进行场地训练，但未触球或与他人配合",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基米希：每个人都该有能奋斗的梦想，这支球队会为德国而战",
+          "title": "ESPN：曼联对拉什福德标价4千万镑，禁止其转会利物浦或曼城",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "还不用罗德里呢，罗德里下去才几分钟啊？短短时间被打了4次反击",
+          "title": "佩蒂特：萨卡已无法产生任何影响，有人比他更配得上首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这罗德里下滑的，还有法比安",
+          "title": "2014年以来阿根廷队内参与世界杯进球榜：梅西18球居首",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看看现在小蜘蛛  奥斯梅恩这些臭鱼烂虾，再看看莱万，当初真是捡到宝了。要是莱万第一年是去年或者今年来巴萨，巴萨去年或者今年有一个欧冠了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "恩佐的处境反应了中场市场的低迷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第六比赛日前瞻：阿根廷法国联袂出战，挪威力争开门红",
+          "title": "两尊法国大神，世界杯单届进球和助攻纪录由方丹和科帕保持",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "勒纳尔带领不同国家队连续三届参加世界杯，仅次于米卢",
+          "title": "内马尔首次进行场地训练，但没有碰球也没和其他球员接触",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "晋级世界杯人口最少的国家，库拉索获颁吉尼斯世界纪录证书",
+          "title": "都市传说？厄瓜多尔球迷给洛奇雕像套球衣，随后在世界杯输球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卫报谈葡萄牙的夺冠前景：拥有维蒂尼亚和B费一切皆有可能",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
@@ -172,17 +198,22 @@
           "hot": ""
         },
         {
-          "title": "已缺阵1个月!曝34岁内马尔无缘巴西第2战：仍无法训练 安帅赌输了",
+          "title": "距首战仅1天 英格兰官宣换人 4500万左闸退出世界杯 蓝军后卫递补",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "斯卡洛尼：全世界都想看梅西踢球；世界杯已经没有所谓的弱旅",
+          "title": "孙兴慜遭记者嘲讽靠金牌逃兵役，录音泄露后率全队封杀韩媒采访",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "已缺阵1个月!曝34岁内马尔无缘巴西第2战：仍无法训练 安帅赌输了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "腾讯": {
