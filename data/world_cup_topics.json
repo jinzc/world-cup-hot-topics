@@ -1,40 +1,52 @@
 {
-  "update_time": "2026-06-17 07:41:15",
+  "update_time": "2026-06-17 13:01:15",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "姆巴佩梅开二度",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "title": "梅西帽子戏法",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "姆巴佩法国队史射手王",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B3%95%E5%9B%BD%E9%98%9F%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "title": "压力给到C罗",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0C%E7%BD%97",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "哈兰德 梅西太疯狂了",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%A2%85%E8%A5%BF%E5%A4%AA%E7%96%AF%E7%8B%82%E4%BA%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "哈兰德 世界杯就这",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%B1%E8%BF%99",
+          "title": "苏醒评梅西",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%AF%84%E6%A2%85%E8%A5%BF",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "姆巴佩破门",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8",
+          "title": "梅西回应落泪",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%BA%94%E8%90%BD%E6%B3%AA",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "梅西太猛了",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%A4%AA%E7%8C%9B%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "梅西世界波",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%B3%A2",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "百度": {
@@ -45,8 +57,28 @@
     "B站": {
       "topics": [
         {
+          "title": "徐静雨谈梅西世界杯射手王",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%B0%88%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "hot": 0
+        },
+        {
+          "title": "梅西 足球之神",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%20%E8%B6%B3%E7%90%83%E4%B9%8B%E7%A5%9E",
+          "hot": 0
+        },
+        {
+          "title": "梅西帽子戏法",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
+          "hot": 0
+        },
+        {
           "title": "姆巴佩世界波",
           "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%B3%A2",
+          "hot": 0
+        },
+        {
+          "title": "梅西世界波破门",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%B3%A2%E7%A0%B4%E9%97%A8",
           "hot": 0
         },
         {
@@ -55,27 +87,12 @@
           "hot": 0
         },
         {
-          "title": "当CS职业哥参加世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93CS%E8%81%8C%E4%B8%9A%E5%93%A5%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
-        {
-          "title": "阿根廷如何对待世界杯首秀",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": 0
-        },
-        {
-          "title": "世界杯为何沦为补水杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BA%E4%BD%95%E6%B2%A6%E4%B8%BA%E8%A1%A5%E6%B0%B4%E6%9D%AF",
-          "hot": 0
-        },
-        {
-          "title": "美加墨世界杯的五个历史之最",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E4%BA%94%E4%B8%AA%E5%8E%86%E5%8F%B2%E4%B9%8B%E6%9C%80",
+          "title": "梅西国家队200场里程碑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F200%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91",
           "hot": 0
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "知乎": {
@@ -86,134 +103,159 @@
     "抖音": {
       "topics": [
         {
-          "title": "梅西本届世界杯首秀将上演",
-          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%86%E4%B8%8A%E6%BC%94",
-          "hot": "908.4万"
+          "title": "梅西戴帽加冕世界杯射手王",
+          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E6%88%B4%E5%B8%BD%E5%8A%A0%E5%86%95%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "hot": "1125万"
         },
         {
-          "title": "哈兰德迎世界杯首秀",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": "870.6万"
+          "title": "梅西世界波",
+          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E4%B8%96%E7%95%8C%E6%B3%A2",
+          "hot": "918.8万"
         },
         {
-          "title": "西班牙的世界杯之路暗藏隐患",
-          "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B9%8B%E8%B7%AF%E6%9A%97%E8%97%8F%E9%9A%90%E6%82%A3",
-          "hot": "779.1万"
+          "title": "姆巴佩成为法国队史射手王",
+          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%BA%E6%B3%95%E5%9B%BD%E9%98%9F%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "hot": "792.5万"
+        },
+        {
+          "title": "坎通纳代表姆巴佩“致歉”",
+          "url": "https://www.douyin.com/search/%E5%9D%8E%E9%80%9A%E7%BA%B3%E4%BB%A3%E8%A1%A8%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E8%87%B4%E6%AD%89%E2%80%9D",
+          "hot": "769.4万"
+        },
+        {
+          "title": "王涛晒梅西家7座金球奖杯",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E6%B6%9B%E6%99%92%E6%A2%85%E8%A5%BF%E5%AE%B67%E5%BA%A7%E9%87%91%E7%90%83%E5%A5%96%E6%9D%AF",
+          "hot": "766.9万"
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "六朝元老！梅西首发出战，成首位在6届世界杯登场的球员",
+          "title": "费迪南德：白天姆巴佩哈兰德双响，晚上梅西就表示自己最牛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨利巴：我相信姆巴佩能够打破纪录，他毫无疑问有所有条件",
+          "title": "一球迷发文称梅西不会进球并拖后腿，被美职联官方赛后打脸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "超16万人签署世界杯请愿书，要求彻查苏格兰1-0海地一役",
+          "title": "达利奇：没人能预料克罗地亚在世界杯能拿奖牌，但已是过去",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：姆巴佩技术罕见下滑，但他对批评和赞扬都充耳不闻",
+          "title": "狂揽百亿营收却看台空座，美加墨世界杯繁华背后满是槽点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "享受亲子时光！内马尔晒儿女合照：补充能量中",
+          "title": "梅西：我在看纳达尔的纪录片，我和他有共鸣都会全力以赴",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：并非为复仇，若想让所有批评者都闭嘴我得踢到80岁",
+          "title": "大马丁：我此前经历了六周的伤病，但我的心态调整得很好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "挪威要是有个b费打个防守反击的话，能争冠吗？",
+          "title": "恩佐：为阿根廷开局感到骄傲，我们很高兴野兽梅西进了3个球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：B席曾到巴塞罗那谈合同细节，穆帅的邀请让他改变决定",
+          "title": "记者：谁说梅西去迈阿密是养老的，那是他保持青春的实验室",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：巴萨计划世界杯后为小蜘蛛送上最后报价，总价达1.5亿",
+          "title": "马赫雷斯：阿根廷拥有梅西，这就是我们两队最本质的差距",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]姆巴佩：并非为复仇，若想让所有批评者都闭嘴我得踢到80岁",
+          "title": "梅西要是卫冕了 小小不会真变成慕容复吧？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西第一球是后卫直接连线",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥利塞和姆巴佩配合不错，熊熊换奥利塞如何",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩毕竟还在皇马，皇马的主力前锋，不用不停的骂吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "法国3-1塞内加尔，姆巴佩双响，巴尔科拉建功，奥利塞献助攻",
+          "title": "阿根廷3-0阿尔及利亚，梅西戴帽+加冕世界杯历史射手王",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷vs阿尔及利亚：梅西首发迎国家队200场里程碑，阿尔瓦雷斯替补",
+          "title": "球王！梅西戴帽追平克洛泽，16球登顶世界杯历史射手王",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "懂球帝海报：梅西连续六届世界杯登场",
+          "title": "世界杯午报：最长的河攀登最高的山，终成最神的仙",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：和奥利塞一起踢球很轻松，每当我跑位时他都能看到我",
+          "title": "奥莱报：阿根廷足协主席手持梅西戴帽用球并展示",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "约旦球迷：以前人们分不清我们和乔丹；能进入世界杯真的难以置信",
+          "title": "B费：我们已经准备好了，希望用最好的方式开启本届世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德尚：有人说姆巴佩防守投入不够，但他不是为了防守而存在的",
+          "title": "费迪南德：梅西已经宣告足坛第一人还是他了，期待C罗和凯恩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西迎国家队200场里程碑，此前117球64助攻赢得四冠",
+          "title": "鲁尼：整届赛事下来，姆巴佩将成为世界杯历史进球最多的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "历史第一人！梅西连续六届世界杯登场",
+          "title": "B费：这支葡萄牙队强在彼此信任，无论谁上场都会全力以赴",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "15球4助，姆巴佩成为法国队史大赛参与进球最多的球员",
+          "title": "罗德里说佛得角半场过不去，佩蒂特：发言很傲慢，不尊重对手",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "萨利巴：姆巴佩现在做到的事非常惊人，我相信他不会停下脚步",
+          "title": "足坛的两位新双骄,终于在梅罗的最后一届世界杯同时拿出了...",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "15胜，德尚独享世界杯历史胜场数第二，距第一舍恩仅差1场",
+          "title": "《一封懂球帝服务器君下给梅西的挑战书》",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -234,7 +276,22 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-阿根廷首战3-0阿尔及利亚 梅西戴帽创纪录",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-法国3-1复仇塞内加尔 姆巴佩世界波+双响",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "不愧是哈兰德，世界杯首秀2球1助！挪威4比1拿下伊拉克",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "200战！帽子戏法！追平克洛泽！梅西第六届世界杯完美首秀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -249,32 +306,32 @@
           "hot": ""
         },
         {
-          "title": "姆巴佩双响后再喊出夺冠！霸气回击批评：让所有人闭嘴得踢到80岁",
+          "title": "斯卡洛尼：只要梅西自己愿意，他就永远是最好的",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "后程发力，姆巴佩世界杯14球里13球是在第60分钟后打进的",
+          "title": "歌手苏醒称赞梅西：卧槽疯了， 奔四了来刷射手榜了！",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "西班牙遭爆冷!0-0平佛得角 费兰中框亚马尔完成首秀",
+          "title": "梅西：因之前的艰难而感到激动，非常感谢这个美好的团队",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "距首战仅1天 英格兰官宣换人 4500万左闸退出世界杯 蓝军后卫递补",
+          "title": "穆勒晒和梅西的合照：这家伙是goat",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "孙兴慜遭记者嘲讽靠金牌逃兵役，录音泄露后率全队封杀韩媒采访",
+          "title": "麦卡利斯特：没有词能形容梅西了，他就是阿根廷队最重要的人",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
