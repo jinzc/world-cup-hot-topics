@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-06-19 04:35:35",
+  "update_time": "2026-06-19 06:59:21",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "葡萄牙丢球后C罗质问本队门将",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%A2%E7%90%83%E5%90%8EC%E7%BD%97%E8%B4%A8%E9%97%AE%E6%9C%AC%E9%98%9F%E9%97%A8%E5%B0%86",
+          "title": "内马尔确认无缘小组赛次轮",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E7%A1%AE%E8%AE%A4%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "内马尔确认无缘小组赛次轮",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E7%A1%AE%E8%AE%A4%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
+          "title": "葡萄牙丢球后C罗质问本队门将",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%A2%E7%90%83%E5%90%8EC%E7%BD%97%E8%B4%A8%E9%97%AE%E6%9C%AC%E9%98%9F%E9%97%A8%E5%B0%86",
           "hot": 0,
           "label": ""
         },
@@ -26,15 +26,9 @@
           "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%8F%91%E6%96%87",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "中国人要登上世界杯赛场了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A6%81%E7%99%BB%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E5%9C%BA%E4%BA%86",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -50,8 +44,8 @@
           "hot": 0
         },
         {
-          "title": "C罗3射门0射正",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%973%E5%B0%84%E9%97%A80%E5%B0%84%E6%AD%A3",
+          "title": "哈兰德世界杯首球",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
           "hot": 0
         }
       ],
@@ -68,22 +62,22 @@
         {
           "title": "世界杯首轮积分榜",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%A7%AF%E5%88%86%E6%A6%9C",
-          "hot": "929.7万"
+          "hot": "942.7万"
         },
         {
           "title": "世界杯小组赛第一轮比赛结束",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9D%9F",
-          "hot": "917.7万"
-        },
-        {
-          "title": "马宁将第一次主哨世界杯正赛",
-          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B",
-          "hot": "852.8万"
+          "hot": "930.8万"
         },
         {
           "title": "C罗是否不该在世界杯首发了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%98%AF%E5%90%A6%E4%B8%8D%E8%AF%A5%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%8F%91%E4%BA%86",
-          "hot": "775.1万"
+          "hot": "812.3万"
+        },
+        {
+          "title": "马宁将第一次主哨世界杯正赛",
+          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B",
+          "hot": "776.2万"
         }
       ],
       "count": 4,
@@ -92,93 +86,98 @@
     "虎扑": {
       "topics": [
         {
-          "title": "奥尔莫：若需破密防我能站出来；西班牙完全有夺世界杯野心",
+          "title": "费迪南德：凯恩是英格兰唯一真正世界级球星，其他人有差距",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴坎布赛后社媒：为世界杯首战感到骄傲，我们继续书写历史",
+          "title": "迪亚斯社媒：感激能够参加自己第一届世界杯，感谢大家支持",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "无缘参加美加墨世界杯，安东尼社媒晒照与家人一起海边度假",
+          "title": "本届世界杯出现5张红牌，已超过2022年整届赛事红牌数",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧洲球队本届世界杯对阵非洲球队6场仅2胜，其余4场全部战平",
+          "title": "中北美球员世界杯连场破门，拉林是自2014年邓普西后首位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我魔球迷现在对C罗的感情",
+          "title": "【两翼齐飞】美加墨世界杯首轮战罢，亚洲球队崛起了？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说实话b费还是很尊重C罗的，为什么罗蜜会跟b费过不去呢？",
+          "title": "2球，连场破门的拉林成为加拿大队史世界杯最佳射手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "应该尽快搞定萨莫维尔，让拉什福德自己识趣滚蛋",
+          "title": "马丁内斯认不清形势啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我已经开始期待下赛季库库来诺坎普被球迷嘘骂扔垃圾的场景了说不定拉玛西亚帮还会针对他只不过这是他自找的（话说回来怎么这届世界杯感觉没那么有感觉想立马结束进行新赛季）",
+          "title": "葡萄牙主教练世界杯结束后执教胜利！？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：恩佐正尽一切努力加盟，并对切尔西施压，他对为皇马效力“疯狂”着迷。",
+          "title": "[流言板]每体：拉什福德仍在与曼联较劲，他下定决心只想留在巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "JFD：皇家马德里认为他们已经找到基里安·姆巴佩上个赛季遭遇的问题所在",
+          "title": "Miguel Serrano：弗洛伦蒂诺不想在今夏没有巨星签约，他准备为奥利塞提出比2021年姆巴佩更高的报价。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩2026世界杯第一场跑动数据：9686.1m",
+          "title": "罗马诺&amp;莫雷托&amp;Ben Jacobs：皇马与切尔西即将就恩佐的交易进行谈判。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "安德森和恩佐哪个更适合皇马？价格差不多其实",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "伊斯梅尔-科内谈加拿大世界杯目标：先赢一场创历史",
+          "title": "如果可以会为巴萨签下谁？加维快问快答：阿尔瓦雷斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔：批评我们的人自己也应该踢过球，门将位置更是不一样",
+          "title": "第33分钟染红，卡塔尔后卫霍马姆创世界杯2018年以来最快红牌",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔：如果我看不到再次夺冠的可能性，我就不会坐在这里了",
+          "title": "老登齐冲榜，C罗、魔笛、哲科、诺伊尔进入世界杯出场年龄榜前十",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔：我不仅把乌尔比希看作陪练，他绝对是球队的一笔财富",
+          "title": "加拿大首次世界杯单场2球，拉林成队史首位世界杯打入2球球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔：我不打算两年后再去踢欧洲杯，这是我的最后一届大赛",
+          "title": "加维：如果你和我同队你会爱我，否则你大概会想杀了我",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩谈头球进球：赖斯的传球很棒，他的传球是顶尖水平的",
+          "title": "亨利：B费和佩德里是目前足坛最具球商的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -199,6 +198,11 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯替补双响，曼赞比当选瑞士vs波黑全场最佳球员",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-英格兰4-2克罗地亚 凯恩双响贝林厄姆一条龙",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -209,12 +213,7 @@
           "hot": ""
         },
         {
-          "title": "全队倒数第1！41岁C罗被批：3射0正+6数据挂零 国家队近8个月0球",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "诸神黄昏！40岁魔笛成全队倒数第2：0射门0威胁传球 58分钟被换下",
+          "title": "诺伊尔：我不打算两年后再去踢欧洲杯，这是我的最后一届大赛",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -242,14 +241,9 @@
           "title": "C罗发文：1-1非想要的开局！但一切远未结束 亲姐不服：被抢劫了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "C罗连续10场世界杯和欧洲杯未破门，刷新国家队大赛最长球荒",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
