@@ -1,28 +1,16 @@
 {
-  "update_time": "2026-06-18 12:50:31",
+  "update_time": "2026-06-18 17:21:46",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗回应葡萄牙爆冷战平",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E8%91%A1%E8%90%84%E7%89%99%E7%88%86%E5%86%B7%E6%88%98%E5%B9%B3",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "亨利批C罗只想自己进球",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%A8%E5%88%A9%E6%89%B9C%E7%BD%97%E5%8F%AA%E6%83%B3%E8%87%AA%E5%B7%B1%E8%BF%9B%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗是唯一五届世界杯进球球员",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%98%AF%E5%94%AF%E4%B8%80%E4%BA%94%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E7%90%83%E5%91%98",
+          "title": "梅西父亲本周病情恶化",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E6%9C%AC%E5%91%A8%E7%97%85%E6%83%85%E6%81%B6%E5%8C%96",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -33,42 +21,27 @@
     "B站": {
       "topics": [
         {
-          "title": "刚果球员称C罗年纪大了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%9A%E6%9E%9C%E7%90%83%E5%91%98%E7%A7%B0C%E7%BD%97%E5%B9%B4%E7%BA%AA%E5%A4%A7%E4%BA%86",
+          "title": "两位世界杯最后一舞的巨星进化史",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BD%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E7%9A%84%E5%B7%A8%E6%98%9F%E8%BF%9B%E5%8C%96%E5%8F%B2",
           "hot": 0
         },
         {
-          "title": "贝林厄姆一条龙破门",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%80%E6%9D%A1%E9%BE%99%E7%A0%B4%E9%97%A8",
+          "title": "盘点世界杯高颜值球员",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%96%E7%95%8C%E6%9D%AF%E9%AB%98%E9%A2%9C%E5%80%BC%E7%90%83%E5%91%98",
           "hot": 0
         },
         {
-          "title": "凯恩梅开二度",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "title": "民主刚果收获世界杯首球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C%E6%94%B6%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
           "hot": 0
         },
         {
           "title": "C罗3射门0射正",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%973%E5%B0%84%E9%97%A80%E5%B0%84%E6%AD%A3",
           "hot": 0
-        },
-        {
-          "title": "梅西帽子戏法",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
-          "hot": 0
-        },
-        {
-          "title": "马宁世界杯首场比赛确定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
-          "hot": 0
-        },
-        {
-          "title": "38岁的梅西职业生涯回顾",
-          "url": "https://search.bilibili.com/all?keyword=38%E5%B2%81%E7%9A%84%E6%A2%85%E8%A5%BF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%9B%9E%E9%A1%BE",
-          "hot": 0
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -79,24 +52,24 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯首轮积分榜",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%A7%AF%E5%88%86%E6%A6%9C",
+          "hot": "916.4万"
+        },
+        {
+          "title": "马宁将第一次主哨世界杯正赛",
+          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B",
+          "hot": "871.8万"
+        },
+        {
           "title": "C罗是否不该在世界杯首发了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%98%AF%E5%90%A6%E4%B8%8D%E8%AF%A5%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%8F%91%E4%BA%86",
-          "hot": "778.7万"
+          "hot": "829.7万"
         },
         {
           "title": "博主机场送沃齐尼亚母亲看世界杯",
           "url": "https://www.douyin.com/search/%E5%8D%9A%E4%B8%BB%E6%9C%BA%E5%9C%BA%E9%80%81%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E6%AF%8D%E4%BA%B2%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "776.2万"
-        },
-        {
-          "title": "赵丽娜预测世界杯连中三元",
-          "url": "https://www.douyin.com/search/%E8%B5%B5%E4%B8%BD%E5%A8%9C%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9E%E4%B8%AD%E4%B8%89%E5%85%83",
-          "hot": "768.1万"
-        },
-        {
-          "title": "梅西让人重新认识足球",
-          "url": "https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E8%AE%A9%E4%BA%BA%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E8%B6%B3%E7%90%83",
-          "hot": "766.3万"
+          "hot": "774.9万"
         }
       ],
       "count": 4,
@@ -105,67 +78,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯首轮助攻榜：伍德、伊萨克、基米希等五人同送2助领跑",
+          "title": "梅西世界杯戴帽，马尔蒂尼称赞道：无需多言，绝对是最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "刚果（金）打进世界杯正赛首球，仍有中国、印尼等4国0进球",
+          "title": "葡萄牙1-1战平民主刚果一役，C罗全场跑动8389.5米",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯各大洲场均积分：欧洲1.69第一，亚足联跌至第四",
+          "title": "世界杯首轮比赛数据：1次帽子戏法，75个进球，3乌龙+3红牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡福：巴西球员对安帅肃然起敬，内马尔还不懂世界杯的意义",
+          "title": "马赫雷斯妻子Ins晒照：现场观战阿根廷，女儿与梅西进行合影",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯首轮射手榜：梅西3球领跑，哈姆凯等7人进2球并列第二",
+          "title": "1-1战平葡萄牙，图安泽贝Ins晒与C罗互动的照片：历史创造者",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "补时破门，坎帕斯打入本届世界杯阿根廷联赛球员首球",
+          "title": "世界杯小组赛第一轮平均进球3.13，为自1958年来最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗姐姐Ins：开局不利未必没有好的结局，更何况还被抢劫了",
+          "title": "DAZN女主持报道比赛晒美照，球迷评论：世界杯就属你最亮眼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内维尔：莫德里奇是顶级球星，但英格兰逼抢强度让他吃不消",
+          "title": "罗密在b费ins发长文质问",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡福：我目睹大罗在98世界杯决赛前抽搐，他一度被移出名单",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "98分14秒，坎帕斯的进球是哥伦比亚队史最晚世界杯进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯K组积分榜：哥伦比亚3分领跑，民主刚果第2葡萄牙第3",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "3000万vs8000万！拉什福德换下戈登出场即破门，巴萨续租被拒",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "21-22打进18球的C罗和22-23一球未进的韦格霍斯特，谁对曼联的作用更大？",
+          "title": "动不动说以B费为核心，那就是踢转换，B费那直塞球，老头子能追得上嘛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -175,63 +128,58 @@
           "hot": ""
         },
         {
-          "title": "C罗越早退役地位越高，巴黎两中场b费b席都带不动",
+          "title": "[流言板]记者：戈登首发出场表现不如替补的拉什福德，下轮恐失位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看了几场恩佐的录像，他还真不是皇马要的那种组织核心",
+          "title": "【绯闻对象】恩佐VS阿尔及利亚 个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔及利亚真菜，阿根廷包括梅西状态也确实好，看凌晨罗哥能不能进球了",
+          "title": "皇马想要吃下有姆巴佩的阵容，可能关键点就在于，如何最大程度的解放贝林？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 17,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "opta世界杯夺冠概率预测：法国15.87%最高，西、阿、英、葡随其后",
+          "title": "大罗曾说鱼水交欢比世界杯夺冠好？卡福：两个都享受更好",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "图片报：梅西父亲自1月以来一直在与重病抗争，赛前疑似恶化",
+          "title": "温暖，梅西在对阵阿尔及利亚的比赛后与马赫雷斯女儿亲切合影",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亚足联球队世界杯小组赛首轮2胜4平3负，韩国、澳洲迎开门红",
+          "title": "世体：拉什福德首选巴萨，或不冒险等待",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "南美无弱旅？南美球队世界杯首轮2胜2平2负",
+          "title": "亨利点评C罗世界杯低迷表现：球队需要进球，而不是你",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西：现在我平静多了，想回酒店和家人聊聊",
+          "title": "世界杯地理：北美新英格兰和新苏格兰，分别在美国和加拿大",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "2026世界杯小组赛首轮积分榜：西班牙、葡萄牙位列小组第三",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "2026世界杯小组赛首轮助攻榜：克里斯-伍德等5人助攻梅开二度",
+          "title": "南非主帅布罗斯宣布对兹瓦内停赛三场提出上诉，并拿梅西举例",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -267,6 +215,11 @@
           "hot": ""
         },
         {
+          "title": "亨利：葡萄牙需要的是进球，C罗挡住了B费的必进球",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "李金羽：2014年我曾发微博让梅西多跑一点，后来被两万多人骂",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -288,11 +241,6 @@
         },
         {
           "title": "葡萄牙1-1民主刚果 C罗错失两次机会 葡萄牙为何算不上夺冠热门",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "又上岸一个，世界杯史上0分0进球的球队只剩国足和印尼",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
