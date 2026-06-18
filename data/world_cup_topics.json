@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-06-18 17:21:46",
+  "update_time": "2026-06-18 21:34:17",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "梅西父亲本周病情恶化",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E6%9C%AC%E5%91%A8%E7%97%85%E6%83%85%E6%81%B6%E5%8C%96",
+          "title": "葡萄牙队回应C罗发文",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%8F%91%E6%96%87",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "佛得角门将母亲去世界杯了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -21,8 +27,8 @@
     "B站": {
       "topics": [
         {
-          "title": "两位世界杯最后一舞的巨星进化史",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BD%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E7%9A%84%E5%B7%A8%E6%98%9F%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "title": "世界杯小组赛第一轮复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%B8%80%E8%BD%AE%E5%A4%8D%E7%9B%98",
           "hot": 0
         },
         {
@@ -31,17 +37,12 @@
           "hot": 0
         },
         {
-          "title": "民主刚果收获世界杯首球",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C%E6%94%B6%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
-          "hot": 0
-        },
-        {
           "title": "C罗3射门0射正",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%973%E5%B0%84%E9%97%A80%E5%B0%84%E6%AD%A3",
           "hot": 0
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -54,132 +55,112 @@
         {
           "title": "世界杯首轮积分榜",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%A7%AF%E5%88%86%E6%A6%9C",
-          "hot": "916.4万"
+          "hot": "919.7万"
         },
         {
           "title": "马宁将第一次主哨世界杯正赛",
           "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B",
-          "hot": "871.8万"
+          "hot": "884万"
         },
         {
           "title": "C罗是否不该在世界杯首发了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%98%AF%E5%90%A6%E4%B8%8D%E8%AF%A5%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%8F%91%E4%BA%86",
-          "hot": "829.7万"
-        },
-        {
-          "title": "博主机场送沃齐尼亚母亲看世界杯",
-          "url": "https://www.douyin.com/search/%E5%8D%9A%E4%B8%BB%E6%9C%BA%E5%9C%BA%E9%80%81%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E6%AF%8D%E4%BA%B2%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "774.9万"
+          "hot": "784.1万"
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "梅西世界杯戴帽，马尔蒂尼称赞道：无需多言，绝对是最佳",
+          "title": "【Visa 一拍即Goal】新王当立？凯恩贝林今日爆发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙1-1战平民主刚果一役，C罗全场跑动8389.5米",
+          "title": "舒梅切尔批马丁内斯：他像浪费比利时一样，正在毁掉葡萄牙",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯首轮比赛数据：1次帽子戏法，75个进球，3乌龙+3红牌",
+          "title": "世界杯裁判员安排：阿联酋人阿里成亚足联第六位登场主裁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马赫雷斯妻子Ins晒照：现场观战阿根廷，女儿与梅西进行合影",
+          "title": "因伤缺席本届世界杯，费尔明Ins：别担心，我将会很快回归",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "1-1战平葡萄牙，图安泽贝Ins晒与C罗互动的照片：历史创造者",
+          "title": "JFD：皇马认为必须进行一次中场球员的巨额转会，才能引进像恩佐或M费这样的中场球员。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯小组赛第一轮平均进球3.13，为自1958年来最高",
+          "title": "赛前都说法国队拿下姆巴佩无敌了，事实上今天的两球都是决定比赛走势的，倒是金球先生下了效果立竿见影",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "DAZN女主持报道比赛晒美照，球迷评论：世界杯就属你最亮眼",
+          "title": "JFD：皇家马德里认为他们已经找到基里安·姆巴佩上个赛季遭遇的问题所在",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗密在b费ins发长文质问",
+          "title": "何塞·穆里尼奥的计划是围绕裘德·贝林厄姆和费德·巴尔韦德打造皇家马德里的中场。@Ramon_AlvarezMM",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "动不动说以B费为核心，那就是踢转换，B费那直塞球，老头子能追得上嘛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "被C罗抢先射门之后，B费真的很失望…",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]记者：戈登首发出场表现不如替补的拉什福德，下轮恐失位置",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【绯闻对象】恩佐VS阿尔及利亚 个人集锦",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马想要吃下有姆巴佩的阵容，可能关键点就在于，如何最大程度的解放贝林？",
+          "title": "斯基拉：皇马与恩佐原则上达成合同期至2032年的协议，俱乐部准备向切尔西提交正式报价。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "大罗曾说鱼水交欢比世界杯夺冠好？卡福：两个都享受更好",
+          "title": "梅西世界杯16球看图闯关｜二十年青春回忆，你能满分通关吗？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "温暖，梅西在对阵阿尔及利亚的比赛后与马赫雷斯女儿亲切合影",
+          "title": "世界杯第八比赛日前瞻：墨西哥韩国盼连胜，加拿大瑞士争登顶",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：拉什福德首选巴萨，或不冒险等待",
+          "title": "英格兰赛后复盘：流放太子扶正凯恩，中后场危机潜藏",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亨利点评C罗世界杯低迷表现：球队需要进球，而不是你",
+          "title": "阿马德世界杯34分钟6次过人，是02年德尼尔森后第一人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯地理：北美新英格兰和新苏格兰，分别在美国和加拿大",
+          "title": "记者布雷：梅西母亲称他们很激动，正享受一切",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "南非主帅布罗斯宣布对兹瓦内停赛三场提出上诉，并拿梅西举例",
+          "title": "每体：拉什福德在世界杯比赛中表现抢眼，仍希望今夏加盟巴萨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "凯恩：当然看到了其他球员进球，竞争能激励我提升自己的水准",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -215,6 +196,11 @@
           "hot": ""
         },
         {
+          "title": "外媒：梅西父亲豪尔赫正与胰腺癌抗争，情况令人担忧",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "亨利：葡萄牙需要的是进球，C罗挡住了B费的必进球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -236,11 +222,6 @@
         },
         {
           "title": "C罗连续10场世界杯和欧洲杯未破门，刷新国家队大赛最长球荒",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙1-1民主刚果 C罗错失两次机会 葡萄牙为何算不上夺冠热门",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
