@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-20 00:10:53",
+  "update_time": "2026-06-20 03:01:36",
   "sources": {
     "微博": {
       "topics": [
@@ -16,13 +16,19 @@
           "label": ""
         },
         {
+          "title": "世界杯上补丁最多的球员",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E8%A1%A5%E4%B8%81%E6%9C%80%E5%A4%9A%E7%9A%84%E7%90%83%E5%91%98",
+          "hot": 0,
+          "label": ""
+        },
+        {
           "title": "世界杯韩国还没出局但转播商破产了",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -51,12 +57,12 @@
         {
           "title": "世界杯将迎来四场小组赛争夺",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA",
-          "hot": "907.9万"
+          "hot": "913.3万"
         },
         {
           "title": "内马尔无缘小组赛次轮",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
-          "hot": "778万"
+          "hot": "878.3万"
         }
       ],
       "count": 2,
@@ -65,37 +71,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗姐姐回击对弟弟的批评声：尊重？一群忘恩负义的无知之徒",
+          "title": "加拿大官方：科内已成功接受手术，将缺席世界杯剩余比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆西亚拉：这一年让我成长很多；对科特迪瓦要更多投入防守",
+          "title": "世界杯的魔力！佛得角门将Ins粉丝数即将超越诺伊尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "艾马尔：奥地利是难缠的对手；梅西再次证明自己的超凡水准",
+          "title": "因世界杯结缘！波士顿将与苏格兰格拉斯哥结为友好城市",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "鲁本-迪亚斯：外界批评不只指向C罗，我对相关问题毫不关心",
+          "title": "赵心童希望英格兰能世界杯夺冠，吴宜泽因C罗支持葡萄牙",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：梅西犯规是黄牌动作，VAR不会靠一帧图片出红牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "在B费和内维斯社媒被C罗粉丝冲了后，B费在内维斯帖子下发了颗爱心❤️，鼓励小弟",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗在我曼联球迷心中地位如何？我是范尼球迷，我不喜欢他",
+          "title": "摩洛哥苏格兰此前世界杯有过一次交锋，摩洛哥3-0取胜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -105,43 +101,48 @@
           "hot": ""
         },
         {
-          "title": "穆里尼奥毁了德布劳内，博格巴，沙欣，阿里？这种满嘴跑火车也要有个度吧？",
+          "title": "都是儿皇，对比下j罗和姆巴佩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "从世界杯第一轮比赛来看，皇马目前的问题就是决定上限的x因素很多但没有激活的那个人",
+          "title": "恩佐对目前的皇马根本就没多大用啊！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "澳大利亚过去4场世界杯赢3场，胜场数比前17场还多",
+          "title": "电视台误传梅西父亲死讯，阿根廷总统米莱激烈回击",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "久远的纪录，美国队上次取得世界杯两连胜追溯到1930年",
+          "title": "罗滕：不明白若昂-内维斯的言论，他谈C罗的方式是错误的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "滕哈格辟谣：我没有给C罗盛过饭，他也不会检查其他人的餐盘",
+          "title": "瓦赫比：不会过度纠结于98世界杯的往事；对苏格兰有针对性布置",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "穆西亚拉：我完全不看评论员说的话；穆勒赛前发信息祝我好运",
+          "title": "欧纳希：世界杯是很漫长的赛事，球队目标是比上届走得更远",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "克罗地亚前锋穆萨：能在熟悉的达拉斯打入世界杯首球很不可思议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
