@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-19 20:15:08",
+  "update_time": "2026-06-20 00:10:53",
   "sources": {
     "微博": {
       "topics": [
@@ -10,14 +10,14 @@
           "label": ""
         },
         {
-          "title": "韩国男团嘲讽孙兴慜",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%9B%A2%E5%98%B2%E8%AE%BD%E5%AD%99%E5%85%B4%E6%85%9C",
+          "title": "亚马尔父亲比C罗还年轻",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%88%B6%E4%BA%B2%E6%AF%94C%E7%BD%97%E8%BF%98%E5%B9%B4%E8%BD%BB",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "李现被聘为世界杯开球嘉宾",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E8%A2%AB%E8%81%98%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E7%90%83%E5%98%89%E5%AE%BE",
+          "title": "世界杯韩国还没出局但转播商破产了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
           "hot": 0,
           "label": ""
         }
@@ -33,8 +33,8 @@
     "B站": {
       "topics": [
         {
-          "title": "一口气跳完世界杯主题曲",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E8%B7%B3%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "title": "管泽元王楚淇锐评C罗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%8E%8B%E6%A5%9A%E6%B7%87%E9%94%90%E8%AF%84C%E7%BD%97",
           "hot": 0
         }
       ],
@@ -51,71 +51,41 @@
         {
           "title": "世界杯将迎来四场小组赛争夺",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA",
-          "hot": "827.7万"
+          "hot": "907.9万"
         },
         {
           "title": "内马尔无缘小组赛次轮",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
-          "hot": "783.2万"
-        },
-        {
-          "title": "董老厮预测世界杯小组出线局势",
-          "url": "https://www.douyin.com/search/%E8%91%A3%E8%80%81%E5%8E%AE%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF",
-          "hot": "778.8万"
+          "hot": "778万"
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "跟队：恩佐加盟皇马个人条款不是问题，切尔西坚持要1.2亿镑",
+          "title": "C罗姐姐回击对弟弟的批评声：尊重？一群忘恩负义的无知之徒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：看到梅西姆巴佩哈兰德火热表现，也倒逼我要出色发挥",
+          "title": "穆西亚拉：这一年让我成长很多；对科特迪瓦要更多投入防守",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：揭幕战下半场才是真正英格兰，坚信能在世界杯走很远",
+          "title": "艾马尔：奥地利是难缠的对手；梅西再次证明自己的超凡水准",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西首轮场均跑动8.2公里，非门将球员仅高于马伦和渡边刚",
+          "title": "鲁本-迪亚斯：外界批评不只指向C罗，我对相关问题毫不关心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内维斯女友ins被冲：叫那个矮子尊重点C罗！给他传球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯首轮过人失败次数排名：多库9次第一，维尼修斯第二",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：恩佐仍是皇马中场引援目标之一，切尔西要价约1.2亿英镑",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯小组赛首轮回传次数榜：葡萄牙3位球员包揽前三",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "大博阿滕谈葡萄牙争冠前景：C罗主动调整定位才是团队最优选择",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "救命！拉什福德这夏窗的剧情怎么比我追的爽文还反转啊",
+          "title": "TA：梅西犯规是黄牌动作，VAR不会靠一帧图片出红牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -125,58 +95,53 @@
           "hot": ""
         },
         {
-          "title": "哪里可以看到真4k的世界杯直播？",
+          "title": "C罗在我曼联球迷心中地位如何？我是范尼球迷，我不喜欢他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁签了那么多人 最近还有消息说恩佐要去皇马 我相信德科肯定不会坐以待毙的 他应该在偷偷地搞大事 现在先装糖阴我们一手 等世界杯结束就给我们惊喜（瓦伦西亚的那个小将有可能是世界杯结束第一笔）",
+          "title": "加维：库库雷利亚一直瞒着/想为巴萨签小蜘蛛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德拜球员穆勒：阿根廷清楚梅西的优劣势，换作我也愿意为他奔跑",
+          "title": "穆里尼奥毁了德布劳内，博格巴，沙欣，阿里？这种满嘴跑火车也要有个度吧？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "从世界杯第一轮比赛来看，皇马目前的问题就是决定上限的x因素很多但没有激活的那个人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "韩国队还没出局，韩国的世界杯转播商先破产了",
+          "title": "澳大利亚过去4场世界杯赢3场，胜场数比前17场还多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：C罗本届世界杯首战后成舆论焦点，家人为其鸣“不平”",
+          "title": "久远的纪录，美国队上次取得世界杯两连胜追溯到1930年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "放放松，RMC：图赫尔在一场棒球赛中完成开球仪式，凯恩围观",
+          "title": "滕哈格辟谣：我没有给C罗盛过饭，他也不会检查其他人的餐盘",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "外媒：阿尔及利亚足协已就梅西踩踏以及麦卡肘击提出申诉",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：拉什福德仍没有买家，赛季初他可能会继续为曼联出战",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "亨利：别比较梅西、C罗，他们退役那天会很难过",
+          "title": "穆西亚拉：我完全不看评论员说的话；穆勒赛前发信息祝我好运",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
