@@ -1,11 +1,17 @@
 {
-  "update_time": "2026-06-20 05:14:51",
+  "update_time": "2026-06-20 07:06:58",
   "sources": {
     "微博": {
       "topics": [
         {
           "title": "3名中国裁判同场执法世界杯",
           "url": "https://s.weibo.com/weibo?q=3%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E5%90%8C%E5%9C%BA%E6%89%A7%E6%B3%95%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "亚马尔父亲比C罗还年轻",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%88%B6%E4%BA%B2%E6%AF%94C%E7%BD%97%E8%BF%98%E5%B9%B4%E8%BD%BB",
           "hot": 0,
           "label": ""
         },
@@ -22,14 +28,8 @@
           "label": ""
         },
         {
-          "title": "亚马尔父亲比C罗还年轻",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%88%B6%E4%BA%B2%E6%AF%94C%E7%BD%97%E8%BF%98%E5%B9%B4%E8%BD%BB",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯上补丁最多的球员",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E8%A1%A5%E4%B8%81%E6%9C%80%E5%A4%9A%E7%9A%84%E7%90%83%E5%91%98",
+          "title": "韩国世界杯转播商破产了",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
           "hot": 0,
           "label": ""
         }
@@ -43,15 +43,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "管泽元王楚淇锐评C罗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%8E%8B%E6%A5%9A%E6%B7%87%E9%94%90%E8%AF%84C%E7%BD%97",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -63,107 +57,97 @@
         {
           "title": "球迷带着红牌去看世界杯",
           "url": "https://www.douyin.com/search/%E7%90%83%E8%BF%B7%E5%B8%A6%E7%9D%80%E7%BA%A2%E7%89%8C%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "885.5万"
-        },
-        {
-          "title": "世界杯将迎来四场小组赛争夺",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9B%9B%E5%9C%BA%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%BA%89%E5%A4%BA",
-          "hot": "834.2万"
+          "hot": "876万"
         },
         {
           "title": "内马尔无缘小组赛次轮",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
-          "hot": "779.3万"
+          "hot": "777.9万"
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "创造历史，美国近3次参加世界杯都晋级淘汰赛，为队史首次",
+          "title": "71秒，赛巴里的进球是21世纪世界杯产生的第六快进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "提前出线，美国队1930年来首次在世界杯取得两连胜",
+          "title": "社媒围绕C罗与内维斯、B费制造大量假新闻，乔治娜也上当了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "滕哈格：相比英超欧冠世界杯强度或更适合C罗，他或仍有作为",
+          "title": "卜拉欣是首位，代表摩洛哥参加前2场世界杯都送1次助攻球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：葡萄牙筛选世界杯后接替马丁内斯人选，后者或去胜利",
+          "title": "在B费和内维斯社媒被C罗粉丝冲了后，B费在内维斯帖子下发了颗爱心❤️，鼓励小弟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "出场数追平！凯恩：贝克汉姆给我发了一段很暖心的语音",
+          "title": "斯科尔斯：C罗应该只踢最后15分钟 梅西戴帽姆巴佩双响C罗气疯了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗社媒晒葡萄牙队训练中拍摄的合影：永远团结在一起！",
+          "title": "求教，b费哪里得罪罗哥粉丝了？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b费有没有可能不忍了，直接和c罗翻脸了？",
+          "title": "加维：库库雷利亚一直瞒着/想为巴萨签小蜘蛛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在B费在曼联口碑又好了？？球迷变脸是真快啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗在我曼联球迷心中地位如何？我是范尼球迷，我不喜欢他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看梅西和小白之间的配合是多么行云流水",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "凳子两夺欧冠金球奖为啥就被姆巴佩一场世界杯小组赛梅开二度抹杀了",
+          "title": "从世界杯第一轮比赛来看，皇马目前的问题就是决定上限的x因素很多但没有激活的那个人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德天空：拜仁和凯恩同意专注于世界杯，结束后再谈续约",
+          "title": "巴西vs海地：维尼修斯、拉菲尼亚先发，卡塞米罗、达尼洛出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "美国队史第二次取得世界杯两连胜，第一次是在1930年",
+          "title": "早报：美国足球认真了？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "东道主的玩具？澳大利亚、卡塔尔、韩国遭美加墨三杀净负0-9",
+          "title": "佛得角门将：梅西是球员的典范，我非常想和他交手并交换球衣",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亚洲之暗，亚足联球队遭遇世界杯6连败&amp;9场不胜",
+          "title": "波特：伊萨克还有进步空间，在世界杯上他会越来越强",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "渡边刚：世界杯首秀我并没有过度紧张；突尼斯擅长反击",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "教练也“追星”，森保一在和凯恩自拍合影后喜笑颜开",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -179,6 +163,21 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-美国2-0澳大利亚提前出线 巴洛贡造乌龙弗里曼破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯第2支出线队诞生！东道主创造历史，活久见：裁判抽筋倒地",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯又输球！亚洲球队被打回原形：6场不败到6连败，得靠日本了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-金承奎送礼 墨西哥1-0韩国率先头名出线",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -189,37 +188,22 @@
           "hot": ""
         },
         {
-          "title": "世界杯悲剧!24岁中场小腿严重变形：队友吓哭了 犯规球员抱头懊恼",
+          "title": "创历史首次！3位中国裁判同场执法世界杯 马宁周飞傅明搭档",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯综述：首支出线+头名队出炉！单日3红 亚洲队5连败狂刷纪录",
+          "title": "FIFA拒绝向奥乔亚授予世界杯传奇徽章，墨西哥足协考虑上诉",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "0-6崩盘！世界杯最惨亚洲球队诞生：单场2红+乌龙 史无前例",
+          "title": "鼓励球队，C罗晒葡萄牙队训练合照：永远团结！",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "佛得角门将母亲将现场观战世界杯：我要给儿子一个拥抱",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯球员袖子上多出来的标识是什么",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "本届世界杯首位女主裁亮相",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "B费和C罗谁摊手抱怨更多？黄健翔：那肯定是B费啊，C罗都是心里骂",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
