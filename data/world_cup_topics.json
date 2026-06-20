@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-06-20 07:06:58",
+  "update_time": "2026-06-20 12:23:16",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "3名中国裁判同场执法世界杯",
-          "url": "https://s.weibo.com/weibo?q=3%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E5%90%8C%E5%9C%BA%E6%89%A7%E6%B3%95%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "内马尔 远程办公",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%20%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "亚马尔父亲比C罗还年轻",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%88%B6%E4%BA%B2%E6%AF%94C%E7%BD%97%E8%BF%98%E5%B9%B4%E8%BD%BB",
+          "title": "内马尔女友穿10号球衣助威",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%A5%B3%E5%8F%8B%E7%A9%BF10%E5%8F%B7%E7%90%83%E8%A1%A3%E5%8A%A9%E5%A8%81",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗球迷攻陷内维斯女友社媒",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E5%86%85%E7%BB%B4%E6%96%AF%E5%A5%B3%E5%8F%8B%E7%A4%BE%E5%AA%92",
+          "title": "C罗女友网络对线骂错人了",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A5%B3%E5%8F%8B%E7%BD%91%E7%BB%9C%E5%AF%B9%E7%BA%BF%E9%AA%82%E9%94%99%E4%BA%BA%E4%BA%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯韩国还没出局但转播商破产了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "title": "世界杯 不让捂嘴",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E4%B8%8D%E8%AE%A9%E6%8D%82%E5%98%B4",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "韩国世界杯转播商破产了",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "title": "亚洲队世界杯六连败",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AD%E8%BF%9E%E8%B4%A5",
           "hot": 0,
           "label": ""
         }
@@ -55,33 +55,38 @@
     "抖音": {
       "topics": [
         {
-          "title": "球迷带着红牌去看世界杯",
-          "url": "https://www.douyin.com/search/%E7%90%83%E8%BF%B7%E5%B8%A6%E7%9D%80%E7%BA%A2%E7%89%8C%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "876万"
-        },
-        {
-          "title": "内马尔无缘小组赛次轮",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%AC%A1%E8%BD%AE",
-          "hot": "777.9万"
+          "title": "沉浸式回味世界杯首轮现场氛围",
+          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%9B%9E%E5%91%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%8E%B0%E5%9C%BA%E6%B0%9B%E5%9B%B4",
+          "hot": "798.9万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "71秒，赛巴里的进球是21世纪世界杯产生的第六快进球",
+          "title": "致命捂嘴，阿尔米隆成为巴拉圭队史第3位世界杯染红球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "社媒围绕C罗与内维斯、B费制造大量假新闻，乔治娜也上当了",
+          "title": "本届世界杯已出现7张红牌，为2014以来红牌最多世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卜拉欣是首位，代表摩洛哥参加前2场世界杯都送1次助攻球员",
+          "title": "维尼修斯：希望这是属于我的世界杯，我决心发挥我最佳水平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "草皮频频遭诟病，数百万科研经费能否拯救世界杯球场草坪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙拿下世界杯。B费真可以拿金球奖啊。但C罗可能还是进不去历史前三。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -91,63 +96,63 @@
           "hot": ""
         },
         {
-          "title": "斯科尔斯：C罗应该只踢最后15分钟 梅西戴帽姆巴佩双响C罗气疯了",
+          "title": "验货埃德森是大号弗雷德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "求教，b费哪里得罪罗哥粉丝了？",
+          "title": "别把沙特当傻逼，我甚至觉得沙特看完这届世界杯目前拉菲尼亚的表现甚至会收回报价，踢得很差伤病，下赛季拉菲尼亚基本上就算不去沙特回俱乐部估计小伤会很频繁，身体大概率已经支撑不住以前的高强度跑动了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维：库库雷利亚一直瞒着/想为巴萨签小蜘蛛",
+          "title": "拉菲伤了以后，真的太担心佩德里了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "从世界杯第一轮比赛来看，皇马目前的问题就是决定上限的x因素很多但没有激活的那个人",
+          "title": "幸好没有买b席，有点过于菜了….",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：恩佐正尽一切努力加盟，并对切尔西施压，他对为皇马效力“疯狂”着迷。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡: 皇马想要同时签下奥利塞和恩佐费尔南德斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴西vs海地：维尼修斯、拉菲尼亚先发，卡塞米罗、达尼洛出战",
+          "title": "巴西3-0送海地出局，库尼亚双响，维尼修斯传射，拉菲尼亚伤退",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "早报：美国足球认真了？",
+          "title": "安切洛蒂：内马尔可出战苏格兰，他将单独训练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佛得角门将：梅西是球员的典范，我非常想和他交手并交换球衣",
+          "title": "要素拉满，加拉尔萨是世界杯历史首位15分钟内进球+染黄的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "波特：伊萨克还有进步空间，在世界杯上他会越来越强",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "渡边刚：世界杯首秀我并没有过度紧张；突尼斯擅长反击",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "教练也“追星”，森保一在和凯恩自拍合影后喜笑颜开",
+          "title": "世界杯前5场全败，海地是历史第四队&amp;四队均来自中北美",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
@@ -163,7 +168,27 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-巴西3-0海地 库尼亚双响维尼修斯连场破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-美国2-0澳大利亚提前出线 巴洛贡造乌龙弗里曼破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯-摩洛哥1-0苏格兰 赛巴里70秒闪击破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯出局首队诞生！海地两届五连败，狂丢18球，延续3魔咒",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯12分钟2球！巴西9号狂飙：破450天球荒 贴地滑行庆祝",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -173,22 +198,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯又输球！亚洲球队被打回原形：6场不败到6连败，得靠日本了",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-金承奎送礼 墨西哥1-0韩国率先头名出线",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯首胜!加拿大6-0击败9人卡塔尔 戴维戴帽",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "创历史首次！3位中国裁判同场执法世界杯 马宁周飞傅明搭档",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "去世的队友都不放过！C罗粉丝彻底失控，涌入若塔社媒：给C罗传球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -208,7 +223,7 @@
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
