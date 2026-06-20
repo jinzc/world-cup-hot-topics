@@ -1,40 +1,22 @@
 {
-  "update_time": "2026-06-20 12:23:16",
+  "update_time": "2026-06-20 16:26:20",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "内马尔 远程办公",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%20%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC",
+          "title": "世界杯 假4K",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%81%874K",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "内马尔女友穿10号球衣助威",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%A5%B3%E5%8F%8B%E7%A9%BF10%E5%8F%B7%E7%90%83%E8%A1%A3%E5%8A%A9%E5%A8%81",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗女友网络对线骂错人了",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A5%B3%E5%8F%8B%E7%BD%91%E7%BB%9C%E5%AF%B9%E7%BA%BF%E9%AA%82%E9%94%99%E4%BA%BA%E4%BA%86",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯 不让捂嘴",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E4%B8%8D%E8%AE%A9%E6%8D%82%E5%98%B4",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "亚洲队世界杯六连败",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AD%E8%BF%9E%E8%B4%A5",
+          "title": "世界杯门将5秒新规",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E5%B0%865%E7%A7%92%E6%96%B0%E8%A7%84",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -55,104 +37,84 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯首例捂嘴红牌出现",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%BE%8B%E6%8D%82%E5%98%B4%E7%BA%A2%E7%89%8C%E5%87%BA%E7%8E%B0",
+          "hot": "818.5万"
+        },
+        {
           "title": "沉浸式回味世界杯首轮现场氛围",
           "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%9B%9E%E5%91%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%8E%B0%E5%9C%BA%E6%B0%9B%E5%9B%B4",
-          "hot": "798.9万"
+          "hot": "771.5万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "致命捂嘴，阿尔米隆成为巴拉圭队史第3位世界杯染红球员",
+          "title": "姆巴佩梅西进球是否有影响？亚马尔：不在意，他们大我十岁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯已出现7张红牌，为2014以来红牌最多世界杯",
+          "title": "王晶：世界杯很多都是假球，最理想的就是不赌球，欣赏可以",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯：希望这是属于我的世界杯，我决心发挥我最佳水平",
+          "title": "扎心了！有球迷视频恶搞：请欣赏本届世界杯居莱尔精彩集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "草皮频频遭诟病，数百万科研经费能否拯救世界杯球场草坪",
+          "title": "墨西哥女球迷身着吸睛造型，现身世界杯赛场观战比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙拿下世界杯。B费真可以拿金球奖啊。但C罗可能还是进不去历史前三。",
+          "title": "葡萄牙这黄金中场不会被C罗单防了吧？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "在B费和内维斯社媒被C罗粉丝冲了后，B费在内维斯帖子下发了颗爱心❤️，鼓励小弟",
+          "title": "曼联版主能不能管管，c罗话题和曼联现在有啥关系",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "验货埃德森是大号弗雷德",
+          "title": "B哥真是倒血霉了，摊上这对姐弟，说实话阿威罗换成梅西22年就能夺冠，天天一己之力船长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "别把沙特当傻逼，我甚至觉得沙特看完这届世界杯目前拉菲尼亚的表现甚至会收回报价，踢得很差伤病，下赛季拉菲尼亚基本上就算不去沙特回俱乐部估计小伤会很频繁，身体大概率已经支撑不住以前的高强度跑动了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉菲伤了以后，真的太担心佩德里了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "幸好没有买b席，有点过于菜了….",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：恩佐正尽一切努力加盟，并对切尔西施压，他对为皇马效力“疯狂”着迷。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡: 皇马想要同时签下奥利塞和恩佐费尔南德斯",
+          "title": "看不惯那些诋毁C罗的人，别拿梅西碰瓷C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴西3-0送海地出局，库尼亚双响，维尼修斯传射，拉菲尼亚伤退",
+          "title": "打脸了，居莱尔曾称希望淘汰C罗和梅西，如今却已小组出局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂：内马尔可出战苏格兰，他将单独训练",
+          "title": "巴拉圭主帅：等待16年重返世界杯，我们从第一分钟就开始战斗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "要素拉满，加拉尔萨是世界杯历史首位15分钟内进球+染黄的球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯前5场全败，海地是历史第四队&amp;四队均来自中北美",
+          "title": "换个心情，太阳报：帕尔默落选世界杯名单后与女友度假",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
@@ -178,7 +140,17 @@
           "hot": ""
         },
         {
+          "title": "十人巴拉圭1-0送土耳其出局！65秒闪击 世界杯捂嘴染红首人诞生",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-摩洛哥1-0苏格兰 赛巴里70秒闪击破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯奇观！32岁巴拉圭中场捂住嘴讲话：被红牌罚下 历史第1次",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -189,11 +161,6 @@
         },
         {
           "title": "世界杯12分钟2球！巴西9号狂飙：破450天球荒 贴地滑行庆祝",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯第2支出线队诞生！东道主创造历史，活久见：裁判抽筋倒地",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -214,11 +181,6 @@
         },
         {
           "title": "鼓励球队，C罗晒葡萄牙队训练合照：永远团结！",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "佛得角门将母亲将现场观战世界杯：我要给儿子一个拥抱",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
