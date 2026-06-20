@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-20 22:22:22",
+  "update_time": "2026-06-21 00:26:07",
   "sources": {
     "微博": {
       "topics": [
@@ -8,9 +8,15 @@
           "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%A7%E5%84%BF%E5%AD%90%E5%BF%AB%E4%B8%A4%E7%B1%B3%E9%AB%98%E4%BA%86",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "马宁哽咽说只要中国足球需要就全力以赴",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E5%93%BD%E5%92%BD%E8%AF%B4%E5%8F%AA%E8%A6%81%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E9%9C%80%E8%A6%81%E5%B0%B1%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -21,8 +27,8 @@
     "B站": {
       "topics": [
         {
-          "title": "世界杯教练战术分析",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%99%E7%BB%83%E6%88%98%E6%9C%AF%E5%88%86%E6%9E%90",
+          "title": "世界杯首张捂嘴红牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E6%8D%82%E5%98%B4%E7%BA%A2%E7%89%8C",
           "hot": 0
         }
       ],
@@ -39,92 +45,117 @@
         {
           "title": "世界杯防骗指南",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "hot": "839.3万"
-        },
-        {
-          "title": "世界杯小组赛第二轮赛程预告",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A",
-          "hot": "781.2万"
-        },
-        {
-          "title": "世界杯第二轮预言家上线",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC%E4%BA%8C%E8%BD%AE%E9%A2%84%E8%A8%80%E5%AE%B6%E4%B8%8A%E7%BA%BF",
-          "hot": "774.5万"
+          "hot": "777.7万"
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "萨哈：建议曼联截胡迪奥曼德，他能成为亚马尔那种顶级球星",
+          "title": "记者：皇马和恩佐已谈妥薪资协议，将超1.35亿欧向蓝军报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "里瓦尔多Ins：很高兴见证这场胜利，怀念参加世界杯的时光",
+          "title": "老对手→新队友🤝！卡塞米罗在INS上已关注了梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "南美球队在本届世界杯目前8场比赛战绩为：4胜2平2负",
+          "title": "达洛特：对内维斯的攻击？你拥有C罗，就要做好准备应对舆论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：突尼斯政府绕开足协换帅，勒纳尔世界杯后倾向离任",
+          "title": "达洛特：对C罗得批评公平吗？我不是评论员，球队内部很团结",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "利物浦决心签迪奥曼德，或成队史仅次伊萨克维尔茨最贵引援",
+          "title": "TA：盘点世界杯历史上最重要的十场比赛（1-5）",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：贝林厄姆曾在低迷时致电安帅，向他征询脱离困境良策",
+          "title": "夸雷斯马：菲利克斯应该跟教练说，多给我上场的机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙拿下世界杯。B费真可以拿金球奖啊。但C罗可能还是进不去历史前三。",
+          "title": "维尼修斯好顶呀，好馋这种边锋，过人射门小技巧都很顶级。我抬这几年都没见过这种顶级边锋了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我意思直接去勾引维尼修斯，一年合同+续约不顺",
+          "title": "谈谈为何部分曼联球迷会黑c罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨豪掷1.35亿欧加码求购阿尔瓦雷斯 世界杯后转会大战一触即发",
+          "title": "在B费和内维斯社媒被C罗粉丝冲了后，B费在内维斯帖子下发了颗爱心❤️，鼓励小弟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "才发现德尚执教法国14年了，这几个周期法国队人才喷涌，结果只拿到一个世界杯冠军，其他荣誉0，真是菜啊",
+          "title": "重大打击！加泰媒：拉菲尼亚腘绳肌受伤，基本无缘世界杯剩余比赛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]费兰-托雷斯爷爷：我不喜欢巴萨，更希望孙子留在莱万特",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]本届世界杯有13位皇马球员参赛，居莱尔成为其中首位出局者",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "个人盲猜，奥利塞和拜仁顶薪续约，甚至可能不会等到世界杯结束",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每次都看到质疑小恩做中锋身高问题的，我就说他头球指定高于姆巴佩，有没有反对的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿斯谈日本2050年世界杯夺冠目标：稳扎稳打，仍朝愿景努力",
+          "title": "国际足联在国旗细节问题上出错，遭乌拉圭球迷质疑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "保-维克托：西班牙一直是热门；弗里克让莱万像父亲一样照顾我",
+          "title": "世界杯史上最早的“绝杀”，巴拉圭队加拉尔萨65秒攻入制胜球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯官方用球上太空，NASA将“三重浪”‌带上空间站",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "你选谁？网红美女宸荨樱桃和金善雅分别模仿梅西和C罗经典动作",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "传球有啥用？阿尔德雷特打满全场仅1次成功传球，创世界杯纪录",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -183,14 +214,9 @@
           "title": "去世的队友都不放过！C罗粉丝彻底失控，涌入若塔社媒：给C罗传球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "FIFA拒绝向奥乔亚授予世界杯传奇徽章，墨西哥足协考虑上诉",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
