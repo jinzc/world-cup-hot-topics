@@ -1,23 +1,10 @@
 {
-  "update_time": "2026-06-20 16:26:20",
+  "update_time": "2026-06-20 19:23:30",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "世界杯 假4K",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%81%874K",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯门将5秒新规",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E5%B0%865%E7%A7%92%E6%96%B0%E8%A7%84",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -37,58 +24,63 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯小组赛第二轮赛程预告",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A",
+          "hot": "841.2万"
+        },
+        {
           "title": "世界杯首例捂嘴红牌出现",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%BE%8B%E6%8D%82%E5%98%B4%E7%BA%A2%E7%89%8C%E5%87%BA%E7%8E%B0",
-          "hot": "818.5万"
+          "hot": "782.9万"
         },
         {
           "title": "沉浸式回味世界杯首轮现场氛围",
           "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%9B%9E%E5%91%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%8E%B0%E5%9C%BA%E6%B0%9B%E5%9B%B4",
-          "hot": "771.5万"
+          "hot": "769.7万"
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "姆巴佩梅西进球是否有影响？亚马尔：不在意，他们大我十岁",
+          "title": "韩国电视台JTBC豪赌世界杯版权，面临巨额债务&amp;破产",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "王晶：世界杯很多都是假球，最理想的就是不赌球，欣赏可以",
+          "title": "🧉依旧马黛茶不离手！梅西Ins晒在训练营地的照片",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "扎心了！有球迷视频恶搞：请欣赏本届世界杯居莱尔精彩集锦",
+          "title": "因伤无缘世界杯，埃基蒂克社媒发布委屈小猫独自庆生动态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥女球迷身着吸睛造型，现身世界杯赛场观战比赛",
+          "title": "C罗在我曼联球迷心中地位如何？我是范尼球迷，我不喜欢他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙这黄金中场不会被C罗单防了吧？",
+          "title": "破案了，原来是b费对c罗摊手了，难怪今天血雨腥风",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联版主能不能管管，c罗话题和曼联现在有啥关系",
+          "title": "谈谈为何部分曼联球迷会黑c罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B哥真是倒血霉了，摊上这对姐弟，说实话阿威罗换成梅西22年就能夺冠，天天一己之力船长",
+          "title": "才发现德尚执教法国14年了，这几个周期法国队人才喷涌，结果只拿到一个世界杯冠军，其他荣誉0，真是菜啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看不惯那些诋毁C罗的人，别拿梅西碰瓷C罗",
+          "title": "这两年拜仁的眼光独一档的，投入不到姆总的钱拿下了全欧数一数二的三叉戟。现在的赛巴里如果俱乐部能打出世界杯目前的发挥真的又是超值，才5000万。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -99,17 +91,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "打脸了，居莱尔曾称希望淘汰C罗和梅西，如今却已小组出局",
+          "title": "世界杯第十比赛日前瞻：马宁世界杯主裁首秀，荷兰德国出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴拉圭主帅：等待16年重返世界杯，我们从第一分钟就开始战斗",
+          "title": "曼晚：库尼亚在世界杯表现亮眼，曼联应考虑将其移至中锋位",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "换个心情，太阳报：帕尔默落选世界杯名单后与女友度假",
+          "title": "塔雷：莱奥的能力毋庸置疑，上赛季表现差的部分原因是伤病",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
