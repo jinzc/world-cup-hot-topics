@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-20 19:23:30",
+  "update_time": "2026-06-20 22:22:22",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗大儿子快两米高了",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%A7%E5%84%BF%E5%AD%90%E5%BF%AB%E4%B8%A4%E7%B1%B3%E9%AB%98%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "世界杯教练战术分析",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%99%E7%BB%83%E6%88%98%E6%9C%AF%E5%88%86%E6%9E%90",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -24,19 +37,19 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯防骗指南",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
+          "hot": "839.3万"
+        },
+        {
           "title": "世界杯小组赛第二轮赛程预告",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A",
-          "hot": "841.2万"
+          "hot": "781.2万"
         },
         {
-          "title": "世界杯首例捂嘴红牌出现",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%BE%8B%E6%8D%82%E5%98%B4%E7%BA%A2%E7%89%8C%E5%87%BA%E7%8E%B0",
-          "hot": "782.9万"
-        },
-        {
-          "title": "沉浸式回味世界杯首轮现场氛围",
-          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%9B%9E%E5%91%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%8E%B0%E5%9C%BA%E6%B0%9B%E5%9B%B4",
-          "hot": "769.7万"
+          "title": "世界杯第二轮预言家上线",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC%E4%BA%8C%E8%BD%AE%E9%A2%84%E8%A8%80%E5%AE%B6%E4%B8%8A%E7%BA%BF",
+          "hot": "774.5万"
         }
       ],
       "count": 3,
@@ -45,32 +58,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "韩国电视台JTBC豪赌世界杯版权，面临巨额债务&amp;破产",
+          "title": "萨哈：建议曼联截胡迪奥曼德，他能成为亚马尔那种顶级球星",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "🧉依旧马黛茶不离手！梅西Ins晒在训练营地的照片",
+          "title": "里瓦尔多Ins：很高兴见证这场胜利，怀念参加世界杯的时光",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因伤无缘世界杯，埃基蒂克社媒发布委屈小猫独自庆生动态",
+          "title": "南美球队在本届世界杯目前8场比赛战绩为：4胜2平2负",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗在我曼联球迷心中地位如何？我是范尼球迷，我不喜欢他",
+          "title": "记者：突尼斯政府绕开足协换帅，勒纳尔世界杯后倾向离任",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "破案了，原来是b费对c罗摊手了，难怪今天血雨腥风",
+          "title": "利物浦决心签迪奥曼德，或成队史仅次伊萨克维尔茨最贵引援",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "谈谈为何部分曼联球迷会黑c罗",
+          "title": "阿斯：贝林厄姆曾在低迷时致电安帅，向他征询脱离困境良策",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙拿下世界杯。B费真可以拿金球奖啊。但C罗可能还是进不去历史前三。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我意思直接去勾引维尼修斯，一年合同+续约不顺",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨豪掷1.35亿欧加码求购阿尔瓦雷斯 世界杯后转会大战一触即发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -78,35 +106,25 @@
           "title": "才发现德尚执教法国14年了，这几个周期法国队人才喷涌，结果只拿到一个世界杯冠军，其他荣誉0，真是菜啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "这两年拜仁的眼光独一档的，投入不到姆总的钱拿下了全欧数一数二的三叉戟。现在的赛巴里如果俱乐部能打出世界杯目前的发挥真的又是超值，才5000万。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第十比赛日前瞻：马宁世界杯主裁首秀，荷兰德国出战",
+          "title": "阿斯谈日本2050年世界杯夺冠目标：稳扎稳打，仍朝愿景努力",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：库尼亚在世界杯表现亮眼，曼联应考虑将其移至中锋位",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "塔雷：莱奥的能力毋庸置疑，上赛季表现差的部分原因是伤病",
+          "title": "保-维克托：西班牙一直是热门；弗里克让莱万像父亲一样照顾我",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
@@ -170,14 +188,9 @@
           "title": "FIFA拒绝向奥乔亚授予世界杯传奇徽章，墨西哥足协考虑上诉",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "鼓励球队，C罗晒葡萄牙队训练合照：永远团结！",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
