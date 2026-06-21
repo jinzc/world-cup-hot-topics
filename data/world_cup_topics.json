@@ -1,11 +1,17 @@
 {
-  "update_time": "2026-06-21 06:17:15",
+  "update_time": "2026-06-21 08:16:46",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "B费 C罗",
+          "url": "https://s.weibo.com/weibo?q=B%E8%B4%B9%20C%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "马宁正式亮相世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         },
@@ -16,7 +22,7 @@
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -45,76 +51,71 @@
         {
           "title": "世界杯防骗指南",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "hot": "786.9万"
-        },
-        {
-          "title": "世界杯主裁判抽筋倒地",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E5%88%A4%E6%8A%BD%E7%AD%8B%E5%80%92%E5%9C%B0",
-          "hot": "771.3万"
+          "hot": "816.7万"
         },
         {
           "title": "沉浸式回味世界杯首轮现场氛围",
           "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%9B%9E%E5%91%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E8%BD%AE%E7%8E%B0%E5%9C%BA%E6%B0%9B%E5%9B%B4",
-          "hot": "766.7万"
+          "hot": "764.9万"
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "16次，德国队是世界杯历史上逆转次数最多的球队",
+          "title": "南洋理工大学做调查：自由主义的人爱梅西，保守派则爱C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "超高效表现，翁达夫世界杯3球2助，平均每11分钟就参与一球",
+          "title": "阿森纳认为8500万镑能拿下罗杰斯，赖斯萨卡等队友在劝说他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基米希本场创造2次绝对机会，对抗5胜3，12次丢失球权",
+          "title": "继续备战！葡萄牙训练中，C罗&amp;B费&amp;维蒂尼亚练颠球传球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "翁达夫是世界杯历史第6位，赛事前两场进3+球和送2+助攻球员",
+          "title": "训练中姆巴佩射门踢偏当场怒吼，再调整后稳稳重新进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尔茨本场17次丢失球权，9次夺回球权，对抗15胜5",
+          "title": "肯佩斯自评1978年表现：马拉多纳与梅西是怪物，我不及他们",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "绝杀科特迪瓦，德国自2014年以来首次晋级世界杯淘汰赛阶段",
+          "title": "英格兰世界杯首轮赢球后，次轮门票价格一张上涨了200多英镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "翁达夫是自02年以来，首位个人前两场世界杯均进球德国球员",
+          "title": "破案了，原来是b费对c罗摊手了，难怪今天血雨腥风",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哪里可以看到真4k的世界杯直播？",
+          "title": "[流言板]拉菲尼亚想全力拼淘汰赛复出；巴萨则认为他世界杯已然报销",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科特迪瓦的伊纳奥很强，有点佩德里的味道",
+          "title": "巴萨豪掷1.35亿欧加码求购阿尔瓦雷斯 世界杯后转会大战一触即发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "JFD：贝林厄姆曾致电安切洛蒂寻求帮助并获得一些建议",
+          "title": "皇马好像拿下恩佐了，皇马一直买买买感觉下赛季争冠难度好大啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马应该趁姆巴佩世界杯回暖卖掉",
+          "title": "罗马诺：皇马未和切尔西谈恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -125,47 +126,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "懂球帝海报：世界杯百球榜",
+          "title": "沙特主帅：亚马尔是梅西在巴萨的接班人，能和他交手是享受",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "小组赛二连胜，德国提前一轮晋级世界杯32强",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "昂达夫两场世界杯替补3球2助攻，平世界杯单届替补造进球数",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "两战两胜，德国队自2006年以来首次取得世界杯开局两连胜",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "替补概念神！昂达夫两场世界杯替补56分钟，贡献3球2助攻！",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "3球2助，昂达夫是本届世界杯首位进球助攻均2+的球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "自克洛泽以来，昂达夫是首位前两场世界杯都有进球的德国球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "昂达夫替补造4球追平许尔勒，为单届世界杯替补球员第二多",
+          "title": "TA：荷兰队边路下底进攻套路熟练，他们是世界杯夺冠热门之一",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
@@ -186,6 +157,16 @@
           "hot": ""
         },
         {
+          "title": "绝杀出线！世界杯天降神兵：替补56分钟3球2助 创36年纪录",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "小组赛二连胜，德国提前一轮晋级世界杯32强",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "21场超越洛里，诺伊尔成为世界杯史上出场次数最多的门将",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -196,22 +177,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯-美国2-0澳大利亚提前出线 巴洛贡造乌龙弗里曼破门",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "十人巴拉圭1-0送土耳其出局！65秒闪击 世界杯捂嘴染红首人诞生",
+          "title": "替补概念神！昂达夫两场世界杯替补56分钟，贡献3球2助攻！",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "创历史首次！3位中国裁判同场执法世界杯 马宁周飞傅明搭档",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "去世的队友都不放过！C罗粉丝彻底失控，涌入若塔社媒：给C罗传球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
