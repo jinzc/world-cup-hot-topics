@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-22 20:55:14",
+  "update_time": "2026-06-23 01:45:24",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "世界杯赛程",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,15 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "行走美加墨 不负热爱",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A1%8C%E8%B5%B0%E7%BE%8E%E5%8A%A0%E5%A2%A8%20%E4%B8%8D%E8%B4%9F%E7%83%AD%E7%88%B1",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -30,99 +31,129 @@
     "抖音": {
       "topics": [
         {
+          "title": "哈兰德迎世界杯小组赛第二轮比赛",
+          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%AF%94%E8%B5%9B",
+          "hot": "916.3万"
+        },
+        {
+          "title": "预言家都来猜世界杯巨星表现",
+          "url": "https://www.douyin.com/search/%E9%A2%84%E8%A8%80%E5%AE%B6%E9%83%BD%E6%9D%A5%E7%8C%9C%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%A8%E6%98%9F%E8%A1%A8%E7%8E%B0",
+          "hot": "771.8万"
+        },
+        {
+          "title": "亚马尔打进个人世界杯首球",
+          "url": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%89%93%E8%BF%9B%E4%B8%AA%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+          "hot": "766.6万"
+        },
+        {
           "title": "我的亚马尔首球reaction",
           "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E7%90%83reaction",
-          "hot": "766.8万"
+          "hot": "766.5万"
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "从头开始！梅西赛前理发换新颜，德保罗依然如影随形",
+          "title": "世界杯各国常规时间丢点榜：阿根廷5次居首，巴西在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥莱起底奥地利队：撞断姆巴佩鼻梁的硬汉、身高2米05的巨人",
+          "title": "梅西撞墙直传恩佐被破坏，随后梅西跟进补射被封堵出来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因梅西等原因堪萨斯安保极严格；还从国内空运肉类做烧烤",
+          "title": "梅西职业生涯至今已罚丢了33个点球，其中世界杯赛场上为3次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "30岁生日快乐！低调后腰罗德里如何成长为足坛中场天花板",
+          "title": "梅西世界杯常规时间6次主罚点球，3次罚丢都在小组赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：C罗骨子里是团队型球员，挨骂因他是性情中人",
+          "title": "世界杯历史罚点榜：梅西居首，凯恩C罗尤西比奥在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "恩佐：写一本书都装不下我从梅西身上学到的一切",
+          "title": "梅西半单刀杀入禁区，面对门将施拉格射门被封堵出来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "足篮对标！杨鸣把姆巴佩比作文班，C罗比作为足坛詹姆斯",
+          "title": "阿根廷世界杯点球命中率71%，至少10次罚点国家队成功率最低",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉菲尼亚再度大腿受伤 他的世界杯征程或许已经提前结束",
+          "title": "梅西世界杯历史7次主罚点球所有球员最多，3次罚丢也是最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马好像拿下恩佐了，皇马一直买买买感觉下赛季争冠难度好大啊",
+          "title": "暂无缘打破纪录，梅西成为本届世界杯上首位罚丢点球的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "家人们！2026世界杯扩军我已经开始提前蹲离谱剧情了",
+          "title": "R罗：我有在考虑世界杯是否继续踢球，扎卡是伟大的队长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]天体：贝林首发仍不稳；图赫尔认为罗杰斯凯恩赖斯配合更好",
+          "title": "梅西创造了世界杯历史上罚失点球最多的纪录，总共为3次",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "开场5分钟劳塔罗造点，梅西主罚打偏，阿根廷0-0奥地利",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯罚丢之王 点球射偏”“三丢梅西”“历史罚丢王",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第十二日前瞻：梅西冲击历史进球纪录，超级比赛日再临",
+          "title": "梅西17球超越克洛泽，加冕世界杯历史射手王",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "伊布：亚马尔是世界最佳，无论面对几个人他都会发起挑战",
+          "title": "安德森：我喜欢观察赖斯并吸取经验；莫德里奇一直是我的偶像",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佩德里、罗德里不满队友传球摊手抗议，结果进球了",
+          "title": "卡洛斯：内马尔回归后巴西会提升不少，我们有机会再次进决赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：巴萨初步了解了凯恩的转会可能，但球员无意离开拜仁",
+          "title": "伊拉克已连输4场，可能成为首支前5场世界杯都输球的亚洲球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "萨莫拉诺：大罗是历史最伟大的9号；有内马尔的巴西更有魔力",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -168,6 +199,11 @@
           "hot": ""
         },
         {
+          "title": "队报：2026世界杯成本低于卡塔尔，为近20年唯一低于上届",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "乌龙球将创世界杯新高！37场8个，场均0.21球，距纪录只差4球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -183,7 +219,7 @@
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
