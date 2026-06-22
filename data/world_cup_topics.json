@@ -1,46 +1,22 @@
 {
-  "update_time": "2026-06-22 06:19:58",
+  "update_time": "2026-06-22 08:19:09",
   "sources": {
     "微博": {
       "topics": [
+        {
+          "title": "亚马尔回应世界杯首球",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BA%94%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
         {
           "title": "亚马尔",
           "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "亚马尔世界杯首球",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "亚马尔首发西班牙全胜",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%8F%91%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A8%E8%83%9C",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "日本足协将2050世界杯夺冠定为终极目标",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E5%B0%862050%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%AE%9A%E4%B8%BA%E7%BB%88%E6%9E%81%E7%9B%AE%E6%A0%87",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯32强已出3席",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E5%87%BA3%E5%B8%AD",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "亚马尔首发",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A6%96%E5%8F%91",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 6,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -56,17 +32,22 @@
           "hot": 0
         },
         {
-          "title": "马宁谈执裁首场世界杯后感受",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E8%B0%88%E6%89%A7%E8%A3%81%E9%A6%96%E5%9C%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E6%84%9F%E5%8F%97",
+          "title": "佛得角队史世界杯首球",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E5%8F%B2%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83",
           "hot": 0
         },
         {
           "title": "马宁世界杯首秀出示6黄",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%87%BA%E7%A4%BA6%E9%BB%84",
           "hot": 0
+        },
+        {
+          "title": "马宁谈执裁首场世界杯后感受",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E8%B0%88%E6%89%A7%E8%A3%81%E9%A6%96%E5%9C%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E6%84%9F%E5%8F%97",
+          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -79,12 +60,12 @@
         {
           "title": "库拉索门将15次扑救破世界杯纪录",
           "url": "https://www.douyin.com/search/%E5%BA%93%E6%8B%89%E7%B4%A2%E9%97%A8%E5%B0%8615%E6%AC%A1%E6%89%91%E6%95%91%E7%A0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%AA%E5%BD%95",
-          "hot": "773.8万"
+          "hot": "776.9万"
         },
         {
           "title": "马宁世界杯首秀给出6张黄牌",
           "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E7%BB%99%E5%87%BA6%E5%BC%A0%E9%BB%84%E7%89%8C",
-          "hot": "763万"
+          "hot": "764.9万"
         }
       ],
       "count": 2,
@@ -93,32 +74,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罕见！穆斯莱拉与沃齐尼亚是世界杯首对同场首发的40岁门将",
+          "title": "打入佛得角世界杯首球，凯文当选乌拉圭2-2佛得角全场最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "圆梦了！沃齐尼亚母亲抵达现场，亲眼见证儿子世界杯之战",
+          "title": "世界杯H组积分榜：西班牙4分领跑，乌拉圭、佛得角各积2分",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "门神闪耀，Sofascore本届世界杯单场评分前四中3席来自门将",
+          "title": "C罗训练中双膝跪地，帮小孔塞桑压肩拉伸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "比利时又没赢！法国教练本届世界杯执教外国队3平4负0胜",
+          "title": "镰田大地：日本的目标是世界杯冠军，没有人满足现状",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卢卡库世界杯已8场进球荒，上次破门要追溯到18年对阵突尼斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "德布劳内vs伊朗全场数据：射门5射正1，关键传球3，被犯规3",
+          "title": "这一届世界杯的进球主旋律就是主打梅开二度",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -126,14 +102,9 @@
           "title": "恩佐去皇马了 这下没人抢M费了吧？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "皇马好像拿下恩佐了，皇马一直买买买感觉下赛季争冠难度好大啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
@@ -144,27 +115,37 @@
           "hot": ""
         },
         {
-          "title": "场均有6万4110人观赛。每体：世界杯前36场比赛吸引230万观众",
+          "title": "冯潇霆：C罗到了这个年纪状态起伏很正常，对他应该更包容",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "铃木淳之介：能够完成世界杯首秀很激动；要继续提高自身实力",
+          "title": "世界杯H组积分榜：西班牙4分领跑，乌拉圭、佛得角均2分",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法媒：批评多库在世界杯期间去陪产的女记者被停播节目",
+          "title": "日本队22名球员已亮相世界杯，长友、町野与替补门将还未出场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "已完成8场零封，库尔图瓦上升至世界杯历史零封榜并列第二",
+          "title": "亨利：亚马尔不在时西班牙像另一支球队，其特别之处在创造力",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "西班牙足协主席：首胜正是我们所需要的，我们有实力赢世界杯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "40岁穆斯莱拉此前离开国家队3年，回归后在世界杯连场失误",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -190,17 +171,17 @@
           "hot": ""
         },
         {
+          "title": "比国足快做到！54万人口小国创历史：轰世界杯首球+连平世界冠军",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯最差一档队！前FIFA第一连场爆冷：2轮2分，下一场输球出局",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "西班牙4球大胜！世界杯1303天首胜，4战沙特全胜，连刷7大纪录",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-日本4-0送突尼斯出局 上田绮世2射1传",
+          "title": "梅西在对阵奥地利赛前剪了头发，德保罗陪同",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -218,14 +199,9 @@
           "title": "马宁世界杯执掌首秀出示6张黄牌，库拉索爆大冷门0-0逼平南美劲旅",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "37岁门神一战成名！15次扑救创世界杯纪录，4秒3神扑，获评10分",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "腾讯": {
