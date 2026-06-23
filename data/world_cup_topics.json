@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-23 16:33:45",
+  "update_time": "2026-06-23 20:12:23",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "葡萄牙主帅回应C罗是否首发",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94C%E7%BD%97%E6%98%AF%E5%90%A6%E9%A6%96%E5%8F%91",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -24,144 +31,129 @@
     "抖音": {
       "topics": [
         {
-          "title": "姆巴佩成世界杯历史射手榜第二位",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C%E7%AC%AC%E4%BA%8C%E4%BD%8D",
-          "hot": "919.6万"
-        },
-        {
-          "title": "巴乔发抖音分享世界杯vlog",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E4%B9%94%E5%8F%91%E6%8A%96%E9%9F%B3%E5%88%86%E4%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AFvlog",
-          "hot": "910.9万"
-        },
-        {
-          "title": "压力又给到C罗了",
-          "url": "https://www.douyin.com/search/%E5%8E%8B%E5%8A%9B%E5%8F%88%E7%BB%99%E5%88%B0C%E7%BD%97%E4%BA%86",
-          "hot": "849.2万"
-        },
-        {
           "title": "世界杯补水时间belike",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A1%A5%E6%B0%B4%E6%97%B6%E9%97%B4belike",
-          "hot": "832.5万"
+          "hot": "783.4万"
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "梅西失点甲亢哥开心的秀起空翻，随后梅西破纪录他濒临崩溃",
+          "title": "C罗为葡萄牙前43场大赛22球8助，最近10场大赛0球1助",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰发布对阵加纳预热海报：凯恩、赖斯、贝林厄姆等出镜",
+          "title": "马赛被欧足联+法甲双重处罚；格林伍德标价5500万并没人买",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯赛后接受采访，大马丁经过对他做蜘蛛侠吐丝手势",
+          "title": "42次触球中24%形成射门，哈兰德世界杯前两场累计xG本届最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西环球：安帅已决定让内马尔在小组赛末轮复出，踢伪9号位",
+          "title": "富安健洋不太可能留在阿贾克斯，有英超球队考察他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西加冕世界杯历史射手王，职业生涯已收获916球414助",
+          "title": "米体：阿莫林希望说服莫德里奇留队，两人将在世界杯后交流",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西vs姆巴佩！B/R海报：世界杯历史射手榜疯狂的一天",
+          "title": "时速123.4！埃及球员阿舒尔创世界杯历史最快球速进球纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA官方：本届世界杯结束后，谁将成为历史最佳射手？",
+          "title": "近2届世界杯只2人常规时间罚点偏出球门范畴：凯恩、梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "魔人！哈兰德成为挪威队史首位连续两场世界杯都进球的球员",
+          "title": "蹲完英克大战刷到内维尔分析，终于懂马奎尔为啥没进世界杯名单了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩本赛季已打进52球，距离个人单赛季最好成绩仅差2球",
+          "title": "世体：FIFA无法干预阿尔瓦雷斯事件，因为马竞和巴萨属于同一足协",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国队史出场榜：洛里145场居首，姆巴佩100场位列第十",
+          "title": "出了费兰 迎回梅西…如何",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩自世界杯首秀以来已打进16球，为参赛球员同期最多",
+          "title": "下一场你们觉得梅西怎么安排？要直接轮休，还是踢个半场再休息？反正已经出线了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[战术分析截图]：其实马丁内斯为罗哥设计的战术是有道理的",
+          "title": "这届世界杯怎么点球这么少？踢了这么多场比赛还没有上届一个球队多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "今晚的B费，足坛有史以来压力最大之人！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨也不缺阿尔瓦雷斯啊，买劳塔罗都比小蜘蛛更合适",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西今天的第二个进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看了下分区，法国想进决赛，正常情况下淘汰赛要踢 德国 荷兰 西班牙，试衣人想靠世界杯挽回风评难度也挺大的",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "恩佐的6号位能力问题",
+          "title": "[流言板]TA：穆帅签走瓜帅最爱的B席，预计他在皇马会担任前场多面手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 17,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "懂球帝6月23日世界杯之星：梅西&amp;姆巴佩&amp;哈兰德",
+          "title": "世界杯第十三比赛日前瞻：葡萄牙力求首胜，英格兰盼锁定头名",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙晒战乌兹赛前海报：维蒂尼亚、菲利克斯、韦加出镜",
+          "title": "不补水也不哈哈，从前的世界杯广告个个都经典",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：我的伤势不严重，三四天之后就能恢复",
+          "title": "从便利店走向世界杯？伊东纯也11年前在7-11收银的旧照爆火",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "镜报：穆帅将恩佐列为皇马今夏引援目标，阿隆索无力挽留",
+          "title": "TA：切尔西愿以1.4亿欧出售恩佐",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "四大AI预测葡萄牙vs乌兹别克斯坦：豆包预测C罗收获进球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德尚：登贝莱能够决定比赛；姆巴佩为团队树立了非常好的榜样",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "你见过这样的景象吗？恩佐评分下切尔西、皇马、巴萨球迷隔空互动",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "孙兴慜被换下场引发争议，安贞焕：我很反感那些胡说八道的人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
@@ -207,6 +199,11 @@
           "hot": ""
         },
         {
+          "title": "大罗：梅西已经超越了所有前辈，我38岁体重都涨到120公斤了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "车范根：不认为孙兴慜状态明显下滑；韩国队有机会打进8强",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -218,11 +215,6 @@
         },
         {
           "title": "队报：2026世界杯成本低于卡塔尔，为近20年唯一低于上届",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "乌龙球将创世界杯新高！37场8个，场均0.21球，距纪录只差4球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
