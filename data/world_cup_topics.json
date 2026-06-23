@@ -1,16 +1,28 @@
 {
-  "update_time": "2026-06-23 20:12:23",
+  "update_time": "2026-06-23 23:57:11",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "葡萄牙主帅回应C罗是否首发",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94C%E7%BD%97%E6%98%AF%E5%90%A6%E9%A6%96%E5%8F%91",
+          "title": "C罗再进两球将创葡足历史",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%86%8D%E8%BF%9B%E4%B8%A4%E7%90%83%E5%B0%86%E5%88%9B%E8%91%A1%E8%B6%B3%E5%8E%86%E5%8F%B2",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗首发",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%A6%96%E5%8F%91",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗母亲无声抗议",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%AF%8D%E4%BA%B2%E6%97%A0%E5%A3%B0%E6%8A%97%E8%AE%AE",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -33,7 +45,7 @@
         {
           "title": "世界杯补水时间belike",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A1%A5%E6%B0%B4%E6%97%B6%E9%97%B4belike",
-          "hot": "783.4万"
+          "hot": "772万"
         }
       ],
       "count": 1,
@@ -42,57 +54,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗为葡萄牙前43场大赛22球8助，最近10场大赛0球1助",
+          "title": "C罗迎来世界杯第24次出场并列第3，仅次于梅西和马特乌斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马赛被欧足联+法甲双重处罚；格林伍德标价5500万并没人买",
+          "title": "德布劳内：我们知道表现不好，但现在是需要更加坚定的时刻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "42次触球中24%形成射门，哈兰德世界杯前两场累计xG本届最高",
+          "title": "苏亚雷斯：无法形容梅西，作为好友看到他享受世界杯最美好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "富安健洋不太可能留在阿贾克斯，有英超球队考察他",
+          "title": "FIFA世界杯官方晒梅西姆巴佩哈兰德海报：强势开局👊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米体：阿莫林希望说服莫德里奇留队，两人将在世界杯后交流",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "时速123.4！埃及球员阿舒尔创世界杯历史最快球速进球纪录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "近2届世界杯只2人常规时间罚点偏出球门范畴：凯恩、梅西",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "蹲完英克大战刷到内维尔分析，终于懂马奎尔为啥没进世界杯名单了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世体：FIFA无法干预阿尔瓦雷斯事件，因为马竞和巴萨属于同一足协",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "出了费兰 迎回梅西…如何",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "下一场你们觉得梅西怎么安排？要直接轮休，还是踢个半场再休息？反正已经出线了",
+          "title": "嘻嘻和姆巴佩世界杯惊艳发挥充分说明俱乐部和世界杯比赛完全不是一回事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -102,18 +84,23 @@
           "hot": ""
         },
         {
-          "title": "[流言板]TA：穆帅签走瓜帅最爱的B席，预计他在皇马会担任前场多面手",
+          "title": "还在搞不明白姆巴佩的问题吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "建议版务严格管控姆巴佩世界杯营销刷屏帖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第十三比赛日前瞻：葡萄牙力求首胜，英格兰盼锁定头名",
+          "title": "国窖1573丨葡萄牙vs乌兹别克斯坦：C罗领衔，菲利克斯、鲁本-迪亚斯出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -123,37 +110,32 @@
           "hot": ""
         },
         {
-          "title": "从便利店走向世界杯？伊东纯也11年前在7-11收银的旧照爆火",
+          "title": "普拉蒂尼：看好葡萄牙赢世界杯；C罗何时退役掌握在他自己手中",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：切尔西愿以1.4亿欧出售恩佐",
+          "title": "葡萄牙首发更换两人，菲利克斯顶替B席，鲁本-迪亚斯回归",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "四大AI预测葡萄牙vs乌兹别克斯坦：豆包预测C罗收获进球",
+          "title": "跟队：莫德里奇世界杯后与阿莫林沟通，然后再决定去留",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德尚：登贝莱能够决定比赛；姆巴佩为团队树立了非常好的榜样",
+          "title": "C罗迎来个人第24次世界杯出场，追平克洛泽升至历史第三",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "你见过这样的景象吗？恩佐评分下切尔西、皇马、巴萨球迷隔空互动",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "孙兴慜被换下场引发争议，安贞焕：我很反感那些胡说八道的人",
+          "title": "维尼修斯主导全队？巴西队主管：不是，巴西团队永远高于个人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -212,14 +194,9 @@
           "title": "施洛特贝克左脚踝韧带撕裂，无缘后续世界杯",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "队报：2026世界杯成本低于卡塔尔，为近20年唯一低于上届",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
