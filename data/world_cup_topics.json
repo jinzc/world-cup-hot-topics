@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-24 22:48:44",
+  "update_time": "2026-06-25 01:11:09",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "内马尔首秀",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E9%A6%96%E7%A7%80",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,30 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "C罗中路扫射首开记录",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%AD%E8%B7%AF%E6%89%AB%E5%B0%84%E9%A6%96%E5%BC%80%E8%AE%B0%E5%BD%95",
-          "hot": 0
-        },
-        {
-          "title": "C罗梅开二度打碎质疑",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
-          "hot": 0
-        },
-        {
-          "title": "C罗连续6届世界杯打入进球",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%BF%9E%E7%BB%AD6%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%93%E5%85%A5%E8%BF%9B%E7%90%83",
-          "hot": 0
-        },
-        {
-          "title": "C罗成为葡萄牙世界杯射手王",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": 0
-        }
-      ],
-      "count": 4,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -45,29 +31,29 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯小组赛最后一轮争夺将开启",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%9C%80%E5%90%8E%E4%B8%80%E8%BD%AE%E4%BA%89%E5%A4%BA%E5%B0%86%E5%BC%80%E5%90%AF",
-          "hot": "895.3万"
+          "title": "C罗梅开二度",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": "776.2万"
         },
         {
           "title": "安切洛蒂：内马尔可以出场",
           "url": "https://www.douyin.com/search/%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%EF%BC%9A%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%BA",
-          "hot": "879.1万"
-        },
-        {
-          "title": "C罗梅开二度",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": "878.7万"
+          "hot": "775.2万"
         },
         {
           "title": "C罗的魔性贯口也来了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86",
-          "hot": "776.1万"
+          "hot": "773.4万"
         },
         {
           "title": "陪C罗再Siu一次",
           "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
-          "hot": "772.7万"
+          "hot": "768.1万"
+        },
+        {
+          "title": "亲眼见证C罗进球是什么体验",
+          "url": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "hot": "764.9万"
         }
       ],
       "count": 5,
@@ -76,42 +62,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "法尔克：拜仁已谈妥布朗，即使世界杯表现再好5500万也不变",
+          "title": "世界杯无点球历史射手榜：克洛泽16球居首，梅西、姆巴佩前3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩Ins：接受这个结果，感谢球迷支持，接下来前往纽约",
+          "title": "哈弗茨：我不能只待在禁区；在德国就算踢左后卫我也愿意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "替补建功！莱奥Ins庆祝葡萄牙取得大胜：团队合作！！",
+          "title": "跟队：恩佐事态无任何变化，皇马暂未接触，切尔西要1.2亿镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "成人女星Ins晒性感照片：C罗和梅西，谁才是最伟大的球员？",
+          "title": "哈弗茨：阿森纳22年没拿冠军，夺冠游行是人生最好经历之一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德尚母亲过世，法国球员训练时致哀，姆巴佩Ins：你并不孤单",
+          "title": "科纳特：这是德尚最后一届世界杯，希望为法国队第三次捧杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼联官方微博发布C罗与B费的合影：Just the two of us",
+          "title": "科纳特：22年遭遇欧冠世界杯决赛双失利；读科比自传受鼓舞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看比赛最忌讳拿着放大镜看，没有谁会把握住每次机会。这两场来看姆巴佩踢得确实不错，传球后的反插跑动要比在皇马积极很多，但也更侧面证实了在给他足坛顶薪皇马的是留力",
+          "title": "为什么我感觉今年的世界杯又臭又长啊？打了好长时间，小组赛第三轮都没开始",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩在皇马究竟得到的支持够不够，用数据来说明。",
+          "title": "【白衣军团】姆巴佩VS伊拉克 个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -127,32 +113,37 @@
           "hot": ""
         },
         {
-          "title": "世界杯第十四日前瞻：巴西血拼苏格兰争头名，韩国不败即出线",
+          "title": "国家队前100场进球数：姆巴佩59球第七，C罗37球排名第54",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "talkSPORT：B费已告诉队友及身边人士，他打算继续留在曼联",
+          "title": "哈弗茨：我的跑动看似没意义但能创造空间；补水时间会打断节奏",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯金球奖概率排行：梅西、姆巴佩、哈兰德前3，C罗第16",
+          "title": "穆西亚拉：我很享受与维尔茨并肩作战，我们配合得非常好",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "奥莱报：5000名儿童为梅西唱生日歌",
+          "title": "迪亚洛：科特迪瓦还没从世界杯小组突围过；我们目前就差临门一脚了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "全市场：萨索洛不会买断恩佐拉和法代拉",
+          "title": "曼晚：曼城众国脚征战世界杯，马雷斯卡夏训遇难题",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "加纳门将：看住凯恩只是我工作的其中一部分；这并没什么特别的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -166,9 +157,65 @@
       "status": "empty"
     },
     "网易": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "葡萄牙5-0乌兹别克斯坦 C罗双响连续6届世界杯破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "克罗地亚1比0巴拿马，莫德里奇达成国家队200场里程碑",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯-英格兰0-0加纳 奥赖利头球中框凯恩失空门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "对着镜头高喊“我回来了”！C罗几乎落泪：他们觉得我已经退役了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯10球 队史射手王！FIFA官方祝贺C罗 狂刷12大纪录 超燃一夜",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "39分钟梅开二度！C罗纵情庆祝刷爆四大纪录 连续6届破门历史唯一",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯金球奖概率排行：梅西、姆巴佩、哈兰德前3，C罗第16",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "翻脸!韩国热帖怒骂孙兴慜：史上最被高估球员 不然怎会一直待热刺",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "马宁基本确定不再担任世界杯主裁，知情人士：因后续淘汰赛未携带完整裁判组",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "安切洛蒂：内马尔可以出战小组赛末轮，很高兴他回来了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "美国允许伊朗队下一场世界杯比赛前2天入境",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        }
+      ],
+      "count": 11,
+      "status": "success"
     },
     "腾讯": {
       "topics": [],
