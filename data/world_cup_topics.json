@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-25 01:11:09",
+  "update_time": "2026-06-25 03:58:21",
   "sources": {
     "微博": {
       "topics": [
@@ -19,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗梅开二度打碎质疑",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -31,73 +37,83 @@
     "抖音": {
       "topics": [
         {
-          "title": "C罗梅开二度",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": "776.2万"
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "815.3万"
         },
         {
-          "title": "安切洛蒂：内马尔可以出场",
-          "url": "https://www.douyin.com/search/%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%EF%BC%9A%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%BA",
-          "hot": "775.2万"
+          "title": "C罗梅开二度",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": "782.4万"
+        },
+        {
+          "title": "C罗连续六届世界杯进球",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83",
+          "hot": "779.2万"
         },
         {
           "title": "C罗的魔性贯口也来了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86",
-          "hot": "773.4万"
+          "hot": "777.1万"
+        },
+        {
+          "title": "安切洛蒂：内马尔可以出场",
+          "url": "https://www.douyin.com/search/%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%EF%BC%9A%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%BA",
+          "hot": "773.8万"
         },
         {
           "title": "陪C罗再Siu一次",
           "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
-          "hot": "768.1万"
+          "hot": "769.8万"
         },
         {
           "title": "亲眼见证C罗进球是什么体验",
           "url": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "764.9万"
+          "hot": "769.1万"
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯无点球历史射手榜：克洛泽16球居首，梅西、姆巴佩前3",
+          "title": "运气不佳，卡塔尔是第3支单届世界杯打进2个乌龙的球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨：我不能只待在禁区；在德国就算踢左后卫我也愿意",
+          "title": "图赫尔：不想把压力都放萨卡背上，需要每一名球员都站出来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：恩佐事态无任何变化，皇马暂未接触，切尔西要1.2亿镑",
+          "title": "超越姆巴佩，阿拉伊贝戈维奇成世界杯最年轻远射进球者",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨：阿森纳22年没拿冠军，夺冠游行是人生最好经历之一",
+          "title": "18岁276天，阿拉伊贝戈维奇是世界杯历史第8年轻进球者",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科纳特：这是德尚最后一届世界杯，希望为法国队第三次捧杯",
+          "title": "[流言板]曼联官方微博发布C罗与B费的合影：Just the two of us",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科纳特：22年遭遇欧冠世界杯决赛双失利；读科比自传受鼓舞",
+          "title": "阿尔瓦雷斯来了可能不会水都是也不会特别强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为什么我感觉今年的世界杯又臭又长啊？打了好长时间，小组赛第三轮都没开始",
+          "title": "姆巴佩在世界杯上的这项数据有点夸张",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【白衣军团】姆巴佩VS伊拉克 个人集锦",
+          "title": "【绯闻对象】恩佐VS奥地利 个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -108,42 +124,22 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "C罗6届世界杯全部10进球名场面，看图闯关，你能满分通关吗？",
+          "title": "18岁276天，波黑小将阿拉伊贝戈维奇排在世界杯最年轻进球榜第八",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "国家队前100场进球数：姆巴佩59球第七，C罗37球排名第54",
+          "title": "阿尔瓦雷斯祝福梅西：生日快乐，队长，我们爱你",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨：我的跑动看似没意义但能创造空间；补水时间会打断节奏",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "穆西亚拉：我很享受与维尔茨并肩作战，我们配合得非常好",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "迪亚洛：科特迪瓦还没从世界杯小组突围过；我们目前就差临门一脚了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼晚：曼城众国脚征战世界杯，马雷斯卡夏训遇难题",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "加纳门将：看住凯恩只是我工作的其中一部分；这并没什么特别的",
+          "title": "邮报：梅努有望在对阵巴拿马的比赛中迎来世界杯首次首发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
