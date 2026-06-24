@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-06-24 16:29:05",
+  "update_time": "2026-06-24 19:51:44",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯补水是门20亿的美式生意",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A1%A5%E6%B0%B4%E6%98%AF%E9%97%A820%E4%BA%BF%E7%9A%84%E7%BE%8E%E5%BC%8F%E7%94%9F%E6%84%8F",
+          "title": "加纳巫师解除凯恩进球封印",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BA%B3%E5%B7%AB%E5%B8%88%E8%A7%A3%E9%99%A4%E5%87%AF%E6%81%A9%E8%BF%9B%E7%90%83%E5%B0%81%E5%8D%B0",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "曝马宁不再担任世界杯主裁",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%A9%AC%E5%AE%81%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -26,27 +32,22 @@
           "hot": 0
         },
         {
-          "title": "C罗梅开二度打碎质疑",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
+          "title": "C罗中路扫射首开记录",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%AD%E8%B7%AF%E6%89%AB%E5%B0%84%E9%A6%96%E5%BC%80%E8%AE%B0%E5%BD%95",
           "hot": 0
         },
         {
-          "title": "C罗中路扫射首开记录",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%AD%E8%B7%AF%E6%89%AB%E5%B0%84%E9%A6%96%E5%BC%80%E8%AE%B0%E5%BD%95",
+          "title": "C罗梅开二度打碎质疑",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
           "hot": 0
         },
         {
           "title": "C罗成为葡萄牙世界杯射手王",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
           "hot": 0
-        },
-        {
-          "title": "如何评价C罗梅开二度",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": 0
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -57,38 +58,63 @@
     "抖音": {
       "topics": [
         {
-          "title": "C罗梅开二度",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": "867万"
+          "title": "懂球大咖在线前瞻内马尔首秀表现",
+          "url": "https://www.douyin.com/search/%E6%87%82%E7%90%83%E5%A4%A7%E5%92%96%E5%9C%A8%E7%BA%BF%E5%89%8D%E7%9E%BB%E5%86%85%E9%A9%AC%E5%B0%94%E9%A6%96%E7%A7%80%E8%A1%A8%E7%8E%B0",
+          "hot": "916.6万"
         },
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "857万"
+          "title": "世界杯小组赛最后一轮争夺将开启",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%9C%80%E5%90%8E%E4%B8%80%E8%BD%AE%E4%BA%89%E5%A4%BA%E5%B0%86%E5%BC%80%E5%90%AF",
+          "hot": "901.7万"
+        },
+        {
+          "title": "安切洛蒂：内马尔可以出场",
+          "url": "https://www.douyin.com/search/%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%EF%BC%9A%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%BA",
+          "hot": "845.9万"
+        },
+        {
+          "title": "C罗梅开二度",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": "837.8万"
+        },
+        {
+          "title": "C罗的魔性贯口也来了",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86",
+          "hot": "778.7万"
         },
         {
           "title": "陪C罗再Siu一次",
           "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
-          "hot": "789.5万"
-        },
-        {
-          "title": "C罗进球后对球迷喊我回来了",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9B%E7%90%83%E5%90%8E%E5%AF%B9%E7%90%83%E8%BF%B7%E5%96%8A%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": "771.1万"
+          "hot": "776.9万"
         },
         {
           "title": "亲眼见证C罗进球是什么体验",
           "url": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "765.4万"
+          "hot": "766.1万"
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "哥伦比亚主帅：不能只盯防C罗，葡萄牙各条线都有伟大的球员",
+          "title": "DAZN女主持人身穿紧身长款蛇纹连衣裙出镜，报道世界杯赛事",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "10次，赖斯成为本届世界杯首位创造机会次数上双的球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：世界杯后曼联签埃德森+继续追M费，还在关注楚阿梅尼",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "切尔西门将教练：当年分析梅西，和切赫说一定逼他先做决定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -98,42 +124,27 @@
           "hot": ""
         },
         {
-          "title": "摩根赛前问黑子们准备好了吗？C罗进球后更推：一切变得安静",
+          "title": "6月24日今日寿星，巴萨传奇，利昂内尔·梅西39岁生日",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赖斯次轮跑动11km全队最多，凯恩跑动10.3km全队第二",
+          "title": "区里有没有梦三老球迷说说当年10年世界杯看比利亚是什么感觉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "5-0乌兹别克斯坦一役，C罗全场跑动距离为8406.1米",
+          "title": "现在巴萨就是“亚马尔的球队”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩难破铁桶阵，英格兰中场帮不上忙",
+          "title": "[流言板]穆帅：当年的国家德比让地球停转，我会让姆巴佩变得更强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Opta世界杯夺冠概率：阿根廷法国前二，西班牙英格兰三四位",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "没b费葡萄牙啥都不是",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：皇家马德里已敲定引进恩佐·费尔南德斯！他是皇马中场位置的头号引援人选。数小时内内部已经拍板决定！皇家马德里不会签下马特乌斯·费尔南德斯。这笔引援谈判彻底告吹。球员本人更倾向加盟托特纳姆热刺。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【绯闻对象】恩佐VS奥地利 个人集锦",
+          "title": "感觉这个b费控场比b席强，更适合当中场核心。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -144,32 +155,32 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "葡萄牙5-0乌兹别克斯坦，C罗双响，莱奥、努诺-门德斯建功",
+          "title": "何小珂致敬C罗：再一次让黑子们无话可说，你就是Goat",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "伊布：C罗喊“我回来了”就跟太阳说“我明天要升起”一样离谱",
+          "title": "C罗6届世界杯全部10进球名场面，看图闯关，你能满分通关吗？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "懂球帝6月24日世界杯之星：C罗",
+          "title": "世界杯第十四日前瞻：巴西血拼苏格兰争头名，韩国不败即出线",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "外国网友恶搞：C罗已抵达世界杯赛场！！！",
+          "title": "还怪好的嘞，加纳巫医：我已解除对凯恩的限制，让他下场进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "藏在岁月里的奇妙缘分，C罗年长梅西869天，迷你...",
+          "title": "TyC：一位因太胖而被拒绝的球员，如今在世界杯上大放异彩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "6.24世界杯竞彩让球冷热速览：瑞士场与南非场是最大两个异动",
+          "title": "​安切洛蒂酝酿变招：拉扬或迎世界杯首秀，内马尔复出在即",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
