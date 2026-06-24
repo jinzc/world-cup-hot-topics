@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-06-24 07:14:10",
+  "update_time": "2026-06-24 12:15:45",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗成为葡萄牙世界杯射手王",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "title": "C罗siu完樊振东siu",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97siu%E5%AE%8C%E6%A8%8A%E6%8C%AF%E4%B8%9Csiu",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗梅开二度",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "title": "压力给到内马尔",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E5%86%85%E9%A9%AC%E5%B0%94",
           "hot": 0,
           "label": ""
         },
@@ -22,43 +22,25 @@
           "label": ""
         },
         {
-          "title": "C罗siu起来了",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97siu%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "title": "C罗成为葡萄牙世界杯射手王",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗进球",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%BF%9B%E7%90%83",
+          "title": "C罗回应对决阿根廷",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E5%AF%B9%E5%86%B3%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗说我回来了",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%AF%B4%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "内马尔美加墨世界杯首秀",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "姆巴佩哈兰德将正面对决",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%88%E5%85%B0%E5%BE%B7%E5%B0%86%E6%AD%A3%E9%9D%A2%E5%AF%B9%E5%86%B3",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗母亲无声抗议",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%AF%8D%E4%BA%B2%E6%97%A0%E5%A3%B0%E6%8A%97%E8%AE%AE",
+          "title": "C罗生物年龄仅为28.9岁",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%94%9F%E7%89%A9%E5%B9%B4%E9%BE%84%E4%BB%85%E4%B8%BA28.9%E5%B2%81",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 9,
+      "count": 6,
       "status": "success"
     },
     "百度": {
@@ -69,13 +51,18 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗半场梅开二度",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%8D%8A%E5%9C%BA%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "title": "如何评价C罗梅开二度",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
           "hot": 0
         },
         {
-          "title": "莱奥替补爆射破门",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8E%B1%E5%A5%A5%E6%9B%BF%E8%A1%A5%E7%88%86%E5%B0%84%E7%A0%B4%E9%97%A8",
+          "title": "C罗成为葡萄牙世界杯射手王",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%88%90%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "hot": 0
+        },
+        {
+          "title": "C罗梅开二度打碎质疑",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
           "hot": 0
         },
         {
@@ -84,7 +71,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -95,78 +82,113 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯已有6队出线4队出局",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E6%9C%896%E9%98%9F%E5%87%BA%E7%BA%BF4%E9%98%9F%E5%87%BA%E5%B1%80",
-          "hot": "893.4万"
+          "title": "C罗梅开二度",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": "1134.6万"
         },
         {
-          "title": "哈兰德发抖音庆祝世界杯出线",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF",
-          "hot": "870.7万"
-        },
-        {
-          "title": "美加墨世界杯带火三国文旅",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B8%A6%E7%81%AB%E4%B8%89%E5%9B%BD%E6%96%87%E6%97%85",
-          "hot": "780.4万"
+          "title": "当我看到凯恩空门不进",
+          "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E7%9C%8B%E5%88%B0%E5%87%AF%E6%81%A9%E7%A9%BA%E9%97%A8%E4%B8%8D%E8%BF%9B",
+          "hot": "966.2万"
         },
         {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "774.4万"
+          "hot": "904万"
+        },
+        {
+          "title": "陪C罗再Siu一次",
+          "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
+          "hot": "826.1万"
+        },
+        {
+          "title": "C罗进球后对球迷喊我回来了",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9B%E7%90%83%E5%90%8E%E5%AF%B9%E7%90%83%E8%BF%B7%E5%96%8A%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "hot": "772.9万"
+        },
+        {
+          "title": "亲眼见证C罗进球是什么体验",
+          "url": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "hot": "771.4万"
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "C罗两位姐姐发文：他今天强势做出了回应，黑粉都去哪里了",
+          "title": "8场3平5负！法国籍外教本届世界杯仍难求一胜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "体图揭秘世界杯赛前流程安排，共计36项，每一项都精确到分",
+          "title": "从饱受质疑到收获好评，聊聊48队世界杯带来的惊喜与争议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赖斯与加纳一战尝试12次传中，创本届世界杯球员单场纪录",
+          "title": "4胜1平！哥伦比亚连续5场世界杯不败，创队史最长纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：那个机会10次有9次我能打进，但今天就是没落到我这边",
+          "title": "哥伦比亚2014以来首次世界杯开局两连胜，当时打进了8强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "詹俊：英格兰陷入慢速传控陷阱，以凯恩的能力那脚不该打飞",
+          "title": "亨利：梅西进了5球还想进第6球，他和C罗相互需要，相互成就",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆夏拉：和维尔茨配合非常舒服；西班牙0-0佛得角让我很惊讶",
+          "title": "穆尼奥斯开赛前两场破门，成世界杯史上第5位达此成就的后卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "一葡萄牙球迷：C罗绝不能替补，若他想可以踢到50岁",
+          "title": "2014年世界杯以来，哥伦比亚连续11场世界杯比赛场场进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看了半场阿根廷及恩佐",
+          "title": "边卫？穆尼奥斯成哥伦比亚队史第3位世界杯前两场均破门球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "感觉现在的C罗和里奥吆西就像国乒里的樊振东和王楚欣，陈梦和孙颖莎",
+          "title": "Goal网站：葡萄牙队长C罗被讽刺为&quot;点球罗&quot;Penaldo，数据显示点球高达18.3%",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "错哥我们B哥了！B费评论区球迷狂刷道歉：感谢你传球 你是助攻之王",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩在世界杯上的这项数据有点夸张",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "fifa还是支持英格兰的 ，核心肯定不能被罚下，锅凯恩背好了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这姆巴佩联赛有点演了，他又不是不能防守和跑位",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩有啥吹的 第二个球直接推空门进的 全场七个必进球机会只把握住两个",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
@@ -177,37 +199,32 @@
           "hot": ""
         },
         {
-          "title": "早报：熟悉的C罗，似曾相识的英格兰",
+          "title": "2026世界杯小组赛次轮：阿德法挪等队提前晋级，亚洲两队出局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆：我觉得自己配不上全场最佳，我没能进入比赛节奏",
+          "title": "太阳报：内马尔在巴西队基地遇热情球迷，驻足一一签名",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B费：C罗为进球而生，我们也需要他为球队进球",
+          "title": "刘建宏：我们没法要求C罗永远28岁，但从他身上得到鼓励和力量",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：我们连续4届大赛第二场踢平了，平局基本保证了能晋级",
+          "title": "虽迟但到，民主刚果“活雕像”球迷现身世界杯赛场支持国家队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：十次里有九次我都会相信自己能把握住，但今天不太走运",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "伊布：我不知道C罗为啥要说自己回来了，他从未离开",
+          "title": "开票在即，中国男篮世预赛将在中立场地韩国对阵中国台北男篮",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -224,6 +241,11 @@
       "topics": [
         {
           "title": "葡萄牙5-0乌兹别克斯坦 C罗双响连续6届世界杯破门",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "克罗地亚1比0巴拿马，莫德里奇达成国家队200场里程碑",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -248,12 +270,12 @@
           "hot": ""
         },
         {
-          "title": "6届世界杯破门首人！C罗9球追平黑豹，破4年大赛球荒，连刷7纪录",
+          "title": "安切洛蒂：内马尔可以出战小组赛末轮，很高兴他回来了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "法国3-0伊拉克提前出线 姆巴佩双响登贝莱传射",
+          "title": "美国允许伊朗队下一场世界杯比赛前2天入境",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -269,11 +291,6 @@
         },
         {
           "title": "深挖 | 世界杯上“最严厉的父亲”，软肋到底在哪里？",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "大罗：梅西已经超越了所有前辈，我38岁体重都涨到120公斤了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
