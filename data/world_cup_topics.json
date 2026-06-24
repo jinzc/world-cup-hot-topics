@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-25 03:58:21",
+  "update_time": "2026-06-25 05:40:49",
   "sources": {
     "微博": {
       "topics": [
@@ -19,15 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "C罗梅开二度打碎质疑",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%E6%89%93%E7%A2%8E%E8%B4%A8%E7%96%91",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -37,39 +31,39 @@
     "抖音": {
       "topics": [
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "815.3万"
-        },
-        {
           "title": "C罗梅开二度",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-          "hot": "782.4万"
+          "hot": "854.7万"
         },
         {
           "title": "C罗连续六届世界杯进球",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83",
-          "hot": "779.2万"
-        },
-        {
-          "title": "C罗的魔性贯口也来了",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86",
-          "hot": "777.1万"
+          "hot": "779.5万"
         },
         {
           "title": "安切洛蒂：内马尔可以出场",
           "url": "https://www.douyin.com/search/%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%EF%BC%9A%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%BA",
-          "hot": "773.8万"
+          "hot": "776.4万"
         },
         {
-          "title": "陪C罗再Siu一次",
-          "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
-          "hot": "769.8万"
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "774.8万"
+        },
+        {
+          "title": "C罗的魔性贯口也来了",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E7%9A%84%E9%AD%94%E6%80%A7%E8%B4%AF%E5%8F%A3%E4%B9%9F%E6%9D%A5%E4%BA%86",
+          "hot": "771.3万"
         },
         {
           "title": "亲眼见证C罗进球是什么体验",
           "url": "https://www.douyin.com/search/%E4%BA%B2%E7%9C%BC%E8%A7%81%E8%AF%81C%E7%BD%97%E8%BF%9B%E7%90%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "hot": "769.1万"
+          "hot": "770.4万"
+        },
+        {
+          "title": "陪C罗再Siu一次",
+          "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E5%86%8DSiu%E4%B8%80%E6%AC%A1",
+          "hot": "764.4万"
         }
       ],
       "count": 7,
@@ -78,68 +72,118 @@
     "虎扑": {
       "topics": [
         {
-          "title": "运气不佳，卡塔尔是第3支单届世界杯打进2个乌龙的球队",
+          "title": "稳定发挥，瑞士连续四届世界杯小组出线晋级淘汰赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "图赫尔：不想把压力都放萨卡背上，需要每一名球员都站出来",
+          "title": "瑞士第二次在世界杯获得小组第一，上次是在2006年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "超越姆巴佩，阿拉伊贝戈维奇成世界杯最年轻远射进球者",
+          "title": "瑞士队史首次在世界杯击败东道主，此前3战2平1负",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "18岁276天，阿拉伊贝戈维奇是世界杯历史第8年轻进球者",
+          "title": "生涯前两场世界杯均替补破门，马赫米奇成为历史第五人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼联官方微博发布C罗与B费的合影：Just the two of us",
+          "title": "19岁325天，拉扬是巴西队史第6位在世界杯首发的U20球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯来了可能不会水都是也不会特别强",
+          "title": "英格兰休息日几名球员去打高尔夫，凯恩和教练组喝咖啡",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩在世界杯上的这项数据有点夸张",
+          "title": "26世界杯四大中场新星，曼联得一可安中场！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【绯闻对象】恩佐VS奥地利 个人集锦",
+          "title": "[流言板]巴萨为梅西送上生日祝福，梅西现身评论区回复：非常感谢！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为什么我感觉今年的世界杯又臭又长啊？打了好长时间，小组赛第三轮都没开始",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗马诺：皇马与切尔西未就恩佐谈判；皇马会回购帕斯并出售",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩在皇马究竟得到的支持够不够，用数据来说明。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩就是皇马历史最差烂合同，没有之一",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马酝酿“重磅甩卖”，恩佐·费尔南德斯与尼科·帕兹的去留决定已定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "18岁276天，波黑小将阿拉伊贝戈维奇排在世界杯最年轻进球榜第八",
+          "title": "苏格兰vs巴西：内马尔替补，维尼修斯先发，库尼亚出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯祝福梅西：生日快乐，队长，我们爱你",
+          "title": "东道主，美国、墨西哥和加拿大全部晋级本届世界杯淘汰赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "邮报：梅努有望在对阵巴拿马的比赛中迎来世界杯首次首发",
+          "title": "追方丹纪录的是你？本届世界杯已有10粒乌龙，历届最多12粒",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：阿尔瓦雷斯已经在巴塞罗那找房子，他和梅西聊了很多",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "继2006年世界杯后，瑞士再次以小组第一晋级淘汰赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "瑞士队史首次连续四届世界杯小组出线，此前三届均止步16强",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "6场仅拿1分，卡塔尔连续两届世界杯小组赛垫底出局",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "50场出现148球，本届世界杯进球数已超南非世界杯和德国世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
@@ -175,12 +219,7 @@
           "hot": ""
         },
         {
-          "title": "世界杯10球 队史射手王！FIFA官方祝贺C罗 狂刷12大纪录 超燃一夜",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "39分钟梅开二度！C罗纵情庆祝刷爆四大纪录 连续6届破门历史唯一",
+          "title": "世界杯重磅罚单！29岁卡塔尔中场被禁赛5场：犯规致对手重伤5个月",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -203,14 +242,9 @@
           "title": "安切洛蒂：内马尔可以出战小组赛末轮，很高兴他回来了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "美国允许伊朗队下一场世界杯比赛前2天入境",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 11,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
