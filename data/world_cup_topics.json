@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-26 01:19:57",
+  "update_time": "2026-06-26 04:14:40",
   "sources": {
     "微博": {
       "topics": [
@@ -33,22 +33,22 @@
         {
           "title": "黄健翔孙继海预测世界杯出线局势",
           "url": "https://www.douyin.com/search/%E9%BB%84%E5%81%A5%E7%BF%94%E5%AD%99%E7%BB%A7%E6%B5%B7%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF",
-          "hot": "809.9万"
+          "hot": "802.5万"
         },
         {
           "title": "内马尔赛后激动落泪",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E8%B5%9B%E5%90%8E%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA",
-          "hot": "783.4万"
-        },
-        {
-          "title": "张诗尧为内马尔回归首秀献舞",
-          "url": "https://www.douyin.com/search/%E5%BC%A0%E8%AF%97%E5%B0%A7%E4%B8%BA%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92%E9%A6%96%E7%A7%80%E7%8C%AE%E8%88%9E",
-          "hot": "773.7万"
+          "hot": "782.7万"
         },
         {
           "title": "用胜利之舞庆祝内马尔回归",
           "url": "https://www.douyin.com/search/%E7%94%A8%E8%83%9C%E5%88%A9%E4%B9%8B%E8%88%9E%E5%BA%86%E7%A5%9D%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92",
-          "hot": "771.9万"
+          "hot": "780.7万"
+        },
+        {
+          "title": "张诗尧为内马尔回归首秀献舞",
+          "url": "https://www.douyin.com/search/%E5%BC%A0%E8%AF%97%E5%B0%A7%E4%B8%BA%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92%E9%A6%96%E7%A7%80%E7%8C%AE%E8%88%9E",
+          "hot": "774.8万"
         }
       ],
       "count": 4,
@@ -57,73 +57,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "穆帅：所有人都觉得梅西必须拿世界杯，像有股力量成全了他",
+          "title": "火力全开，德国是本届世界杯首支进球数达到10个的球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联是不是掘图赫尔祖坟了  之前买德拉普 安德森干预  世界杯又不待见曼联球员",
+          "title": "维尔茨前场断球，弧顶起脚射门被封堵",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯目前来看比较接近巴萨了，我一个普通球迷也想谈谈我的观点",
+          "title": "奥莱：大马丁踢约旦不轮休，他需要继续积累比赛节奏",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "一堆人在讨论恩佐厉不厉害，值不值1.4亿欧。",
+          "title": "维尔茨分球助攻，萨内推射破门！德国开场1-0厄瓜多尔",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "9场，恩纳-瓦伦西亚是厄瓜多尔队史世界杯出场最多球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "库尼亚世界杯踢得越好 ，曼联越不可能买中锋",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "库库雷利亚：“我不需要维尼修斯参与防守，脏活累活我来干”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "努萨：很欣赏内马尔的踢球方式；现役球员里C罗心态最强",
+          "title": "佩德里：害怕受伤反而更容易受伤；加维既是帮手也是麻烦精",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马卡：马竞接近签格里马尔多和李刚仁，两人总价5500万欧",
+          "title": "28岁242天，德国队派出28年来平均年龄最大的世界杯首发阵容",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "捷克中场：这次世界杯经历学到了很多；全队需要一起承担赛果",
+          "title": "海地主帅：我们证明了自己配得上世界杯；连续面对巴摩两队确实艰难",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "2胜2平，日本在世界杯常规时间内对欧洲球队连续4场不败",
+          "title": "TA：因不满进展缓慢，内马尔退出与辛辛那提的转会谈判",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内托：我们希望为C罗赢得世界杯；内马尔配得上出场时的欢呼",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "内托：我被评为世界杯最帅球员？全队都觉得我就是最帅的那个",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "内托：错过上届世界杯的遗憾很难形容，现在我带着翻倍的能量",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马特奥-查韦斯：很荣幸能在世界杯进球；真正的挑战才刚开始",
+          "title": "米拉贝利：米兰曾与C罗谈妥加盟，但中资在最后时刻退缩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
