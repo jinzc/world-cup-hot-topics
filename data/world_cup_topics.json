@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-06-25 12:16:07",
+  "update_time": "2026-06-25 16:28:30",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯积分",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A7%AF%E5%88%86",
+          "title": "日本韩国世界杯死亡前景",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%BB%E4%BA%A1%E5%89%8D%E6%99%AF",
           "hot": 0,
           "label": ""
         }
@@ -24,14 +24,9 @@
           "title": "内马尔本届世界杯首秀",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E9%A9%AC%E5%B0%94%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
           "hot": 0
-        },
-        {
-          "title": "C罗球迷reaction葡萄牙首胜",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E7%90%83%E8%BF%B7reaction%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E8%83%9C",
-          "hot": 0
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "知乎": {
@@ -42,73 +37,63 @@
     "抖音": {
       "topics": [
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/search/%E7%94%A8AI%E5%B0%8F%E5%8D%A1%E5%BA%94%E6%8F%B4%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "890.5万"
-        },
-        {
           "title": "内马尔赛后激动落泪",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E8%B5%9B%E5%90%8E%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA",
-          "hot": "884.4万"
+          "hot": "864.5万"
         },
         {
           "title": "终于让我等到内马尔首秀了",
           "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E8%AE%A9%E6%88%91%E7%AD%89%E5%88%B0%E5%86%85%E9%A9%AC%E5%B0%94%E9%A6%96%E7%A7%80%E4%BA%86",
-          "hot": "868.4万"
-        },
-        {
-          "title": "C罗能否再战一届世界杯",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%83%BD%E5%90%A6%E5%86%8D%E6%88%98%E4%B8%80%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "783.2万"
+          "hot": "774.8万"
         },
         {
           "title": "用胜利之舞庆祝内马尔回归",
           "url": "https://www.douyin.com/search/%E7%94%A8%E8%83%9C%E5%88%A9%E4%B9%8B%E8%88%9E%E5%BA%86%E7%A5%9D%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92",
-          "hot": "776.2万"
+          "hot": "772.9万"
+        },
+        {
+          "title": "张诗尧为内马尔回归首秀献舞",
+          "url": "https://www.douyin.com/search/%E5%BC%A0%E8%AF%97%E5%B0%A7%E4%B8%BA%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92%E9%A6%96%E7%A7%80%E7%8C%AE%E8%88%9E",
+          "hot": "772万"
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "卡斯特罗夫：世界杯首秀很光荣，但对于丢球我有责任",
+          "title": "莫德里奇Ins：很自豪为克罗地亚出战200场，让我们携手并进",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺祝福梅西生日：你让全世界球迷为你的才华而赞叹",
+          "title": "卡卡晒与内马尔等巴西球星的合影：让我们与国家队站在一起",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孙兴慜今日仅触球20次，继上一场后再创个人世界杯新低",
+          "title": "马卡：穆帅还想要中卫和“莫德里奇”，也考虑何塞卢式中锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伤愈复出代表巴西队出战世界杯，内马尔Ins：要记得你是谁",
+          "title": "阿斯：菲利克斯/孔塞桑/莱奥表现出色，B席恐失葡萄牙主力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "韩国足协：晋级的可能性仍然存在，将谦逊地等待剩余的赛程",
+          "title": "维尼修斯本届世界杯数据：12射8正，4球1助，5次创造机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥世界杯vs欧足联球队10次取胜，非欧足联队中排名第4",
+          "title": "葡萄牙队周三封闭训练，主教练马丁内斯喜迎伤员复出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "别在担忧什么隔壁球员搁世界杯进球的事了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：阿尔瓦雷斯已经开始在巴塞罗那找房子，他和梅西交流过",
+          "title": "[流言板]太阳报：赖斯下场可以首发；拉什福德腿筋状况令人担忧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -118,73 +103,48 @@
           "hot": ""
         },
         {
-          "title": "TA：皇马重建刚开始，穆里尼奥将围绕贝林厄姆打造4231",
+          "title": "一些人分不清球队肖像权和工资构成，反而无故攻击姆巴佩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼进球做了贝林厄姆的庆祝动作",
+          "title": "虽说竞体不该关注脸，但世界杯丑人也太多了，一天4场比赛8个队凑不出仨帅脸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯的传球失误需要减少",
+          "title": "买入奥利塞和恩佐能抹平失去vn的损失么",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴西3-0苏格兰小组头名出线，维尼修斯双响，内马尔替补出场",
+          "title": "奥亚萨瓦尔：不在乎首战后对我的批评；我们有责任照顾亚马尔",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内马尔儿子赛后欲冲向父亲，却被安保拦下",
+          "title": "朴柱昊：韩国进攻主要靠李刚仁的个人能力；比赛结果令人失望",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "三战全胜0失球，墨西哥是世界杯史上第6支做到的球队",
+          "title": "李刚仁：除了道歉我没什么好说的，我觉得我需要好好反省一下",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "安帅：维尼修斯一直处在顶级水平，他是最优秀的球员之一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "懂球帝美加墨世界杯6月25日红黑榜",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "45分钟金身护法，墨西哥连续14场世界杯半场不丢球历史第二",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "洪明甫：表现不佳是我的责任；将孙兴慜放在替补席是赛前判断",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "6.25世界杯竞彩让球冷热速览：弱势方不败端呈现显著价值错配",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "安帅：内马尔出场是因为他配得上，他为恢复状态付出了很多",
+          "title": "耐克C罗海报疑似抄袭李宇春海报，话题登上微博热搜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
@@ -210,11 +170,6 @@
           "hot": ""
         },
         {
-          "title": "世界杯C组大结局：巴西榜首晋级，摩洛哥第2，苏格兰命悬一线",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "世界杯出线形势：32强定13席 6队锁定头名+7队出局 首组对阵出炉",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -230,6 +185,11 @@
           "hot": ""
         },
         {
+          "title": "底蕴？巴西连续12届世界杯获小组头名！吉兆预示夺冠，或再遇日本",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-南非1-0韩国!队史首次出线 马塞科破门",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -240,17 +200,12 @@
           "hot": ""
         },
         {
-          "title": "33岁孙兴慜迷茫呆立 世界杯连续7场0球 名嘴嘲讽：沦为亚洲一哥们",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "猛虎射门!世界杯最佳进球？25岁前锋轰25米重炮 海地时隔52年神迹",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
