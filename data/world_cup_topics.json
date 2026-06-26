@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-26 13:16:12",
+  "update_time": "2026-06-26 17:44:04",
   "sources": {
     "微博": {
       "topics": [
@@ -8,15 +8,9 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E7%9C%9FC%E7%BD%97%E7%9C%8B%E5%88%B0%E5%81%87C%E7%BD%97",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "世界杯32强已确定18席",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E7%A1%AE%E5%AE%9A18%E5%B8%AD",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -39,7 +33,7 @@
         {
           "title": "哈兰德将迎战姆巴佩",
           "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%B0%86%E8%BF%8E%E6%88%98%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": "780.3万"
+          "hot": "781.3万"
         }
       ],
       "count": 1,
@@ -48,47 +42,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "镜报：皇马球探考察因卡皮耶世界杯表现，但阿森纳明确不卖",
+          "title": "日本球迷热议：如果能赢巴西，距夺世界杯夺冠就更近一步",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "库拉索门将：希望还能踢下届世界杯；为我们的表现自豪",
+          "title": "伊布含泪祝贺波黑出线：对球迷来说，这可能已赢得世界杯了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欲离开热刺？贝里瓦尔避谈转会：现在我百分之百专注世界杯",
+          "title": "41岁美女主持人穿绝美黑裙亮相世界杯，她坚信墨西哥能夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯32强已定19席：14队锁定签位，4组淘汰赛对阵出炉",
+          "title": "连环决：皇马在等敲定恩佐价格，然后同等价格放楚阿梅尼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA跟队社论：切尔西有卖掉恩佐，和必须留住他的两方理由",
+          "title": "我感觉什么楚阿梅尼，阿尔瓦雷斯纯是天方夜谭，还是坚守一开始的引援，把价压下来赶紧拿下巴莱巴最务实",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯观赛现场发生骇人一幕，一辆汽车冲入欢庆的球迷人群",
+          "title": "[流言板]佩德里：我非常喜欢小蜘蛛，希望最好的球员都在巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]苏亚雷斯：亚马尔梅西完全不同，希望他至少达到梅西的高度",
+          "title": "阿尔瓦雷斯来了可能不会水都是也不会特别强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维和亚马尔是不是巴萨更衣室两大魔王啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "“贝克汉姆既视感” 罗梅罗表示阿尔瓦雷斯的转会由拉波尔塔全权负责，德科并未在其中扮演任何角色",
+          "title": "加纳巫师说c罗的葡萄牙能拿到本届冠军，凯恩的英格兰还是没戏",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -98,58 +87,48 @@
           "hot": ""
         },
         {
-          "title": "一堆人在讨论恩佐厉不厉害，值不值1.4亿欧。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "加纳巫师说c罗的葡萄牙能拿到本届冠军，凯恩的英格兰还是没戏",
+          "title": "姆巴佩在国内的营销真的可以",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯午报：淘汰赛的车票越来越少",
+          "title": "突尼斯世界杯惨败引发国家震荡：总统掀反腐风暴，足协多人或被抓入狱",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "懂球帝海报：日本、巴西决战世界杯32强",
+          "title": "世界杯实时积分榜上线！赛中秒更积分对阵，一眼看透全场战局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "苏亚雷斯：9号位我喜欢凯恩和努涅斯；小蜘蛛的处境像我当年",
+          "title": "恋与绝代双骄 ｜ 姆巴佩、哈兰德专属球星互动体验上线",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "97分50秒，艾汉进球为世界杯未进加时比赛里第二晚的绝杀",
+          "title": "队报：拉克鲁瓦预计世界杯后加盟切尔西，转会费约5500万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "曾3-2击败巴西？伊东纯也：友谊赛和世界杯完全是两回事",
+          "title": "世界杯伤停情报速递：德尚缺阵；多队出现伤停情况",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "预期进球值0.83，巴拉圭0-0澳大利亚xG值为世界杯历史第6低",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "懂球帝美加墨世界杯6月26日红黑榜",
+          "title": "哀悼，18岁澳大利亚球迷在墨尔本观看世界杯后遭遇车祸离世",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -170,7 +149,7 @@
           "hot": ""
         },
         {
-          "title": "3-1！1-1！世界杯死亡之组大结局：3队携手出线 日本vs巴西",
+          "title": "世界杯重磅对决！巴西VS日本，又遇淘汰赛魔咒，荷兰对决摩洛哥",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -180,12 +159,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯重磅对决！巴西VS日本，又遇淘汰赛魔咒，荷兰对决摩洛哥",
+          "title": "3-1！1-1！世界杯死亡之组大结局：3队携手出线 日本vs巴西",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯-巴西3-0苏格兰头名出线 维尼修斯双响内马尔首秀",
+          "title": "不配执法世界杯？美国女主裁连续犯错：被打出1.0分 FIFA应禁赛她",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
