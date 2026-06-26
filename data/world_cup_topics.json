@@ -1,10 +1,23 @@
 {
-  "update_time": "2026-06-26 08:17:49",
+  "update_time": "2026-06-26 13:16:12",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "当真C罗看到假C罗",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E7%9C%9FC%E7%BD%97%E7%9C%8B%E5%88%B0%E5%81%87C%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯32强已确定18席",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E7%A1%AE%E5%AE%9A18%E5%B8%AD",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -24,99 +37,119 @@
     "抖音": {
       "topics": [
         {
-          "title": "黄健翔孙继海预测世界杯出线局势",
-          "url": "https://www.douyin.com/search/%E9%BB%84%E5%81%A5%E7%BF%94%E5%AD%99%E7%BB%A7%E6%B5%B7%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF",
-          "hot": "896.6万"
-        },
-        {
-          "title": "C罗能否再战一届世界杯",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%83%BD%E5%90%A6%E5%86%8D%E6%88%98%E4%B8%80%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "772万"
-        },
-        {
-          "title": "用胜利之舞庆祝内马尔回归",
-          "url": "https://www.douyin.com/search/%E7%94%A8%E8%83%9C%E5%88%A9%E4%B9%8B%E8%88%9E%E5%BA%86%E7%A5%9D%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BD%92",
-          "hot": "769.7万"
+          "title": "哈兰德将迎战姆巴佩",
+          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%B0%86%E8%BF%8E%E6%88%98%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "hot": "780.3万"
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "不敌厄瓜多尔，维尔茨鼓励全队：抬起头来！淘汰赛才是关键",
+          "title": "镜报：皇马球探考察因卡皮耶世界杯表现，但阿森纳明确不卖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥莱：尽管替补门将渴望上场，斯卡洛尼仍将让大马丁首发",
+          "title": "库拉索门将：希望还能踢下届世界杯；为我们的表现自豪",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孙继海谈内马尔伤病恢复：他能踢20分钟就能打满全场",
+          "title": "欲离开热刺？贝里瓦尔避谈转会：现在我百分之百专注世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "国家队状态更火热！维尔茨33场英超3助攻，3场世界杯已送2助",
+          "title": "世界杯32强已定19席：14队锁定签位，4组淘汰赛对阵出炉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果哲凯赖什是葡萄牙人他和c罗谁应该首发",
+          "title": "TA跟队社论：切尔西有卖掉恩佐，和必须留住他的两方理由",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩和维尼修斯是不是就是真的不搭配。",
+          "title": "世界杯观赛现场发生骇人一幕，一辆汽车冲入欢庆的球迷人群",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]队报：德尚和多数教练一样，愈发觉得姆巴佩不防守不是问题",
+          "title": "[流言板]苏亚雷斯：亚马尔梅西完全不同，希望他至少达到梅西的高度",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加维和亚马尔是不是巴萨更衣室两大魔王啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "“贝克汉姆既视感” 罗梅罗表示阿尔瓦雷斯的转会由拉波尔塔全权负责，德科并未在其中扮演任何角色",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "切尔西最香的还是凯塞多。感觉比恩佐强一档。进攻加强版的马克莱莱啊。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一堆人在讨论恩佐厉不厉害，值不值1.4亿欧。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加纳巫师说c罗的葡萄牙能拿到本届冠军，凯恩的英格兰还是没戏",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "哈兰德能否加入？历史上仅有两人在前3场世界杯每场至少进2球",
+          "title": "世界杯午报：淘汰赛的车票越来越少",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "纳格尔斯曼：基米希和恩梅加搭档中场？那帕夫洛维奇怎么办？",
+          "title": "懂球帝海报：日本、巴西决战世界杯32强",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "同队两位门将单届均丢至少5球，突尼斯是世界杯历史第6队",
+          "title": "苏亚雷斯：9号位我喜欢凯恩和努涅斯；小蜘蛛的处境像我当年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "单届世界杯前3次射门全部进球，布罗比为有统计以来第三人",
+          "title": "97分50秒，艾汉进球为世界杯未进加时比赛里第二晚的绝杀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：韩国队目前攻防两端都没有清晰战术，孙兴慜已起不到作用",
+          "title": "曾3-2击败巴西？伊东纯也：友谊赛和世界杯完全是两回事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔：我从后面根本看不到普拉塔，只能关注前方发生了什么",
+          "title": "预期进球值0.83，巴拉圭0-0澳大利亚xG值为世界杯历史第6低",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "懂球帝美加墨世界杯6月26日红黑榜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -132,12 +165,22 @@
     "网易": {
       "topics": [
         {
-          "title": "科特迪瓦2-0库拉索!队史首次世界杯出线 佩佩双响",
+          "title": "世界杯-日本1-1瑞典携手晋级 日本淘汰赛战巴西",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "遭厄瓜多尔逆转，德国队首次在世界杯小组赛不敌南美球队",
+          "title": "3-1！1-1！世界杯死亡之组大结局：3队携手出线 日本vs巴西",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯-荷兰3-1突尼斯头名晋级 将战摩洛哥",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯重磅对决！巴西VS日本，又遇淘汰赛魔咒，荷兰对决摩洛哥",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -147,32 +190,12 @@
           "hot": ""
         },
         {
-          "title": "拿一分、进一球，库拉索小组垫底结束队史首次世界杯征程",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯女裁判大争议!德国队员亮鞋底踢对方头部 主裁认定进球有效",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "会发生吗？给凯恩下咒的加纳巫师：C罗将会在今年夺得世界杯冠军",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-南非1-0韩国!队史首次出线 马塞科破门",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-摩洛哥4-2逆转海地 阿什拉夫传射赛巴里三连击",
+          "title": "科特迪瓦2-0库拉索!队史首次世界杯出线 佩佩双响",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "腾讯": {
