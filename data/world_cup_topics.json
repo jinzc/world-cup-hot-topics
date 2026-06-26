@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-27 04:03:49",
+  "update_time": "2026-06-27 06:19:41",
   "sources": {
     "微博": {
       "topics": [
@@ -16,14 +16,14 @@
           "label": ""
         },
         {
-          "title": "哈兰德大战姆巴佩",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%A7%E6%88%98%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "title": "姆巴佩只关注了樊振东一个真人",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%AA%E5%85%B3%E6%B3%A8%E4%BA%86%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "姆巴佩只关注了樊振东一个真人",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%AA%E5%85%B3%E6%B3%A8%E4%BA%86%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA",
+          "title": "世界杯预测",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
           "hot": 0,
           "label": ""
         }
@@ -51,137 +51,107 @@
         {
           "title": "用诗意解说打开美加墨世界杯",
           "url": "https://www.douyin.com/search/%E7%94%A8%E8%AF%97%E6%84%8F%E8%A7%A3%E8%AF%B4%E6%89%93%E5%BC%80%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "769.9万"
-        },
-        {
-          "title": "世界杯一起尝试街头穿搭",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%80%E8%B5%B7%E5%B0%9D%E8%AF%95%E8%A1%97%E5%A4%B4%E7%A9%BF%E6%90%AD",
-          "hot": "765.3万"
+          "hot": "772.2万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "获得金球奖后一年在世界杯戴帽，登贝莱是历史第四人",
+          "title": "传奇教头！德尚世界杯执教17胜，超越舍恩独享历史第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯至今上演帽子戏法球员：梅西、戴维、登贝莱",
+          "title": "这才刚小组赛！登贝莱、姆巴佩连线5球，追平世界杯历史纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "火力猛，法国在世界杯上首次连续4场比赛至少攻入3球",
+          "title": "塞尔：姆巴佩借裁判转交队长袖标，或为避免离场超10秒受罚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "爆发！登贝莱此前在世界杯+欧洲杯19场0进球，近两场4球",
+          "title": "登贝莱本届世界杯每43分钟参与1球，此前大赛每499分钟1球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "登贝莱上演本届第三次帽子戏法，是梅西和戴维之后第三人",
+          "title": "法国连续4场轰入3球以上，追平西班牙2002年的世界杯纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "32分钟戴帽，登贝莱上演世界杯历史第二早帽子戏法",
+          "title": "杜埃：收获世界杯首球感觉很好，每场比赛我都尽力做到最好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩撞墙配合送直塞，科内单刀过门将未能成功",
+          "title": "姆巴佩社媒：三战全胜，任务圆满完成，接下来准备下一阶段",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "登贝莱世界杯戴帽，成法国队史第四人",
+          "title": "挪威主帅：轮换无需多想，若让哈兰德等人上那世界杯走不远",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃弗顿的恩迪亚耶世界杯几乎没上，但是有传闻要来，球员特点据说是老詹加迪亚洛结合体",
+          "title": "连环决：皇马在等敲定恩佐价格，然后同等价格放楚阿梅尼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "3场3球，世界杯射手榜第5！库尼亚的爆发，曼联值得深思",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "希望八佩回大黄还是该怎么踢还怎么踢 不要学世界杯的自己",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩无私助攻登贝莱 法国1-0领先",
+          "title": "罗马诺：穆里尼奥在世界杯上期待什么？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "半场：法国3-1挪威，登贝莱帽子戏法，姆巴佩双助攻",
+          "title": "法国4-1挪威头名出线，登贝莱戴帽，姆巴佩双助攻，杜埃建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "状态火热，法国队史首次连续4场世界杯比赛至少打进3球",
+          "title": "乌拉圭vs西班牙：西班牙率先公布首发，亚马尔、佩德里先发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "伊万-托尼：我来世界杯不是只为了罚点球，而是帮助球队",
+          "title": "杜埃：我们都梦想着世界杯进球；世界杯和俱乐部比赛既然不同",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "单届3次帽子戏法，本届世界杯帽子戏法为1986年以来最多",
+          "title": "三大超巨，奥利塞、姆巴佩、登贝莱分获法国队三场小组赛MVP",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "开场32分钟戴帽，登贝莱成世界杯历史第二快帽子戏法球员",
+          "title": "小组全胜且进球10+，法国是世界杯历史第7队&amp;此前仅巴西夺冠",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "自1994年萨连科以来，登贝莱是首位世界杯上半场戴帽的球员",
+          "title": "詹俊：挪威二队能力差距太大；登贝莱会是姆巴佩最犀利的僚机",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "安古洛：在世界杯破门是巨大骄傲，我知道整个国家都在等待这刻",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯赛场戴帽，登贝莱成为法国队史第三人",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯赛场戴帽，登贝莱在法国国家队首次上演帽子戏法",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "开场20分钟梅开二度，登贝莱成法国队史世界杯最快双响球员",
+          "title": "杭州警方捣毁借世界杯设赌的犯罪团伙，涉案金额超百万元",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
@@ -196,6 +166,26 @@
     },
     "网易": {
       "topics": [
+        {
+          "title": "法国4-1挪威头名晋级 登贝莱戴帽姆巴佩2助攻",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯：萨尔传射盖耶双响 塞内加尔5-0九人伊拉克",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "32分钟！世界杯史上第2快帽子戏法诞生，29岁金球先生连创7大纪录",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "0-5！亚洲第3支出局队诞生，2届世界杯6战全败垫底，也坑惨了韩国",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
         {
           "title": "世界杯-日本1-1瑞典携手晋级 日本淘汰赛战巴西",
           "url": "https://sports.163.com/worldcup2026/",
@@ -212,22 +202,17 @@
           "hot": ""
         },
         {
-          "title": "3-1！1-1！世界杯死亡之组大结局：3队携手出线 日本vs巴西",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯1天6战！韩国祈祷3队帮忙：若全部达成 韩国躺着出线",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "科特迪瓦2-0库拉索!队史首次世界杯出线 佩佩双响",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯女裁判大争议!德国队员亮鞋底踢对方头部 主裁认定进球有效",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
