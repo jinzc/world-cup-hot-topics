@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-06-27 23:23:28",
+  "update_time": "2026-06-28 01:18:37",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "伊朗球员称这届世界杯是场灾难",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E7%A7%B0%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%9C%BA%E7%81%BE%E9%9A%BE",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -21,13 +14,8 @@
     "B站": {
       "topics": [
         {
-          "title": "中德家庭世界杯观赛夜宵局",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BE%B7%E5%AE%B6%E5%BA%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%82%E8%B5%9B%E5%A4%9C%E5%AE%B5%E5%B1%80",
-          "hot": 0
-        },
-        {
-          "title": "国青U17世界杯首战告捷",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%9D%92U17%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7",
+          "title": "世界杯H组迎来出线大结局",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AFH%E7%BB%84%E8%BF%8E%E6%9D%A5%E5%87%BA%E7%BA%BF%E5%A4%A7%E7%BB%93%E5%B1%80",
           "hot": 0
         },
         {
@@ -36,7 +24,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -49,7 +37,7 @@
         {
           "title": "佛得角世界杯首秀小组出线",
           "url": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF",
-          "hot": "771.8万"
+          "hot": "768.7万"
         }
       ],
       "count": 1,
@@ -58,98 +46,48 @@
     "虎扑": {
       "topics": [
         {
-          "title": "本届世界杯被断球最多球员：穆夏拉、特罗萨德、迪亚斯第一",
+          "title": "马克西：亚马尔已能把球队扛在肩上，他拥有不可思议的天赋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "3球！雷扎伊扬超过塔雷米，成为伊朗队史在世界杯的最佳射手",
+          "title": "德布劳内：这或是我最后一届世界杯，我不再是9年前那个自己",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩本届世界杯造6球排名第一，射门、射正等数据同样最多",
+          "title": "特维斯：梅西似乎永远还有更多故事要讲，总能给人带来惊喜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "惊险晋级！1胜2平，埃及队史首次在世界杯小组赛中保持不败",
+          "title": "阿根廷跟队：对阵约旦，阿尔瓦雷斯将和劳塔罗搭档锋线首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卢卡库替补上场仅56秒就进球，队史世界杯最快替补进球纪录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "在亚马尔有首发的国际大赛里，西班牙取得了八战全胜",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "攻入全场唯一进球！巴埃纳是本届世界杯首位进球的马竞球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "西班牙在世界杯16次对阵南美球队，战绩为7胜4平5负",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙特本届世界杯只有17脚射门，预期进球1.2，创队史最低",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "仅5.07分，穆斯莱拉是本届世界杯至今WS评分最低的球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "图赫尔：世界杯两场比赛过后，我对英格兰冲击冠军更有信心",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "塔雷米：灾难般的世界杯，FIFA本应解决所有问题但他们没有",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "论阿尔瓦雷斯是否是因为西蒙尼的战术才导致大量回撤",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩助攻2次说姆巴佩当绿叶打下手，姆巴佩进球又说姆巴佩利己不帮助队友和球队，什么话都让你们说了。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "告别美加墨，巴尔韦德的2026世界杯数据",
+          "title": "穆里尼奥：维尼修斯太棒了，他是一位非常令人兴奋的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 15,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第十七日前瞻：小组赛收官之日，C罗J罗迎来对决",
+          "title": "官方：马宁将担任世界杯1/16决赛德国vs巴拉圭第四官员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：美国队给波切蒂诺开出4年续约合同，原合同到世界杯结束到期",
+          "title": "官方：巴西裁判桑帕约将执法世界杯1/16决赛荷兰vs摩洛哥",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "拉姆：基米希必须回中场，帕夫洛维奇让位",
+          "title": "萨维奥拉：巴萨是最适合阿尔瓦雷斯的球队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
