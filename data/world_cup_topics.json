@@ -1,14 +1,8 @@
 {
-  "update_time": "2026-06-27 16:01:47",
+  "update_time": "2026-06-27 19:01:24",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "首支出局的世界杯冠军",
-          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%94%AF%E5%87%BA%E5%B1%80%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "世界杯32强已确定28席",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%B7%B2%E7%A1%AE%E5%AE%9A28%E5%B8%AD",
@@ -16,7 +10,7 @@
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -27,12 +21,17 @@
     "B站": {
       "topics": [
         {
+          "title": "韩国人谈世界杯韩国队表现",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%A1%A8%E7%8E%B0",
+          "hot": 0
+        },
+        {
           "title": "佛得角如何通过世界杯走向世界",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -45,7 +44,7 @@
         {
           "title": "佛得角世界杯首秀小组出线",
           "url": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF",
-          "hot": "780.5万"
+          "hot": "777.1万"
         }
       ],
       "count": 1,
@@ -54,83 +53,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "天体：詹姆斯或缺席世界杯所有比赛；斯彭斯查洛巴等争首发",
+          "title": "佛得角低位防守时间占比44.5%，为本届世界杯最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沃齐尼亚：和梅西同场竞技，是任何球员梦寐以求的舞台",
+          "title": "北青：浮嶋敏执教能力获中国足协认可，留任也是顺理成章",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "登贝莱和姆巴佩，谁抱谁大腿？法国左边锋成风向标",
+          "title": "战术观察：杜埃踢左边锋，姆巴佩不得不给登贝莱做嫁衣",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沙特主帅：我想要感谢球员们，这届世界杯的过程很美妙",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "破门带队出线，德布劳内赛后社媒：工作完成！🙏🏼",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "逆袭，佛得角是世界杯历史FIFA排名第三低的出线国家",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佛得角主帅：我们2002届首次参加世预赛，近年不断跨越难关",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷队友爆发“争吵”，梅西充当和事佬调解",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看了新闻，我现在只想庆幸啊，佩德里和亚马尔下的挺及时了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "基利安·姆巴佩将成为何塞·穆里尼奥麾下皇马新阵容的核心",
+          "title": "大胆一点，恩佐有没有机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "贝尔萨执教阿根廷和乌拉圭均在世界杯小组出局，仅带智利出线",
+          "title": "世界杯第十七日前瞻：小组赛收官之日，C罗J罗迎来对决",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "斯卡洛尼：没有更想碰的对手，更希望世界杯明天就结束，我们是冠军",
+          "title": "德媒：诺伊尔在本届世界杯没展现出往日的气场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "H组仅西班牙赢球，世界杯第4次出现一个组仅1支球队取胜",
+          "title": "塞内加尔一摄影师因签证被拒无缘现场拍摄，在酒店用长焦拍世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "塔雷米：我们在这里必须对抗一切，感谢西雅图的热情接待",
+          "title": "略伦特：亚马尔对我们来说非常重要，这一点毋庸置疑",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：加纳巫师下蛊凯恩，秘鲁一电视台想通过仪式化解",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
