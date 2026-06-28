@@ -1,22 +1,52 @@
 {
-  "update_time": "2026-06-28 07:10:51",
+  "update_time": "2026-06-28 12:42:08",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "贝林厄姆破门",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E7%A0%B4%E9%97%A8",
+          "title": "世界杯32强全名单",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E5%90%8D%E5%8D%95",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "凯恩头球破门",
-          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8",
+          "title": "C罗倒钩被挡",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%80%92%E9%92%A9%E8%A2%AB%E6%8C%A1",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯32强对阵出炉",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "阿根廷世界杯首个丢球",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%B8%AA%E4%B8%A2%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗任意球",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%BB%BB%E6%84%8F%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗被嘘",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%A2%AB%E5%98%98",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "大马丁指挥阿根廷任意球站位",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%E6%8C%87%E6%8C%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BB%BB%E6%84%8F%E7%90%83%E7%AB%99%E4%BD%8D",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "百度": {
@@ -27,18 +57,13 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗继续首发出战",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E7%BB%A7%E7%BB%AD%E9%A6%96%E5%8F%91%E5%87%BA%E6%88%98",
+          "title": "韩国队世界杯惨遭淘汰",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
           "hot": 0
         },
         {
-          "title": "凯恩头槌破门",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E5%A4%B4%E6%A7%8C%E7%A0%B4%E9%97%A8",
-          "hot": 0
-        },
-        {
-          "title": "贝林厄姆凌空破门",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%87%8C%E7%A9%BA%E7%A0%B4%E9%97%A8",
+          "title": "世界杯32强全部揭晓",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E6%8F%AD%E6%99%93",
           "hot": 0
         },
         {
@@ -47,7 +72,7 @@
           "hot": 0
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -58,63 +83,78 @@
     "抖音": {
       "topics": [
         {
-          "title": "佛得角世界杯首秀小组出线",
-          "url": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF",
-          "hot": "770万"
+          "title": "伊朗无缘世界杯32强",
+          "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA",
+          "hot": "1112.6万"
+        },
+        {
+          "title": "韩国队世界杯出局",
+          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
+          "hot": "1029.1万"
+        },
+        {
+          "title": "莫德里奇成世界杯最年长助攻球员",
+          "url": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%B9%B4%E9%95%BF%E5%8A%A9%E6%94%BB%E7%90%83%E5%91%98",
+          "hot": "907.2万"
+        },
+        {
+          "title": "巴拿马三战全败0进球告别世界杯",
+          "url": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%89%E6%88%98%E5%85%A8%E8%B4%A50%E8%BF%9B%E7%90%83%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "886.8万"
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "闪耀全场，贝林厄姆vs巴拿马对抗/创造机会等8数据全场最高",
+          "title": "马丁内斯：我们当然每场都想赢，但事实就是我们一胜两平了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德本场数据：20次丢球权，1关键传球，7次过人2次成功",
+          "title": "梅西本届世界杯已进6球，此前22届世界杯只有10届金靴进更多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "传射建功，官方：贝林厄姆当选英格兰2-0巴拿马全场最佳球员",
+          "title": "1966年来世界杯单场150+传球：除帕雷德斯外均是西班牙球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "小罗白天参加世界杯活动，晚上还要去夜店玩到凌晨",
+          "title": "梅西对阵约旦替补打入一球，个人世界杯总进球数达到19球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯：克罗地亚2-1加纳，弗拉西奇、苏契奇破门",
+          "title": "世界杯小组赛扑救榜：罗姆排名第一，单场贡献16次扑救",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "专克巴拿马！凯恩世界杯对同一对手进4球，创英格兰球员纪录",
+          "title": "拜仁17人参加本届世界杯，除了金玟哉外都晋级了32强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼联跟队：巴萨应反思为何高价签戈登，拉什福德比他强得多",
+          "title": "梅西替补登场打入任意球，妻子抱着儿子在看台热烈庆祝",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：若无缘阿尔瓦雷斯，巴萨将克鲁皮视为重要备选",
+          "title": "爆发！世界杯小组赛收官，非洲10队参赛9队晋级仅突尼斯出局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "克罗地亚这场，莫德里奇真神啊！",
+          "title": "世界杯小组赛助攻榜：吉马良斯&amp;伊萨克&amp;奥利塞3助攻并列第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆就是之前的贝克汉姆啊，英格兰最粗的腿挨最毒的骂",
+          "title": "世界杯小组赛进球榜：梅西6球第一，维尼修斯等4球第二",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -125,57 +165,47 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "英格兰2-0巴拿马小组第一出线，凯恩破门，贝林厄姆传射",
+          "title": "阿根廷3-1约旦，梅西、洛塞尔索各轰任意球世界波，劳塔罗点射",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "国窖1573丨葡萄牙vs哥伦比亚：C罗领衔，J罗、B费出战",
+          "title": "世界杯32强对阵：巴西vs日本、葡萄牙vs克罗地亚、阿根廷vs佛得角",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "现场葡萄牙球迷：C罗应该继续首发，有他的葡萄牙更强",
+          "title": "只差几秒钟，伊朗队史7次参加世界杯从未小组出线",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "克拉默：基米希对比赛的影响还不够，回防更多削弱了其影响力",
+          "title": "过去五届世界杯小组全胜球队战绩：3亚3季，仅西班牙一轮游",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "代表英格兰出战四届世界杯、七届大赛，亨德森成队史第一人",
+          "title": "世界杯小组第三积分榜：民主刚果领跑，伊朗3分0净胜球出局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/16决赛：墨西哥vs厄瓜多尔，胜者或战英格兰",
+          "title": "世界杯历史小组第三战绩：阿根廷、意大利获亚军，比利时四强",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "非死不可？世界杯史上四次实施小组第三对比赛制，C3都被淘汰",
+          "title": "“非”常了得！非洲10队参加世界杯9队出线，仅突尼斯拖后腿",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跨不过的坎！苏格兰9次参加世界杯均止步小组赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "40岁291天，莫德里奇成为世界杯送出助攻最年长的球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴拿马是本届世界杯唯一0进球球队，也是近四届唯一一支",
+          "title": "亚足联9队仅日本、澳大利亚晋级，其中5队小组垫底出局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
@@ -196,42 +226,37 @@
           "hot": ""
         },
         {
-          "title": "法国4-1挪威头名晋级 登贝莱戴帽姆巴佩2助攻",
+          "title": "随着阿根廷3-1，奥地利3-3，世界杯32强全部诞生：亚洲仅2队",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "又匹配两对，世界杯1/16决赛：德国vs巴拉圭，法国vs瑞典",
+          "title": "世界杯32强对阵：巴西vs日本、葡萄牙vs克罗地亚、阿根廷vs佛得角",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯：萨尔传射盖耶双响 塞内加尔5-0九人伊拉克",
+          "title": "世界杯-葡萄牙0-0哥伦比亚!第2出线 桑切斯进球被吹",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "32分钟！世界杯史上第2快帽子戏法诞生，29岁金球先生连创7大纪录",
+          "title": "世界杯-阿根廷3-1约旦!小组赛全胜晋级 劳塔罗梅西进球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "官方：马宁将担任世界杯1/16决赛德国vs巴拉圭第四官员",
+          "title": "能顶峰相见吗，葡萄牙落位上半区，梅西和C罗决赛前无法相遇",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯-西班牙1-0头名出线 乌拉圭连续两届出局",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "特罗萨德双响，德布劳内贴地斩，比利时5-1新西兰夺第1避开阿根廷",
+          "title": "官方：世界杯无缘出线后，苏格兰队主帅克拉克辞职",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "腾讯": {
