@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-28 22:06:11",
+  "update_time": "2026-06-29 00:19:47",
   "sources": {
     "微博": {
       "topics": [
@@ -49,106 +49,86 @@
         {
           "title": "李在明就韩国队世界杯出局致歉",
           "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89",
-          "hot": "920.4万"
+          "hot": "917.6万"
         },
         {
           "title": "一图看懂世界杯32强晋级规则",
           "url": "https://www.douyin.com/search/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E6%99%8B%E7%BA%A7%E8%A7%84%E5%88%99",
-          "hot": "904.2万"
+          "hot": "868.9万"
         },
         {
           "title": "哈兰德去找姆巴佩了",
           "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86",
-          "hot": "887.9万"
+          "hot": "806.3万"
         },
         {
           "title": "韩国队世界杯出局",
           "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
-          "hot": "840.1万"
+          "hot": "782.7万"
+        },
+        {
+          "title": "全网预言家聊聊世界杯淘汰赛",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E9%A2%84%E8%A8%80%E5%AE%B6%E8%81%8A%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "hot": "771万"
         },
         {
           "title": "世界杯32强全部产生",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F",
-          "hot": "772.4万"
+          "hot": "769.9万"
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "苏亚雷斯：梅西不需要整场跑动，有时候脑子比身体快1000倍",
+          "title": "加拿大队到洛杉矶参赛，这是世界杯东道主首次不在本国踢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "超级计算机预测世界杯决赛将再次上演法阿大战，法国将夺冠",
+          "title": "奥哈拉：希望热刺签下拉什福德&amp;价格相当于白捡，他依然顶级",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "金球奖1995年改制来，世界杯年7位获奖者有4位世界杯夺冠",
+          "title": "乔治娜现身世界杯现场也有商业目的，她想推广自己的品牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "邦马蒂：梅西正在做的事情太不可思议，我也很喜欢奥利塞",
+          "title": "世界杯小组赛创造绝佳机会榜：基米希4次第1，梅西奥利塞3次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "SS小组赛小组赛最佳阵：梅西、登贝莱、哈兰德、B费在列",
+          "title": "默特萨克谈意大利无缘世界杯：他们不配被人谈论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "DAZN主持人：如果梅西再拿金球奖，那我就走人",
+          "title": "罗德里戈晒与C罗合照：每次都是同样的感觉，我的偶像🐐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "小组赛成功直塞榜：B费5次第1，帕奎塔、奥利塞4次",
+          "title": "亚马尔:我太难了，教练！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "小组赛成功过人榜：马扎13次第1，李刚仁、陈达毅11次",
+          "title": "区里有没有梦三老球迷说说当年10年世界杯看比利亚是什么感觉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "切尔西中场派斯：会为厄瓜多尔签佩德里；专注提升自己水平",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗体：维拉想以1500万欧卖大马丁，而尤文心理价500万+奖金",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：西班牙青年世界杯打工，每天通勤2小时还要服务7000人",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙没事这中场，b费 维蒂尼亚跟喝酒了一样",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "告别美加墨，巴尔韦德的2026世界杯数据",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维球王真有传说中的那么强吗？这世界杯表现一般般啊",
+          "title": "【白衣军团】姆巴佩VS挪威 个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -164,22 +144,27 @@
           "hot": ""
         },
         {
-          "title": "金球奖官方：世界杯冠军未必赢金球奖，概率仅五成七",
+          "title": "塔利亚菲科：世界杯总是会出现冷门，我们必须认真对待佛得角",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "帕斯：能踢世界杯的人很少，首发出场实现了自己一生的梦想",
+          "title": "每体：内马尔与苏格兰赛后买下100万美元名表",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "意媒：有19家意大利俱乐部球员晋级世界杯淘汰赛，米兰人最多",
+          "title": "Opta预测世界杯1/16决赛晋级概率：阿根廷、法国均超过80%",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥塔门迪：我们必须尊重佛得角这样的对手；担任队长非常高兴",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -210,11 +195,6 @@
           "hot": ""
         },
         {
-          "title": "世界杯32强对阵：巴西vs日本、葡萄牙vs克罗地亚、阿根廷vs佛得角",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "世界杯-葡萄牙0-0哥伦比亚!第2出线 桑切斯进球被吹",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -228,14 +208,9 @@
           "title": "韩国总统李在明怒批韩国队：世界杯出局太荒唐！韩国足协：取消接机",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "能顶峰相见吗，葡萄牙落位上半区，梅西和C罗决赛前无法相遇",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "腾讯": {
