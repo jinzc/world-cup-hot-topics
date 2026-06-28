@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-29 00:19:47",
+  "update_time": "2026-06-29 02:11:37",
   "sources": {
     "微博": {
       "topics": [
@@ -49,92 +49,47 @@
         {
           "title": "李在明就韩国队世界杯出局致歉",
           "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89",
-          "hot": "917.6万"
-        },
-        {
-          "title": "一图看懂世界杯32强晋级规则",
-          "url": "https://www.douyin.com/search/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E6%99%8B%E7%BA%A7%E8%A7%84%E5%88%99",
-          "hot": "868.9万"
+          "hot": "775.4万"
         },
         {
           "title": "哈兰德去找姆巴佩了",
           "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86",
-          "hot": "806.3万"
-        },
-        {
-          "title": "韩国队世界杯出局",
-          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
-          "hot": "782.7万"
+          "hot": "774.4万"
         },
         {
           "title": "全网预言家聊聊世界杯淘汰赛",
           "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E9%A2%84%E8%A8%80%E5%AE%B6%E8%81%8A%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "771万"
-        },
-        {
-          "title": "世界杯32强全部产生",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F",
-          "hot": "769.9万"
+          "hot": "767.5万"
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "加拿大队到洛杉矶参赛，这是世界杯东道主首次不在本国踢球",
+          "title": "74岁，南非主帅布罗斯将是执教世界杯淘汰赛最年长的主帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥哈拉：希望热刺签下拉什福德&amp;价格相当于白捡，他依然顶级",
+          "title": "阿斯：深陷转会风波，小蜘蛛世界杯表现低迷难匹配1.5亿身价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "乔治娜现身世界杯现场也有商业目的，她想推广自己的品牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯小组赛创造绝佳机会榜：基米希4次第1，梅西奥利塞3次",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "默特萨克谈意大利无缘世界杯：他们不配被人谈论",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里戈晒与C罗合照：每次都是同样的感觉，我的偶像🐐",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔:我太难了，教练！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "区里有没有梦三老球迷说说当年10年世界杯看比利亚是什么感觉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【白衣军团】姆巴佩VS挪威 个人集锦",
+          "title": "世界杯主队，感觉更偏向巴西一些",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "四年之约，你还记得当时的约定吗？快来重温当年的世界杯祈愿",
+          "title": "Here we go！罗马诺：莱万即将自由转会加盟芝加哥火焰",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -144,27 +99,22 @@
           "hot": ""
         },
         {
-          "title": "塔利亚菲科：世界杯总是会出现冷门，我们必须认真对待佛得角",
+          "title": "世体：莱万加盟芝加哥火焰预计周一官宣",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：内马尔与苏格兰赛后买下100万美元名表",
+          "title": "德天空：莱万将与芝加哥火焰签约2年，预计7月16日首秀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "Opta预测世界杯1/16决赛晋级概率：阿根廷、法国均超过80%",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "奥塔门迪：我们必须尊重佛得角这样的对手；担任队长非常高兴",
+          "title": "罗德里戈晒与C罗合照：我的偶像🐐🫡",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
