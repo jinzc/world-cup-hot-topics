@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-06-28 19:12:53",
+  "update_time": "2026-06-28 22:06:11",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯32强全名单",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E5%90%8D%E5%8D%95",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "32强集结上咪咕看世界杯淘汰赛",
-          "url": "https://s.weibo.com/weibo?q=32%E5%BC%BA%E9%9B%86%E7%BB%93%E4%B8%8A%E5%92%AA%E5%92%95%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "title": "伊朗队队长怒斥国际足联",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -32,27 +26,17 @@
           "hot": 0
         },
         {
-          "title": "世界杯淘汰赛首轮对阵出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
-          "hot": 0
-        },
-        {
-          "title": "世界杯淘汰赛前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%89%8D%E7%9E%BB",
-          "hot": 0
-        },
-        {
           "title": "韩国队世界杯惨遭淘汰",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
           "hot": 0
         },
         {
-          "title": "佛得角如何通过世界杯走向世界",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C",
+          "title": "世界杯淘汰赛首轮对阵出炉",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
           "hot": 0
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -63,93 +47,98 @@
     "抖音": {
       "topics": [
         {
-          "title": "姆巴佩哈兰德等能全面赶超前浪吗",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%88%E5%85%B0%E5%BE%B7%E7%AD%89%E8%83%BD%E5%85%A8%E9%9D%A2%E8%B5%B6%E8%B6%85%E5%89%8D%E6%B5%AA%E5%90%97",
-          "hot": "918万"
+          "title": "李在明就韩国队世界杯出局致歉",
+          "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89",
+          "hot": "920.4万"
         },
         {
-          "title": "世界杯淘汰赛首轮对阵全部出炉",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-          "hot": "876.3万"
-        },
-        {
-          "title": "莫德里奇成世界杯最年长助攻球员",
-          "url": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%B9%B4%E9%95%BF%E5%8A%A9%E6%94%BB%E7%90%83%E5%91%98",
-          "hot": "852.5万"
-        },
-        {
-          "title": "韩国队世界杯出局",
-          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
-          "hot": "844.1万"
+          "title": "一图看懂世界杯32强晋级规则",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E6%99%8B%E7%BA%A7%E8%A7%84%E5%88%99",
+          "hot": "904.2万"
         },
         {
           "title": "哈兰德去找姆巴佩了",
           "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86",
-          "hot": "823万"
+          "hot": "887.9万"
         },
         {
-          "title": "马宁将亮相世界杯淘汰赛",
-          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%AE%81%E5%B0%86%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "770万"
+          "title": "韩国队世界杯出局",
+          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
+          "hot": "840.1万"
         },
         {
           "title": "世界杯32强全部产生",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F",
-          "hot": "769.7万"
+          "hot": "772.4万"
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "队报：拉莫斯李刚仁大概率离队，巴黎有信心引进阿克利乌什",
+          "title": "苏亚雷斯：梅西不需要整场跑动，有时候脑子比身体快1000倍",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "多家媒体：本菲卡询价马竞中卫朗格莱，希望他顶替奥塔门迪",
+          "title": "超级计算机预测世界杯决赛将再次上演法阿大战，法国将夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前德国国脚克拉默：德国人是不是巴不得诺伊尔犯错好喷他？",
+          "title": "金球奖1995年改制来，世界杯年7位获奖者有4位世界杯夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佛得角奇迹：人口55万小国如何闯入世界杯32强",
+          "title": "邦马蒂：梅西正在做的事情太不可思议，我也很喜欢奥利塞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺：恭喜梅西再创纪录，祝你在淘汰赛阶段好运",
+          "title": "SS小组赛小组赛最佳阵：梅西、登贝莱、哈兰德、B费在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎15人踢世界杯仅李刚仁被淘汰，14人有机会拿欧冠+世界杯",
+          "title": "DAZN主持人：如果梅西再拿金球奖，那我就走人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马兹拉维到底什么水平？看世界杯挺厉害的。",
+          "title": "小组赛成功直塞榜：B费5次第1，帕奎塔、奥利塞4次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巅峰莱万和凯恩，你会选谁？",
+          "title": "小组赛成功过人榜：马扎13次第1，李刚仁、陈达毅11次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这阿尔瓦雷斯 这停球水平。。。。",
+          "title": "切尔西中场派斯：会为厄瓜多尔签佩德里；专注提升自己水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "近几届世界杯一直有个疑问，隔壁到底支持哪个国家？",
+          "title": "罗体：维拉想以1500万欧卖大马丁，而尤文心理价500万+奖金",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：西班牙青年世界杯打工，每天通勤2小时还要服务7000人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙没事这中场，b费 维蒂尼亚跟喝酒了一样",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "告别美加墨，巴尔韦德的2026世界杯数据",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -159,7 +148,7 @@
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
@@ -170,22 +159,27 @@
           "hot": ""
         },
         {
-          "title": "罗德里戈观战葡萄牙比赛，并和B席合影：我们现在是队友了",
+          "title": "世界杯只是起点，深耕青训制霸亚洲的乌兹别克仍可期待未来",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "还差1球，库尼亚有望成为曼联队史世界杯单届进球最多的球员",
+          "title": "金球奖官方：世界杯冠军未必赢金球奖，概率仅五成七",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "意媒：维拉愿降大马丁转会费，其价格将不超1000万欧",
+          "title": "帕斯：能踢世界杯的人很少，首发出场实现了自己一生的梦想",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意媒：有19家意大利俱乐部球员晋级世界杯淘汰赛，米兰人最多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -202,6 +196,11 @@
       "topics": [
         {
           "title": "世界杯-英格兰2-0巴拿马头名晋级 贝林厄姆传射凯恩进球",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "杀人诛心！世界杯最惨2队：1个被捅7刀出局 1个被做局玩死",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -226,17 +225,17 @@
           "hot": ""
         },
         {
-          "title": "能顶峰相见吗，葡萄牙落位上半区，梅西和C罗决赛前无法相遇",
+          "title": "韩国总统李在明怒批韩国队：世界杯出局太荒唐！韩国足协：取消接机",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "官方：世界杯无缘出线后，苏格兰队主帅克拉克辞职",
+          "title": "能顶峰相见吗，葡萄牙落位上半区，梅西和C罗决赛前无法相遇",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "腾讯": {
