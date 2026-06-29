@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-06-29 19:20:51",
+  "update_time": "2026-06-30 00:02:29",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "本届世界杯已有5人涉性侵风波",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B7%B2%E6%9C%895%E4%BA%BA%E6%B6%89%E6%80%A7%E4%BE%B5%E9%A3%8E%E6%B3%A2",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -21,8 +14,8 @@
     "B站": {
       "topics": [
         {
-          "title": "回顾世界杯争议事件",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6",
+          "title": "拆解FIFA和世界杯的暗面",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3FIFA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E6%9A%97%E9%9D%A2",
           "hot": 0
         },
         {
@@ -47,99 +40,94 @@
     "抖音": {
       "topics": [
         {
-          "title": "巴西对阵日本内马尔或登场15分钟",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%E5%86%85%E9%A9%AC%E5%B0%94%E6%88%96%E7%99%BB%E5%9C%BA15%E5%88%86%E9%92%9F",
-          "hot": "830.1万"
-        },
-        {
           "title": "王祖蓝也去看世界杯了",
           "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "hot": "783.6万"
+          "hot": "782.7万"
+        },
+        {
+          "title": "世界杯32强谁是你心目中的冠军",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
+          "hot": "772.5万"
         },
         {
           "title": "中国男篮抵达沈阳备战世预赛",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%8A%B5%E8%BE%BE%E6%B2%88%E9%98%B3%E5%A4%87%E6%88%98%E4%B8%96%E9%A2%84%E8%B5%9B",
-          "hot": "778.2万"
-        },
-        {
-          "title": "美加墨世界杯球场为何看起来很新",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E5%9C%BA%E4%B8%BA%E4%BD%95%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E6%96%B0",
-          "hot": "778万"
-        },
-        {
-          "title": "一图看懂世界杯32强晋级规则",
-          "url": "https://www.douyin.com/search/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E6%99%8B%E7%BA%A7%E8%A7%84%E5%88%99",
-          "hot": "772.4万"
+          "hot": "768.4万"
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "切尔西8m报价扎卡被拒；古斯托要75m；查洛巴35m；恩佐1.2亿",
+          "title": "官方：保罗-加索尔集团5500万欧投资西女足联赛，创下纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA官方：世界杯小组赛现场观众464万，上座率99.7%",
+          "title": "热苏斯：出场太少是不配去世界杯的原因，我谦逊能认清现实",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西连续七场世界杯破门共打进11球，刷新赛事历史纪录",
+          "title": "孙兴慜社媒致歉：未能回报支持，将拼尽全力赢回球迷们的心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "防守有隐患！德国在14年夺冠后，每一场世界杯比赛都有丢球",
+          "title": "德国队球员酒店玩捉迷藏，哈弗茨调侃“大家其实还是孩子”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巅峰莱万和凯恩，你会选谁？",
+          "title": "费利克斯：我和C罗同时登场是加分项，这份默契能有很大帮助",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "差不多得了 除了阿尔瓦雷斯 别的你能买到谁？",
+          "title": "萨卡为什么能进英格兰队，是这些年我解不开的疑问。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这真的假的？过去10场世界杯比赛，阿根廷有7场比赛获得点球？？？",
+          "title": "大罗受访表示：“基利安·姆巴佩让我想起巅峰时期的自己，他的踢球风格和我职业生涯最顶峰的状态如出一辙。他是现代足坛最伟大的球星之一，也是足坛传奇们顺理成章的接班人。”消息来源：《队报》@lequipe",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：瓦伦西亚有意租借乔安-马丁内斯，希望加入买断选项",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这舆论差距，姆总的新闻都是有关世界杯神勇表现的，而做为小组赛唯一一位拿满所有MVP的小熊好似没参加世界杯似的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯第十九日前瞻：五星巴西静候蓝武士，德国荷兰出战",
+          "title": "巴西vs日本：维尼修斯、库尼亚首发，伊东纯也、富安健洋出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：阿尔瓦雷斯坚持离开马竞；弗拉霍维奇仍尝试加盟巴萨",
+          "title": "太阳报：库尼亚是06年大罗之后巴西最闪耀的世界杯9号",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗体：贝克汉姆成补水暂停主角，世界杯广告狂吸1900万镑",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "英媒记者：世界杯体育场内的热狗难以下咽，吃一口要3.93英镑",
+          "title": "天空：巴萨有意签下凯恩，正研究筹资方案",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
