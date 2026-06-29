@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-06-30 03:11:03",
+  "update_time": "2026-06-30 05:39:59",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "孙兴慜道歉",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89",
+          "title": "徐亮怒斥世界杯踢假球",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "徐亮怒斥世界杯踢假球",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
+          "title": "孙兴慜道歉",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89",
           "hot": 0,
           "label": ""
         },
@@ -67,102 +67,97 @@
         {
           "title": "内马尔发抖音备战淘汰赛",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%91%E6%8A%96%E9%9F%B3%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "775.7万"
-        },
-        {
-          "title": "就这样垂直入坑世界杯小卡",
-          "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%9E%82%E7%9B%B4%E5%85%A5%E5%9D%91%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E5%8D%A1",
-          "hot": "774.9万"
-        },
-        {
-          "title": "世界杯32强谁是你心目中的冠军",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
-          "hot": "771.3万"
+          "hot": "772.2万"
         },
         {
           "title": "王祖蓝也去看世界杯了",
           "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "hot": "766.3万"
+          "hot": "766.2万"
         },
         {
           "title": "莫德里奇备战淘汰赛",
           "url": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "763.7万"
-        }
-      ],
-      "count": 5,
-      "status": "success"
-    },
-    "虎扑": {
-      "topics": [
-        {
-          "title": "维尼修斯vs日本数据：3射门2关键传球，3成功过人+6对抗成功",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "4次助攻登顶！吉马良斯领跑本届世界杯助攻榜",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯弧顶晃出空间，起脚兜射被挡出底线",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
+          "hot": "763.3万"
         }
       ],
       "count": 3,
       "status": "success"
     },
+    "虎扑": {
+      "topics": [
+        {
+          "title": "1998对克罗地亚以来，德国首次在世界杯淘汰赛半场落后",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴拉圭进攻核心！恩西索参与球队本届世界杯全部进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "长友佑都：世界杯果然很可怕啊，我参加了五次还是抓不住",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "防线再失守，德国队史在世界杯首次连续10场比赛都有丢球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "镰田大地：足球在日本发展到接近国民运动，才能冲击世界杯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "1球落后巴拉圭，德国本届世界杯4场比赛均未能实现零封",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]世体：皮诺&amp;尼科出战成疑，加维希望为自己争取更多出场时间",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "大罗：世界是时候停止掩饰，接受梅西是史上最佳球员的事实了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 8,
+      "status": "success"
+    },
     "懂球帝": {
       "topics": [
         {
-          "title": "德国vs巴拉圭：哈弗茨搭档昂达夫，维尔茨、萨内出战",
+          "title": "大腿，恩西索参与了巴拉圭本届世界杯至今的所有3个进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "逆转日本队，巴西队近9次世界杯对阵非欧洲球队全胜",
+          "title": "连续10场丢球，诺伊尔追平世界杯历史门将最长连续丢球纪录",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "5战5胜，巴西在世界杯面对亚洲队全胜，先后击败中日朝韩",
+          "title": "破天荒时刻，巴拉圭在队史第6场世界杯淘汰赛取得首粒进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "玩的就是心跳！本届世界杯两场淘汰赛都出现补时绝杀",
+          "title": "又没零封，德国队史首次连续10场世界杯都有丢球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "有保底，巴西队连续9届世界杯淘汰赛通过首轮",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "又没守住，日本队连续3场世界杯淘汰赛被逆转",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：德尚收紧轮换，法国世界杯小组赛仅15人首发",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "枪魔连线，世界杯历史首次出现阿森纳球员助攻曼联球员破门",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "仅次于贝贝托，卡塞米罗是世界杯进球第二年长的巴西球员",
+          "title": "防空魔咒，日本队世界杯淘汰赛7粒丢球中5粒是对手头球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -183,17 +178,17 @@
           "hot": ""
         },
         {
+          "title": "卡塞米罗完美救赎！险染红后头球破门 世界杯第2球 安帅豪赌成功",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "加拿大1-0南非首进世界杯16强 欧斯塔基奥92分钟绝杀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "加拿大取得中北美世界杯淘汰赛第5胜，淘汰赛胜场平美国墨西哥",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯绝杀，欧斯塔基奥时隔两年半再度在国家队进球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
