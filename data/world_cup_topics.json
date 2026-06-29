@@ -1,10 +1,35 @@
 {
-  "update_time": "2026-06-30 00:02:29",
+  "update_time": "2026-06-30 03:11:03",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "孙兴慜道歉",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "徐亮怒斥世界杯踢假球",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "花少8要去世界杯举办国",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E8%A6%81%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E%E5%9B%BD",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -40,94 +65,104 @@
     "抖音": {
       "topics": [
         {
-          "title": "王祖蓝也去看世界杯了",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "hot": "782.7万"
+          "title": "内马尔发抖音备战淘汰赛",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%91%E6%8A%96%E9%9F%B3%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "hot": "775.7万"
+        },
+        {
+          "title": "就这样垂直入坑世界杯小卡",
+          "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%9E%82%E7%9B%B4%E5%85%A5%E5%9D%91%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E5%8D%A1",
+          "hot": "774.9万"
         },
         {
           "title": "世界杯32强谁是你心目中的冠军",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
-          "hot": "772.5万"
+          "hot": "771.3万"
         },
         {
-          "title": "中国男篮抵达沈阳备战世预赛",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%8A%B5%E8%BE%BE%E6%B2%88%E9%98%B3%E5%A4%87%E6%88%98%E4%B8%96%E9%A2%84%E8%B5%9B",
-          "hot": "768.4万"
+          "title": "王祖蓝也去看世界杯了",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "hot": "766.3万"
+        },
+        {
+          "title": "莫德里奇备战淘汰赛",
+          "url": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
+          "hot": "763.7万"
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "官方：保罗-加索尔集团5500万欧投资西女足联赛，创下纪录",
+          "title": "维尼修斯vs日本数据：3射门2关键传球，3成功过人+6对抗成功",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯：出场太少是不配去世界杯的原因，我谦逊能认清现实",
+          "title": "4次助攻登顶！吉马良斯领跑本届世界杯助攻榜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孙兴慜社媒致歉：未能回报支持，将拼尽全力赢回球迷们的心",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "德国队球员酒店玩捉迷藏，哈弗茨调侃“大家其实还是孩子”",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费利克斯：我和C罗同时登场是加分项，这份默契能有很大帮助",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "萨卡为什么能进英格兰队，是这些年我解不开的疑问。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "大罗受访表示：“基利安·姆巴佩让我想起巅峰时期的自己，他的踢球风格和我职业生涯最顶峰的状态如出一辙。他是现代足坛最伟大的球星之一，也是足坛传奇们顺理成章的接班人。”消息来源：《队报》@lequipe",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]马卡：瓦伦西亚有意租借乔安-马丁内斯，希望加入买断选项",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这舆论差距，姆总的新闻都是有关世界杯神勇表现的，而做为小组赛唯一一位拿满所有MVP的小熊好似没参加世界杯似的",
+          "title": "维尼修斯弧顶晃出空间，起脚兜射被挡出底线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴西vs日本：维尼修斯、库尼亚首发，伊东纯也、富安健洋出战",
+          "title": "德国vs巴拉圭：哈弗茨搭档昂达夫，维尔茨、萨内出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：库尼亚是06年大罗之后巴西最闪耀的世界杯9号",
+          "title": "逆转日本队，巴西队近9次世界杯对阵非欧洲球队全胜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "天空：巴萨有意签下凯恩，正研究筹资方案",
+          "title": "5战5胜，巴西在世界杯面对亚洲队全胜，先后击败中日朝韩",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "玩的就是心跳！本届世界杯两场淘汰赛都出现补时绝杀",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "有保底，巴西队连续9届世界杯淘汰赛通过首轮",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "又没守住，日本队连续3场世界杯淘汰赛被逆转",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "队报：德尚收紧轮换，法国世界杯小组赛仅15人首发",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "枪魔连线，世界杯历史首次出现阿森纳球员助攻曼联球员破门",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "仅次于贝贝托，卡塞米罗是世界杯进球第二年长的巴西球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
@@ -143,6 +178,11 @@
     "网易": {
       "topics": [
         {
+          "title": "世界杯-巴西2-1逆转日本 马丁内利96分钟绝杀",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "加拿大1-0南非首进世界杯16强 欧斯塔基奥92分钟绝杀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -154,11 +194,6 @@
         },
         {
           "title": "世界杯绝杀，欧斯塔基奥时隔两年半再度在国家队进球",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-英格兰2-0巴拿马头名晋级 贝林厄姆传射凯恩进球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
