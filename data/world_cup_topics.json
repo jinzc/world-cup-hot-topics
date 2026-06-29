@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-06-29 06:08:28",
+  "update_time": "2026-06-29 08:16:04",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "伊朗队队长怒斥国际足联",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94",
+          "title": "美加墨世界杯首支16强诞生",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%94%AF16%E5%BC%BA%E8%AF%9E%E7%94%9F",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗关心罗德里戈伤情",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%B3%E5%BF%83%E7%BD%97%E5%BE%B7%E9%87%8C%E6%88%88%E4%BC%A4%E6%83%85",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -21,11 +27,6 @@
     "B站": {
       "topics": [
         {
-          "title": "王冰冰解读世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
-        {
           "title": "韩国队世界杯惨遭淘汰",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
           "hot": 0
@@ -34,9 +35,19 @@
           "title": "世界杯淘汰赛首轮对阵出炉",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
           "hot": 0
+        },
+        {
+          "title": "王冰冰解读世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "从地理的视角看世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%9C%B0%E7%90%86%E7%9A%84%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -47,124 +58,124 @@
     "抖音": {
       "topics": [
         {
+          "title": "李在明就韩国队世界杯出局致歉",
+          "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89",
+          "hot": "776.7万"
+        },
+        {
           "title": "孙继海预测世界杯晋级之路",
           "url": "https://www.douyin.com/search/%E5%AD%99%E7%BB%A7%E6%B5%B7%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "776.3万"
+          "hot": "773.6万"
         },
         {
           "title": "一图看懂世界杯32强晋级规则",
           "url": "https://www.douyin.com/search/%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E6%99%8B%E7%BA%A7%E8%A7%84%E5%88%99",
-          "hot": "776万"
+          "hot": "772.5万"
         },
         {
-          "title": "李在明就韩国队世界杯出局致歉",
-          "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80%E8%87%B4%E6%AD%89",
-          "hot": "775.9万"
-        },
-        {
-          "title": "哈兰德去找姆巴佩了",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86",
-          "hot": "768.9万"
+          "title": "王祖蓝也去看世界杯了",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
+          "hot": "769.6万"
         },
         {
           "title": "全网预言家聊聊世界杯淘汰赛",
           "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E9%A2%84%E8%A8%80%E5%AE%B6%E8%81%8A%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "767万"
+          "hot": "766万"
+        },
+        {
+          "title": "哈兰德去找姆巴佩了",
+          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%BB%E6%89%BE%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%86",
+          "hot": "765.3万"
+        },
+        {
+          "title": "世界杯东道主还能守住优势吗",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E8%BF%98%E8%83%BD%E5%AE%88%E4%BD%8F%E4%BC%98%E5%8A%BF%E5%90%97",
+          "hot": "764.7万"
         },
         {
           "title": "韩国队世界杯出局",
           "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
-          "hot": "765.3万"
+          "hot": "761.4万"
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "太阳报：英格兰补水时间后表现糟糕，或影响世界杯前景",
+          "title": "阿名宿批乌拉圭：世界杯出局是球员没血性，别拿内讧当借口",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "补时绝杀赢下队史世界杯淘汰赛首胜，加拿大是历史首队",
+          "title": "刘建宏：梅西步频比博尔特还快，你想踢他时他已经过去了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯淘汰赛历史上的补时绝杀：托蒂绝杀澳大利亚在列",
+          "title": "C罗在后台和罗德里戈相遇，很是关心后者的伤势",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加拿大换人，阿方索-戴维斯替补上场，完成本届世界杯首秀",
+          "title": "每体：状态更好的球员没机会，罗德里状态不佳仍获主帅力挺",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨卡为什么能进英格兰队，是这些年我解不开的疑问。",
+          "title": "无缘世界杯淘汰赛，苏格兰球员神情落寞办理酒店退房",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马丁内斯这水货怎么总是能执教欧洲强队？",
+          "title": "维尼修斯：愿弟弟不被种族歧视，想激励无处发声的黑人青年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维球王真有传说中的那么强吗？这世界杯表现一般般啊",
+          "title": "[流言板]罗梅罗：特狮若离队只会是租借，阿贾克斯不可能买断",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "关于基利安·姆巴佩的一件事，这是皇家马德里球迷从未预料到的",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆应该是英格兰核心",
+          "title": "巅峰莱万和凯恩，你会选谁？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "南非主帅：我们踢出了一届不错的世界杯；未来南非会更强大",
+          "title": "TA：C罗游走于传奇和拖累之间，葡萄牙确实没有好的替补中锋",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德媒：德国队飞机因团队有人忘带护照推迟；诺伊尔安检响警报",
+          "title": "基米希说球队得更有求胜欲，埃芬博格：那你就应该站出来带头",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "森保一迎来第8场世界杯比赛，将创造亚洲教练新纪录",
+          "title": "38岁341天，纳帅将成为近40年执教世界杯淘汰赛最年轻教练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "埃及门将：打入世界杯淘汰赛是梦想成真，难以用语言形容晋级感受",
+          "title": "邮报：巴萨接触凯恩经纪人，世界杯后再评估",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "超诺伊尔创纪录，南非门将威廉斯单场77次精准传球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "进攻核心？南非门将单场77次成功传球，大幅刷新诺伊尔纪录",
+          "title": "5胜1平，荷兰队在世界杯对非洲球队保持不败",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -185,6 +196,11 @@
           "hot": ""
         },
         {
+          "title": "世界杯小组赛结束，三支东道主球队全部晋级",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "加拿大取得中北美世界杯淘汰赛第5胜，淘汰赛胜场平美国墨西哥",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -200,22 +216,17 @@
           "hot": ""
         },
         {
+          "title": "安帅：内马尔淘汰赛或获更多出场时间；日本是世界最佳之一",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "大罗：我全力支持内马尔，姆巴佩的踢法让我想起巅峰期的自己",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
           "title": "莱因克尔：法国队是世界杯头号热门，他们没有真正的短板",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-葡萄牙0-0哥伦比亚!第2出线 桑切斯进球被吹",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-阿根廷3-1约旦 小组赛全胜晋级",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
