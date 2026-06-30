@@ -1,35 +1,10 @@
 {
-  "update_time": "2026-06-30 07:06:37",
+  "update_time": "2026-06-30 12:17:08",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "孙兴慜道歉",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%93%E6%AD%89",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "徐亮怒斥世界杯踢假球",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BA%AE%E6%80%92%E6%96%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B8%A2%E5%81%87%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "花少8要去世界杯举办国",
-          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E8%A6%81%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E%E5%9B%BD",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 4,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -39,13 +14,8 @@
     "B站": {
       "topics": [
         {
-          "title": "拆解FIFA和世界杯的暗面",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3FIFA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E6%9A%97%E9%9D%A2",
-          "hot": 0
-        },
-        {
-          "title": "韩国队世界杯惨遭淘汰",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
+          "title": "哈弗茨 如此出局不可原谅",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%BC%97%E8%8C%A8%20%E5%A6%82%E6%AD%A4%E5%87%BA%E5%B1%80%E4%B8%8D%E5%8F%AF%E5%8E%9F%E8%B0%85",
           "hot": 0
         },
         {
@@ -54,7 +24,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -65,24 +35,24 @@
     "抖音": {
       "topics": [
         {
-          "title": "内马尔发抖音备战淘汰赛",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%91%E6%8A%96%E9%9F%B3%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "768.3万"
+          "title": "巴西队五次世界杯夺冠全回顾",
+          "url": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%85%A8%E5%9B%9E%E9%A1%BE",
+          "hot": "784.4万"
         },
         {
-          "title": "王祖蓝也去看世界杯了",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86",
-          "hot": "766.1万"
+          "title": "如何评价德国再次无缘世界杯16强",
+          "url": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%BE%B7%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA",
+          "hot": "770.9万"
         },
         {
-          "title": "世界杯32强谁是你心目中的冠军",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%86%A0%E5%86%9B",
-          "hot": "765.9万"
+          "title": "德国队世界杯点球大战首败",
+          "url": "https://www.douyin.com/search/%E5%BE%B7%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E9%A6%96%E8%B4%A5",
+          "hot": "769万"
         },
         {
-          "title": "莫德里奇备战淘汰赛",
-          "url": "https://www.douyin.com/search/%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%A4%87%E6%88%98%E6%B7%98%E6%B1%B0%E8%B5%9B",
-          "hot": "764.9万"
+          "title": "就这样垂直入坑世界杯小卡",
+          "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%9E%82%E7%9B%B4%E5%85%A5%E5%9D%91%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E5%8D%A1",
+          "hot": "766.4万"
         }
       ],
       "count": 4,
@@ -91,78 +61,108 @@
     "虎扑": {
       "topics": [
         {
-          "title": "德国最后换人，阿米里、佳夫登场换下维尔茨、吕迪格",
+          "title": "06年以来荷兰90分钟内世界杯比赛没输过，都倒在加时或点球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帕托：感谢裁判给了很多补时时间；维尼修斯是最好的球员",
+          "title": "打破魔咒，摩洛哥之前世界杯淘汰赛绝平的球队都被淘汰",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "韩国球迷先是怒斥洪明甫和足协，转头又高呼李刚仁加油",
+          "title": "点球大战3次击中横梁立柱+1次射偏，世界杯中第一次出现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德与图安泽贝下场世界杯或将重逢，两人曾是同窗好友",
+          "title": "荷兰追平西班牙，成为世界杯点球大战失利次数最多球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨接队友起球传中头球攻门，希尔奋力将球扑出随后没收",
+          "title": "摩洛哥成首支两届世界杯淘汰赛阶段，均取得至少1胜非洲球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂：和内马尔谈过若未扳平比分，我会让他60分钟出场",
+          "title": "世界杯历史进行37次点球大战，随后主罚的一方20次获胜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西班牙队迎来世界杯休息日，亚马尔复古穿搭引人注目",
+          "title": "先后在世界杯输掉点球大战的父子：克鲁伊维特、图拉姆",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巅峰莱万和凯恩，你会选谁？",
+          "title": "好看！本届世界杯4场淘汰赛：2场补时绝杀，2场点球大战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]世体：皮诺&amp;尼科出战成疑，加维希望为自己争取更多出场时间",
+          "title": "荷兰队史参加12次参加世界杯，第一次没能晋级16强",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "连续两届世界杯打进16强，摩洛哥是非洲历史第三队",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "摩洛哥近2届世界杯淘汰了西班牙，葡萄牙，荷兰三支欧洲豪强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "90分钟战报：德国1-1巴拉圭，恩西索先拔头筹，哈弗茨救主",
+          "title": "德国点球大战4-5被巴拉圭淘汰，哈弗茨、沃尔特马德失点",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "赛后冲着盐贝健人伸出五指，库尼亚：我们可是赢了5次世界杯",
+          "title": "世界杯史话61：米内罗惨案",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "队报：世界杯小组赛后，法国球迷的总投注额已达6.5亿欧元",
+          "title": "心魔延续！荷兰连续三届世界杯饮恨点球大战，成为历史第二队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德国队第12次踢世界杯加时赛，赛事历史最多",
+          "title": "美加墨世界杯1/8决赛：摩洛哥vs加拿大",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跨不过的坎，荷兰在世界杯4次输掉点球大战与西班牙并列最多",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "纳帅：世界杯出局不是诺伊尔的问题；德国已经不是顶级球队了",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "诺伊尔：我们本应在加时解决比赛，我已经为德国队付出了一切",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "广告太长导致错过加时赛初段，国外世界杯转播方被球迷怒喷",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
@@ -178,32 +178,42 @@
     "网易": {
       "topics": [
         {
+          "title": "爆冷！德国点球大战遭巴拉圭淘汰 连续3届世界杯无缘16强",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯：荷兰点球3-4无缘16强！创队史最差战绩 摩洛哥踢加拿大",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "耻辱！德国前18次世界杯4冠4亚4季17次八强，近三届无缘16强",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "感谢德国队！巴拉圭全国放假一天，德国本届世界杯第2次送假期",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "巴拉圭队长：我们配得上留在世界杯中；很难形容现在的心情",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-巴西2-1逆转日本 马丁内利96分钟绝杀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂：原计划内马尔65分钟登场，但扳平后想留他打加时",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "压迫力拉满，巴西在进攻三区完成210脚传球创队史世界杯纪录",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "卡塞米罗完美救赎！险染红后头球破门 世界杯第2球 安帅豪赌成功",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯金球奖赔率：梅西领跑，姆巴佩紧随其后，奥利塞第三",
+          "title": "稳居宝座，巴西队仍将是唯一五夺世界杯冠军的球队",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "腾讯": {
