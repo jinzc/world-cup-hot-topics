@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-06-30 12:17:08",
+  "update_time": "2026-06-30 16:34:13",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "内马尔记仇",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E8%AE%B0%E4%BB%87",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,20 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "哈弗茨 如此出局不可原谅",
-          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%BC%97%E8%8C%A8%20%E5%A6%82%E6%AD%A4%E5%87%BA%E5%B1%80%E4%B8%8D%E5%8F%AF%E5%8E%9F%E8%B0%85",
-          "hot": 0
-        },
-        {
-          "title": "世界杯淘汰赛首轮对阵出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,134 +31,94 @@
     "抖音": {
       "topics": [
         {
-          "title": "巴西队五次世界杯夺冠全回顾",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%85%A8%E5%9B%9E%E9%A1%BE",
-          "hot": "784.4万"
+          "title": "袁甲预测世界杯冠军之路",
+          "url": "https://www.douyin.com/search/%E8%A2%81%E7%94%B2%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E4%B9%8B%E8%B7%AF",
+          "hot": "911.4万"
         },
         {
-          "title": "如何评价德国再次无缘世界杯16强",
-          "url": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%BE%B7%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA",
-          "hot": "770.9万"
-        },
-        {
-          "title": "德国队世界杯点球大战首败",
-          "url": "https://www.douyin.com/search/%E5%BE%B7%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E9%A6%96%E8%B4%A5",
-          "hot": "769万"
-        },
-        {
-          "title": "就这样垂直入坑世界杯小卡",
-          "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%9E%82%E7%9B%B4%E5%85%A5%E5%9D%91%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E5%8D%A1",
-          "hot": "766.4万"
+          "title": "深度分析韩国队世界杯出局",
+          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
+          "hot": "770.5万"
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "06年以来荷兰90分钟内世界杯比赛没输过，都倒在加时或点球",
+          "title": "TA：利物浦重点再补1边锋，并关注伊萨克/加克波世界杯表现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "打破魔咒，摩洛哥之前世界杯淘汰赛绝平的球队都被淘汰",
+          "title": "罗马诺：曼联已与拉什福德团队直接接触，愿让他重返一线队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "点球大战3次击中横梁立柱+1次射偏，世界杯中第一次出现",
+          "title": "罗马诺：皇马欣赏恩佐但尚未谈判，目前与切尔西零进展",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "荷兰追平西班牙，成为世界杯点球大战失利次数最多球队",
+          "title": "TA：切尔西或再报价扎卡；同时愿卖恩佐/古斯托/查洛巴",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "摩洛哥成首支两届世界杯淘汰赛阶段，均取得至少1胜非洲球队",
+          "title": "帕克：英格兰没赖斯赢不了世界杯；对手想对攻我们才能踢好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯历史进行37次点球大战，随后主罚的一方20次获胜",
+          "title": "世界杯上点球大战制胜淘汰自己俱乐部所属球队：赛巴里、C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "先后在世界杯输掉点球大战的父子：克鲁伊维特、图拉姆",
+          "title": "[流言板]罗马诺：曼联已与拉什福德团队直接接触，愿让他重返一线队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "好看！本届世界杯4场淘汰赛：2场补时绝杀，2场点球大战",
+          "title": "罗马诺：曼联已与拉什福德团队直接接触，双方进行了友好的会谈。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "荷兰队史参加12次参加世界杯，第一次没能晋级16强",
+          "title": "听到解说说了句德国队实现了对于前两届世界杯成绩的突破我笑出了声",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "连续两届世界杯打进16强，摩洛哥是非洲历史第三队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "摩洛哥近2届世界杯淘汰了西班牙，葡萄牙，荷兰三支欧洲豪强",
+          "title": "目前看来真正的强队只有法国阿根廷，荷兰西班牙巴西哥伦比亚摩洛哥低半档，葡萄牙低一档，美加墨未知数，主场优势加成不好预测",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德国点球大战4-5被巴拉圭淘汰，哈弗茨、沃尔特马德失点",
+          "title": "命运弄人，克鲁伊维特父子在世界杯先后饮恨点球大战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯史话61：米内罗惨案",
+          "title": "罗马诺：曼联与拉什福德团队友好会谈，他愿意留队踢季前赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "心魔延续！荷兰连续三届世界杯饮恨点球大战，成为历史第二队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "美加墨世界杯1/8决赛：摩洛哥vs加拿大",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "跨不过的坎，荷兰在世界杯4次输掉点球大战与西班牙并列最多",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "纳帅：世界杯出局不是诺伊尔的问题；德国已经不是顶级球队了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "诺伊尔：我们本应在加时解决比赛，我已经为德国队付出了一切",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "广告太长导致错过加时赛初段，国外世界杯转播方被球迷怒喷",
+          "title": "TA：维拉想留住大马丁，若他留队可能签雷斯特或铃木彩艳",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
@@ -178,7 +134,7 @@
     "网易": {
       "topics": [
         {
-          "title": "爆冷！德国点球大战遭巴拉圭淘汰 连续3届世界杯无缘16强",
+          "title": "德国点球大战4-5巴拉圭 连续3届世界杯无缘16强",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -208,7 +164,7 @@
           "hot": ""
         },
         {
-          "title": "稳居宝座，巴西队仍将是唯一五夺世界杯冠军的球队",
+          "title": "世界杯16强已定4席 2场点球战+荷兰德国出局 1/8决赛首组对决确定",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
