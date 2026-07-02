@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-03 00:57:06",
+  "update_time": "2026-07-03 02:41:48",
   "sources": {
     "微博": {
       "topics": [
@@ -14,9 +14,27 @@
           "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E8%84%B8%E6%80%8E%E4%B9%88%E4%BA%86",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "亚马尔希望半决赛对法国",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%B8%8C%E6%9C%9B%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%B3%95%E5%9B%BD",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗莫德里奇正面交锋",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%AD%A3%E9%9D%A2%E4%BA%A4%E9%94%8B",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗喊话给我们主场",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%96%8A%E8%AF%9D%E7%BB%99%E6%88%91%E4%BB%AC%E4%B8%BB%E5%9C%BA",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -27,13 +45,13 @@
     "B站": {
       "topics": [
         {
-          "title": "不会英语但勇闯世界杯是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E4%BC%9A%E8%8B%B1%E8%AF%AD%E4%BD%86%E5%8B%87%E9%97%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "title": "亚马尔领衔出战",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%A2%86%E8%A1%94%E5%87%BA%E6%88%98",
           "hot": 0
         },
         {
-          "title": "世界杯周边乐子盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%91%A8%E8%BE%B9%E4%B9%90%E5%AD%90%E7%9B%98%E7%82%B9",
+          "title": "不会英语但勇闯世界杯是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E4%BC%9A%E8%8B%B1%E8%AF%AD%E4%BD%86%E5%8B%87%E9%97%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "hot": 0
         }
       ],
@@ -50,7 +68,7 @@
         {
           "title": "我是姆巴佩中国分佩",
           "url": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%AD%E5%9B%BD%E5%88%86%E4%BD%A9",
-          "hot": "769.9万"
+          "hot": "765.2万"
         }
       ],
       "count": 1,
@@ -59,53 +77,59 @@
     "虎扑": {
       "topics": [
         {
-          "title": "迪马：米兰对莱奥标价6000-7000万欧，双方都想在今夏分开",
+          "title": "卡斯塔涅：教练不会按名气用人，德布劳内和多库也会被换下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "两届世界杯均打进5球及以上球员：梅西、姆巴佩、凯恩在列",
+          "title": "本届世界杯至今场均进球2.93个，近14届世界杯最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：B费今夏离队可能性微乎其微，他期待以队长身份踢欧冠",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "迪梅科：皇马该庆幸拥有姆巴佩，他在糟糕的球队证明了实力",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "欧足联不会采用FIFA的捂嘴红牌规则，但同意加改VAR复核角球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这场比赛起强度的开端还是贝林厄姆",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【数据帖】姆巴佩是否在拿着皇马的顶薪却只为国家队卖力？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]迪梅科：皇马该庆幸拥有姆巴佩，他在糟糕的球队证明了实力",
+          "title": "对于姆巴佩，有些人夸也夸不到点，黑也黑不到点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "西班牙vs奥地利：亚马尔领衔，罗德里、佩德里、奥尔莫出战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "胜率100%，队史5场世界杯加时赛或点球大战克罗地亚全胜",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "Speed：我的航班取消了，看不了C罗比赛了，谁能帮帮我？",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队记者：邦多即将被米兰出售；莱奥被标价6000万至7000万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "沃齐尼亚：世界杯是我人生最美好的经历",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "官方：萨格勒布迪纳摩从巴萨签下罗德里格斯；据悉费用60万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 6,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
