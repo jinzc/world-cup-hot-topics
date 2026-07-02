@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-07-02 12:12:29",
+  "update_time": "2026-07-02 16:17:01",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯16强已确定10席",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%B7%B2%E7%A1%AE%E5%AE%9A10%E5%B8%AD",
+          "title": "世界杯官方回应比利时内讧",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%AF%94%E5%88%A9%E6%97%B6%E5%86%85%E8%AE%A7",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯金靴竞争太激烈了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E9%9D%B4%E7%AB%9E%E4%BA%89%E5%A4%AA%E6%BF%80%E7%83%88%E4%BA%86",
+          "title": "葡萄牙主帅谈C罗是否替补",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E8%B0%88C%E7%BD%97%E6%98%AF%E5%90%A6%E6%9B%BF%E8%A1%A5",
           "hot": 0,
           "label": ""
         }
@@ -27,8 +27,8 @@
     "B站": {
       "topics": [
         {
-          "title": "凯恩双响绝杀助英格兰晋级",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E5%8F%8C%E5%93%8D%E7%BB%9D%E6%9D%80%E5%8A%A9%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%99%8B%E7%BA%A7",
+          "title": "张路聊世界杯小高球战术",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E8%B7%AF%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E9%AB%98%E7%90%83%E6%88%98%E6%9C%AF",
           "hot": 0
         },
         {
@@ -37,13 +37,13 @@
           "hot": 0
         },
         {
-          "title": "凯恩头球扳平比分",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E5%A4%B4%E7%90%83%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86",
+          "title": "英格兰是否预定世界杯四强",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%98%AF%E5%90%A6%E9%A2%84%E5%AE%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
           "hot": 0
         },
         {
-          "title": "姆巴佩的锋利无人可挡",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E9%94%8B%E5%88%A9%E6%97%A0%E4%BA%BA%E5%8F%AF%E6%8C%A1",
+          "title": "AI模型预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
@@ -58,38 +58,43 @@
     "抖音": {
       "topics": [
         {
+          "title": "美加墨世界杯16强已定10队",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%B7%B2%E5%AE%9A10%E9%98%9F",
+          "hot": "860.5万"
+        },
+        {
           "title": "一条视频看懂世界杯经济",
           "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%8F%E6%B5%8E",
-          "hot": "774.1万"
+          "hot": "772.9万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "詹俊评英格兰比利时晋级：凯恩显英雄本色；比利时换人关键",
+          "title": "巴黎人报：巴尔科拉世界杯发挥出色，肯定不只利物浦想要他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "18岁的姆巴耶是历史上在世界杯淘汰赛出场的最年轻非洲球员",
+          "title": "凯恩全场跑动11.49km位列队内第2，安德森11.56km队内第1",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "22岁的迪亚拉成为非洲历史在世界杯淘汰赛最年轻进球者",
+          "title": "没少网上冲浪！登贝莱和队友叫姆巴佩蒙博托，后者是独裁者",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拜仁队史最贵引援：凯恩95M欧居首，赛巴里50M欧并列第七",
+          "title": "卡拉格：凯恩为英格兰拿世界杯希望渺茫，因为队友不给力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆/马杜埃凯赛后与委内瑞拉记者互动，并送上祝福",
+          "title": "热刺花那些钱正常 花了多少就要卖多少 卖给布莱顿那个还有罗梅罗必卖这就差不多1个亿了 在卖几个轻松两个亿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -102,15 +107,46 @@
           "title": "不得不说，姆巴佩历史排名将很快超越C罗和莫德里奇",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "请问奥利塞强还是内马尔强？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为什么皇马区那么多阴阳姆巴佩的？版主不管管吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "RMC：姆巴佩一到法国队就攻防兼备，惹皇马球迷不满",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯葡萄牙VS克罗地亚前瞻：传奇再次同台竞技；享受吧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡拉格：凯恩本可比肩查尔顿、拿下金球奖，奈何英格兰拖后腿",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "达利奇：C罗随时都有可能进球；葡萄牙的阵容毫无弱点",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
