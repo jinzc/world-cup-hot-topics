@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-07-02 22:22:36",
+  "update_time": "2026-07-03 00:57:06",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "佛得角首次世界杯就进16强",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%A6%96%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%B1%E8%BF%9B16%E5%BC%BA",
+          "title": "C罗8场世界杯淘汰赛0球0助",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%978%E5%9C%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B0%E7%90%830%E5%8A%A9",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩的脸怎么了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E8%84%B8%E6%80%8E%E4%B9%88%E4%BA%86",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -20,16 +26,6 @@
     },
     "B站": {
       "topics": [
-        {
-          "title": "世界杯谁具有特级战力",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E5%85%B7%E6%9C%89%E7%89%B9%E7%BA%A7%E6%88%98%E5%8A%9B",
-          "hot": 0
-        },
-        {
-          "title": "假如蹴鞠有世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%B9%B4%E9%9E%A0%E6%9C%89%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
         {
           "title": "不会英语但勇闯世界杯是什么体验",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E4%BC%9A%E8%8B%B1%E8%AF%AD%E4%BD%86%E5%8B%87%E9%97%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
@@ -41,7 +37,7 @@
           "hot": 0
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -50,34 +46,40 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "我是姆巴佩中国分佩",
+          "url": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%AD%E5%9B%BD%E5%88%86%E4%BD%A9",
+          "hot": "769.9万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "德转英格兰球员最贵转会费榜：安德森、贝林厄姆位居前二",
+          "title": "迪马：米兰对莱奥标价6000-7000万欧，双方都想在今夏分开",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：恩德里克与亚马尔影响力飙升，二人已成Z世代足球偶像",
+          "title": "两届世界杯均打进5球及以上球员：梅西、姆巴佩、凯恩在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德转预测曼城新赛季首发：罗德里、谢尔基、安德森搭档中场",
+          "title": "记者：B费今夏离队可能性微乎其微，他期待以队长身份踢欧冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "图片报：德国足协建议纳格尔斯曼主动辞职，但他还没有答应",
+          "title": "迪梅科：皇马该庆幸拥有姆巴佩，他在糟糕的球队证明了实力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "纳尼：葡萄牙球员要为C罗多跑一点，他是那个能决定比赛的人",
+          "title": "欧足联不会采用FIFA的捂嘴红牌规则，但同意加改VAR复核角球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -87,69 +89,23 @@
           "hot": ""
         },
         {
-          "title": "关于姆巴佩，俱乐部和国家队的表现，客观讨论",
+          "title": "【数据帖】姆巴佩是否在拿着皇马的顶薪却只为国家队卖力？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "同在皇马，为什么姆巴佩打不出C罗的表现？C罗在皇马4次欧冠表现都是队内最好的，可以说是断档领先。",
+          "title": "[流言板]迪梅科：皇马该庆幸拥有姆巴佩，他在糟糕的球队证明了实力",
           "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "英超真破坏市场。现在市面上除了恩佐还有其他树能爬的么",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 9,
-      "status": "success"
-    },
-    "懂球帝": {
-      "topics": [
-        {
-          "title": "一支没有输球的球队，一趟不公平的世界杯旅程",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "前胜利主帅：克罗地亚绝不能低估C罗，他仍有惩罚对手的能力",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：姆巴佩近三届世界杯表现出色，已比肩齐达内和普拉蒂尼",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中足联官方：西海岸女足球员王丽娜因辱骂裁判被停赛5场",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "西班牙足协足球总监：我们相信，很快就会看到最好的亚马尔",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中足联官方：新鹏城主场有球迷从看台跳下进入场内，予以警告",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中足联官方：三镇官员路易斯因辱骂裁判被禁赛5场+罚款5万",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "森保一：先休息再复盘世界杯，向日本队支持者表示衷心感谢",
-          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 8,
       "status": "success"
+    },
+    "懂球帝": {
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
