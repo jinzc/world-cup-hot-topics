@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-04 02:18:02",
+  "update_time": "2026-07-04 04:19:45",
   "sources": {
     "微博": {
       "topics": [
@@ -35,19 +35,9 @@
           "title": "莫德里奇结束第五次世界杯征程",
           "url": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%BB%93%E6%9D%9F%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
           "hot": 0
-        },
-        {
-          "title": "C罗与莫德里奇赛后相拥",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%8E%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E8%B5%9B%E5%90%8E%E7%9B%B8%E6%8B%A5",
-          "hot": 0
-        },
-        {
-          "title": "C罗点球扳平比分",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E7%82%B9%E7%90%83%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86",
-          "hot": 0
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -60,41 +50,36 @@
         {
           "title": "世界杯绝杀时刻太燃了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%9D%E6%9D%80%E6%97%B6%E5%88%BB%E5%A4%AA%E7%87%83%E4%BA%86",
-          "hot": "928.1万"
+          "hot": "927.1万"
         },
         {
           "title": "C罗打破淘汰赛零进球纪录",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%89%93%E7%A0%B4%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%9B%B6%E8%BF%9B%E7%90%83%E7%BA%AA%E5%BD%95",
-          "hot": "774.7万"
+          "hot": "774.2万"
+        },
+        {
+          "title": "全网恭喜C罗世界杯淘汰赛首球",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%81%AD%E5%96%9CC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%90%83",
+          "hot": "771.1万"
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "伊布：你不能指望在2026年，靠41岁的C罗领衔锋线去赢得什么",
+          "title": "本届世界杯已出现13个乌龙球，刷新世界杯历史纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德天空：纳格尔斯曼及其助教将从德国足协获得660万欧补偿金",
+          "title": "单届世界杯打进2个乌龙球，哈尼成为赛事历史第二人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：巴萨签下德国体能教练库格尔，曾随德国夺14年世界杯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：世界杯MVP评选明显偏爱巨星，或与背后的赞助商有关",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这届世界杯就是维蒂尼亚的照妖镜",
+          "title": "恩佐，曼联不抢吗，感觉九千万到一亿应该可以拿下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -104,63 +89,38 @@
           "hot": ""
         },
         {
-          "title": "葡萄牙VS西班牙，别都盯着亚马尔一个人看。",
+          "title": "不吐不快，为什么葡萄牙不管赢还是输，全在嘲讽c罗，到底是哪个群体",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马官方声明：不会引进恩佐",
+          "title": "对于姆巴佩，有些人夸也夸不到点，黑也黑不到点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇家马德里正准备为维尼修斯提供一份年薪2500万欧元的改进版续约报价",
+          "title": "姆巴佩要是这届拿世界杯，射手王，肯定会拿金球奖，那肯定历史地位能超过 c 罗吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "此为何意？恩佐转发圣经内容，大意为“上帝信守承诺”",
+          "title": "喝凉水都塞牙！哈尼单届世界杯两度自摆乌龙，成为历史第一人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：我处于职业生涯最佳状态，无论什么机会我都感觉能进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉姆点名德国队中轴：基米希居中，穆西亚拉落选",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：穆里尼奥满意三名皇马球员从世界杯出局，7月13日开启季前训练",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "战绩上佳，阿根廷队世界杯对非洲球队7连胜",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：拉科鲁尼亚支付解约金签下马略卡门将莱奥-罗曼",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：澳大利亚裁判法加尼执法世界杯1/8决赛墨西哥vs英格兰",
+          "title": "法国队社媒晒球员饮食偏好，姆巴佩爱卡邦尼",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
