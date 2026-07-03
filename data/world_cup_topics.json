@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-04 04:19:45",
+  "update_time": "2026-07-04 06:11:27",
   "sources": {
     "微博": {
       "topics": [
@@ -10,13 +10,19 @@
           "label": ""
         },
         {
+          "title": "亚马尔超越姆巴佩达成新成就",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%B6%85%E8%B6%8A%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BE%BE%E6%88%90%E6%96%B0%E6%88%90%E5%B0%B1",
+          "hot": 0,
+          "label": ""
+        },
+        {
           "title": "中国男篮世预赛小组出线形势",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF%E5%BD%A2%E5%8A%BF",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -50,17 +56,17 @@
         {
           "title": "世界杯绝杀时刻太燃了",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%9D%E6%9D%80%E6%97%B6%E5%88%BB%E5%A4%AA%E7%87%83%E4%BA%86",
-          "hot": "927.1万"
+          "hot": "920.8万"
         },
         {
           "title": "C罗打破淘汰赛零进球纪录",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E6%89%93%E7%A0%B4%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%9B%B6%E8%BF%9B%E7%90%83%E7%BA%AA%E5%BD%95",
-          "hot": "774.2万"
+          "hot": "818.1万"
         },
         {
           "title": "全网恭喜C罗世界杯淘汰赛首球",
           "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E6%81%AD%E5%96%9CC%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%90%83",
-          "hot": "771.1万"
+          "hot": "766.5万"
         }
       ],
       "count": 3,
@@ -69,58 +75,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "本届世界杯已出现13个乌龙球，刷新世界杯历史纪录",
+          "title": "首发出战阿根廷，沃齐尼亚是世界杯淘汰赛出场第四年长门将",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "单届世界杯打进2个乌龙球，哈尼成为赛事历史第二人",
+          "title": "战佛得角前阿根廷国门大马丁理发，剪了阿根廷国旗颜色造型",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "恩佐，曼联不抢吗，感觉九千万到一亿应该可以拿下",
+          "title": "重拾教鞭，克洛普：德国足协正在和我对话，我已准备好执教",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔能不能打破质疑",
+          "title": "帕尔默：球员都梦想踢世界杯，我本能给英格兰提供不同东西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不吐不快，为什么葡萄牙不管赢还是输，全在嘲讽c罗，到底是哪个群体",
+          "title": "巅峰到低谷！22年亚足联3队进16强创造历史，本届再度归零",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "对于姆巴佩，有些人夸也夸不到点，黑也黑不到点",
+          "title": "这届世界杯就是维蒂尼亚的照妖镜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩要是这届拿世界杯，射手王，肯定会拿金球奖，那肯定历史地位能超过 c 罗吗",
+          "title": "[流言板]世体：弗里克视小蜘蛛为莱万接班首选，巴萨等他到世界杯后",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "恩佐也是牛，把皇马逼没招了。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马官方声明：不会引进恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "喝凉水都塞牙！哈尼单届世界杯两度自摆乌龙，成为历史第一人",
+          "title": "博涅克：理解莱万一家远赴芝加哥的不安",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国队社媒晒球员饮食偏好，姆巴佩爱卡邦尼",
+          "title": "40岁1个月，沃齐尼亚成世界杯淘汰赛第4年长门将",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "慎用后卫罚点，本届世界杯三场点球大战都有后卫失点",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
@@ -171,6 +192,16 @@
           "hot": ""
         },
         {
+          "title": "点球战制胜！埃及总分5-3澳大利亚进世界杯16强 亚足联9队全出局",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "唏嘘！亚足联9队皆无缘16强 5队小组垫底 创近12年世界杯最差战绩",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "韩国足协发布致歉信，就世界杯糟糕战绩向球迷道歉",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -179,14 +210,9 @@
           "title": "恩博洛破僵恩多耶建功，瑞士2-0阿尔及利亚，造世界杯独一份神迹",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "被西班牙打崩！奥地利内讧 34岁皇马巨星怒吼队友 世界杯悲情谢幕",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
