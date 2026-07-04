@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-07-04 18:20:06",
+  "update_time": "2026-07-04 20:11:45",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗本届世界杯0过人",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF0%E8%BF%87%E4%BA%BA",
+          "title": "大神喊你去看姆巴佩",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%A5%9E%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "上咪咕见证世界杯16强群雄逐鹿",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%92%AA%E5%92%95%E8%A7%81%E8%AF%81%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E7%BE%A4%E9%9B%84%E9%80%90%E9%B9%BF",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -42,119 +48,79 @@
     "抖音": {
       "topics": [
         {
-          "title": "中国男篮世预赛不敌日本引争议",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "hot": "880.1万"
-        },
-        {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "771.6万"
+          "hot": "768.9万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "C罗对克罗地亚比赛心率曝光，进球瞬间心跳达每分钟157次",
+          "title": "马卡：皇马满意库库世界杯表现，视其为世界最佳左后卫之一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "结束20年国家队生涯，记者：40岁莫德里奇将从克罗地亚退役",
+          "title": "阿斯：皇马曾多次辟谣与球员的传闻，但小贝姆巴佩最终加盟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加拿大申办世界杯时FIFA排名109位，目前9年后排名第30位",
+          "title": "北青：因全力备战亚洲杯，国足短期内并不会和佛得角队交手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "SS世界杯1/16决赛最佳阵：姆巴佩、梅西、奥利塞、利马在列",
+          "title": "希勒：踢墨西哥，建议把斯彭斯&amp;拉什福德&amp;马杜埃凯拿下首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "生涯非点球进球数：C罗792球，梅西804球",
+          "title": "世界杯16强，你看好哪些球队会晋级8强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯受困于阿根廷结构性缺陷，问题不在中场",
+          "title": "话说好像德容又是带伤踢的世界杯，最近两场还打了镇痛。害，估计回俱乐部又是半残状态的德容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西本场跑动10365米，恩佐跑动14742米全场最高",
+          "title": "我不知道为啥有人看到阿尔瓦雷斯能逼抢就觉得该花大价钱买他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西：场上佛得角球员疯狂踢我但没事儿，场下大家都很好",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这届世界杯就是维蒂尼亚的照妖镜",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "1.3亿买迪亚曼德，攻防都有，体能怪。戈登去9号位位，免签弗拉霍维奇轮换。绝对比砸阿尔瓦雷斯划算",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "经典回顾之小猪猪不要学亚马尔",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "英格兰和巴西，谁晋级？英格兰吧，多少年没冠军了。巴西吧，内马尔的天赋配得上一个世界杯。真难选择",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "一个踢美国大联盟的老头都能刷出这样的进球数据，今年这世界杯我是越来越看不懂了",
+          "title": "这个恩佐是不是踢靠前的位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "懂球译站｜给儿子做球衣的黎巴嫩人，在世界杯前决定赞助佛得角",
+          "title": "2002年世界杯，耐克阿迪的“科技球衣”都翻车了？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：本届世界杯场均犯规数60年最低，但红牌多于此前两届",
+          "title": "英媒：热刺今夏已花费2.37亿镑，凯恩恐怕会有所感触",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "相逢一笑泯恩仇！西蒙尼、贝克汉姆世界杯看台同框合影",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯第二十四日前瞻：枫叶红遇上沙漠红，南美猎犬火拼高卢雄鸡",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "莱因克尔：凯恩是英格兰队史最佳；梅西像外星人",
+          "title": "蒂亚戈谈组建现役三中场组合：我选佩德里、维蒂尼亚以及赖斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
