@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-05 04:13:32",
+  "update_time": "2026-07-05 06:04:41",
   "sources": {
     "微博": {
       "topics": [
@@ -44,12 +44,12 @@
         {
           "title": "世界杯16强晋级之路",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "923万"
+          "hot": "919.9万"
         },
         {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "772.6万"
+          "hot": "776.9万"
         }
       ],
       "count": 2,
@@ -58,108 +58,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "西蒙：我的世界杯零封纪录，换拉亚/加西亚登场他们也能做到",
+          "title": "龙赛罗：姆巴佩被拉拽挨打不吹，梅西一碰就吹，这就是双标",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西蒙：C罗不再是处于巅峰的那个他了，但确实要让他远离禁区",
+          "title": "库瓦斯放倒姆巴佩挑衅推搡，引起双方球员对峙冲突",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "摩洛哥前锋拉希米5次替补登场造3球，创非洲球员世界杯纪录",
+          "title": "【纯聊】靠谱后腰还没着落，看世界杯之余有些担心曼联下赛季能否保住前4了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "摩洛哥60%射门进球转化率，创世界杯淘汰赛历史纪录",
+          "title": "利马或者罗梅罗哪个可以撸过来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "被摩洛哥淘汰，加拿大止步16强，仍然创队史世界杯最好成绩",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "非洲球队第2次在世界杯淘汰赛90分钟内取胜，两次都是摩洛哥",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "不得不说大马丁真的高级货..",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这个恩佐是不是踢靠前的位置",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：皇马将等到世界杯结束后，再同维尼修斯商谈续约事宜。尽管双方都愿意继续合作，但续约谈判已经陷入完全停滞，近一整年都没有取得实质性进展。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "感觉佛得角和克村这种人口少的小国世界杯总是在判罚上吃亏啊…",
+          "title": "迪亚斯几个助攻了，这世界杯表现不错，争取个助攻王",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "法国vs巴拉圭：姆巴佩、登贝莱、奥利塞首发，夸迪奥-科内出战",
+          "title": "甚至不是犯规，姆巴佩上半场跑动中被加拉尔萨直接捶倒",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "竞猜圈开张！参与美加墨竞猜活动，抄作业晒中奖，分万元奖金",
+          "title": "奥莱报解读姆巴佩唇语：他对巴拉圭球员阿隆索骂了NMB",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "恩佐女友被问及恩佐的转会：不管是哪支球队，我都无所谓的",
+          "title": "姆巴佩世界杯第19次出场法国队史第二，距离洛里仅差一场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德尚已斩获9胜，有望成为首位赢下10场世界杯淘汰赛的主教练",
+          "title": "葡萄牙狂热粉丝爬满栏杆观看训练，C罗从健身房出来打招呼",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国队取得世界杯1/8决赛7连胜，上次输球追溯到1934年",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "非洲球队世界杯淘汰赛90分钟内取胜均由摩洛哥制造，上次为22年胜葡萄牙",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "乌奈-西蒙：我不知道该怎么防住C罗，必须让他尽可能远离禁区",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "奥利塞已斩获5助攻，距贝利保持的单届世界杯助攻纪录只差1次",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "乌奈-西蒙：无需说服亚马尔做任何事，他想证明自己能干大事",
+          "title": "希勒：凯恩是英格兰史上最佳前锋；戈登应首发出战墨西哥",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
