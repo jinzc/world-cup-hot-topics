@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-07-05 00:10:21",
+  "update_time": "2026-07-05 02:08:19",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "姆巴佩预测自己是最佳射手",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%A2%84%E6%B5%8B%E8%87%AA%E5%B7%B1%E6%98%AF%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B",
+          "title": "王濛预测世界杯四强",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗推测葡萄牙16进8会很艰苦",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8E%A8%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%9916%E8%BF%9B8%E4%BC%9A%E5%BE%88%E8%89%B0%E8%8B%A6",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -42,53 +48,33 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯16强晋级之路",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
+          "hot": "912.3万"
+        },
+        {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "775万"
+          "hot": "772.9万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "萨拉赫已造16次得分机会，跻身非洲球员单届世界杯榜单前三",
+          "title": "球迷楼下高喊C罗，达洛特打趣：哥们，你看起来像教皇一样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰本届世界杯20次创造绝佳机会15次错失，均排名第一",
+          "title": "阿斯主编：梅西4场7球扛起阿根廷，其他进攻球员却没站出来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯16强被射门最少次数榜：西班牙19次，加拿大22次",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯十六强身价榜：法国15.2亿居首；英格兰/西班牙排二三",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "SS世界杯评分榜：梅西9.18分第1，姆巴佩8.63分第2",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "门德斯：踢西班牙希望能复制欧国联比分；准备好防守亚马尔",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯16强，你看好哪些球队会晋级8强？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这届世界杯就是维蒂尼亚的照妖镜",
+          "title": "历史首人！布努成世界杯首位两届赛事对阵自己出生国的门将",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -98,22 +84,12 @@
           "hot": ""
         },
         {
-          "title": "别说1.5亿了，阿尔瓦雷斯真的值1亿么？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "隔壁罗迷已经开始提前造势了，故意提前抹黑阿根廷靠裁判了，到时候梅西如果真能双冠肯定也会说靠裁判照顾！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这个恩佐真不行啊全场梦游",
+          "title": "朝花夕拾-C罗16/17",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
@@ -124,22 +100,37 @@
           "hot": ""
         },
         {
-          "title": "TA：B费也极力劝说M费加盟，但热刺全力支持德泽尔比果断出手",
+          "title": "哈兰德：在世界杯对巴西可能是我参与过的最重要的国家队比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德布劳内父亲：他已习惯批评声；何时退出国家队要看他的身体",
+          "title": "沮丧，摩洛哥前锋赛巴里世界杯伤退后掩面，三天前他刚刚加盟拜仁",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佛得角后卫洛佩斯-卡布拉尔：世界杯进球改变人生",
+          "title": "杜埃：非常享受我的第一次世界杯之旅；我和巴尔科拉互相学习",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "突尼斯主帅勒纳尔自宣离任，世界杯火线接手两战全败垫底出局",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "若是世界杯最后一舞最想踢谁？萨拉赫：梅西",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯夺冠赔率更新：法国低赔领跑，阿根廷次席，西班牙第三",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
