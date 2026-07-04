@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-04 22:42:18",
+  "update_time": "2026-07-05 00:10:21",
   "sources": {
     "微博": {
       "topics": [
@@ -21,11 +21,6 @@
     "B站": {
       "topics": [
         {
-          "title": "世界杯八分之一决赛前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
-          "hot": 0
-        },
-        {
           "title": "世界杯十六强出炉",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%E5%87%BA%E7%82%89",
           "hot": 0
@@ -36,7 +31,7 @@
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -49,7 +44,7 @@
         {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "773万"
+          "hot": "775万"
         }
       ],
       "count": 1,
@@ -58,47 +53,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "本届世界杯关键传球榜：萨拉赫、特罗萨德16次并列第一",
+          "title": "萨拉赫已造16次得分机会，跻身非洲球员单届世界杯榜单前三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "15位阿森纳球员参加本届世界杯，12人晋级16强",
+          "title": "英格兰本届世界杯20次创造绝佳机会15次错失，均排名第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯16强有欧足联7队，有统计以来同阶段第三少",
+          "title": "世界杯16强被射门最少次数榜：西班牙19次，加拿大22次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：皇马中场预计不会有新变化，B席将成中场技术核心",
+          "title": "世界杯十六强身价榜：法国15.2亿居首；英格兰/西班牙排二三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "24次射门15次射正7粒进球，梅西射门射正进球数均本届第1",
+          "title": "SS世界杯评分榜：梅西9.18分第1，姆巴佩8.63分第2",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯射手榜预期进球值表现：梅西4.01，姆巴佩2.88",
+          "title": "门德斯：踢西班牙希望能复制欧国联比分；准备好防守亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "1/16决赛队内禁区内触球榜：亚马尔14次第1，梅西凯恩均9次",
+          "title": "世界杯16强，你看好哪些球队会晋级8强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊布：焦点不在阿根廷和梅西身上，佛得角表现差点让我掉泪",
+          "title": "这届世界杯就是维蒂尼亚的照妖镜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/8决赛后制造进球榜：贝利和梅西11球第1，大罗10球",
+          "title": "我感觉梅西已经脚软了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -106,9 +101,19 @@
           "title": "别说1.5亿了，阿尔瓦雷斯真的值1亿么？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "隔壁罗迷已经开始提前造势了，故意提前抹黑阿根廷靠裁判了，到时候梅西如果真能双冠肯定也会说靠裁判照顾！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这个恩佐真不行啊全场梦游",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
@@ -119,12 +124,22 @@
           "hot": ""
         },
         {
-          "title": "曼城官方：阿克加盟费内巴切，转会待国际足联注册许可生效",
+          "title": "TA：B费也极力劝说M费加盟，但热刺全力支持德泽尔比果断出手",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德布劳内父亲：他已习惯批评声；何时退出国家队要看他的身体",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "佛得角后卫洛佩斯-卡布拉尔：世界杯进球改变人生",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
