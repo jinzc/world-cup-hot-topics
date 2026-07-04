@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-07-04 15:52:53",
+  "update_time": "2026-07-04 18:20:06",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "最新世界杯夺冠赔率",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E8%B5%94%E7%8E%87",
+          "title": "C罗本届世界杯0过人",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF0%E8%BF%87%E4%BA%BA",
           "hot": 0,
           "label": ""
         }
@@ -21,13 +21,13 @@
     "B站": {
       "topics": [
         {
-          "title": "莫德里奇结束第五次世界杯征程",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%BB%93%E6%9D%9F%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
+          "title": "世界杯十六强出炉",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%E5%87%BA%E7%82%89",
           "hot": 0
         },
         {
-          "title": "世界杯十六强出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%E5%87%BA%E7%82%89",
+          "title": "莫德里奇结束第五次世界杯征程",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%BB%93%E6%9D%9F%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
           "hot": 0
         }
       ],
@@ -44,12 +44,12 @@
         {
           "title": "中国男篮世预赛不敌日本引争议",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "hot": "808.7万"
+          "hot": "880.1万"
         },
         {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "772万"
+          "hot": "771.6万"
         }
       ],
       "count": 2,
@@ -58,88 +58,98 @@
     "虎扑": {
       "topics": [
         {
-          "title": "佛得角后卫：没多少人能近距离挡住梅西，沃齐尼亚令人震惊",
+          "title": "C罗对克罗地亚比赛心率曝光，进球瞬间心跳达每分钟157次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沃齐尼亚：今天不是我对阵梅西，而是佛得角对阵阿根廷",
+          "title": "结束20年国家队生涯，记者：40岁莫德里奇将从克罗地亚退役",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：我们也想以3-0获胜，必须给予佛得角最大的尊重",
+          "title": "加拿大申办世界杯时FIFA排名109位，目前9年后排名第30位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西：世界杯中定位球很重要，我们已在这方面投入很长时间",
+          "title": "SS世界杯1/16决赛最佳阵：姆巴佩、梅西、奥利塞、利马在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大马丁：必须把所有赞誉都给佛得角，他们的第二球是世界波",
+          "title": "生涯非点球进球数：C罗792球，梅西804球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西再遇争议女记者：又要有人说我看你了，看没看都有人说",
+          "title": "阿尔瓦雷斯受困于阿根廷结构性缺陷，问题不在中场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "体育心理学家：C罗被换下场的整体反应，是一种良性内心冲突",
+          "title": "梅西本场跑动10365米，恩佐跑动14742米全场最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我感觉梅西已经脚软了",
+          "title": "梅西：场上佛得角球员疯狂踢我但没事儿，场下大家都很好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这个恩佐是不是踢靠前的位置",
+          "title": "这届世界杯就是维蒂尼亚的照妖镜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不得不说，姆巴佩历史排名将很快超越C罗和莫德里奇",
+          "title": "1.3亿买迪亚曼德，攻防都有，体能怪。戈登去9号位位，免签弗拉霍维奇轮换。绝对比砸阿尔瓦雷斯划算",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为什么蓝白那么乐衷于剪辑C罗犯规的视频和截图",
+          "title": "经典回顾之小猪猪不要学亚马尔",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "英格兰和巴西，谁晋级？英格兰吧，多少年没冠军了。巴西吧，内马尔的天赋配得上一个世界杯。真难选择",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一个踢美国大联盟的老头都能刷出这样的进球数据，今年这世界杯我是越来越看不懂了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
-        {
-          "title": "懂球帝7月4日世界杯之星：利桑德罗-马丁内斯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
         {
           "title": "懂球译站｜给儿子做球衣的黎巴嫩人，在世界杯前决定赞助佛得角",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "XbotGo 世界杯淘汰赛首轮五佳球员",
+          "title": "世体：本届世界杯场均犯规数60年最低，但红牌多于此前两届",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德布劳内父亲：只要我儿子还有动力，他就能为比利时队效力",
+          "title": "相逢一笑泯恩仇！西蒙尼、贝克汉姆世界杯看台同框合影",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "默特萨克：我愿意为德国足球做点什么，在德国足协工作没问题",
+          "title": "世界杯第二十四日前瞻：枫叶红遇上沙漠红，南美猎犬火拼高卢雄鸡",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "莱因克尔：凯恩是英格兰队史最佳；梅西像外星人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -190,6 +200,11 @@
           "hot": ""
         },
         {
+          "title": "世界杯16强最新夺冠赔率：法国断层领跑！葡萄牙仅第5 巴拉圭垫底",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "阿里亚斯一剑封喉，哥伦比亚1-0击败非洲劲旅，晋级世界杯16强",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -205,7 +220,7 @@
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
