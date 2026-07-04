@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-05 02:08:19",
+  "update_time": "2026-07-05 04:13:32",
   "sources": {
     "微博": {
       "topics": [
@@ -8,15 +8,9 @@
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "C罗推测葡萄牙16进8会很艰苦",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8E%A8%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%9916%E8%BF%9B8%E4%BC%9A%E5%BE%88%E8%89%B0%E8%8B%A6",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -50,12 +44,12 @@
         {
           "title": "世界杯16强晋级之路",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "912.3万"
+          "hot": "923万"
         },
         {
           "title": "世界杯16强对阵图",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%9B%BE",
-          "hot": "772.9万"
+          "hot": "772.6万"
         }
       ],
       "count": 2,
@@ -64,73 +58,108 @@
     "虎扑": {
       "topics": [
         {
-          "title": "球迷楼下高喊C罗，达洛特打趣：哥们，你看起来像教皇一样",
+          "title": "西蒙：我的世界杯零封纪录，换拉亚/加西亚登场他们也能做到",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯主编：梅西4场7球扛起阿根廷，其他进攻球员却没站出来",
+          "title": "西蒙：C罗不再是处于巅峰的那个他了，但确实要让他远离禁区",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "历史首人！布努成世界杯首位两届赛事对阵自己出生国的门将",
+          "title": "摩洛哥前锋拉希米5次替补登场造3球，创非洲球员世界杯纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我感觉梅西已经脚软了",
+          "title": "摩洛哥60%射门进球转化率，创世界杯淘汰赛历史纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "朝花夕拾-C罗16/17",
+          "title": "被摩洛哥淘汰，加拿大止步16强，仍然创队史世界杯最好成绩",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "非洲球队第2次在世界杯淘汰赛90分钟内取胜，两次都是摩洛哥",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不得不说大马丁真的高级货..",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这个恩佐是不是踢靠前的位置",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：皇马将等到世界杯结束后，再同维尼修斯商谈续约事宜。尽管双方都愿意继续合作，但续约谈判已经陷入完全停滞，近一整年都没有取得实质性进展。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "感觉佛得角和克村这种人口少的小国世界杯总是在判罚上吃亏啊…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "法国vs巴拉圭：姆巴佩、登贝莱、奥利塞首发，夸迪奥-科内出战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "竞猜圈开张！参与美加墨竞猜活动，抄作业晒中奖，分万元奖金",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哈兰德：在世界杯对巴西可能是我参与过的最重要的国家队比赛",
+          "title": "恩佐女友被问及恩佐的转会：不管是哪支球队，我都无所谓的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "沮丧，摩洛哥前锋赛巴里世界杯伤退后掩面，三天前他刚刚加盟拜仁",
+          "title": "德尚已斩获9胜，有望成为首位赢下10场世界杯淘汰赛的主教练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "杜埃：非常享受我的第一次世界杯之旅；我和巴尔科拉互相学习",
+          "title": "法国队取得世界杯1/8决赛7连胜，上次输球追溯到1934年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "突尼斯主帅勒纳尔自宣离任，世界杯火线接手两战全败垫底出局",
+          "title": "非洲球队世界杯淘汰赛90分钟内取胜均由摩洛哥制造，上次为22年胜葡萄牙",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "若是世界杯最后一舞最想踢谁？萨拉赫：梅西",
+          "title": "乌奈-西蒙：我不知道该怎么防住C罗，必须让他尽可能远离禁区",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯夺冠赔率更新：法国低赔领跑，阿根廷次席，西班牙第三",
+          "title": "奥利塞已斩获5助攻，距贝利保持的单届世界杯助攻纪录只差1次",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "乌奈-西蒙：无需说服亚马尔做任何事，他想证明自己能干大事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
@@ -145,6 +174,16 @@
     },
     "网易": {
       "topics": [
+        {
+          "title": "0-3！世界杯首支8强球队诞生，摩洛哥静候法国",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "非洲之光！摩洛哥两次进入世界杯八强，为非洲历史第一队",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
         {
           "title": "阿根廷加时3-2佛得角进16强 罗梅罗造制胜乌龙",
           "url": "https://sports.163.com/worldcup2026/",
@@ -166,7 +205,12 @@
           "hot": ""
         },
         {
-          "title": "佛得角首次世界杯之旅：小组赛两平前世界冠军；淘汰赛将阿根廷拖入加时",
+          "title": "沃齐尼亚：梅西答应了给我球衣，但我因采访错过了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "突尼斯主帅勒纳尔自宣离任，世界杯火线接手两战全败垫底出局",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -189,14 +233,9 @@
           "title": "唏嘘！亚足联9队皆无缘16强 5队小组垫底 创近12年世界杯最差战绩",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "韩国足协发布致歉信，就世界杯糟糕战绩向球迷道歉",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 12,
       "status": "success"
     },
     "腾讯": {
