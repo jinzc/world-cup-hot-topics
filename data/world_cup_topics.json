@@ -1,16 +1,28 @@
 {
-  "update_time": "2026-07-06 05:11:39",
+  "update_time": "2026-07-06 07:09:09",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "U17国足3比0澳大利亚",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B33%E6%AF%940%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
+          "title": "内马尔哭了",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%93%AD%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "内马尔",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "内马尔替补出场",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%9B%BF%E8%A1%A5%E5%87%BA%E5%9C%BA",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -19,9 +31,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "内马尔点射扳回一球",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E9%A9%AC%E5%B0%94%E7%82%B9%E5%B0%84%E6%89%B3%E5%9B%9E%E4%B8%80%E7%90%83",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -33,87 +51,122 @@
         {
           "title": "世界杯“双牙大战”你更看好谁",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%E2%80%9D%E4%BD%A0%E6%9B%B4%E7%9C%8B%E5%A5%BD%E8%B0%81",
-          "hot": "827.9万"
+          "hot": "835.8万"
+        },
+        {
+          "title": "摩洛哥连续两届世界杯闯入八强",
+          "url": "https://www.douyin.com/search/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%AF%E5%85%A5%E5%85%AB%E5%BC%BA",
+          "hot": "769.6万"
         },
         {
           "title": "世界杯16强晋级之路",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "775.6万"
+          "hot": "767.9万"
         },
         {
-          "title": "姆巴佩会超越大罗吗",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BC%9A%E8%B6%85%E8%B6%8A%E5%A4%A7%E7%BD%97%E5%90%97",
-          "hot": "775.5万"
+          "title": "内马尔晒照备战挪威",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E7%85%A7%E5%A4%87%E6%88%98%E6%8C%AA%E5%A8%81",
+          "hot": "763.7万"
+        },
+        {
+          "title": "莱奥传中时到底在笑什么",
+          "url": "https://www.douyin.com/search/%E8%8E%B1%E5%A5%A5%E4%BC%A0%E4%B8%AD%E6%97%B6%E5%88%B0%E5%BA%95%E5%9C%A8%E7%AC%91%E4%BB%80%E4%B9%88",
+          "hot": "760.8万"
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "罗马诺：埃德森世界杯后接受曼联进一步体检，之后官宣",
+          "title": "巴西世界杯淘汰赛vs欧洲队：06年前20次晋级，06年来7连出局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯弧顶断球，反插禁区抽射遭尼兰神勇扑出",
+          "title": "法国国家队社媒晒照，姆巴佩等球员观看巴西vs挪威比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西近10次世界杯点球仅5中，2次罚丢、3次被门将扑出",
+          "title": "内马尔4届世界杯取得进球，仅次于6届的C罗和5届的梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉杨直塞禁区肋部，维尼修斯转身抽射被封堵",
+          "title": "火力凶猛，挪威本届世界杯已打进12球，仅次于14球的法国",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这个巴拉圭存在一天，就是对世界杯最大的侮辱",
+          "title": "皮克福德世界杯第17次出场，并列成英格兰世界杯出场最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "实锤！某人买营销针对梅西和阿根廷的负面消息",
+          "title": "8支世界杯冠军队仅剩4支：巴西德国乌拉圭淘汰；意大利没来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马球员世界杯淘汰赛热线—贝林厄姆/维尼休斯",
+          "title": "内马尔追平贝利，成第二位连续四届世界杯破门的巴西球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看完法巴之战，感觉国足最缺这种高强度对抗硬度",
+          "title": "萨顿：相信英格兰能创造足够的机会晋级，凯恩能梅开二度",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴西06年来世界杯淘汰赛vs欧洲队0胜1平6负，进5球丢18球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "说些关于维尼修斯的体感和…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "扑点成功的挪威门将尼兰德本赛季仅有18次出场，包含世界杯3场",
+          "title": "巴西1-2挪威无缘八强，哈兰德梅开二度，内马尔读秒点射",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "迪亚斯：很激动能连续晋级世界杯八强；摩洛哥要努力走得更远",
+          "title": "英格兰vs墨西哥：凯恩、萨卡先发，劳尔-希门尼斯、莫拉出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴西近10粒世界杯点球罚丢5粒，4粒点球大战失点，内马尔2中2",
+          "title": "懂球帝海报：告别内马尔",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "被指责世界杯期间酗酒，尼古拉-雅克松社媒回击并否认",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "34岁150天，内马尔成为巴西队史世界杯最年长进球者",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "内马尔：我一次又一次努力过了；我在这里结束国家队生涯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -129,37 +182,37 @@
     "网易": {
       "topics": [
         {
+          "title": "挪威2-1巴西首进八强 哈兰德双响内马尔点射",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯4连斩轰7球！哈兰德炸裂了：双响创6大纪录，官方MVP+9.1分",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "内马尔坐在地上痛哭悲情谢幕：我从这里开始 也在这里画上句号",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "34岁内马尔哭成泪人!被批没脑子：进球后忙着与对方吵架 浪费时间",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "内马尔告别世界杯！压哨点球破门，4届世界杯破门，贝利后首人",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "世界杯-法国1-0巴拉圭进八强战摩洛哥 姆巴佩点射",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "0-3！世界杯首支8强球队诞生，摩洛哥静候法国",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯第19球！姆巴佩点球破门，淘汰赛第11球，连刷12大纪录",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "挥拳打自己骗黄牌!世界杯头号恶人成法国公敌 当众落泪：我很自豪",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "当场报仇？姆巴佩破门后疑挑衅对手，做嚣张表情，两队第2次冲突",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯激烈冲突！姆巴佩被激怒，14人互相推搡，高卢雄鸡“中计”",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "非洲之光！摩洛哥两次进入世界杯八强，为非洲历史第一队",
+          "title": "最后一舞！C罗官宣不会参加第7次世界杯：大力神杯不影响我的地位",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
