@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-06 01:21:09",
+  "update_time": "2026-07-06 03:36:32",
   "sources": {
     "微博": {
       "topics": [
@@ -39,88 +39,26 @@
         {
           "title": "世界杯16强晋级之路",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "773.1万"
+          "hot": "775.4万"
         },
         {
           "title": "姆巴佩会超越大罗吗",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BC%9A%E8%B6%85%E8%B6%8A%E5%A4%A7%E7%BD%97%E5%90%97",
-          "hot": "770.6万"
+          "hot": "775.2万"
         }
       ],
       "count": 2,
       "status": "success"
     },
     "虎扑": {
-      "topics": [
-        {
-          "title": "美国足协声明：接受FIFA决定，对巴拉贡能够出战感到欣慰",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：法国足协正在考虑申请撤销奥利塞在补时阶段的黄牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "法国足协考虑申诉奥利塞的黄牌，因他未和对方有身体接触",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：现在的C罗更多是一名终结者，葡萄牙远不止C罗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈兰德本届世界杯69次触球进5球，平均13.8次创造纪录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "南美足联主席：感谢巴拉圭队倾尽所有，为你们感到骄傲",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马球员世界杯淘汰赛热线—贝林厄姆/维尼休斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]维尼修斯19家代言建立商业帝国，成最具商业价值球员之一",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 8,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "穆尼奥斯：若球队需要我已经准备好了；与C罗同场竞技是梦想",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：我们有最好的球队和最强的中场；对夺冠充满期待",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅里诺：我认为C罗状态很出色，他是球队的领袖我们必须小心",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "能否战胜挪威？近6次世界杯淘汰赛对欧洲球队巴西皆输球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 4,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
