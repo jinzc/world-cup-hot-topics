@@ -1,34 +1,16 @@
 {
-  "update_time": "2026-07-05 13:03:19",
+  "update_time": "2026-07-05 17:18:06",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "巴拉圭门将用球砸姆巴佩",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "姆巴佩 我们也会踢脏球",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E6%88%91%E4%BB%AC%E4%B9%9F%E4%BC%9A%E8%B8%A2%E8%84%8F%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "姆巴佩真的生气了",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9C%9F%E7%9A%84%E7%94%9F%E6%B0%94%E4%BA%86",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "莱万质疑FIFA偏袒C罗葡萄牙",
-          "url": "https://s.weibo.com/weibo?q=%E8%8E%B1%E4%B8%87%E8%B4%A8%E7%96%91FIFA%E5%81%8F%E8%A2%92C%E7%BD%97%E8%91%A1%E8%90%84%E7%89%99",
+          "title": "南美足联主席批法国队拖延时间",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E7%BE%8E%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%89%B9%E6%B3%95%E5%9B%BD%E9%98%9F%E6%8B%96%E5%BB%B6%E6%97%B6%E9%97%B4",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -42,14 +24,9 @@
           "title": "姆巴佩点球进球",
           "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%82%B9%E7%90%83%E8%BF%9B%E7%90%83",
           "hot": 0
-        },
-        {
-          "title": "世界杯十六强出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%E5%87%BA%E7%82%89",
-          "hot": 0
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "知乎": {
@@ -60,89 +37,69 @@
     "抖音": {
       "topics": [
         {
-          "title": "巴拉圭门将用球砸姆巴佩",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%E7%94%A8%E7%90%83%E7%A0%B8%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": "911.1万"
-        },
-        {
-          "title": "杜埃：世界最佳姆巴佩激励我进步",
-          "url": "https://www.douyin.com/search/%E6%9D%9C%E5%9F%83%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9C%80%E4%BD%B3%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%BF%80%E5%8A%B1%E6%88%91%E8%BF%9B%E6%AD%A5",
-          "hot": "854.4万"
-        },
-        {
           "title": "姆巴佩会超越大罗吗",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BC%9A%E8%B6%85%E8%B6%8A%E5%A4%A7%E7%BD%97%E5%90%97",
-          "hot": "783.1万"
+          "hot": "768.4万"
         },
         {
-          "title": "当你在世界杯期间依然看苏超",
-          "url": "https://www.douyin.com/search/%E5%BD%93%E4%BD%A0%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%BE%9D%E7%84%B6%E7%9C%8B%E8%8B%8F%E8%B6%85",
-          "hot": "771.7万"
+          "title": "莱奥传中时到底在笑什么",
+          "url": "https://www.douyin.com/search/%E8%8E%B1%E5%A5%A5%E4%BC%A0%E4%B8%AD%E6%97%B6%E5%88%B0%E5%BA%95%E5%9C%A8%E7%AC%91%E4%BB%80%E4%B9%88",
+          "hot": "767万"
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "马塞洛携家人一同观战阿根廷vs佛得角，Ins晒照：世界杯",
+          "title": "-1.90，奥利塞是本届世界杯预期进球表现最差的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：终结无冠后凯恩曾如释重负，他不再是“虐菜王”",
+          "title": "罗马诺：拉什福德近期不谈转会，曼联希望他季前赛融入球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "官方：亚足联名哨法加尼将执法墨西哥vs英格兰的比赛",
+          "title": "马丁内斯对阵西班牙！世界杯此前无主帅率队淘汰过自己国家",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德保罗INS：世界杯梦想仍在继续，很自豪代表阿根廷出战90场",
+          "title": "巴拉圭本届世界杯场均26.4次铲断，2006阿根廷后最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德转1/16决赛被淘汰最贵阵：维尔茨、穆西亚拉、凯塞多在列",
+          "title": "姆巴佩，成熟核心，现在无论能力和心态，强的离谱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前英超裁判：法加尼曾漏判姆巴佩点球，执法英墨战令人担忧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈姆扎：萨拉赫从第一天就陪着我；对手是阿根廷而不是梅西",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨专区有这么多姆巴佩和法国球迷我是没想到的",
+          "title": "姆巴佩在世界杯淘汰赛阶段进球数超巴西、英格兰、葡萄牙、西班牙总和",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯午报：霸王别踢",
+          "title": "佩德里：非常幸运和梅西做过队友，如果能在决赛相遇会很美好",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "球报：佛得角总理希望设蓝鲨日，以纪念世界杯战阿根廷的比赛",
+          "title": "佩德里：维蒂尼亚是世界最佳中场之一；我也梦想捧起金球奖",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：上帝之手已过去40年，现在该书写属于我们的历史",
+          "title": "奥利塞高温下跑动达11621.5米列队内第一，姆巴佩最快飙至36.5km/h",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -216,19 +173,9 @@
           "title": "沃齐尼亚：梅西答应了给我球衣，但我因采访错过了",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "突尼斯主帅勒纳尔自宣离任，世界杯火线接手两战全败垫底出局",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "点球战制胜！埃及总分5-3澳大利亚进世界杯16强",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 13,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
