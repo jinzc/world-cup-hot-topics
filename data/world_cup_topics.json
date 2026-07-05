@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-06 03:36:32",
+  "update_time": "2026-07-06 05:11:39",
   "sources": {
     "微博": {
       "topics": [
@@ -19,15 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "王冰冰 跟着世界杯看世界",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%20%E8%B7%9F%E7%9D%80%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E4%B8%96%E7%95%8C",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -37,28 +31,90 @@
     "抖音": {
       "topics": [
         {
+          "title": "世界杯“双牙大战”你更看好谁",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%E2%80%9D%E4%BD%A0%E6%9B%B4%E7%9C%8B%E5%A5%BD%E8%B0%81",
+          "hot": "827.9万"
+        },
+        {
           "title": "世界杯16强晋级之路",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "775.4万"
+          "hot": "775.6万"
         },
         {
           "title": "姆巴佩会超越大罗吗",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BC%9A%E8%B6%85%E8%B6%8A%E5%A4%A7%E7%BD%97%E5%90%97",
-          "hot": "775.2万"
+          "hot": "775.5万"
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "罗马诺：埃德森世界杯后接受曼联进一步体检，之后官宣",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯弧顶断球，反插禁区抽射遭尼兰神勇扑出",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴西近10次世界杯点球仅5中，2次罚丢、3次被门将扑出",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "拉杨直塞禁区肋部，维尼修斯转身抽射被封堵",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这个巴拉圭存在一天，就是对世界杯最大的侮辱",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "实锤！某人买营销针对梅西和阿根廷的负面消息",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马球员世界杯淘汰赛热线—贝林厄姆/维尼休斯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看完法巴之战，感觉国足最缺这种高强度对抗硬度",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 8,
+      "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "扑点成功的挪威门将尼兰德本赛季仅有18次出场，包含世界杯3场",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "迪亚斯：很激动能连续晋级世界杯八强；摩洛哥要努力走得更远",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴西近10粒世界杯点球罚丢5粒，4粒点球大战失点，内马尔2中2",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
@@ -108,17 +164,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯：网红赠墨西哥全队百万劳力士名表　足协表示到手即还",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "安帅：内马尔和维尼修斯能一起上；身体素质不会是决定因素",
+          "title": "记者：白宫直接致电国际足联，要求复核巴洛贡的红牌",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "腾讯": {
