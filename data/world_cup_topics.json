@@ -1,28 +1,34 @@
 {
-  "update_time": "2026-07-06 07:09:09",
+  "update_time": "2026-07-06 12:19:15",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "内马尔哭了",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%93%AD%E4%BA%86",
+          "title": "内马尔从巴西国家队退役",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "内马尔",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94",
+          "title": "巴西球迷痛批内马尔",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E7%97%9B%E6%89%B9%E5%86%85%E9%A9%AC%E5%B0%94",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "内马尔替补出场",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%9B%BF%E8%A1%A5%E5%87%BA%E5%9C%BA",
+          "title": "贝林厄姆2分钟2球",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%862%E5%88%86%E9%92%9F2%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗确认这是最后一届世界杯",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%A1%AE%E8%AE%A4%E8%BF%99%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -33,12 +39,27 @@
     "B站": {
       "topics": [
         {
-          "title": "内马尔点射扳回一球",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E9%A9%AC%E5%B0%94%E7%82%B9%E5%B0%84%E6%89%B3%E5%9B%9E%E4%B8%80%E7%90%83",
+          "title": "内马尔哭了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E9%A9%AC%E5%B0%94%E5%93%AD%E4%BA%86",
+          "hot": 0
+        },
+        {
+          "title": "贝林厄姆两分钟完成梅开二度",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%A4%E5%88%86%E9%92%9F%E5%AE%8C%E6%88%90%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": 0
+        },
+        {
+          "title": "凯恩点球破门",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8",
+          "hot": 0
+        },
+        {
+          "title": "C罗 这是我最后一届世界杯",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E8%BF%99%E6%98%AF%E6%88%91%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -49,83 +70,88 @@
     "抖音": {
       "topics": [
         {
+          "title": "贝林厄姆2分钟内完成梅开二度",
+          "url": "https://www.douyin.com/search/%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%862%E5%88%86%E9%92%9F%E5%86%85%E5%AE%8C%E6%88%90%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": "1091.2万"
+        },
+        {
+          "title": "中国男篮vs中国台北男篮",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE",
+          "hot": "974.1万"
+        },
+        {
+          "title": "致敬内马尔世界杯最后一舞",
+          "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
+          "hot": "835.6万"
+        },
+        {
+          "title": "内马尔泪洒赛场",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%B3%AA%E6%B4%92%E8%B5%9B%E5%9C%BA",
+          "hot": "782.1万"
+        },
+        {
+          "title": "和青春里的内马尔说再见",
+          "url": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%86%8D%E8%A7%81",
+          "hot": "776.4万"
+        },
+        {
           "title": "世界杯“双牙大战”你更看好谁",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%E2%80%9D%E4%BD%A0%E6%9B%B4%E7%9C%8B%E5%A5%BD%E8%B0%81",
-          "hot": "835.8万"
-        },
-        {
-          "title": "摩洛哥连续两届世界杯闯入八强",
-          "url": "https://www.douyin.com/search/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%AF%E5%85%A5%E5%85%AB%E5%BC%BA",
-          "hot": "769.6万"
-        },
-        {
-          "title": "世界杯16强晋级之路",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E6%99%8B%E7%BA%A7%E4%B9%8B%E8%B7%AF",
-          "hot": "767.9万"
-        },
-        {
-          "title": "内马尔晒照备战挪威",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E7%85%A7%E5%A4%87%E6%88%98%E6%8C%AA%E5%A8%81",
-          "hot": "763.7万"
-        },
-        {
-          "title": "莱奥传中时到底在笑什么",
-          "url": "https://www.douyin.com/search/%E8%8E%B1%E5%A5%A5%E4%BC%A0%E4%B8%AD%E6%97%B6%E5%88%B0%E5%BA%95%E5%9C%A8%E7%AC%91%E4%BB%80%E4%B9%88",
-          "hot": "760.8万"
+          "hot": "774.1万"
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "巴西世界杯淘汰赛vs欧洲队：06年前20次晋级，06年来7连出局",
+          "title": "哈兰德：曾以为在世界杯上不可能战胜巴西，但显然我错了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国国家队社媒晒照，姆巴佩等球员观看巴西vs挪威比赛",
+          "title": "队报：姆巴佩用从西甲学来的词回敬巴拉圭，换别人早上头了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔4届世界杯取得进球，仅次于6届的C罗和5届的梅西",
+          "title": "队报：踢巴拉圭点球前登贝莱英勇“护球”；姆巴佩笑对挑衅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "火力凶猛，挪威本届世界杯已打进12球，仅次于14球的法国",
+          "title": "利拉对阵英格兰传球成功率97%，创墨西哥球员世界杯纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皮克福德世界杯第17次出场，并列成英格兰世界杯出场最多",
+          "title": "世界杯后安胖下课赶紧请过来吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "8支世界杯冠军队仅剩4支：巴西德国乌拉圭淘汰；意大利没来",
+          "title": "睡衣哥：埃德森上场杀死了巴西，曼联买他完全是扔钱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔追平贝利，成第二位连续四届世界杯破门的巴西球员",
+          "title": "幸亏戈登世界杯前敲定了，现在再下单不得一个亿起谈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨顿：相信英格兰能创造足够的机会晋级，凯恩能梅开二度",
+          "title": "凯恩回撤，贝林前插….英格兰是这样踢的吗…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西06年来世界杯淘汰赛vs欧洲队0胜1平6负，进5球丢18球",
+          "title": "[流言板]队报：踢巴拉圭点球前登贝莱英勇“护球”；姆巴佩笑对挑衅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说些关于维尼修斯的体感和…",
+          "title": "世界杯让姆巴佩和维尼休斯现了原形",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -141,27 +167,27 @@
           "hot": ""
         },
         {
-          "title": "英格兰vs墨西哥：凯恩、萨卡先发，劳尔-希门尼斯、莫拉出战",
+          "title": "十人英格兰3-2墨西哥晋级8强，贝林厄姆双响，凯恩传射+送点",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "懂球帝海报：告别内马尔",
+          "title": "享受这一刻，贝林厄姆赛后听全场英格兰球迷唱《Hey Jude》",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "被指责世界杯期间酗酒，尼古拉-雅克松社媒回击并否认",
+          "title": "巴媒：巴西队世界杯出局后就地解散，代表团周二返回国内",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "34岁150天，内马尔成为巴西队史世界杯最年长进球者",
+          "title": "传射建功，凯恩2025-26赛季目前已经出场63次，直接参与81球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内马尔：我一次又一次努力过了；我在这里结束国家队生涯",
+          "title": "想对英格兰球迷说什么？贝林厄姆：再喝一杯，明天别上班了！",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -182,6 +208,11 @@
     "网易": {
       "topics": [
         {
+          "title": "十人英格兰3-2墨西哥进八强 贝林双响凯恩传射",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "挪威2-1巴西首进八强 哈兰德双响内马尔点射",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -192,22 +223,17 @@
           "hot": ""
         },
         {
-          "title": "内马尔坐在地上痛哭悲情谢幕：我从这里开始 也在这里画上句号",
+          "title": "世界杯8强已定4席：欧洲3队！1/4决赛两组对决出炉：英格兰VS挪威",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "34岁内马尔哭成泪人!被批没脑子：进球后忙着与对方吵架 浪费时间",
+          "title": "34岁内马尔洒泪退出国家队：我尽力了，从这里开始也从这里结束",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "内马尔告别世界杯！压哨点球破门，4届世界杯破门，贝利后首人",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯-法国1-0巴拉圭进八强战摩洛哥 姆巴佩点射",
+          "title": "世界杯年薪最高主帅！67岁安帅直接离场+未接受采访 解释点球闹剧",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -217,7 +243,7 @@
           "hot": ""
         },
         {
-          "title": "记者：白宫直接致电国际足联，要求复核巴洛贡的红牌",
+          "title": "C罗在发布会上点名：把话筒给那记者，我知道他不喜欢我，让他问",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
