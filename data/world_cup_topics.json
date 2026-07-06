@@ -1,17 +1,11 @@
 {
-  "update_time": "2026-07-07 00:56:32",
+  "update_time": "2026-07-07 03:02:22",
   "sources": {
     "微博": {
       "topics": [
         {
           "title": "特朗普插手世界杯红牌",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "FIFA称巴洛贡暂缓停赛是参考C罗",
-          "url": "https://s.weibo.com/weibo?q=FIFA%E7%A7%B0%E5%B7%B4%E6%B4%9B%E8%B4%A1%E6%9A%82%E7%BC%93%E5%81%9C%E8%B5%9B%E6%98%AF%E5%8F%82%E8%80%83C%E7%BD%97",
           "hot": 0,
           "label": ""
         },
@@ -26,9 +20,21 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "FIFA称巴洛贡暂缓停赛是参考C罗",
+          "url": "https://s.weibo.com/weibo?q=FIFA%E7%A7%B0%E5%B7%B4%E6%B4%9B%E8%B4%A1%E6%9A%82%E7%BC%93%E5%81%9C%E8%B5%9B%E6%98%AF%E5%8F%82%E8%80%83C%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "内马尔Steam主页被挪威国旗刷屏",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94Steam%E4%B8%BB%E9%A1%B5%E8%A2%AB%E6%8C%AA%E5%A8%81%E5%9B%BD%E6%97%97%E5%88%B7%E5%B1%8F",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -57,22 +63,22 @@
         {
           "title": "内马尔退出国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "915.3万"
+          "hot": "1053.5万"
         },
         {
           "title": "内马尔遭巴西球迷批评",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%81%AD%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%89%B9%E8%AF%84",
-          "hot": "779.9万"
+          "hot": "778.9万"
         },
         {
           "title": "致敬内马尔世界杯最后一舞",
           "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-          "hot": "775万"
+          "hot": "774.3万"
         },
         {
           "title": "和青春里的内马尔说再见",
           "url": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "766.3万"
+          "hot": "764.9万"
         }
       ],
       "count": 4,
@@ -81,68 +87,103 @@
     "虎扑": {
       "topics": [
         {
-          "title": "普利西奇：全队都为巴洛贡高兴，坚信美国能夺得世界杯冠军",
+          "title": "法国体育部长：攻击姆巴佩，也是攻击我们国家所捍卫的一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西队队史射手榜：内马尔80球居首；贝利和大罗排名二三位",
+          "title": "法国足协主席：全力支持我们的队长，被侮辱的是我们的国家",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维蒂尼亚、罗德里数据对比：罗德里创造机会、对抗等占优",
+          "title": "马丁内斯：策略是让菲利克斯首发，莱奥在比赛后段发挥作用",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "唉曼联球迷兄弟们，埃德森感觉有点要水啊",
+          "title": "官方：赫塔菲250万欧元签下阿根廷中卫扎伊德-罗梅罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "幸亏戈登世界杯前敲定了，现在再下单不得一个亿起谈",
+          "title": "阿斯：世界杯前FIFA内部就担心，特朗普会不合规的介入赛事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为什么哈兰德第一次踢世界杯就大杀四方",
+          "title": "想不到菲利克斯还在国家队打主力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆和姆巴佩怎么共存？",
+          "title": "马丁内斯报效祖国的时候到了 就是你罗伯托",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯是不是射术不太行",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马没买凯恩应该是最大失误",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿利松：我们会继续努力，让巴西队回到它应有的位置",
+          "title": "姆巴佩回应巴拉圭议员：一位无能的女士给她的国家留下了最糟糕的形象",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：这场胜利必将载入队史，这给了我们更多的信念",
+          "title": "瓦茨克：有媒体称德国足协已敲定克洛普，但实际远未到这一步",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：约旦队主教练塞拉米离任；率约旦队首次晋级世界杯",
+          "title": "继梅西之后，C罗是第二位世界杯25次首发的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴拉圭议员：姆巴佩从小嘬椰子长大，听过的最有文化的话是黑猩猩说的",
+          "title": "10胜1平，德拉富恩特上任后西班牙在世界杯和欧洲杯保持不败",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "4球，C罗是攻破西班牙球门次数并列最多的球员",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫雷托：小将卡雷察斯被推荐给米兰；土耳其俱乐部仍有意莱奥",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "若零封葡萄牙，西班牙将成为首支连续6场世界杯不失球的球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "帕雷德斯：身体状态已恢复到100%，无论出场多久都会全力以赴",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "表现不佳，米体：尤文三将世界杯后转会前景更加暗淡",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
