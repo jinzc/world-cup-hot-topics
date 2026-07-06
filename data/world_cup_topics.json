@@ -1,34 +1,16 @@
 {
-  "update_time": "2026-07-06 17:06:32",
+  "update_time": "2026-07-06 21:54:31",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "佛得角邀国足踢友谊赛被婉拒",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E8%B8%A2%E5%8F%8B%E8%B0%8A%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "国际足联震惊整个足球界",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E9%9C%87%E6%83%8A%E6%95%B4%E4%B8%AA%E8%B6%B3%E7%90%83%E7%95%8C",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "内马尔从巴西国家队退役",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "中国男篮vs中国台北男篮",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE",
+          "title": "欧足联声明",
+          "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E8%B6%B3%E8%81%94%E5%A3%B0%E6%98%8E",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -37,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "最后的桑巴舞者内马尔",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E5%90%8E%E7%9A%84%E6%A1%91%E5%B7%B4%E8%88%9E%E8%80%85%E5%86%85%E9%A9%AC%E5%B0%94",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -49,29 +37,29 @@
     "抖音": {
       "topics": [
         {
+          "title": "内马尔退出国家队",
+          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "hot": "918.5万"
+        },
+        {
+          "title": "世界杯8强已定4席",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%B7%B2%E5%AE%9A4%E5%B8%AD",
+          "hot": "801.6万"
+        },
+        {
           "title": "内马尔遭巴西球迷批评",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%81%AD%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%89%B9%E8%AF%84",
-          "hot": "843.9万"
-        },
-        {
-          "title": "世界杯“双牙大战”你更看好谁",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%E2%80%9D%E4%BD%A0%E6%9B%B4%E7%9C%8B%E5%A5%BD%E8%B0%81",
-          "hot": "778.5万"
-        },
-        {
-          "title": "内马尔泪洒赛场",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E6%B3%AA%E6%B4%92%E8%B5%9B%E5%9C%BA",
-          "hot": "777.6万"
+          "hot": "783.1万"
         },
         {
           "title": "致敬内马尔世界杯最后一舞",
           "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-          "hot": "772.5万"
+          "hot": "772.4万"
         },
         {
           "title": "和青春里的内马尔说再见",
           "url": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "771.8万"
+          "hot": "769.6万"
         }
       ],
       "count": 5,
@@ -80,47 +68,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "英格兰5场4胜&amp;凯恩5场4场进球，只对阵加纳平局0进球",
+          "title": "巴拉圭参议员：姆巴佩是殖民的喀麦隆人，暴发户傲慢且丑陋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰晋级世界杯八强后，凯恩夫妇&amp;皮克福德夫妇在看台亲吻",
+          "title": "TA：乔丹-亨德森需要接受手腕手术，缺席余下世界杯比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗：不管对西班牙发生什么我都会很开心，一切顺其自然",
+          "title": "安帅也遭淘汰，世界杯此前22届冠军得主的主帅均来自本国",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赖斯、贝林厄姆跑动11.2km全队最多，凯恩跑动9.6km",
+          "title": "足坛只2位主帅夺欧冠+世界杯，图赫尔今年有机会成第三人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "近2届世界杯至少3球3助的球员：萨卡、梅西、姆巴佩、凯恩等",
+          "title": "不是哥们？训练中罗德里扣完鼻子后，把手指放嘴里嗦了一口",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "幸亏戈登世界杯前敲定了，现在再下单不得一个亿起谈",
+          "title": "世界杯发布葡西战海报：41岁C罗vs18岁亚马尔，跨越时代对决",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "你们去看看回放，埃德森第二个球简直是战犯啊，目送啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "国际足联和欧足联这是在左右互搏吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
           "title": "为什么哈兰德第一次踢世界杯就大杀四方",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "对于姆巴佩，有些人夸也夸不到点，黑也黑不到点",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "有可能是C罗国家队的绝唱，今晚要不要熬夜看西班牙VS葡萄牙",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -131,12 +119,32 @@
     "懂球帝": {
       "topics": [
         {
+          "title": "欧足联官方：巴洛贡禁赛缓期执行超越了红线，我们感觉难以置信",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
           "title": "我们见证了世界杯历史上最丑陋的判决",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：亨德森需接受手腕手术，预计缺席世界杯剩余比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "球报：西葡大战，中锋首发投票拉莫斯领先C罗",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "C罗：更想晚些遇西班牙，但世界杯就是这样",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -187,12 +195,22 @@
           "hot": ""
         },
         {
+          "title": "TA：亨德森需接受手腕手术，预计缺席世界杯剩余比赛",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "欧足联官方：巴洛贡禁赛缓期执行超越了红线，我们感觉难以置信",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "C罗在发布会上点名：把话筒给那记者，我知道他不喜欢我，让他问",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
