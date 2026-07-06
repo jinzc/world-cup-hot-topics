@@ -1,16 +1,34 @@
 {
-  "update_time": "2026-07-06 21:54:31",
+  "update_time": "2026-07-07 00:56:32",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "欧足联声明",
-          "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E8%B6%B3%E8%81%94%E5%A3%B0%E6%98%8E",
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "FIFA称巴洛贡暂缓停赛是参考C罗",
+          "url": "https://s.weibo.com/weibo?q=FIFA%E7%A7%B0%E5%B7%B4%E6%B4%9B%E8%B4%A1%E6%9A%82%E7%BC%93%E5%81%9C%E8%B5%9B%E6%98%AF%E5%8F%82%E8%80%83C%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗预测葡萄牙会获胜",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99%E4%BC%9A%E8%8E%B7%E8%83%9C",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -39,71 +57,51 @@
         {
           "title": "内马尔退出国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "918.5万"
-        },
-        {
-          "title": "世界杯8强已定4席",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%B7%B2%E5%AE%9A4%E5%B8%AD",
-          "hot": "801.6万"
+          "hot": "915.3万"
         },
         {
           "title": "内马尔遭巴西球迷批评",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%81%AD%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%89%B9%E8%AF%84",
-          "hot": "783.1万"
+          "hot": "779.9万"
         },
         {
           "title": "致敬内马尔世界杯最后一舞",
           "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-          "hot": "772.4万"
+          "hot": "775万"
         },
         {
           "title": "和青春里的内马尔说再见",
           "url": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "769.6万"
+          "hot": "766.3万"
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "巴拉圭参议员：姆巴佩是殖民的喀麦隆人，暴发户傲慢且丑陋",
+          "title": "普利西奇：全队都为巴洛贡高兴，坚信美国能夺得世界杯冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：乔丹-亨德森需要接受手腕手术，缺席余下世界杯比赛",
+          "title": "巴西队队史射手榜：内马尔80球居首；贝利和大罗排名二三位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安帅也遭淘汰，世界杯此前22届冠军得主的主帅均来自本国",
+          "title": "维蒂尼亚、罗德里数据对比：罗德里创造机会、对抗等占优",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "足坛只2位主帅夺欧冠+世界杯，图赫尔今年有机会成第三人",
+          "title": "唉曼联球迷兄弟们，埃德森感觉有点要水啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不是哥们？训练中罗德里扣完鼻子后，把手指放嘴里嗦了一口",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯发布葡西战海报：41岁C罗vs18岁亚马尔，跨越时代对决",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "你们去看看回放，埃德森第二个球简直是战犯啊，目送啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "国际足联和欧足联这是在左右互搏吗？",
+          "title": "幸亏戈登世界杯前敲定了，现在再下单不得一个亿起谈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -111,40 +109,40 @@
           "title": "为什么哈兰德第一次踢世界杯就大杀四方",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "贝林厄姆和姆巴佩怎么共存？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 9,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "欧足联官方：巴洛贡禁赛缓期执行超越了红线，我们感觉难以置信",
+          "title": "阿利松：我们会继续努力，让巴西队回到它应有的位置",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "我们见证了世界杯历史上最丑陋的判决",
+          "title": "凯恩：这场胜利必将载入队史，这给了我们更多的信念",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：亨德森需接受手腕手术，预计缺席世界杯剩余比赛",
+          "title": "官方：约旦队主教练塞拉米离任；率约旦队首次晋级世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "球报：西葡大战，中锋首发投票拉莫斯领先C罗",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗：更想晚些遇西班牙，但世界杯就是这样",
+          "title": "巴拉圭议员：姆巴佩从小嘬椰子长大，听过的最有文化的话是黑猩猩说的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
