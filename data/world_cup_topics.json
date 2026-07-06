@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-07 05:42:38",
+  "update_time": "2026-07-07 07:15:02",
   "sources": {
     "微博": {
       "topics": [
@@ -22,32 +22,20 @@
           "label": ""
         },
         {
+          "title": "国际足联主席发表声明",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E",
+          "hot": 0,
+          "label": ""
+        },
+        {
           "title": "再见C罗 我的青春结束了",
           "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81C%E7%BD%97%20%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "FIFA称巴洛贡暂缓停赛是参考C罗",
-          "url": "https://s.weibo.com/weibo?q=FIFA%E7%A7%B0%E5%B7%B4%E6%B4%9B%E8%B4%A1%E6%9A%82%E7%BC%93%E5%81%9C%E8%B5%9B%E6%98%AF%E5%8F%82%E8%80%83C%E7%BD%97",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "菲利克斯换下",
-          "url": "https://s.weibo.com/weibo?q=%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%E6%8D%A2%E4%B8%8B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯 令人心动的offer门将季",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%97%A8%E5%B0%86%E5%AD%A3",
+          "title": "C罗亚马尔拥抱",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%8B%A5%E6%8A%B1",
           "hot": 0,
           "label": ""
         },
@@ -58,25 +46,25 @@
           "label": ""
         },
         {
-          "title": "C罗预测葡萄牙会获胜",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99%E4%BC%9A%E8%8E%B7%E8%83%9C",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗回应什么时候结束职业生涯",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E7%BB%93%E6%9D%9F%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
           "title": "41岁C罗对战18岁天才亚马尔",
           "url": "https://s.weibo.com/weibo?q=41%E5%B2%81C%E7%BD%97%E5%AF%B9%E6%88%9818%E5%B2%81%E5%A4%A9%E6%89%8D%E4%BA%9A%E9%A9%AC%E5%B0%94",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "FIFA称巴洛贡暂缓停赛是参考C罗",
+          "url": "https://s.weibo.com/weibo?q=FIFA%E7%A7%B0%E5%B7%B4%E6%B4%9B%E8%B4%A1%E6%9A%82%E7%BC%93%E5%81%9C%E8%B5%9B%E6%98%AF%E5%8F%82%E8%80%83C%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯 令人心动的offer门将季",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%97%A8%E5%B0%86%E5%AD%A3",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 12,
+      "count": 10,
       "status": "success"
     },
     "百度": {
@@ -87,18 +75,18 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗落幕 青春告别",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
-          "hot": 0
-        },
-        {
           "title": "C罗告别世界杯",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
-          "title": "C罗门前高难度垫射",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E9%97%A8%E5%89%8D%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%9E%AB%E5%B0%84",
+          "title": "甲亢哥看C罗出局爆哭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%9C%8BC%E7%BD%97%E5%87%BA%E5%B1%80%E7%88%86%E5%93%AD",
+          "hot": 0
+        },
+        {
+          "title": "C罗落幕 青春告别",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
           "hot": 0
         },
         {
@@ -120,101 +108,81 @@
         {
           "title": "内马尔退出国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "1135.8万"
+          "hot": "1123.1万"
         },
         {
           "title": "C罗：我已为足球倾尽了一切",
           "url": "https://www.douyin.com/search/C%E7%BD%97%EF%BC%9A%E6%88%91%E5%B7%B2%E4%B8%BA%E8%B6%B3%E7%90%83%E5%80%BE%E5%B0%BD%E4%BA%86%E4%B8%80%E5%88%87",
-          "hot": "800.7万"
-        },
-        {
-          "title": "致敬内马尔世界杯最后一舞",
-          "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-          "hot": "767.6万"
+          "hot": "776.8万"
         },
         {
           "title": "和青春里的内马尔说再见",
           "url": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E6%98%A5%E9%87%8C%E7%9A%84%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "760.9万"
-        },
-        {
-          "title": "内马尔遭巴西球迷批评",
-          "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E9%81%AD%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%89%B9%E8%AF%84",
-          "hot": "718.6万"
+          "hot": "761.9万"
         },
         {
           "title": "全能战士贝林厄姆太夯了",
           "url": "https://www.douyin.com/search/%E5%85%A8%E8%83%BD%E6%88%98%E5%A3%AB%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%A4%AA%E5%A4%AF%E4%BA%86",
-          "hot": "718.3万"
+          "hot": "743.9万"
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "鲁尼：阿根廷球员都为梅西而战，葡萄牙球员对C罗没这氛围",
+          "title": "黄健翔：在世界杯打进巴西两球，哈兰德顶级射手没争议了吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "41岁151天！C罗成世界杯淘汰赛踢满90分钟最年长非门将球员",
+          "title": "甲亢哥看C罗比赛迟到彻底急眼，场外狂奔满寻找入口",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯已有10次补时阶段制胜球，历史最多",
+          "title": "理查兹：宽萨那张红牌有点冤；有谁比贝林厄姆更适合首发？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "7个时间节点回顾C罗世界杯：首球、首帽、六届破门、谢幕战",
+          "title": "近2届世界杯C罗732分钟进2粒非点球，G-拉莫斯187分钟4粒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莱奥比赛第71分钟替补登场，但完成4次过人全场最多",
+          "title": "马克龙：姆巴佩针对种族主义又进了一球，我全力支持他！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费本场数据：2次关键传球，1次射门0射正，19次丢失球权",
+          "title": "六台：巴萨和马竞世界杯之后再谈小蜘蛛，前者或将改变报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：梅里诺在那个时间点替补不容易，他再次成关键先生",
+          "title": "库库谈C罗：能成功限制他因出色的团队防守，他是足球的传奇",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗世界杯上连续7场0尝试过人，连续10场没有成功过人",
+          "title": "意料之外！德布劳内替补待命，终结比利时连续37场首发纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨顿：葡萄牙球员不会说，但心里可能会想是C罗毁了他们",
+          "title": "C罗姐姐发文致敬C罗：抬起头，王冠永远不会落下，你是巨人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "并列历史第一！C罗世界杯8次输球，追平孙兴慜等人尴尬纪录",
+          "title": "摩根社媒晒照致敬C罗，并配GOAT的表情和爱心：🐐❤️",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "百日后再战！美国世界杯第3次遭遇“100天内刚交手过”对手",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这b席真的是......",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "b费被罗哥拖累就算了",
+          "title": "葡萄牙无缘世界杯八强，赛后B费社媒再次被冲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -224,22 +192,37 @@
           "hot": ""
         },
         {
-          "title": "就这场比赛来看，买罗德里没啥毛病",
+          "title": "估计待会的热搜就是C罗哭了，C罗遗憾出局，C罗多次制造犯规，C罗差点破门，西班牙黑哨不公平等哈哈哈哈哈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔纯废物毫无威胁,现在只剩口嗨了",
+          "title": "奥亚萨瓦尔这世界杯看下来踢强度级真不行",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗赶紧退役吧，别耽误葡萄牙黄金一代了",
+          "title": "这个区里面的人太逆天了，才踢了20分钟就开始拷打起佩德里和亚马尔，你们是真牛逼啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]六台：巴萨和马竞世界杯之后再谈小蜘蛛，前者或将改变报价",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "b席到了皇马还能发挥多少余热呢…",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "那些喷C罗的是皇马球迷吗？少装了！快点离开皇马区！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 17,
+      "count": 18,
       "status": "success"
     },
     "懂球帝": {
@@ -250,7 +233,12 @@
           "hot": ""
         },
         {
-          "title": "41岁C罗难抑情绪泪洒赛场，结束个人第六次世界杯征程",
+          "title": "美国vs比利时：巴洛贡停赛延期解禁复出，普利希奇先发，德布劳内替补",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "41岁C罗难抑情绪泪洒赛场，结束个人最后一次世界杯征程",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -265,42 +253,27 @@
           "hot": ""
         },
         {
-          "title": "凯恩：我的声音回来了；这是我在英格兰队最喜欢的比赛之一",
+          "title": "西班牙队史世界杯第11次1-0赢球，仅次于德国和巴西",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：梅里诺的进球是我们全场唯一一次成功在中路连线",
+          "title": "C罗：这是我最后一届世界杯，我尽了最大努力问心无愧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：卡布拉尔对阿根廷的世界波当选世界杯32强战阶段最佳进球",
+          "title": "萨顿：队友心里会想是C罗拖累了球队，马丁内斯仍旧是笑柄",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B席错失机会后与罗德里发生争论，赛后罗德里在采访中向B席致歉",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "27战8负，C罗是世界杯历史输球场次并列最多的球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马尔基尼奥斯：球队确实到了更新换代的时候，希望未来四年能有进步",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙出局，格德斯、伊纳西奥本届世界杯0出场",
+          "title": "C罗本届世界杯平均每90分钟触球28次，为个人单届最低",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
@@ -316,12 +289,22 @@
     "网易": {
       "topics": [
         {
-          "title": "世界杯-西班牙1-0葡萄牙进八强 梅里诺替补绝杀",
+          "title": "西班牙1-0葡萄牙进八强 梅里诺替补绝杀C罗告别",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "遭绝杀出局！葡萄牙众将情绪低落，41岁C罗眼含热泪，告别世界杯",
+          "title": "C罗：我夺得3冠！在我之前葡萄牙0冠 欧洲杯冠军不亚于世界杯冠军",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙出局！名宿开炮：只怪毫无骨气的主教练，他向C罗卑躬屈膝",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "铜墙铁壁，西班牙是世界杯历史首支连续6场不失球的球队",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -331,17 +314,7 @@
           "hot": ""
         },
         {
-          "title": "十人英格兰3-2墨西哥进八强 贝林双响凯恩传射",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "挪威2-1巴西首进八强 哈兰德双响内马尔点射",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯4连斩轰7球！哈兰德炸裂了：双响创6大纪录，官方MVP+9.1分",
+          "title": "两天三大传奇告别世界杯！41岁C罗一语成谶，内马尔奥乔亚爆哭",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -359,14 +332,9 @@
           "title": "欧足联官方：巴洛贡禁赛缓期执行超越了红线，我们感觉难以置信",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "C罗在发布会上点名：把话筒给那记者，我知道他不喜欢我，让他问",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
