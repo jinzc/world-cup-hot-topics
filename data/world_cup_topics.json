@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-08 02:07:39",
+  "update_time": "2026-07-08 04:53:38",
   "sources": {
     "微博": {
       "topics": [
@@ -10,20 +10,14 @@
           "label": ""
         },
         {
-          "title": "恩佐头球破门",
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8",
-          "hot": 0,
-          "label": ""
-        },
-        {
           "title": "罗梅罗头球破门",
           "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%A2%85%E7%BD%97%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "西班牙绝杀后C罗不断比手势",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E4%B8%8D%E6%96%AD%E6%AF%94%E6%89%8B%E5%8A%BF",
+          "title": "恩佐头球破门",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         },
@@ -32,9 +26,21 @@
           "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E9%86%92%E9%86%92",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "世界杯大V说",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7V%E8%AF%B4",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "西班牙绝杀后C罗不断比手势",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BB%9D%E6%9D%80%E5%90%8EC%E7%BD%97%E4%B8%8D%E6%96%AD%E6%AF%94%E6%89%8B%E5%8A%BF",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "百度": {
@@ -45,8 +51,13 @@
     "B站": {
       "topics": [
         {
-          "title": "如何评价C罗职业生涯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF",
+          "title": "C罗6届世界杯进球轨迹",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%976%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E8%BD%A8%E8%BF%B9",
+          "hot": 0
+        },
+        {
+          "title": "恩佐绝杀UP现场热泪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%A9%E4%BD%90%E7%BB%9D%E6%9D%80UP%E7%8E%B0%E5%9C%BA%E7%83%AD%E6%B3%AA",
           "hot": 0
         },
         {
@@ -55,17 +66,27 @@
           "hot": 0
         },
         {
-          "title": "C罗 后会有7",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897",
-          "hot": 0
-        },
-        {
           "title": "勇夺世界杯但是LPL",
           "url": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%86%E6%98%AFLPL",
           "hot": 0
+        },
+        {
+          "title": "41岁C罗告别世界杯",
+          "url": "https://search.bilibili.com/all?keyword=41%E5%B2%81C%E7%BD%97%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "央视评C罗六次征战世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84C%E7%BD%97%E5%85%AD%E6%AC%A1%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "C罗 后会有7",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897",
+          "hot": 0
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "知乎": {
@@ -76,39 +97,34 @@
     "抖音": {
       "topics": [
         {
-          "title": "C罗最后一舞遗憾落幕",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E9%81%97%E6%86%BE%E8%90%BD%E5%B9%95",
-          "hot": "917.9万"
+          "title": "马克龙力挺姆巴佩",
+          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8A%9B%E6%8C%BA%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "hot": "941万"
         },
         {
-          "title": "刘建宏说世界杯硬实力才能走更远",
-          "url": "https://www.douyin.com/search/%E5%88%98%E5%BB%BA%E5%AE%8F%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A1%AC%E5%AE%9E%E5%8A%9B%E6%89%8D%E8%83%BD%E8%B5%B0%E6%9B%B4%E8%BF%9C",
-          "hot": "898.6万"
+          "title": "葡萄牙主教练马丁内斯宣布辞职",
+          "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E6%95%99%E7%BB%83%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+          "hot": "886.7万"
+        },
+        {
+          "title": "C罗最后一舞遗憾落幕",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%E9%81%97%E6%86%BE%E8%90%BD%E5%B9%95",
+          "hot": "872.2万"
         },
         {
           "title": "央视解说哽咽送别C罗",
           "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%93%BD%E5%92%BD%E9%80%81%E5%88%ABC%E7%BD%97",
-          "hot": "896.4万"
+          "hot": "803.9万"
         },
         {
           "title": "姆巴佩遭巴拉圭官员种族歧视",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%98%E5%91%98%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86",
-          "hot": "893.6万"
-        },
-        {
-          "title": "世界杯8强6席已定",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA6%E5%B8%AD%E5%B7%B2%E5%AE%9A",
-          "hot": "851.9万"
-        },
-        {
-          "title": "再见船长 现场感受C罗最后一舞",
-          "url": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E8%88%B9%E9%95%BF+%E7%8E%B0%E5%9C%BA%E6%84%9F%E5%8F%97C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
           "hot": "773.3万"
         },
         {
-          "title": "陪C罗登场也陪他退场",
-          "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E7%99%BB%E5%9C%BA%E4%B9%9F%E9%99%AA%E4%BB%96%E9%80%80%E5%9C%BA",
-          "hot": "766.6万"
+          "title": "用一封信向C罗和青春告别",
+          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E5%B0%81%E4%BF%A1%E5%90%91C%E7%BD%97%E5%92%8C%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
+          "hot": "766.4万"
         },
         {
           "title": "管泽元再现姆巴佩之剑吟唱",
@@ -116,169 +132,104 @@
           "hot": "765.3万"
         },
         {
-          "title": "C罗职业生涯已足够成功吗",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97",
-          "hot": "765万"
+          "title": "刘建宏说世界杯硬实力才能走更远",
+          "url": "https://www.douyin.com/search/%E5%88%98%E5%BB%BA%E5%AE%8F%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A1%AC%E5%AE%9E%E5%8A%9B%E6%89%8D%E8%83%BD%E8%B5%B0%E6%9B%B4%E8%BF%9C",
+          "hot": "763.6万"
         },
         {
-          "title": "用一封信向C罗和青春告别",
-          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E5%B0%81%E4%BF%A1%E5%90%91C%E7%BD%97%E5%92%8C%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
-          "hot": "764万"
+          "title": "C罗职业生涯已足够成功吗",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97",
+          "hot": "763.1万"
+        },
+        {
+          "title": "再见船长 现场感受C罗最后一舞",
+          "url": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E8%88%B9%E9%95%BF+%E7%8E%B0%E5%9C%BA%E6%84%9F%E5%8F%97C%E7%BD%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
+          "hot": "762.5万"
+        },
+        {
+          "title": "陪C罗登场也陪他退场",
+          "url": "https://www.douyin.com/search/%E9%99%AAC%E7%BD%97%E7%99%BB%E5%9C%BA%E4%B9%9F%E9%99%AA%E4%BB%96%E9%80%80%E5%9C%BA",
+          "hot": "747万"
         }
       ],
-      "count": 10,
+      "count": 11,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "39岁13天，梅西是世界杯历史淘汰赛传射的最年长球员",
+          "title": "6次，非洲球队本届世界杯已多次在淘汰赛阶段惨遭绝杀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷换人，梅迪纳、奥塔门迪登场换下罗梅罗、阿尔瓦雷斯",
+          "title": "斯卡洛尼：两球落后时梅西仍在继续坚持，队友也全力支撑他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帮助阿根廷绝杀埃及，恩佐连续2届世界杯的比赛均打进进球",
+          "title": "罗梅罗社媒晒亲梅西照：我生命永远属于阿根廷，永远别怀疑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "吹响阿根廷的反击号角，罗梅罗打入个人世界杯首球",
+          "title": "里瓦尔多：梅西再次成为决定比赛的人，祝贺阿根廷取得晋级",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "21球9助，梅西成为世界杯历史上首位参与30个进球球员",
+          "title": "梅洛：我是C罗球迷，但亲眼看过踢球都球员中梅西是最伟大的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "单届世界杯前五场均收获进球，梅西是历史第六人",
+          "title": "内维尔：利马有一瞬间走神了；恩佐对球队的影响力非常大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "再创纪录，梅西成为历史上首位连续9场世界杯进球的球员",
+          "title": "见证本届世界杯最大的群体破防",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "创造历史，梅西是世界杯历史首位连续六场淘汰赛进球的球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西右路突破下底传中，劳塔罗近距离头球攻门顶偏",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯淘汰赛对南美球队进2球，埃及是第二支做到的非洲球队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯历史仅9队淘汰赛落后2球后逆转，上支是比利时",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷在落后2+球的情况下，之前13场世界杯比赛全部失利",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "还是得支点站在禁区，看罗梅罗的作用",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这是我本届世界杯第一次看阿根廷的比赛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "能不能不要活在梅西的阴影里，认清现实好吗",
+          "title": "最不能理解的一个问题，梅西这样的球技怎么踢的点球质量这么差啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 15,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "单届世界杯进球纪录：梅西8球平大罗、姆巴佩，并列历史第五",
+          "title": "让二追三！阿根廷3-2埃及晋级8强，梅西传射+失点，恩佐补时绝杀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西连续6场世界杯淘汰赛破门，成为历史第一人",
+          "title": "帕雷德斯：能和阿根廷队友并肩作战，对我来说是一种享受",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "能传能射，梅西在世界杯第五次单场既有进球又有助攻",
+          "title": "连续11场世界杯进球2+，阿根廷是历史第二队&amp;72年来首队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "9次超越马拉多纳，梅西是世界杯历史助攻次数最多的球员",
+          "title": "埃及主帅和球员赛后找到梅西理论，易卜拉欣向主裁鼓掌",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "会有奇迹吗？世界杯历史上曾有9支球队在淘汰赛完成2球逆转",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "陷入绝境！阿根廷近13次在世界杯0-2落后的比赛全败",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马官方：强烈谴责巴拉圭参议员对姆巴佩的种族歧视言论",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "伊布：我对C罗满怀敬意，只是岁月不会放过任何人",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷在世界杯总共丢掉105球，超越墨西哥独占历史第三",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西在世界杯每335分钟罚一次点球，罚点频率仅低于葡萄牙一队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "战埃及梅西完成职业生涯150次罚点，罚中116粒命中率77%",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "心事重重，上半场结束时梅西被拍到眼神迷茫+捂住面部",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "这次悬了？阿根廷队在世界杯半场落后的情况下从未赢球",
+          "title": "梅西：我们经历了巨大痛苦，但这就是世界杯，大家势均力敌",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -294,32 +245,22 @@
     "网易": {
       "topics": [
         {
-          "title": "西班牙1-0葡萄牙进八强 梅里诺替补绝杀C罗告别",
+          "title": "让二追三!阿根廷3-2绝境逆转埃及进8强 恩佐绝杀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "C罗在被绝杀后疯狂比手势!疑抱怨队友遭无视 强忍泪水4分钟后泪崩",
+          "title": "史诗级神仙比赛！世界杯超爽剧情：7度翻转 阿根廷0-2后翻盘进8强",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "白岩松：永远不要去埋怨C罗，问题不发生在他的身上",
+          "title": "本届世界杯淘汰赛已出现两次让二追三，背景板都是非洲球队",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "C罗：我夺得3冠！在我之前葡萄牙0冠 欧洲杯冠军不亚于世界杯冠军",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙出局！名宿开炮：只怪毫无骨气的主教练，他向C罗卑躬屈膝",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "铜墙铁壁，西班牙是世界杯历史首支连续6场不失球的球队",
+          "title": "创造奇迹，在罗梅罗进球之前阿根廷晋级概率只剩下0.6%",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -337,14 +278,9 @@
           "title": "疯狂4-1！世界杯见证历史，东道主全部出局，八强已决出六席",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "世界杯对轰战！短短24分钟诞生3球：美国丢2球 主帅怒踹水瓶",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 7,
       "status": "success"
     },
     "腾讯": {
