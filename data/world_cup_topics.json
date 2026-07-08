@@ -1,22 +1,28 @@
 {
-  "update_time": "2026-07-08 18:27:23",
+  "update_time": "2026-07-08 20:46:27",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "莫德里奇点赞达利奇",
-          "url": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%82%B9%E8%B5%9E%E8%BE%BE%E5%88%A9%E5%A5%87",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "世界杯四分之一决赛门票暴跌近60%",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "最新世界杯夺冠概率出炉",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "本届世界杯7队仍不败",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF7%E9%98%9F%E4%BB%8D%E4%B8%8D%E8%B4%A5",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -27,28 +33,28 @@
     "B站": {
       "topics": [
         {
-          "title": "埃及足协向国际足联上诉",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E5%90%91%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%8A%E8%AF%89",
-          "hot": 0
-        },
-        {
-          "title": "詹俊评世界杯目前最佳阵容",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9",
-          "hot": 0
-        },
-        {
           "title": "西卡世界杯八强战预测",
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%8D%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E6%88%98%E9%A2%84%E6%B5%8B",
           "hot": 0
         },
         {
-          "title": "C罗落幕 青春告别",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
+          "title": "世界杯整活冠军是谁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%B4%E6%B4%BB%E5%86%A0%E5%86%9B%E6%98%AF%E8%B0%81",
           "hot": 0
         },
         {
-          "title": "世界杯8强对阵名单出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89",
+          "title": "米饭仙人的酱汁世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E9%A5%AD%E4%BB%99%E4%BA%BA%E7%9A%84%E9%85%B1%E6%B1%81%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "埃及足协向国际足联上诉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E5%90%91%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%8A%E8%AF%89",
+          "hot": 0
+        },
+        {
+          "title": "C罗落幕 青春告别",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
           "hot": 0
         }
       ],
@@ -65,12 +71,12 @@
         {
           "title": "世界杯8强全部出炉",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-          "hot": "902.6万"
+          "hot": "868万"
         },
         {
           "title": "管泽元再现姆巴佩之剑吟唱",
           "url": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E5%86%8D%E7%8E%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B9%8B%E5%89%91%E5%90%9F%E5%94%B1",
-          "hot": "771.4万"
+          "hot": "768.2万"
         }
       ],
       "count": 2,
@@ -79,37 +85,62 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记录报：葡萄牙预期目标进世界杯半决赛，16强奖金仅1400万",
+          "title": "本届世界杯8强中，有4支球队曾夺得过世界杯冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "WS世界杯1/8决赛评分最高阵容：梅西、贝林厄姆、哈兰德在列",
+          "title": "梅西在斯卡洛尼执教下76场比赛，贡献60球24次助攻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亨利致敬C罗：没赢过世界杯不会撼动他的传奇地位",
+          "title": "家庭是亚马尔很重要的一部分，受宠爱的弟弟随他一起爆火",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亨利：梅西丢点提醒我们他是凡人；让2追3又告诉我们他不是",
+          "title": "挪威本届世界杯开赛前FIFA排名第31位，目前实时排名第19位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西：我从不追求纪录，一切都是自然发生",
+          "title": "梅西29次射门17次射正进8球6次创造良机，均本届世界杯最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃及的12号可以摸一下当亚马尔替补啊",
+          "title": "迈克尔-奥利弗执法7场世界杯比赛，英格兰裁判中最多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "c罗球迷主导，英超球迷推波助澜，就是这么个情况",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西客串右边锋才是真王朝了吧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里这么说队友，换你，你能接受吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "法国VS摩纳哥的比赛，你们支持小宝还是姆巴佩+楚阿梅尼+科纳特？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果C罗2018年原地退役，历史地位能不能保5争3？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
@@ -120,32 +151,22 @@
           "hot": ""
         },
         {
-          "title": "霍启刚：赤裸裸的政治干预体育，美政客让世界杯失去尊严",
+          "title": "TA：欧洲足球统治世界杯，八强中有六支欧洲球队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "奇诚庸炮轰韩国足协：孙兴慜紫菜包饭被抢，远征酒店像汽车旅馆",
+          "title": "曼晚评曼联球员世界杯表现：阿马德8分；达洛特和B费发挥一般",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哀悼，尼姆球员泰瓦-罗德里格斯因车祸离世，年仅19岁",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：埃及投诉世界杯裁判，要求莱泰西耶停哨",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗哥还是没等来...Why Messi",
+          "title": "莫雷托：马竞首次评估阿尔瓦雷斯离队，转会费超1亿欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
