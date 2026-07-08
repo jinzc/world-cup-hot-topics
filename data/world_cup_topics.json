@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-08 15:35:48",
+  "update_time": "2026-07-08 18:27:23",
   "sources": {
     "微博": {
       "topics": [
@@ -10,8 +10,8 @@
           "label": ""
         },
         {
-          "title": "霍启刚痛斥美国政客让世界杯失去灵魂",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%97%9B%E6%96%A5%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%AE%A2%E8%AE%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%B1%E5%8E%BB%E7%81%B5%E9%AD%82",
+          "title": "世界杯四分之一决赛门票暴跌近60%",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
           "hot": 0,
           "label": ""
         }
@@ -27,6 +27,21 @@
     "B站": {
       "topics": [
         {
+          "title": "埃及足协向国际足联上诉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E5%90%91%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%8A%E8%AF%89",
+          "hot": 0
+        },
+        {
+          "title": "詹俊评世界杯目前最佳阵容",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9",
+          "hot": 0
+        },
+        {
+          "title": "西卡世界杯八强战预测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%8D%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E6%88%98%E9%A2%84%E6%B5%8B",
+          "hot": 0
+        },
+        {
           "title": "C罗落幕 青春告别",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
           "hot": 0
@@ -35,14 +50,9 @@
           "title": "世界杯8强对阵名单出炉",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89",
           "hot": 0
-        },
-        {
-          "title": "C罗 后会有7",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%20%E5%90%8E%E4%BC%9A%E6%9C%897",
-          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "知乎": {
@@ -55,122 +65,82 @@
         {
           "title": "世界杯8强全部出炉",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-          "hot": "878.1万"
-        },
-        {
-          "title": "当非遗壮球孃孃遇见世界杯",
-          "url": "https://www.douyin.com/search/%E5%BD%93%E9%9D%9E%E9%81%97%E5%A3%AE%E7%90%83%E5%AD%83%E5%AD%83%E9%81%87%E8%A7%81%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "771.5万"
+          "hot": "902.6万"
         },
         {
           "title": "管泽元再现姆巴佩之剑吟唱",
           "url": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E5%86%8D%E7%8E%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B9%8B%E5%89%91%E5%90%9F%E5%94%B1",
-          "hot": "767.9万"
-        },
-        {
-          "title": "C罗职业生涯已足够成功吗",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97",
-          "hot": "766.3万"
+          "hot": "771.4万"
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "梅西赛后主动走向脑瘫记者接受采访，后者向阿根廷发文致谢",
+          "title": "记录报：葡萄牙预期目标进世界杯半决赛，16强奖金仅1400万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎人报：德尚丧母后向姆巴佩倾诉，后者承诺确保一切顺利",
+          "title": "WS世界杯1/8决赛评分最高阵容：梅西、贝林厄姆、哈兰德在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "森保一：未选入远藤航是最艰难决定，会找时间当面向他道歉",
+          "title": "亨利致敬C罗：没赢过世界杯不会撼动他的传奇地位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "乌帕&amp;马特塔：我们会保护队长姆巴佩，种族歧视者要承担后果",
+          "title": "亨利：梅西丢点提醒我们他是凡人；让2追3又告诉我们他不是",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：哈基米向姆巴佩学的法语，比他从巴黎老师那学的还多",
+          "title": "梅西：我从不追求纪录，一切都是自然发生",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "单届世界杯前5场均进球：梅西/瓦刀/盖德/雅伊尔津霍/方丹",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯官方晒梅西姆巴佩哈兰德凯恩海报：金靴争夺仍在继续",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "39岁梅西刷新淘汰赛最年长传射纪录，此前纪录属于4年前的他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西拿世界杯和我魔拿欧冠，你更愿意看到哪种?",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗马诺：尤文想签的中锋都受阻；传签B费更是纯纯空穴来风",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "买劳塔罗不比买阿尔瓦雷斯好多了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿尔瓦雷斯压根不是中锋",
+          "title": "埃及的12号可以摸一下当亚马尔替补啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "让二追三！阿根廷3-2埃及晋级8强，梅西传射+失点，恩佐绝杀",
+          "title": "懂球帝2026世界杯八强海报重磅来袭！",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "森保一：我想找机会向远藤航道歉，这一切都是为了日本国家队",
+          "title": "霍启刚：赤裸裸的政治干预体育，美政客让世界杯失去尊严",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "2026世界杯八强席位尘埃落定你认为哪两支球队能会师决赛？",
+          "title": "奇诚庸炮轰韩国足协：孙兴慜紫菜包饭被抢，远征酒店像汽车旅馆",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "2026世界杯迎来首个休赛日，连解说嘉宾克洛普和穆勒都不知道",
+          "title": "哀悼，尼姆球员泰瓦-罗德里格斯因车祸离世，年仅19岁",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "🔥铁杆世界杯淘汰赛观赛团第四天，铁杆们来到篮球文...",
+          "title": "每体：埃及投诉世界杯裁判，要求莱泰西耶停哨",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：B席世界杯状态低迷，他的鲁莽犯规致球队丢球",
+          "title": "罗哥还是没等来...Why Messi",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
