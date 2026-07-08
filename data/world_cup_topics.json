@@ -1,11 +1,23 @@
 {
-  "update_time": "2026-07-08 08:05:41",
+  "update_time": "2026-07-08 12:20:55",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯冠军直接颁给门将吧",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7",
+          "title": "世界杯快踢成欧洲杯了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BF%AB%E8%B8%A2%E6%88%90%E6%AC%A7%E6%B4%B2%E6%9D%AF%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "本届世界杯首次所有裁判来自同一国家",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "内马尔因巴西出局损失上亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%A0%E5%B7%B4%E8%A5%BF%E5%87%BA%E5%B1%80%E6%8D%9F%E5%A4%B1%E4%B8%8A%E4%BA%BF%E7%BE%8E%E5%85%83",
           "hot": 0,
           "label": ""
         },
@@ -14,15 +26,9 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "世界杯八强六支欧洲队",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E5%85%AD%E6%94%AF%E6%AC%A7%E6%B4%B2%E9%98%9F",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -33,27 +39,17 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗落幕 青春告别",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
-          "hot": 0
-        },
-        {
           "title": "世界杯8强对阵名单出炉",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89",
           "hot": 0
         },
         {
-          "title": "勇夺世界杯但是LPL",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%86%E6%98%AFLPL",
-          "hot": 0
-        },
-        {
-          "title": "C罗6届世界杯进球轨迹",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%976%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E8%BD%A8%E8%BF%B9",
+          "title": "C罗落幕 青春告别",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%90%BD%E5%B9%95%20%E9%9D%92%E6%98%A5%E5%91%8A%E5%88%AB",
           "hot": 0
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -64,88 +60,73 @@
     "抖音": {
       "topics": [
         {
-          "title": "马克龙力挺姆巴佩",
-          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8A%9B%E6%8C%BA%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": "955.5万"
-        },
-        {
           "title": "世界杯8强全部出炉",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-          "hot": "912.4万"
-        },
-        {
-          "title": "葡萄牙主教练马丁内斯宣布辞职",
-          "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E6%95%99%E7%BB%83%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
-          "hot": "804.9万"
-        },
-        {
-          "title": "姆巴佩遭巴拉圭官员种族歧视",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%98%E5%91%98%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86",
-          "hot": "769.4万"
+          "hot": "1219.5万"
         },
         {
           "title": "管泽元再现姆巴佩之剑吟唱",
           "url": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E5%86%8D%E7%8E%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B9%8B%E5%89%91%E5%90%9F%E5%94%B1",
-          "hot": "763.7万"
+          "hot": "766.7万"
         },
         {
           "title": "C罗职业生涯已足够成功吗",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%B7%B2%E8%B6%B3%E5%A4%9F%E6%88%90%E5%8A%9F%E5%90%97",
-          "hot": "763.5万"
-        },
-        {
-          "title": "刘建宏说世界杯硬实力才能走更远",
-          "url": "https://www.douyin.com/search/%E5%88%98%E5%BB%BA%E5%AE%8F%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A1%AC%E5%AE%9E%E5%8A%9B%E6%89%8D%E8%83%BD%E8%B5%B0%E6%9B%B4%E8%BF%9C",
-          "hot": "761.8万"
+          "hot": "763.7万"
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯助攻榜：奥利塞5助领跑，迪亚斯/吉马良斯4助紧随其后",
+          "title": "夏奇拉发文：哥伦比亚在世界杯拼尽全力，这份拼搏令人骄傲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "绝杀后罗梅罗故意经过萨拉赫疯狂庆祝，大马丁赶紧把他推开",
+          "title": "南美球队世界杯最好成绩：巴西10次，阿根廷8次，乌拉圭5次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "最新世界杯射手榜：梅西8球领跑，姆巴佩、哈兰德7球紧追",
+          "title": "梅西罚点球前甲亢哥疯狂做动作，试图分散他的注意力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帕雷德斯：我们也为梅西而战，为了他最后一场比赛永不到来",
+          "title": "有杜撰称菲戈维护C罗等内容，菲戈亲自辟谣称自己未接受采访",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "追平2018年，欧洲球队世界杯历史第14次占据八强中6席以上",
+          "title": "世界杯扳平和领先比分进球榜：梅西14粒第1，姆巴佩9粒第2",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这么多年了，区里面的某些都是什么成分不清楚吗？没事儿，等世界杯过了就安静了，反正这世界杯也不咋好看。",
+          "title": "阿根廷世界杯近20次对阵非欧洲对手取得19胜，只1-2输沙特",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西感觉有点精神不继",
+          "title": "两名球队官员被FIFA处罚，美国足协：与巴洛贡事件无缘",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这届世界杯是给蓝白办的",
+          "title": "克洛普可能将戈麦斯带到德国足协履职；莱比锡将面临大重组",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "别说1.5亿了，阿尔瓦雷斯真的值1亿么？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -156,27 +137,27 @@
           "hot": ""
         },
         {
-          "title": "大马丁社媒发量血压图片： 这就是我们所有人一起经历的一切",
+          "title": "懂球帝7月8日世界杯之星：恩佐-费尔南德斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巧合？近15场世界杯点球大战有13场是后罚一方获胜",
+          "title": "内马尔花1.2亿雷亚尔购买新游艇，有六间套房+直升机坪",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哥伦比亚在3次打进加时赛的世界杯淘汰赛均出局，为并列最多",
+          "title": "铃木彩艳：战巴西前阿利松用意语对我说“你上赛季表现很棒”",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "邪门到家了！哥伦比亚先罚输球，近15场世界杯点球先罚负13场",
+          "title": "纳尼社媒告别C罗：你为葡萄牙付出了多少我再清楚不过",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "雷纳：这段世界杯经历将永远留在我的记忆里；很遗憾球队出局",
+          "title": "森保一：让远藤航世界杯前离队是最艰难的决定，想跟他道歉",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -202,6 +183,11 @@
           "hot": ""
         },
         {
+          "title": "埃及足协向国际足联提出申诉，指责裁判导致其世界杯出局",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "史诗级神仙比赛！世界杯超爽剧情：7度翻转 阿根廷0-2后翻盘进8强",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -212,22 +198,22 @@
           "hot": ""
         },
         {
-          "title": "创造奇迹，在罗梅罗进球之前阿根廷晋级概率只剩下0.6%",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "世界杯8强全出炉：欧洲占6席！阿根廷成南美独苗 1/4决赛对阵确定",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "中国足协回应“佛得角邀国足踢友谊赛被婉拒”：消息不实",
+          "title": "C罗效应！葡萄牙队出局后，世界杯1/4决赛门票价格暴跌60%",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "伊布：我对C罗满怀敬意，只是岁月不会放过任何人",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "腾讯": {
