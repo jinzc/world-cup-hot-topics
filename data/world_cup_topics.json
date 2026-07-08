@@ -1,14 +1,8 @@
 {
-  "update_time": "2026-07-08 20:46:27",
+  "update_time": "2026-07-08 23:28:04",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "世界杯四分之一决赛门票暴跌近60%",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "最新世界杯夺冠概率出炉",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89",
@@ -16,13 +10,25 @@
           "label": ""
         },
         {
-          "title": "本届世界杯7队仍不败",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF7%E9%98%9F%E4%BB%8D%E4%B8%8D%E8%B4%A5",
+          "title": "C罗乘私人飞机离开",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯四分之一决赛门票暴跌近60%",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯八强球员停赛风险",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E7%90%83%E5%91%98%E5%81%9C%E8%B5%9B%E9%A3%8E%E9%99%A9",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -33,18 +39,8 @@
     "B站": {
       "topics": [
         {
-          "title": "西卡世界杯八强战预测",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%8D%A1%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E6%88%98%E9%A2%84%E6%B5%8B",
-          "hot": 0
-        },
-        {
           "title": "世界杯整活冠军是谁",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%95%B4%E6%B4%BB%E5%86%A0%E5%86%9B%E6%98%AF%E8%B0%81",
-          "hot": 0
-        },
-        {
-          "title": "米饭仙人的酱汁世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E9%A5%AD%E4%BB%99%E4%BA%BA%E7%9A%84%E9%85%B1%E6%B1%81%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
@@ -58,7 +54,7 @@
           "hot": 0
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -69,73 +65,68 @@
     "抖音": {
       "topics": [
         {
-          "title": "世界杯8强全部出炉",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-          "hot": "868万"
-        },
-        {
           "title": "管泽元再现姆巴佩之剑吟唱",
           "url": "https://www.douyin.com/search/%E7%AE%A1%E6%B3%BD%E5%85%83%E5%86%8D%E7%8E%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B9%8B%E5%89%91%E5%90%9F%E5%94%B1",
-          "hot": "768.2万"
+          "hot": "769万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "本届世界杯8强中，有4支球队曾夺得过世界杯冠军",
+          "title": "1/8决赛成功传球送入禁区榜单：亚马尔5次居首，恩佐4次第2",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西在斯卡洛尼执教下76场比赛，贡献60球24次助攻",
+          "title": "1/8决赛射正榜：姆巴佩4次居首，哈兰德3次，梅罗同为2次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "家庭是亚马尔很重要的一部分，受宠爱的弟弟随他一起爆火",
+          "title": "1/8决赛成功过人榜：卢克巴基奥与维尼修斯同以8次并列榜首",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "挪威本届世界杯开赛前FIFA排名第31位，目前实时排名第19位",
+          "title": "迪奥曼德社媒：世界杯让我成长，会更努力让科特迪瓦骄傲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西29次射门17次射正进8球6次创造良机，均本届世界杯最多",
+          "title": "梅西职业生涯1161场919球415助，454次全场最佳，48个冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迈克尔-奥利弗执法7场世界杯比赛，英格兰裁判中最多",
+          "title": "1/8决赛创造机会榜：梅西6次居首，杜埃、迪亚斯等8人3次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "c罗球迷主导，英超球迷推波助澜，就是这么个情况",
+          "title": "元素新视频甩锅B费，做了个回应视频",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西客串右边锋才是真王朝了吧",
+          "title": "我在世界杯之前，在萨区法国关于有多少人支持小蜘蛛来巴萨的投票，现在我再发一遍看看",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里这么说队友，换你，你能接受吗？",
+          "title": "看来不去竞争B席确实是正确的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国VS摩纳哥的比赛，你们支持小宝还是姆巴佩+楚阿梅尼+科纳特？",
+          "title": "埃及的12号可以摸一下当亚马尔替补啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果C罗2018年原地退役，历史地位能不能保5争3？",
+          "title": "一个普通球迷对梅西的心路历程",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -151,22 +142,12 @@
           "hot": ""
         },
         {
-          "title": "TA：欧洲足球统治世界杯，八强中有六支欧洲球队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼晚评曼联球员世界杯表现：阿马德8分；达洛特和B费发挥一般",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "莫雷托：马竞首次评估阿尔瓦雷斯离队，转会费超1亿欧",
+          "title": "德尚：楚阿梅尼的情况有所好转；姆巴佩的心理状态很好",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
@@ -207,17 +188,17 @@
           "hot": ""
         },
         {
+          "title": "世界杯出局后心碎！41岁C罗回国无视球迷迎接 直接乘私人专机离开",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：安帅与巴西足协将继续合作，备战下届美洲杯和世界杯",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "霍启刚发文痛斥美国政客“让世界杯失去灵魂”",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "美媒：国际足联对美国队两名工作人员实施处罚，原因未公布",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "C罗效应！葡萄牙队出局后，世界杯1/4决赛门票价格暴跌60%",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
