@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-10 00:06:27",
+  "update_time": "2026-07-10 02:53:49",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,58 +35,78 @@
     "虎扑": {
       "topics": [
         {
-          "title": "库巴西：面对梅西会很困难，但我想体验和他同场竞技的感觉",
+          "title": "姆巴佩世界杯出场达20场，追平洛里并列法国队史最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "挪威本届世界杯53次射门进12球，转化率22.64%八强中最高",
+          "title": "戈登：我想要11号但拉什福德拿了，穿18号也证明我可以弥补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "WS本届世界杯评分前五边后卫：波罗居首，阿什拉夫次席",
+          "title": "罗马诺：维拉告诉尤文，600-700万报价远远不足以签下大马丁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这两年要保持好成绩和竞争力，我觉得贝林厄姆1-2年后会进转会市场，这是真正能改变联赛格局的大鱼",
+          "title": "加维：梦想过在世界杯决赛打进倒钩，希望能够实现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在看欧洲杯含金量真大于世界杯",
+          "title": "世界杯史上1/4决赛参赛次数榜：巴西和德国居首；英格兰第三",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "现在巴萨球迷都这么恨梅西了吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看了个嘲讽c罗的视频，心里挺难受的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "TA：哈兰德借世界杯扩展商业版图，他已成为最炙手可热球星",
+          "title": "法国vs摩洛哥：姆巴佩、登贝莱首发，阿什拉夫、卜拉欣出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皮耶罗：要纪念世界杯夺冠20周年，也要认清意大利目前的问题",
+          "title": "巴拉圭参议院经辩论通过声明，反对女议员针对姆巴佩歧视言论",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯报探访世界杯运营中心：设在迈阿密的科技大脑",
+          "title": "27岁201天，姆巴佩成为世界杯历史出场20次最年轻的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "FIBA世预赛亚洲区最新实力榜：中国男篮下降6位，日本前三",
+          "title": "20场追平洛里，姆巴佩成为世界杯出场并列最多的法国球员",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "加维：我梦想在决赛中倒钩进制胜球，且对手是阿根廷",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "能否淘汰法国？摩洛哥是世界杯胜场最多、进球最多的非洲球队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
