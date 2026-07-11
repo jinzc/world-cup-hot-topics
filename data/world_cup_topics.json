@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-11 21:48:21",
+  "update_time": "2026-07-11 23:02:50",
   "sources": {
     "微博": {
       "topics": [
@@ -39,7 +39,7 @@
         {
           "title": "英格兰vs挪威只有凯恩一个外人",
           "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E6%8C%AA%E5%A8%81%E5%8F%AA%E6%9C%89%E5%87%AF%E6%81%A9%E4%B8%80%E4%B8%AA%E5%A4%96%E4%BA%BA",
-          "hot": "768.9万"
+          "hot": "769.9万"
         }
       ],
       "count": 1,
@@ -48,78 +48,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "挪威英格兰本届世界杯评分最高阵容：哈兰德、凯恩搭档锋线",
+          "title": "邮报独家：梅西低调+妻子负责很多社交安排；可能定居迈阿密",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "自2022/23赛季始总射手榜：凯恩213球居首，哈兰德204球第二",
+          "title": "本以为世界杯走不远，挪威队主厨先回国结婚后火速归队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷官方发布1/4决赛对阵瑞士海报，梅西、恩佐领衔出镜",
+          "title": "瑞士主帅：我们必须压缩场上的空间，减少梅西的施展余地",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "瓜帅时代曼城十大引援：哈兰德领衔，B席、沃克、罗德里在列",
+          "title": "阿根廷在本届世界杯需要匹配到哪一个现役球星，就可以最大程度增加卫冕可能",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "墨菲：萨拉赫并不热衷于防守，贝林厄姆则攻守兼备无可挑剔",
+          "title": "问一下，姆巴佩世界杯这样，皇马是否应该为他改变？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "7号说签桑托斯，埃德森退货，还扣我分",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "前几天一堆人喷我为什么要退货埃德森哈哈哈",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "科内替埃德森吗？科内怎么可能才5000w英镑，想屁吃。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "突发消息：皇马已安排与维尼修斯召开专项会议，如今各方完全看好小熊完成续约。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看看凯恩、贝林、赖斯的身材秀，再看看我们国足，哎",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "22年世界杯决赛姆巴佩一直被蓝白大马丁挑衅侮辱！很多人应该忘了",
+          "title": "为什么姆巴佩在国家队如鱼得水，而在俱乐部则寸步难行？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "费耶诺德官方：博斯世界杯膝伤已接受手术，将缺阵数月",
+          "title": "科贝总监：佩德里今天毫无作为，半决赛对阵法国他将无缘首发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "芝加哥旧将：这是美国最危险城市之一，但莱万不用担心",
+          "title": "Opta：世界杯射门转化率最高的三名球员，哈兰德39%居首",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：德国足协已与克洛普达成原则性协议，下周与红牛谈判",
+          "title": "杰登-亚当斯离世前最后一次世界杯采访：战平捷克非常积极",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
@@ -165,7 +140,17 @@
           "hot": ""
         },
         {
+          "title": "世界杯突发悲剧！25岁南非国脚上吊自杀",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "葡萄牙官宣71岁新帅上任！签约4年薪水400万欧 曾与C罗在沙特共事",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "官方：德国足协已与克洛普达成原则性协议，下周与红牛谈判",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -178,14 +163,9 @@
           "title": "队报：FIFA出售世界杯决赛草皮碎片，8104份总价1120万美元",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "瑞士媒体：阿根廷没想象的那么强，中后场缺少硬度锋线太依赖梅西",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
