@@ -1,14 +1,8 @@
 {
-  "update_time": "2026-07-12 01:06:11",
+  "update_time": "2026-07-12 03:16:16",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "哈兰德贝林厄姆这羁绊太深了",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%BF%99%E7%BE%81%E7%BB%8A%E5%A4%AA%E6%B7%B1%E4%BA%86",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "南非25岁世界杯参赛球员去世",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E25%E5%B2%81%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%82%E8%B5%9B%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
@@ -22,7 +16,7 @@
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -31,9 +25,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "德布劳内告别世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -48,42 +48,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "回归家庭！乔治娜Ins晒与C罗一起度假的合影：Papis",
+          "title": "塔皮亚晒与梅西、德保罗合影：一如既往，我们并肩作战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA为30年世界杯包庇南美足联/阿足协，完全不管其洗钱行为",
+          "title": "佛得角足协主席：世界杯赚数百万也花数百万；想稳定踢大赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯射门转化率榜：哈兰德39%居首，贝林凯恩分列二三",
+          "title": "Opta：世界杯点球大战后罚全胜，但长期来看先后顺序不重要",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "4600万人观看美国vs比利时，刷新美国足球赛事电视观众记录",
+          "title": "罗马诺：埃德森很失望曼联不要他了，他确实有效力曼联梦想",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "邮报独家：梅西低调+妻子负责很多社交安排；可能定居迈阿密",
+          "title": "年轻门将就怕这种大失误，还在世界杯赛场上，应该不会影响心态了吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本以为世界杯走不远，挪威队主厨先回国结婚后火速归队",
+          "title": "梅努的第一场世界杯应该要来了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯的逼抢问题",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯，会走还是留呢？",
+          "title": "关于佩德里的球商与状态，应该是信心问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -93,38 +88,43 @@
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "RMC：亚马尔3岁弟弟成西班牙幸运符",
+          "title": "每体：德拉富恩特纠结佩德里、法比安-鲁伊斯首发之争",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：梅里诺绝杀助西班牙晋级世界杯半决赛，家人泪崩",
+          "title": "加图索：带着无缘世界杯的伤口继续前行",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "战绩不佳，英格兰队近6次世界杯淘汰赛对欧洲球队输5场",
+          "title": "因凡蒂诺：扩军64队仍在讨论，每个国家都应该梦想参加世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "米体：那不勒斯将决定卢卡库和德布劳内的去留",
+          "title": "赛前传统，阿根廷足协主席晒与梅西、德保罗合照",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "邮报：梅西场外十分低调，正考虑在迈阿密定居",
+          "title": "卡西利亚斯忆国家队生涯：02年世界杯存在针对欧洲球队的阴谋",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：费兰未来要到世界杯后才会揭晓，他只是巴黎候选之一",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
