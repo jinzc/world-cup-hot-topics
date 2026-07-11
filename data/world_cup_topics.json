@@ -1,16 +1,22 @@
 {
-  "update_time": "2026-07-11 19:58:20",
+  "update_time": "2026-07-11 21:48:21",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "凯恩希望哈兰德别进球",
-          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E5%B8%8C%E6%9C%9B%E5%93%88%E5%85%B0%E5%BE%B7%E5%88%AB%E8%BF%9B%E7%90%83",
+          "title": "南非25岁世界杯参赛球员去世",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E25%E5%B2%81%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%82%E8%B5%9B%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "南非国脚世界杯后自杀身亡",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E5%9B%BD%E8%84%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -19,15 +25,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "德布劳内告别世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -39,7 +39,7 @@
         {
           "title": "英格兰vs挪威只有凯恩一个外人",
           "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E6%8C%AA%E5%A8%81%E5%8F%AA%E6%9C%89%E5%87%AF%E6%81%A9%E4%B8%80%E4%B8%AA%E5%A4%96%E4%BA%BA",
-          "hot": "766.6万"
+          "hot": "768.9万"
         }
       ],
       "count": 1,
@@ -48,62 +48,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "姆巴佩：如果这届世界杯能夺冠，我们就是史上最强法国队",
+          "title": "挪威英格兰本届世界杯评分最高阵容：哈兰德、凯恩搭档锋线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：皇马与维尼修斯7月底将敲定续约，双方都同意必须留下",
+          "title": "自2022/23赛季始总射手榜：凯恩213球居首，哈兰德204球第二",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯官方发布挪英战海报：哈兰德凯恩、厄德高贝林出镜",
+          "title": "阿根廷官方发布1/4决赛对阵瑞士海报，梅西、恩佐领衔出镜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩将追平鲁尼，成为英格兰队史出场次数第二多球员",
+          "title": "瓜帅时代曼城十大引援：哈兰德领衔，B席、沃克、罗德里在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔本届世界杯23射1球转化率4.4%，104次丢失球权最多",
+          "title": "墨菲：萨拉赫并不热衷于防守，贝林厄姆则攻守兼备无可挑剔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世体：巴黎签约费兰的谈判已进深入阶段，准备世界杯后签他",
+          "title": "7号说签桑托斯，埃德森退货，还扣我分",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃德森这种情况，不整个危机公关？",
+          "title": "前几天一堆人喷我为什么要退货埃德森哈哈哈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃德森好像是退货了，我也放下心，目前剩余两中场。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这个世界杯，我抬是真受害者之一，太伤了。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里就四个字-魂不守舍",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "人也清了，钱也有了，买凯恩啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇家马德里正考虑出售维尼修斯",
+          "title": "科内替埃德森吗？科内怎么可能才5000w英镑，想屁吃。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -111,25 +91,40 @@
           "title": "突发消息：皇马已安排与维尼修斯召开专项会议，如今各方完全看好小熊完成续约。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "看看凯恩、贝林、赖斯的身材秀，再看看我们国足，哎",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "22年世界杯决赛姆巴佩一直被蓝白大马丁挑衅侮辱！很多人应该忘了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 13,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯海报：地表最强中锋对决",
+          "title": "费耶诺德官方：博斯世界杯膝伤已接受手术，将缺阵数月",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "考西奥：本届世界杯不是为了竞技为生，更像一届广告世界杯",
+          "title": "芝加哥旧将：这是美国最危险城市之一，但莱万不用担心",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "官方：德国足协已与克洛普达成原则性协议，下周与红牛谈判",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
