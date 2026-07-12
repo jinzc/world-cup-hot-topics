@@ -1,28 +1,34 @@
 {
-  "update_time": "2026-07-12 12:30:15",
+  "update_time": "2026-07-12 15:32:13",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯四强",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
+          "title": "世界排名前4球队均晋级世界杯4强",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%8D4%E7%90%83%E9%98%9F%E5%9D%87%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "阿尔瓦雷斯世界波",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E4%B8%96%E7%95%8C%E6%B3%A2",
+          "title": "阿根廷从未止步世界杯半决赛",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BB%8E%E6%9C%AA%E6%AD%A2%E6%AD%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "增距镜的风从演唱会刮到美加墨",
-          "url": "https://s.weibo.com/weibo?q=%E5%A2%9E%E8%B7%9D%E9%95%9C%E7%9A%84%E9%A3%8E%E4%BB%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%AE%E5%88%B0%E7%BE%8E%E5%8A%A0%E5%A2%A8",
+          "title": "哈兰德足足夸了贝林厄姆一分钟",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%B6%B3%E8%B6%B3%E5%A4%B8%E4%BA%86%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%80%E5%88%86%E9%92%9F",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗走了但又好像没走",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%B5%B0%E4%BA%86%E4%BD%86%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E8%B5%B0",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -49,9 +55,9 @@
     "抖音": {
       "topics": [
         {
-          "title": "哈兰德贝林厄姆对手亦是知己",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%AF%B9%E6%89%8B%E4%BA%A6%E6%98%AF%E7%9F%A5%E5%B7%B1",
-          "hot": "763.6万"
+          "title": "世界前四齐聚世界杯四强",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
+          "hot": "869.6万"
         }
       ],
       "count": 1,
@@ -60,113 +66,113 @@
     "虎扑": {
       "topics": [
         {
-          "title": "梅西本届赛事首次未能取得进球，但助攻麦卡利斯特率先破门",
+          "title": "帕雷德斯：更近了一步，我们比以往任何时候都更加团结",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西队出局仅6天后，内马尔就被拍到在拉斯维加斯打牌",
+          "title": "18年不敌法国出局后，梅西被认为参加完了最后一场世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷本届世界杯有8位进球者，所有球队最多",
+          "title": "大场面先生！贝林世界杯11场7球2助，每3.1次射门打进1球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯半决赛次数榜：德国12次第1，巴西法国8次，阿根廷6次",
+          "title": "内马尔给文身球迷评论：很抱歉，没能按所希望的赢得世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷本届最佳球员：梅西4次，小蜘蛛1次，洛塞尔索1次",
+          "title": "阿尔马达：我们习惯阿尔瓦雷斯在那个位置，他总能打入死角",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "金靴奖赔率：姆巴佩2.0，梅西2.37，凯恩11.0，贝林12.0",
+          "title": "迈阿密国际官方晒照：恭喜梅西和德保罗晋级世界杯半决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "高下限，阿根廷最近4届世界杯中有3届打进了四强",
+          "title": "听妈妈的话！贝林厄姆：这一周我妈都在叮嘱我不要拿黄牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "同样是远射扑球，昨天拉门斯铺天盖地的被喷，今天都是夸贝林厄姆机敏！",
+          "title": "本届4球！阿根廷队世界杯加时赛打进9球，超意大利排第1",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "球迷的角度来看，这届世界杯太不精彩",
+          "title": "阿根廷队世界杯射手榜：阿尔瓦雷斯5球追平伊瓜因排名第六",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "22年世界杯决赛姆巴佩一直被蓝白大马丁挑衅侮辱！很多人应该忘了",
+          "title": "帕雷德斯：瑞士10人应战反而对我们更困难，低位防守难渗透",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "相信凯恩和贝林会操办好梅老板的退役之战",
+          "title": "超越迪玛利亚，劳塔罗打进阿根廷队世界杯最晚进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者谈恩博洛假摔：凯恩亚马尔梅西姆巴佩不会因同样动作被罚下",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "帕尔默在Instagram上发文支持裘德·贝林厄姆，庆祝他为英格兰队进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "英阿大战，会不会是贝林厄姆封王之路的起点？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "实况足球丨英格兰加时2-1逆转挪威晋级4强，贝林厄姆梅开二度",
+          "title": "世界杯足球收集者，阿根廷足协主席再次带走世界杯比赛用球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内维尔：贝林厄姆和图赫尔的赛后争论对英格兰队非常好",
+          "title": "阿斯：自迪马利亚退出国家队后，阿根廷左路至今没有接班人选",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "这一关过不去，瑞士四次参加世界杯1/4决赛全部被淘汰",
+          "title": "内马尔：我唯一能做的就是道歉，因为我没能提供帮助",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：我为这个团队骄傲，为这整支永远拼搏的球队感到骄傲",
+          "title": "梅西多年前曾晒海报，正是马拉多纳在1986年英阿大战中的照片",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯射手榜：姆巴佩梅西8球，贝林、凯恩6球，登贝莱5球",
+          "title": "阿斯：莫德里奇倾向留在米兰，主教练阿莫林正等待其决定",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "一名球迷对着阿根廷球迷举C罗球衣，安保人员介入平息局势",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "帕雷德斯：我在最后几次拼抢中抽筋了，但没什么大碍",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "懂球帝美加墨世界杯7月12日红黑榜",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "胜率高，阿根廷在世界杯13次加时赛有11次最终取胜",
+          "title": "懂球帝7月12日世界杯之星：贝林厄姆",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -192,12 +198,12 @@
           "hot": ""
         },
         {
-          "title": "众生相！阿根廷绝杀瑞士：梅西乐开了花 劳塔罗淡定 扎卡一脸绝望",
+          "title": "世界杯夺冠概率更新：法国继续领跑，西英阿分列二三四名",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯-西班牙2-1比利时将战法国 梅里诺连场绝杀",
+          "title": "众生相！阿根廷绝杀瑞士：梅西乐开了花 劳塔罗淡定 扎卡一脸绝望",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -208,6 +214,11 @@
         },
         {
           "title": "世界杯突发悲剧！25岁南非国脚上吊自杀",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯射手榜：姆巴佩梅西8球，贝林、凯恩6球，登贝莱5球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -223,11 +234,6 @@
         },
         {
           "title": "连场梅开二度，贝林厄姆当选挪威vs英格兰全场最佳",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "门将离谱失误！23岁贝林厄姆补射破门：连场双响 6场轰6球 不可阻挡",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
