@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-12 21:44:45",
+  "update_time": "2026-07-12 23:05:06",
   "sources": {
     "微博": {
       "topics": [
@@ -8,9 +8,15 @@
           "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "鹿晗意外英格兰还留在世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%84%8F%E5%A4%96%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%BF%98%E7%95%99%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -39,77 +45,67 @@
         {
           "title": "世界前四齐聚世界杯四强",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": "783.4万"
-        },
-        {
-          "title": "阿尔瓦雷斯天外飞仙世界波给到夯",
-          "url": "https://www.douyin.com/search/%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E5%A4%A9%E5%A4%96%E9%A3%9E%E4%BB%99%E4%B8%96%E7%95%8C%E6%B3%A2%E7%BB%99%E5%88%B0%E5%A4%AF",
-          "hot": "766.8万"
+          "hot": "853.3万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "勒伯夫：图赫尔想说啥是他的自由，贝林厄姆不应反驳教练",
+          "title": "贝克汉姆Ins：英格兰队挺进世界杯半决赛，我深感自豪",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：全场最佳是安德森，但若贝林厄姆当选也实至名归",
+          "title": "Opta：小蜘蛛在世界杯打进5球，其中4球出现在淘汰赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联官方晒出2张利马和梅西的合照：VAMOS加油🇦🇷🔥",
+          "title": "世界杯1/4决赛过人榜：多库、欧纳希、梅西5次并列居首",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西：阿根廷需要劳塔罗和小蜘蛛的进球，我只差踢英格兰了",
+          "title": "[流言板]B费Ins晒卢克-肖童年照为其31岁庆生：生日快乐，我的男孩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]皮尔斯：不理解拉什福德连续2场没上，他是球队反击突破关键",
+          "title": "阿尔瓦雷斯踢的差是因为这届阿根廷没有边锋给他拉空间，边锋是真的过于拉胯，阿根廷一场都创造不出来几次射门机会，全是落位进攻，一进球就想猥琐防守，守又守不住",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯本届世界杯进过几次禁区？",
+          "title": "不吐不快，为什么葡萄牙不管赢还是输，全在嘲讽c罗，到底是哪个群体",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "蓝白过去13场世界杯比赛详情",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "埃及助教：我只会称呼梅西为10号，以免队员被吓到",
+          "title": "记者：皇马盼续约维尼修斯，但不接受2000万欧年薪要价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/4决赛成功过人次数榜：梅西、多库、欧纳希5次并列第一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "Goal：曼联引援趋于谨慎，曾错过哈里-凯恩和赖斯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿坎吉社媒晒防梅西照片：以这样的方式结束世界杯之旅很遗憾",
+          "title": "皮尔斯：拉什福德连续两场未登场，图赫尔训练发现何因？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
@@ -145,11 +141,6 @@
           "hot": ""
         },
         {
-          "title": "众生相！阿根廷绝杀瑞士：梅西乐开了花 劳塔罗淡定 扎卡一脸绝望",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
           "title": "英格兰加时2-1挪威晋级四强 贝林厄姆连场双响",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
@@ -175,7 +166,7 @@
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "腾讯": {
