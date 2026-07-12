@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-07-13 01:08:51",
+  "update_time": "2026-07-13 03:16:14",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "樊振东将解说世界杯决赛",
-          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "title": "世界杯史上最强半决赛",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯史上最强半决赛",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "title": "樊振东将解说世界杯决赛",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         }
@@ -45,7 +45,7 @@
         {
           "title": "世界前四齐聚世界杯四强",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": "878.5万"
+          "hot": "908.8万"
         }
       ],
       "count": 1,
@@ -54,93 +54,88 @@
     "虎扑": {
       "topics": [
         {
-          "title": "科纳特：皇马是最伟大球队；亚马尔言论？法国会谦逊+不惧怕",
+          "title": "BBC英格兰vs挪威球员评分：贝林厄姆全场最高，凯恩仅得6分",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯仅3人至少两场创造5+机会：梅西、萨拉赫、J罗",
+          "title": "凯恩：图赫尔希望激发球队的最佳状态，英格兰还能做得更好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本届世界杯尚未收获助攻的攻击手里，马杜埃凯创造机会最多",
+          "title": "FIFA实力榜：姆巴佩进攻维度第1，奥利塞创造力维度居首",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "WS世界杯球员场均评分：梅西9.15分居首，姆巴佩、哈兰德前3",
+          "title": "罗马诺：转会曼联交易告吹，亚特兰大将与埃德森谈续约",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿利松ins：原本希望以冠军身份发文，但未能如愿实现此目标",
+          "title": "罗马诺：巴黎接触费兰经纪人，世界杯后决定&amp;未排除续约可能",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/4决赛扑救榜：布努居首，尼兰、大马丁、科贝尔前五",
+          "title": "罗德里：法国攻守兼备，但我们已经证明自己有能力击败他们",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/4决赛赢得对抗：多库居首，奥利塞、梅西、利马前四",
+          "title": "以前我看一个博主做视频说佩德里有时传球不合理，不到位。你们还嘲讽我。现在知道了吧。佩德里还没有到完美的程度。当然佩德里有许多精彩的表现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费Ins晒卢克-肖童年照为其31岁庆生：生日快乐，我的男孩",
+          "title": "7月13日今日寿星，西班牙球星，拉明·亚马尔19岁生日",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯踢的差是因为这届阿根廷没有边锋给他拉空间，边锋是真的过于拉胯，阿根廷一场都创造不出来几次射门机会，全是落位进攻，一进球就想猥琐防守，守又守不住",
+          "title": "[流言板]卡拉格：贝林厄姆很像杰拉德，但他比后者在更衣室更霸气",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "让我们祝亚马尔19岁生日快乐",
+          "title": "最新消息：詹尼·因凡蒂诺计划推动2030年世界杯扩军至64支球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哔站真的疯魔了，瑞士那个七号跳水视频下面全是说他是c罗粉丝的？怎么坏的就轮到c罗了？姆巴佩踢的这么好，怎么不说他是罗粉丝？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西对裁判非常不满！换作其他任何球员，这一下都该吃到黄牌了，不过多说无益。",
+          "title": "说实话，C罗以后的历史地位会不会像斯蒂法诺那样，逐步下滑。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "亚马尔放狠话，科纳特和拉克鲁瓦冷静回应",
+          "title": "致敬三狮传奇，凯恩向贝克汉姆赠送英格兰传奇纪念帽",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "帕雷德斯：半决赛肯定很难，我们清楚英格兰对我们国家的意义",
+          "title": "梅开二度，贝林厄姆当选与挪威一役英格兰队内最佳球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德保罗：作为集体给国家带来许多欢乐，这就是我们踢球的意义",
+          "title": "罗德里：亚马尔理解比赛还有进步空间，但考虑到年龄这很正常",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西：第一次对阵英格兰，这将是一场特别的比赛",
+          "title": "马卡：皇马对维尼修斯的未来保持平静，他们有信心完成续约",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "17次，奥利塞是本届世界杯没进球的球员中射门次数最多的",
+          "title": "科纳特：不会专门只针对亚马尔，我们没必要怕谁重要的是谦逊",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
