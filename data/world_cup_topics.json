@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-12 23:05:06",
+  "update_time": "2026-07-13 01:08:51",
   "sources": {
     "微博": {
       "topics": [
@@ -10,8 +10,8 @@
           "label": ""
         },
         {
-          "title": "鹿晗意外英格兰还留在世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%84%8F%E5%A4%96%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%BF%98%E7%95%99%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "世界杯史上最强半决赛",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         }
@@ -45,7 +45,7 @@
         {
           "title": "世界前四齐聚世界杯四强",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": "853.3万"
+          "hot": "878.5万"
         }
       ],
       "count": 1,
@@ -54,22 +54,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "贝克汉姆Ins：英格兰队挺进世界杯半决赛，我深感自豪",
+          "title": "科纳特：皇马是最伟大球队；亚马尔言论？法国会谦逊+不惧怕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Opta：小蜘蛛在世界杯打进5球，其中4球出现在淘汰赛",
+          "title": "本届世界杯仅3人至少两场创造5+机会：梅西、萨拉赫、J罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯1/4决赛过人榜：多库、欧纳希、梅西5次并列居首",
+          "title": "本届世界杯尚未收获助攻的攻击手里，马杜埃凯创造机会最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]B费Ins晒卢克-肖童年照为其31岁庆生：生日快乐，我的男孩",
+          "title": "WS世界杯球员场均评分：梅西9.15分居首，姆巴佩、哈兰德前3",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿利松ins：原本希望以冠军身份发文，但未能如愿实现此目标",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯1/4决赛扑救榜：布努居首，尼兰、大马丁、科贝尔前五",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯1/4决赛赢得对抗：多库居首，奥利塞、梅西、利马前四",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B费Ins晒卢克-肖童年照为其31岁庆生：生日快乐，我的男孩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -79,33 +99,53 @@
           "hot": ""
         },
         {
-          "title": "不吐不快，为什么葡萄牙不管赢还是输，全在嘲讽c罗，到底是哪个群体",
+          "title": "让我们祝亚马尔19岁生日快乐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "蓝白过去13场世界杯比赛详情",
+          "title": "哔站真的疯魔了，瑞士那个七号跳水视频下面全是说他是c罗粉丝的？怎么坏的就轮到c罗了？姆巴佩踢的这么好，怎么不说他是罗粉丝？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西对裁判非常不满！换作其他任何球员，这一下都该吃到黄牌了，不过多说无益。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：皇马盼续约维尼修斯，但不接受2000万欧年薪要价",
+          "title": "亚马尔放狠话，科纳特和拉克鲁瓦冷静回应",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皮尔斯：拉什福德连续两场未登场，图赫尔训练发现何因？",
+          "title": "帕雷德斯：半决赛肯定很难，我们清楚英格兰对我们国家的意义",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德保罗：作为集体给国家带来许多欢乐，这就是我们踢球的意义",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西：第一次对阵英格兰，这将是一场特别的比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "17次，奥利塞是本届世界杯没进球的球员中射门次数最多的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
