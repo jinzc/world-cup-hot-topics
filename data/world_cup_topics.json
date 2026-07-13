@@ -1,29 +1,10 @@
 {
-  "update_time": "2026-07-13 12:35:45",
+  "update_time": "2026-07-13 16:22:28",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "世界杯四强夺冠概率排名",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%8E%92%E5%90%8D",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "王濛预测世界杯冠亚军",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E4%BA%9A%E5%86%9B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "中国裁判无缘世界杯剩余比赛",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 3,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -33,22 +14,17 @@
     "B站": {
       "topics": [
         {
-          "title": "下届世界杯或扩军至64队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%88%96%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F",
+          "title": "马宁世界杯归来首次发声",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BD%92%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0",
           "hot": 0
         },
         {
-          "title": "退钱组合世界杯再合体",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E7%BB%84%E5%90%88%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%90%88%E4%BD%93",
-          "hot": 0
-        },
-        {
-          "title": "老外靠世界杯种草中国饮料",
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%A4%96%E9%9D%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A7%8D%E8%8D%89%E4%B8%AD%E5%9B%BD%E9%A5%AE%E6%96%99",
+          "title": "UP主自制世界杯决赛夺冠",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0",
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -57,85 +33,111 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "哈兰德用66张照片告别世界杯",
+          "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E7%94%A866%E5%BC%A0%E7%85%A7%E7%89%87%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "830.1万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "费迪南德：贝林厄姆是1966年来英格兰大赛上最出色球员",
+          "title": "梅西姆巴佩本届8粒进球和葡萄牙等队相同，48队只少于15队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃托奥：世界杯前有媒体疯狂攻击姆巴佩，这助长了后来歧视",
+          "title": "队报：法国只有姆巴佩外出需严密安保；住的四季酒店成景点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：法国世界杯借鉴巴黎战术，丢球后几秒内必须抢回球权",
+          "title": "网友用AI做了个内马尔说服自己参加2030世界杯的短片",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃托奥：姆巴佩才27岁已经影响好几代人，他的自信不是傲慢",
+          "title": "摩根：比起英格兰阻止梅西，阿根廷如何阻止贝林更值得关注",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：踢西班牙奥利塞-姆巴佩连线重要；要小心对手越位陷阱",
+          "title": "加维Ins晒与库库雷利亚的合影：他们赢不了我们！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "瑞阿赛后大马丁问曼赞比要来维拉了吗，得到后者肯定的答复",
+          "title": "本届世界杯进球最多的俱乐部：皇马19球居首，迈阿密国际第5",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "生日派对坐腿上同游游艇，维尼修斯再传与弗吉尼娅复合",
+          "title": "半决赛对阵英格兰！梅西Ins晒自己训练时坐在皮球上的照片",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯官方晒世界杯历史射手榜：梅西、姆巴佩、凯恩在列",
+          "title": "马丁：我们虽然都知道梅西是怎样的球员，但他仍能制造惊喜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯本届世界杯进过几次禁区？",
+          "title": "让C罗和姆巴佩都眼馋，阿根廷是头球队+弧顶射门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在看欧洲杯含金量真大于世界杯",
+          "title": "库巴西：登贝莱能从任何方向突破，我不惧怕姆巴佩",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "十年前萨区就有人说小白 xjb 带，今天又来人说佩德里菜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "费迪南德：如果我是阿森纳，就全力签下拉什福德",
+          "title": "阿斯：B席的皇马前景不明朗，世界杯的表现让他的主力位置存疑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "挪媒：挪威世界杯遭淘汰后，奥斯陆当地有45人被送去急诊",
+          "title": "英阿世界杯半决赛前，阿根廷外交部长发文重申对马岛主权",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：那个让图赫尔别带贝林去世界杯的记者，我等他道歉",
+          "title": "斯基拉：威尼斯计划本周与富安健洋展开会面，力争敲定转会",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跳舞赢了？哈兰德与朋友在夜店蹦迪，被调侃舞姿胜过凯恩",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "图片报：贝林厄姆比赛中多次捂住左肩，潜在伤情引人担忧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "埃里克-加西亚：不希望费兰离队，法国威胁不止姆巴佩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
@@ -151,22 +153,42 @@
     "网易": {
       "topics": [
         {
-          "title": "世界杯-阿根廷3-1瑞士进4强 小蜘蛛劳塔罗加时破门",
+          "title": "埃托奥：姆巴佩该获公平评价，法国人该意识到他们有多幸运",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "三英战吕布！FIFA前4名包揽世界杯4强：西班牙VS法国 英格兰VS阿根廷",
+          "title": "刘建宏：阿根廷很危险！中场球员状态不如英格兰 恐无缘世界杯决赛",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "中国足协：傅明执法7场世界杯，中国裁判首进淘汰赛",
+          "title": "拉克鲁瓦回应亚马尔言论：我们尊重他们，我们的目标是赢球",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯夺冠概率更新：法国继续领跑，西英阿分列二三四名",
+          "title": "德拉富恩特：佩德里不能像在巴萨那样在西班牙队踢球",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "新华社：中国裁判员结束美加墨世界杯执裁任务",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "47岁马宁无缘主哨世界杯淘汰赛！落选FIFA剩余裁判名单 本届2破纪录",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "挪媒：挪威世界杯遭淘汰后，奥斯陆当地有45人被送去急诊",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "18人的组织17人不知情！国际足联惹新争议，巴洛贡红牌缓刑不合规",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -179,24 +201,9 @@
           "title": "世界杯突发悲剧！25岁南非国脚上吊自杀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "39岁高龄的梅西，是如何重新变成右边锋的？",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯射手榜：姆巴佩梅西8球，贝林、凯恩6球，登贝莱5球",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "哈兰德告别世界杯！本届首次哑火+全场仅2射，犯规致队友进球取消",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
