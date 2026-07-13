@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-13 06:57:01",
+  "update_time": "2026-07-13 08:03:10",
   "sources": {
     "微博": {
       "topics": [
@@ -14,9 +14,21 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "下届世界杯居然有六个主办国",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B1%85%E7%84%B6%E6%9C%89%E5%85%AD%E4%B8%AA%E4%B8%BB%E5%8A%9E%E5%9B%BD",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "恨不得贝林厄姆是自己儿子",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%A8%E4%B8%8D%E5%BE%97%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -30,9 +42,14 @@
           "title": "王冰冰小布聊世界杯争议名场面",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B0%8F%E5%B8%83%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%89%E8%AE%AE%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "hot": 0
+        },
+        {
+          "title": "退钱组合世界杯再合体",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E7%BB%84%E5%90%88%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%90%88%E4%BD%93",
+          "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -45,7 +62,7 @@
         {
           "title": "世界前四齐聚世界杯四强",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": "901.9万"
+          "hot": "770.4万"
         }
       ],
       "count": 1,
@@ -53,6 +70,11 @@
     },
     "虎扑": {
       "topics": [
+        {
+          "title": "乔-科尔：英格兰的速度完全碾压阿根廷，三狮必须限制住梅西",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
         {
           "title": "德拉富恩特：佩德里无法照搬巴萨踢法，替补并非因状态不佳",
           "url": "https://soccer.hupu.com/",
@@ -69,17 +91,12 @@
           "hot": ""
         },
         {
-          "title": "世界杯报道组：英足总坚称贝林和图赫尔之间没有任何问题",
+          "title": "罗马诺：拉什福德世界杯后与卡里克面谈，确定参加曼联季前赛。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "专栏作家：若有装腔作势世界杯，哈兰德C罗梅西能包揽领奖台",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：因凡蒂诺望2030世界杯决赛落户伯纳乌，皇马展开行动",
+          "title": "德科再度与罗梅罗经纪人见面",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -89,23 +106,48 @@
           "hot": ""
         },
         {
-          "title": "蓝白过去13场世界杯比赛详情",
+          "title": "穆里尼奥：找到了！贝林妈妈就是贝林厄姆的使用说明书。哈哈",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]卡拉格：贝林厄姆很像杰拉德，但他比后者在更衣室更霸气",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "拉克鲁瓦回应亚马尔言论：我们尊重他们，我们的目标是赢球",
+          "title": "德拉富恩特：国家队的踢球方式并不像巴萨，佩德里不能那样踢",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "尼科：姆巴佩确实是个怪物，但我们也有世界最好的球员亚马尔",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德拉富恩特：罗德里是一位对足球有超乎寻常的清晰认知的球员",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "乌奈：很自豪身边有两位世界级门将；更希望看到现在的亚马尔",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "乌奈-西蒙：登贝莱比姆巴佩更难预测；我不喜欢点球大战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
