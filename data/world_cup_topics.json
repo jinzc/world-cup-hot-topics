@@ -1,34 +1,28 @@
 {
-  "update_time": "2026-07-13 08:03:10",
+  "update_time": "2026-07-13 12:35:45",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "樊振东将解说世界杯决赛",
-          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "title": "世界杯四强夺冠概率排名",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%8E%92%E5%90%8D",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯史上最强半决赛",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "title": "王濛预测世界杯冠亚军",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E4%BA%9A%E5%86%9B",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "下届世界杯居然有六个主办国",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B1%85%E7%84%B6%E6%9C%89%E5%85%AD%E4%B8%AA%E4%B8%BB%E5%8A%9E%E5%9B%BD",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "恨不得贝林厄姆是自己儿子",
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A8%E4%B8%8D%E5%BE%97%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90",
+          "title": "中国裁判无缘世界杯剩余比赛",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -39,17 +33,22 @@
     "B站": {
       "topics": [
         {
-          "title": "王冰冰小布聊世界杯争议名场面",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B0%8F%E5%B8%83%E8%81%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%89%E8%AE%AE%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "title": "下届世界杯或扩军至64队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%88%96%E6%89%A9%E5%86%9B%E8%87%B364%E9%98%9F",
           "hot": 0
         },
         {
           "title": "退钱组合世界杯再合体",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%80%E9%92%B1%E7%BB%84%E5%90%88%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%8D%E5%90%88%E4%BD%93",
           "hot": 0
+        },
+        {
+          "title": "老外靠世界杯种草中国饮料",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%A4%96%E9%9D%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A7%8D%E8%8D%89%E4%B8%AD%E5%9B%BD%E9%A5%AE%E6%96%99",
+          "hot": 0
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -58,96 +57,85 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "世界前四齐聚世界杯四强",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": "770.4万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "乔-科尔：英格兰的速度完全碾压阿根廷，三狮必须限制住梅西",
+          "title": "费迪南德：贝林厄姆是1966年来英格兰大赛上最出色球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德拉富恩特：佩德里无法照搬巴萨踢法，替补并非因状态不佳",
+          "title": "埃托奥：世界杯前有媒体疯狂攻击姆巴佩，这助长了后来歧视",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉克鲁瓦：亚马尔言论？法国不用怕这个词，尊重西班牙实力",
+          "title": "队报：法国世界杯借鉴巴黎战术，丢球后几秒内必须抢回球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德拉富恩特：从现在到世界杯结束，亚马尔会留下鲜明的印记",
+          "title": "埃托奥：姆巴佩才27岁已经影响好几代人，他的自信不是傲慢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：拉什福德世界杯后与卡里克面谈，确定参加曼联季前赛。",
+          "title": "队报：踢西班牙奥利塞-姆巴佩连线重要；要小心对手越位陷阱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德科再度与罗梅罗经纪人见面",
+          "title": "瑞阿赛后大马丁问曼赞比要来维拉了吗，得到后者肯定的答复",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "让我们祝亚马尔19岁生日快乐",
+          "title": "生日派对坐腿上同游游艇，维尼修斯再传与弗吉尼娅复合",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥：找到了！贝林妈妈就是贝林厄姆的使用说明书。哈哈",
+          "title": "世界杯官方晒世界杯历史射手榜：梅西、姆巴佩、凯恩在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]卡拉格：贝林厄姆很像杰拉德，但他比后者在更衣室更霸气",
+          "title": "阿尔瓦雷斯本届世界杯进过几次禁区？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "现在看欧洲杯含金量真大于世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德拉富恩特：国家队的踢球方式并不像巴萨，佩德里不能那样踢",
+          "title": "费迪南德：如果我是阿森纳，就全力签下拉什福德",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "尼科：姆巴佩确实是个怪物，但我们也有世界最好的球员亚马尔",
+          "title": "挪媒：挪威世界杯遭淘汰后，奥斯陆当地有45人被送去急诊",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德拉富恩特：罗德里是一位对足球有超乎寻常的清晰认知的球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "乌奈：很自豪身边有两位世界级门将；更希望看到现在的亚马尔",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "乌奈-西蒙：登贝莱比姆巴佩更难预测；我不喜欢点球大战",
+          "title": "费迪南德：那个让图赫尔别带贝林去世界杯的记者，我等他道歉",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
