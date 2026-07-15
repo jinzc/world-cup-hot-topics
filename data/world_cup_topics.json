@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-16 02:13:45",
+  "update_time": "2026-07-16 04:15:32",
   "sources": {
     "微博": {
       "topics": [
@@ -32,17 +32,22 @@
           "hot": 0
         },
         {
+          "title": "如何评价姆巴佩实力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%AE%9E%E5%8A%9B",
+          "hot": 0
+        },
+        {
           "title": "佛得角门神开导姆巴佩",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E7%A5%9E%E5%BC%80%E5%AF%BC%E5%A7%86%E5%B7%B4%E4%BD%A9",
           "hot": 0
         },
         {
-          "title": "如何评价姆巴佩实力",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%AE%9E%E5%8A%9B",
+          "title": "贝林厄姆补水啦",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%A1%A5%E6%B0%B4%E5%95%A6",
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -53,139 +58,84 @@
     "抖音": {
       "topics": [
         {
-          "title": "姆巴佩称作为队长承担全部责任",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E4%BD%9C%E4%B8%BA%E9%98%9F%E9%95%BF%E6%89%BF%E6%8B%85%E5%85%A8%E9%83%A8%E8%B4%A3%E4%BB%BB",
-          "hot": "777.1万"
-        },
-        {
           "title": "亚马尔进行曲来了",
           "url": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%9D%A5%E4%BA%86",
-          "hot": "775.9万"
+          "hot": "774.2万"
         },
         {
           "title": "亚马尔是姆巴佩的克星吗",
           "url": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%98%AF%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E5%85%8B%E6%98%9F%E5%90%97",
-          "hot": "775.6万"
+          "hot": "770.1万"
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "塞内加尔足协未购买保险，球员世界杯期间受伤只能自掏腰包",
+          "title": "梅西上半场完成4次过人，全场其他任何球员最多仅1次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷跟队：阿尔瓦雷斯将在今日的比赛中首发出场",
+          "title": "3次射门，本场比赛是本届世界杯上半场射门数最少的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰世界杯报道组：除罗杰斯踢右路外，首发无任何改变",
+          "title": "切尔西董事和联合老板托德-伯利身穿英格兰球衣，观看世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃贝尔：凯恩转会去沙特完全是假消息，他全身心投入拜仁",
+          "title": "利马染黄，阿根廷主力中卫组合本届世界杯首次吃到黄牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "若拉什福德确定离队，曼联将追逐身价3000万镑的萨默维尔",
+          "title": "这罗梅罗这张黄牌是不是这届杯赛他本人第一次拿啊….",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隆戈：米兰为莱奥标价6000万欧，他想去英超并且咨询了热刺",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费内巴切计划引进拉什福德，希望尽快达成协议",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里属实是属于时运不济",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "中国足球人与国际水平差距最大的智商",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "收集穆里尼奥历年公开对姆巴佩的评价，我认为至少要用半个赛季看看的！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩公式又更新了，欧姆定律大爆发了",
+          "title": "世界杯半决赛热线——英格兰VS阿根廷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国窖1573丨英格兰vs阿根廷：梅西、凯恩领衔，罗杰斯、詹姆斯、小西蒙尼首发",
+          "title": "英阿大战上半场预期进球仅0.08，为本届世界杯上半场最少",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "卫报：拉什福德若离队，曼联将尝试签萨默维尔",
+          "title": "小西蒙尼半场5次犯规，为本届世界杯阿根廷球员单场最多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "热刺锁定世界杯冠军……成员！当前仅热刺集齐西英阿三队球员",
+          "title": "半场总预期进球0.08，英阿大战为1966年以来世界杯淘汰赛最低值",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "英格兰第4次参加世界杯半决赛，此前3场1胜2负",
+          "title": "英阿大战上半场仅3次射门，为本届世界杯上半场最少",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯半决赛首发变化：英格兰换边后卫，阿根廷首发小西蒙尼",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴蒂斯图塔：世界杯应该只有32队参加，过度扩军有损赛事声望",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "凯恩已代表英格兰队出场121次，为队史最多的外场球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷和英格兰迎来第6次对决，世界杯史上最多交手次数是7次",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "跟队透露阿根廷首发：梅西搭档小蜘蛛，小西蒙尼首发",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "福地，去年在世界杯决赛的主办场地，库库助切尔西赢得世俱杯",
+          "title": "自有统计以来，英阿大战是首场前30分钟零射门的世界杯比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -199,45 +149,9 @@
       "status": "empty"
     },
     "网易": {
-      "topics": [
-        {
-          "title": "世界杯-西班牙2-0法国进决赛 亚马尔造点波罗破门",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "仅此1人！30岁名将有望包揽欧冠+世界杯冠军 他出战49场西班牙0败",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "德尚炮轰裁判：不是我输不起 他真有执法世界杯半决赛的水平？",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "生涯苦主？姆巴佩已9次输给亚马尔！6次单场淘汰赛全败 金球奖梦碎",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "金球魔咒发威！西班牙或夺世界杯，英阿面对外籍主帅+世界第1魔咒",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩出局后怒批全队：本场水平不配踢半决赛！作为队长我担全责",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "图赫尔：阿根廷没明显短板；我确实想过对梅西采用人盯人防守",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        }
-      ],
-      "count": 7,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "腾讯": {
       "topics": [],
