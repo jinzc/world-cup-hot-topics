@@ -1,10 +1,23 @@
 {
-  "update_time": "2026-07-17 01:26:04",
+  "update_time": "2026-07-17 03:23:18",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "阿根廷西班牙争夺大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%89%E5%A4%BA%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "第一个给世界杯决赛对手洗过澡的人",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BB%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E6%B4%97%E8%BF%87%E6%BE%A1%E7%9A%84%E4%BA%BA",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,9 +25,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "凯恩 巅峰难逃宿命的默言骑士",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%20%E5%B7%85%E5%B3%B0%E9%9A%BE%E9%80%83%E5%AE%BF%E5%91%BD%E7%9A%84%E9%BB%98%E8%A8%80%E9%AA%91%E5%A3%AB",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -26,22 +45,22 @@
         {
           "title": "西班牙阿根廷会师世界杯决赛",
           "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BC%9A%E5%B8%88%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "hot": "1039万"
+          "hot": "1029.7万"
         },
         {
           "title": "贝林厄姆赛后行为引争议",
           "url": "https://www.douyin.com/search/%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%B5%9B%E5%90%8E%E8%A1%8C%E4%B8%BA%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "hot": "866.7万"
+          "hot": "781.3万"
         },
         {
           "title": "贝林厄姆：是大家过度解读了",
           "url": "https://www.douyin.com/search/%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%EF%BC%9A%E6%98%AF%E5%A4%A7%E5%AE%B6%E8%BF%87%E5%BA%A6%E8%A7%A3%E8%AF%BB%E4%BA%86",
-          "hot": "809.2万"
+          "hot": "776.8万"
         },
         {
           "title": "亚马尔进行曲来了",
           "url": "https://www.douyin.com/search/%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%9D%A5%E4%BA%86",
-          "hot": "778.6万"
+          "hot": "772.8万"
         }
       ],
       "count": 4,
@@ -50,42 +69,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "自1966年单届世界杯600+成功传球球员：26年和22年的罗德里",
+          "title": "凯恩ins：再多言语也无法填补心中的空洞，距离决赛只差一点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔/波罗仍按恢复计划进行训练，西足协表示无需过度担心",
+          "title": "FIFA官方：2026年世界杯冠军将历史首次获得专属冠军戒指",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里本届世界杯已6次单场触球破百，为所有中场球员中最多",
+          "title": "西班牙世界杯近8战南美球队5胜2平，唯一失利是14年不敌智利",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "网上看到很多巴塞罗那当地的居民穿梅西球衣庆祝阿根廷晋级",
+          "title": "夏奇拉盛赞梅西：他的表现超越非凡，年龄无法定义一个人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "突然想起来一个长期流言：梅西踢不了英超",
+          "title": "真的第一次讨论，如何防梅西这个点？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "谁能想到西班牙vs葡萄牙居然是目前世界杯技术含量最高的一场比赛...",
+          "title": "一个很恐怖的事实，姆巴佩这届的发挥相比上届已经下滑很严重。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如何评价？相当多的西班牙球迷不是巴萨球迷也不是梅西球迷，跟巴萨梅西一点关系没有，单纯喜欢西班牙",
+          "title": "凯恩：1:0领先后，我和Jude曾建议不要后撤防守，但教练说别担心他有另一个计划",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "无端猜想：图赫尔会不会把世界杯半决赛当成试验地，试图证明2324赛季欧冠半决赛输给我们非他之错而是那批球员之错，所以选择了一样的打法，区别是不下凯恩（当年比赛输了很多人指责他把凯恩下了）",
+          "title": "转发：如果梅西因为有世界杯而比C罗更出色，那么克罗斯是否也比梅西更出色呢？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -96,32 +115,37 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "每体：亚马尔和波罗缺席合练，但决赛仍将首发",
+          "title": "罗梅罗对梅西说：如果我们拿了冠军，你会再留几年对吧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西：我的父母在国内关注着我们，距离反而让我有了不同感悟",
+          "title": "战西班牙能否延续？阿根廷世界杯对欧洲球队已连续7场不败",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：世界杯冠军将获冠军戒指，共制作2026枚",
+          "title": "11胜2平，麦卡是世界杯从未输球的球员中出场次数最多的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "休闲时光，梅西与帕雷德斯恢复训练赤足上场",
+          "title": "近60年仅两人在单届世界杯完成600+成功传球：罗德里与罗德里",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "决赛的梦想？恩佐：就是所有阿根廷人的共同梦想，希望能实现",
+          "title": "夏奇拉：梅西用行动证明，一个人的定义从来不取决于年龄",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：摩洛哥领跑2030世界杯决赛，因凡蒂诺或连任",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
