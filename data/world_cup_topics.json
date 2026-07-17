@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-18 03:21:40",
+  "update_time": "2026-07-18 05:03:15",
   "sources": {
     "微博": {
       "topics": [
@@ -25,9 +25,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "在葡萄牙翻跳世界杯主题曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E7%BF%BB%E8%B7%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -42,47 +48,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "哈维：如今亚马尔和库巴西的表现非常出色，我感到无比骄傲",
+          "title": "每体：马竞CEO发言激怒小蜘蛛，世界杯后或再次公开推动离队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡福：三度出战世界杯决赛意义非凡，很荣幸与梅西共享纪录",
+          "title": "覆盖半场，小蜘蛛近两届世界杯对方半场高压逼抢次数最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯带来巨大流量！哈兰德社媒粉丝从4000万涨至7000万",
+          "title": "拉波尔特91次&amp;库巴西83次，为本届世界杯破线传球最多的后卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大马丁“招募”成真！曼赞比加盟维拉官宣视频创意十足",
+          "title": "科纳特：如果能换来球队夺冠，姆巴佩宁愿自己一球不进",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德拉富恩特：梅西和亚马尔目前无法比较，后者仍在起步",
+          "title": "阿斯：亚马尔和波罗已恢复合练，均可出战世界杯决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯助攻效率榜：谢尔德鲁普平均83.7分钟一助，高居第一",
+          "title": "据说隔壁车子因为发帖祝贺恩佐进球而被网爆了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "山火烟霾笼罩新泽西，世界杯决赛当天空气质量情况仍不明朗",
+          "title": "[流言板]曼晚：芒特上赛季若稳定发挥能参加世界杯；卡里克很看重他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "决赛，加维真的很关键",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "突然想起来一个长期流言：梅西踢不了英超",
+          "title": "关于拉什福德问题大家是不是有误解",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -92,17 +93,37 @@
           "hot": ""
         },
         {
-          "title": "就这样判罚，世界杯直接发了不就完了？",
+          "title": "世界杯决赛西班牙很可能输球，理由是有球王哨，大动作不吃牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "从暮年梅西可以看出现在球星的成色。",
+          "title": "[流言板]每体：马竞CEO发言激怒小蜘蛛，世界杯后或再次公开推动离队",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺说亚马尔肌肉不适？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆冲突事件疑点",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯决赛：加强版巴萨VS加强版马竞？欧冠是不是巴萨踢不赢马竞？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 15,
       "status": "success"
     },
     "懂球帝": {
@@ -113,32 +134,37 @@
           "hot": ""
         },
         {
-          "title": "德拉富恩特：亚马尔现在和梅西根本没有可比性，他才刚刚起步",
+          "title": "温契奇谈执法世界杯决赛：得知时浑身发抖；这是一项无上荣誉",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皮奇：在世界杯决赛里，劳塔罗要把个人主义放在一边",
+          "title": "哈维：亚马尔是一个恩赐；已经找不到词形容梅西",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "美媒：美申办2031女足世界杯，或受跨性别政策影响",
+          "title": "梅西能否做到？此前仅大罗拥有至少2座世界杯冠军和2座金球奖",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：我们必须在所有方面都控制住阿根廷，而不仅仅是梅西",
+          "title": "奥尔莫：本届世界杯我还缺少一个进球，希望能在决赛进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：我知道离目标还有一步之遥，但我们为进决赛感到幸福",
+          "title": "利扎拉祖：踢三四名决赛是受刑，世界杯上哪怕第二名都没意义",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝克汉姆：卡卡是我见过最好的人之一，梅西也是如此",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
