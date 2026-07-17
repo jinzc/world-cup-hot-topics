@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-17 19:25:48",
+  "update_time": "2026-07-17 21:55:03",
   "sources": {
     "微博": {
       "topics": [
@@ -19,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "在葡萄牙翻跳世界杯主题曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E7%BF%BB%E8%B7%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -36,93 +42,93 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿根廷晋级世界杯决赛后，迪巴拉在罗马更衣室里放国歌",
+          "title": "效力巴西联赛晋级世界杯决赛，何塞-洛佩斯是非巴西籍首人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "字母哥谈观战阿根廷：我亲眼见证梅西表现，深受激励",
+          "title": "1966年来世界杯70分钟后制造进球榜：梅西13球，姆巴佩8球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯赛后，一名英格兰球迷骂阿根廷记者：我爸杀了你爸",
+          "title": "梅西离开巴萨前9次踢国家队大赛4次亚军，离开后3连冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "一美国女子抱怨：世界杯怎么还在踢？过去六个月他们天天喊",
+          "title": "罗梅罗对梅西说：如果赢得世界杯你会再和我们待几年，对吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加拿大山火烟霾扩散导致空气质量差，可能影响世界杯决赛",
+          "title": "名宿：拉什福德是阿森纳的不错备选，但他来未必能直接首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：拉什福德不会去土耳其，只有顶级俱乐部报价才会考虑",
+          "title": "金球奖官方：历届金球得主中，只大罗作为球员2次夺得世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看梅西视频想让梅西夺冠，看亚马尔视频想让亚马尔夺冠",
+          "title": "莱斯科特：梅西依然掌控比赛，不全程发力&amp;关键瞬间一锤定音",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨这几年一次欧冠决赛都没打过，西班牙却已经要连续打欧洲杯和世界杯决赛了",
+          "title": "西班牙队官方晒大力神杯照：冠军奖杯正等待着决赛的时刻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺说亚马尔肌肉不适？",
+          "title": "一些阿根廷球迷庆祝进世界杯决赛时，大肆破坏历史悠久学校",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆在本届世界杯上的进球数已经超过了佩德里代表西班牙首发的进球数",
+          "title": "对方禁区触球榜：亚马尔姆巴佩51次前二，梅西43次第5",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "相比凯恩，这届世界杯算贝林带队了吧",
+          "title": "今年世界杯大年，大家预测一下今年金球奖得主！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "真留下拉什福德，卡里克注定是索肖二世，别有任何期待了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "队报：如果维尼修斯不接受俱乐部给出的续约条款，皇家马德里有可能将他出售。这笔操作能让球队省下队内最高的固定薪资开支。出售维尼修斯所得的资金，还可以抵消引进奥利塞的转会花费。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯技术含量到底如何？梅西这种欧冠都混不动的去了美职联的老头，都能混的风生水起，梅西这么强为什么不把他再请回来踢欧冠？巴萨为什么不敢？连姆巴佩都舒服的领域，这技术含量有多少？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 15,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "2026世界杯要是有中国会怎样？中国队世界杯模拟器上线！",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "嘲讽英格兰，恩佐发他和梅西大笑照片用《Wonderwall》做bgm",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "Metro：恩佐-费尔南德斯社媒嘲讽英格兰，随后删除",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "没有直播版权的国外媒体，怎么报道世界杯？",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "赖斯：我不想听到责怪主教练的话，梅西是纯粹的足球天才",
+          "title": "布拉特：补水暂停只是开始，世界杯决赛正逐渐变成翻版超级碗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
