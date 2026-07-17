@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-18 05:03:15",
+  "update_time": "2026-07-18 06:55:42",
   "sources": {
     "微博": {
       "topics": [
@@ -48,72 +48,32 @@
     "虎扑": {
       "topics": [
         {
+          "title": "被称职业生涯像游戏闯关，梅西：我上届世界杯就已经通关了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆等6名英格兰球员外出放松，在三四名决赛前吃烧烤",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "德尚：媒体对奥利塞太苛刻；姆巴佩会去竞争世界杯金靴",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "每体：马竞CEO发言激怒小蜘蛛，世界杯后或再次公开推动离队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "覆盖半场，小蜘蛛近两届世界杯对方半场高压逼抢次数最多",
+          "title": "也许拉什福德就是卡里克的结局的铺垫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉波尔特91次&amp;库巴西83次，为本届世界杯破线传球最多的后卫",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "科纳特：如果能换来球队夺冠，姆巴佩宁愿自己一球不进",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：亚马尔和波罗已恢复合练，均可出战世界杯决赛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "据说隔壁车子因为发帖祝贺恩佐进球而被网爆了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]曼晚：芒特上赛季若稳定发挥能参加世界杯；卡里克很看重他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "关于拉什福德问题大家是不是有误解",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西退出国家队后你还会支持阿根廷吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯决赛西班牙很可能输球，理由是有球王哨，大动作不吃牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：马竞CEO发言激怒小蜘蛛，世界杯后或再次公开推动离队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺说亚马尔肌肉不适？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆冲突事件疑点",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯决赛：加强版巴萨VS加强版马竞？欧冠是不是巴萨踢不赢马竞？",
+          "title": "皮克就马德里竞技CEO胡利安·阿尔瓦雷斯今夏不会加盟巴塞罗那一事发表看法",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -121,9 +81,19 @@
           "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "就这样判罚，世界杯直接发了不就完了？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马真的需要恩佐了，目前看是居莱尔加强版。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 15,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -134,37 +104,27 @@
           "hot": ""
         },
         {
-          "title": "温契奇谈执法世界杯决赛：得知时浑身发抖；这是一项无上荣誉",
+          "title": "队报：桑巴小腿受伤，缺席世界杯三四名决赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哈维：亚马尔是一个恩赐；已经找不到词形容梅西",
+          "title": "韦格霍斯特：荷兰队在世界杯上没能拿出应有的水准",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西能否做到？此前仅大罗拥有至少2座世界杯冠军和2座金球奖",
+          "title": "哈维：我为亚马尔、库巴西感到骄傲；每次看梅西踢球都有惊喜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "奥尔莫：本届世界杯我还缺少一个进球，希望能在决赛进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "利扎拉祖：踢三四名决赛是受刑，世界杯上哪怕第二名都没意义",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝克汉姆：卡卡是我见过最好的人之一，梅西也是如此",
+          "title": "罗德里：阿根廷是所有球队都想击败的对手；必须严密盯防梅西",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
