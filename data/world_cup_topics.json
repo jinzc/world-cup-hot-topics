@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-07-17 21:55:03",
+  "update_time": "2026-07-17 23:19:31",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "阿根廷总统缺席世界杯决赛原因",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%8E%9F%E5%9B%A0",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -21,12 +14,17 @@
     "B站": {
       "topics": [
         {
+          "title": "世界杯半决赛战术复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98",
+          "hot": 0
+        },
+        {
           "title": "在葡萄牙翻跳世界杯主题曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E7%BF%BB%E8%B7%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -42,93 +40,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "效力巴西联赛晋级世界杯决赛，何塞-洛佩斯是非巴西籍首人",
+          "title": "亚马尔父亲解释未现场支持儿子原因：我患有癫痫无法坐飞机",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "1966年来世界杯70分钟后制造进球榜：梅西13球，姆巴佩8球",
+          "title": "卡福选球员巅峰：内马尔比梅西C罗姆巴佩都强，只比小罗差",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西离开巴萨前9次踢国家队大赛4次亚军，离开后3连冠",
+          "title": "世界杯季军次数榜：德国4次第一，法国巴西克罗地亚等2次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗对梅西说：如果赢得世界杯你会再和我们待几年，对吧",
+          "title": "赫斯基：我预测西班牙夺冠，但有梅西就什么都可能发生",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名宿：拉什福德是阿森纳的不错备选，但他来未必能直接首发",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "金球奖官方：历届金球得主中，只大罗作为球员2次夺得世界杯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "莱斯科特：梅西依然掌控比赛，不全程发力&amp;关键瞬间一锤定音",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "西班牙队官方晒大力神杯照：冠军奖杯正等待着决赛的时刻",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "一些阿根廷球迷庆祝进世界杯决赛时，大肆破坏历史悠久学校",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "对方禁区触球榜：亚马尔姆巴佩51次前二，梅西43次第5",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "今年世界杯大年，大家预测一下今年金球奖得主！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "真留下拉什福德，卡里克注定是索肖二世，别有任何期待了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：如果维尼修斯不接受俱乐部给出的续约条款，皇家马德里有可能将他出售。这笔操作能让球队省下队内最高的固定薪资开支。出售维尼修斯所得的资金，还可以抵消引进奥利塞的转会花费。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯技术含量到底如何？梅西这种欧冠都混不动的去了美职联的老头，都能混的风生水起，梅西这么强为什么不把他再请回来踢欧冠？巴萨为什么不敢？连姆巴佩都舒服的领域，这技术含量有多少？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
+          "title": "想想梅老板世界杯最后一场，由巴萨队员来操办",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 15,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "布拉特：补水暂停只是开始，世界杯决赛正逐渐变成翻版超级碗",
+          "title": "记者：C罗可能再踢一场，就会从国家队退役",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "库里蒂巴后卫科泽尔将梅西头像文在腿上，并配以“GOAT”字样",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：新泽西州检方将在世界杯后继续调查国际足联票务行为",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "能否做到？阿根廷有望成为第四支单届世界杯全胜的球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：2026世界杯决赛有望成为史上最贵体育赛事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
@@ -144,7 +112,17 @@
     "网易": {
       "topics": [
         {
-          "title": "世界杯决赛裁判揭晓！斯洛文尼亚名哨任主裁：曾执法阿根廷输沙特",
+          "title": "曝法国队将全替补踢英格兰！姆巴佩金靴奖没了",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "30亿欧对决沦为鸡肋？英法世界杯季军战遭批“毫无意义”",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "每体：世界杯决赛将有8名巴萨一队球员和9名拉玛西亚球员",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -154,12 +132,12 @@
           "hot": ""
         },
         {
-          "title": "阿根廷2-1英格兰进决赛 梅西2助攻劳塔罗绝杀",
+          "title": "世界杯决赛裁判揭晓！斯洛文尼亚名哨任主裁：曾执法阿根廷输沙特",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "替补奇兵！劳塔罗连场压哨绝杀，世界杯生涯首次，迎40球里程碑",
+          "title": "Metro：恩佐-费尔南德斯社媒嘲讽英格兰，随后删除",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -172,14 +150,9 @@
           "title": "马卡：在准备参加世界杯决赛的52名球员中，24人效力于西甲",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "记者：季军赛是对所有世界杯半决赛失利者的侮辱，应被取消",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "腾讯": {
