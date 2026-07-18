@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-19 03:14:45",
+  "update_time": "2026-07-19 04:59:27",
   "sources": {
     "微博": {
       "topics": [
@@ -44,12 +44,12 @@
         {
           "title": "FIFA实力榜姆巴佩进攻第一",
           "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
-          "hot": "918.9万"
+          "hot": "925.4万"
         },
         {
           "title": "老吃家都来世界杯面大赛了",
           "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
-          "hot": "773.2万"
+          "hot": "769.2万"
         }
       ],
       "count": 2,
@@ -58,37 +58,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "大马丁晒训练图：50天的漫长征程，我们终于要踢决赛了",
+          "title": "英格兰整届世界杯曼联球员0出场，这是1958年以来首次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西与亚马尔在巴塞罗那的壁画被破坏，涂鸦称反对现代足球",
+          "title": "英格兰在世界杯首发三名阿森纳球员，这是2002后的首次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩告别德尚：人们未必懂你的伟大，时间会给出应有评价",
+          "title": "姆巴佩先发，还有人说他不想打季军赛，肯定抢金靴啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：利物浦签下17岁哥伦比亚中场S-马丁内斯，转会费75万镑",
+          "title": "看样子恩佐决赛以后要闪电官宣转会大黄了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "希勒：若凯恩无缘欧洲杯，英格兰的中锋位置令人担忧",
+          "title": "梅西给亚马尔洗澡这事：谁说说20年前就那么巧吗？亚马尔的爹妈当时很出名吗？为啥就选了亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：梅西成金球奖头号热门，亚马尔、凯恩仍有机会",
+          "title": "谁能想到西班牙vs葡萄牙居然是目前世界杯技术含量最高的一场比赛...",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皮克就马德里竞技CEO胡利安·阿尔瓦雷斯今夏不会加盟巴塞罗那一事发表看法",
+          "title": "六台：罗德里加盟皇马的转会事宜并未彻底告吹，球员本人有意转会皇马。但整件事的走向，完全取决于何塞·穆里尼奥的态度。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -101,50 +101,60 @@
           "title": "现在怎么唯世界杯论那么厉害...",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "要不是姆巴佩，法国队能有这个成绩？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "哈曼：基米希、格雷茨卡和萨内应退出德国队，可围绕恩梅加建队",
+          "title": "梅努伤缺，英格兰自1958年以来首次整届世界杯没曼联球员出场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跟队：阿根廷决赛首发还有两处存疑，包括右后卫和德保罗的位置",
+          "title": "波切蒂诺：美国足协给了我一份续约报价，下周我们会做出决定",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "RMC：本届世界杯上座人数破666万创历史纪录",
+          "title": "扎伊尔-埃梅里是法国队世界杯第四年轻首发球员，第一为姆巴佩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩能否做到？从没有球员能够两次获得世界杯金靴奖",
+          "title": "卡卡：赢世界杯会彻底改变亚马尔的生涯；梅西的心态非常强大",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：梅西和亚马尔的壁画在完成后几小时就遭到破坏",
+          "title": "22场，姆巴佩创30岁以下球员世界杯出场次数纪录",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：利物浦接近75万镑签下哥伦比亚17岁天才马丁内斯",
+          "title": "卡卡：若赢得世界杯，亚马尔的职业生涯和生活都可能彻底改变",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "伊涅斯塔：西班牙必须坚持自己的风格；梅西有能力做到任何事",
+          "title": "迪尼批英格兰众星：奥赖利和马杜埃凯都很差，凯恩也没那么神",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "肯佩斯：梅西正焕发第二春，他证明了即便39岁依然能表现出色",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
