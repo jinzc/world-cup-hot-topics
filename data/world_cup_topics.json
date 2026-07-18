@@ -1,34 +1,22 @@
 {
-  "update_time": "2026-07-18 14:11:27",
+  "update_time": "2026-07-18 16:53:33",
   "sources": {
     "微博": {
       "topics": [
+        {
+          "title": "大罗说C罗内马尔到了与身体妥协时刻",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BD%97%E8%AF%B4C%E7%BD%97%E5%86%85%E9%A9%AC%E5%B0%94%E5%88%B0%E4%BA%86%E4%B8%8E%E8%BA%AB%E4%BD%93%E5%A6%A5%E5%8D%8F%E6%97%B6%E5%88%BB",
+          "hot": 0,
+          "label": ""
+        },
         {
           "title": "FIFA主席说可以中美合办世界杯",
           "url": "https://s.weibo.com/weibo?q=FIFA%E4%B8%BB%E5%B8%AD%E8%AF%B4%E5%8F%AF%E4%BB%A5%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "中国足协突然官宣",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AA%81%E7%84%B6%E5%AE%98%E5%AE%A3",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "特朗普称应再次选择美国办世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BA%94%E5%86%8D%E6%AC%A1%E9%80%89%E6%8B%A9%E7%BE%8E%E5%9B%BD%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯决赛中场休息17分钟",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E4%BC%91%E6%81%AF17%E5%88%86%E9%92%9F",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -55,124 +43,89 @@
     "抖音": {
       "topics": [
         {
+          "title": "FIFA实力榜姆巴佩进攻第一",
+          "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
+          "hot": "880万"
+        },
+        {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
           "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%E5%BB%BA%E8%AE%AE%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "787.9万"
+          "hot": "861.1万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "不敌阿根廷赛后，贝林厄姆在下榻酒店外与球迷亲切合影",
+          "title": "法国评论员：如果你不喜欢梅西，那你就是得了‘足球新冠’",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "主持人：皮克福德扑不出恩佐远射，他应退出英格兰让位后辈",
+          "title": "格林伍德：我从C罗身上学到很多，他非常注重每个细节",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "乌姆蒂蒂：C罗是非凡的球员，但在足球层面梅西没有对手可言",
+          "title": "WS英法本届最高评分阵：凯恩、贝林、安德森入围，法国8人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西自09/10赛季以来389次获得全场最佳，超过总场次的一半",
+          "title": "金球奖官方盘点：有19位金球奖得主在世界杯决赛出场过",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西世界杯生涯33场制造33球，其中22球都是在近两届参与的",
+          "title": "马宁回应世界杯只执法一场比赛：这是我们决定不了的事情",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯近两届世界杯在对方半场逼抢318次，超过所有球员",
+          "title": "淘汰后基米希没直接离开，而是留在驻地处理事务并陪伴妻儿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼晚：芒特上赛季若稳定发挥能参加世界杯；卡里克很看重他",
+          "title": "阿根廷队本届创造机会榜：梅西25次第一，第二6次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西以前有传中这个技能点吗",
+          "title": "梅西给亚马尔洗澡这事：谁说说20年前就那么巧吗？亚马尔的爹妈当时很出名吗？为啥就选了亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "决赛是亚马尔升咖的大好时机",
+          "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "最后这张图没看到别人发，小亚马尔看到梅老板笑这么开心呢",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔老爹挺帅的，也才37岁，父凭子贵后却又找了个黑人女朋友",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]队报：姆巴佩季军战将继续首发，与梅西争金靴让他动力十足",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "现在怎么唯世界杯论那么厉害...",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "瓦伦丁·巴尔科的妻子形容裘德·贝林厄姆“没用又粗鲁”",
+          "title": "很好奇！为什么梅西到80分钟后看不出半点体力问题，反观许多英格兰球员早就疲于支撑了！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "TA模型预测世界杯决赛：西班牙占优获胜概率59%，阿根廷41%",
+          "title": "沃齐尼亚谈西阿世界杯决赛：希望最终最好的球队能够赢得胜利",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯午报：美加墨最后两舞",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA盘点世界杯决赛商品价格：矿泉水5美元、啤酒16美元",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "孙兴慜攻入本赛季美职联首球，此前已13场联赛未进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "超大影响力，纽约市长与囚犯共同观看世界杯半决赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "洛杉矶3-0大胜洛杉矶银河，布安加点射破门，孙兴慜建功",
+          "title": "费尔南多-略伦特：梅西是历史上最好的球员，他是年轻人的榜样",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
