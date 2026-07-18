@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-18 23:02:30",
+  "update_time": "2026-07-19 01:05:16",
   "sources": {
     "微博": {
       "topics": [],
@@ -17,9 +17,14 @@
           "title": "世界杯季军赛前瞻",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E5%89%8D%E7%9E%BB",
           "hot": 0
+        },
+        {
+          "title": "一个公式预测世界杯决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E5%85%AC%E5%BC%8F%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -32,51 +37,66 @@
         {
           "title": "FIFA实力榜姆巴佩进攻第一",
           "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
-          "hot": "783万"
+          "hot": "917.6万"
+        },
+        {
+          "title": "老吃家都来世界杯面大赛了",
+          "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
+          "hot": "775.8万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "伊涅斯塔：阿根廷有愿为梅西赴汤蹈火球员，他用表现赢得了",
+          "title": "阿隆索：周日的目标是早点回家，观看世界杯决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯决赛裁判服曝光：阿迪今年常规款型+定制款黑金配色",
+          "title": "迪奥曼德：第一件球衣是曼联时期C罗；小时支持切尔西和曼城",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "气质这块拿捏了！杜兰特上台时，梅西、大马丁等人纷纷鼓掌",
+          "title": "罗德里：梅西比很多球员更全面，对他的限制必须更加严密",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德拉富恩特发言时被台下的阿根廷人疯狂干扰，梅西一脸不悦",
+          "title": "伊涅斯塔：意外佩德里跌出首发，他在西班牙和巴萨踢法不同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺：这是历史上最好的一届世界杯，全世界都有幸福感",
+          "title": "乔哈特：英格兰季军赛别上赖斯萨卡，应给边缘球员机会证明",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔弟弟决赛前染蓝发+身穿蓝白色服装，被调侃支持阿根廷",
+          "title": "TA：曼城续约罗德里没太大进展，计划世界杯后再次与他沟通",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "感觉在曼联专区，你可以喜欢杰拉德、可以喜欢利物浦阿森纳。就是不能喜欢C罗，也就是你们口中的阿伟罗。",
+          "title": "梅西给亚马尔洗澡这事：谁说说20年前就那么巧吗？亚马尔的爹妈当时很出名吗？为啥就选了亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：若7月31日仍无希望签阿尔瓦雷斯，巴萨将彻底放弃他",
+          "title": "亚马尔老爹挺帅的，也才37岁，父凭子贵后却又找了个黑人女朋友",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆：现在，我的脑子里一片混乱，充满了失望。对不起。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "现在怎么唯世界杯论那么厉害...",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -84,55 +104,25 @@
           "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "英格兰中场，其实只差一个莫德里奇式的核心",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "马塞洛受访：“我看好西班牙拿下本届世界杯冠军，我长期定居西班牙，巴西已经无缘本次世界杯。我的孩子们都出生在西班牙，我在这里生活了20年，而且我的儿子如今代表西班牙国家队出战。”",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "关于维尼修斯的问题。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 12,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "塞尔电台评选世界杯决赛最佳阵容，梅西、亚马尔领衔",
+          "title": "爱尔兰球迷：我其实已不关心谁赢世界杯，只要不是英格兰就够了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "希勒炮轰国际足联：三四名决赛只为赚钱，很荒唐",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "总计28.8亿欧，英法大战是世界杯历史上总身价最高的一组对决",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "Tycsports：梅西、罗德里领跑世界杯金球奖评选",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "英自民党领袖：英足总与欧足联应退出FIFA，因凡蒂诺一再越过红线",
+          "title": "卡卡谈世界杯扩军：这届赛事效果超出预期，参赛队越多越精彩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
