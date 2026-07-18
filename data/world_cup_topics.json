@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-07-19 01:05:16",
+  "update_time": "2026-07-19 03:14:45",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "世界杯季军将获2900万美元奖金",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E5%B0%86%E8%8E%B72900%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -37,12 +44,12 @@
         {
           "title": "FIFA实力榜姆巴佩进攻第一",
           "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
-          "hot": "917.6万"
+          "hot": "918.9万"
         },
         {
           "title": "老吃家都来世界杯面大赛了",
           "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
-          "hot": "775.8万"
+          "hot": "773.2万"
         }
       ],
       "count": 2,
@@ -51,47 +58,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿隆索：周日的目标是早点回家，观看世界杯决赛",
+          "title": "大马丁晒训练图：50天的漫长征程，我们终于要踢决赛了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪奥曼德：第一件球衣是曼联时期C罗；小时支持切尔西和曼城",
+          "title": "梅西与亚马尔在巴塞罗那的壁画被破坏，涂鸦称反对现代足球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：梅西比很多球员更全面，对他的限制必须更加严密",
+          "title": "姆巴佩告别德尚：人们未必懂你的伟大，时间会给出应有评价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊涅斯塔：意外佩德里跌出首发，他在西班牙和巴萨踢法不同",
+          "title": "TA：利物浦签下17岁哥伦比亚中场S-马丁内斯，转会费75万镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "乔哈特：英格兰季军赛别上赖斯萨卡，应给边缘球员机会证明",
+          "title": "希勒：若凯恩无缘欧洲杯，英格兰的中锋位置令人担忧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：曼城续约罗德里没太大进展，计划世界杯后再次与他沟通",
+          "title": "[流言板]马卡：梅西成金球奖头号热门，亚马尔、凯恩仍有机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西给亚马尔洗澡这事：谁说说20年前就那么巧吗？亚马尔的爹妈当时很出名吗？为啥就选了亚马尔",
+          "title": "皮克就马德里竞技CEO胡利安·阿尔瓦雷斯今夏不会加盟巴塞罗那一事发表看法",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔老爹挺帅的，也才37岁，父凭子贵后却又找了个黑人女朋友",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆：现在，我的脑子里一片混乱，充满了失望。对不起。",
+          "title": "最新消息：马德里竞技正在考虑引进恩佐·费尔南德斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -99,30 +101,50 @@
           "title": "现在怎么唯世界杯论那么厉害...",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "理性讨论，C罗的历史地位是不是被严重低估了？我觉得不输梅西",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 11,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "爱尔兰球迷：我其实已不关心谁赢世界杯，只要不是英格兰就够了",
+          "title": "哈曼：基米希、格雷茨卡和萨内应退出德国队，可围绕恩梅加建队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "卡卡谈世界杯扩军：这届赛事效果超出预期，参赛队越多越精彩",
+          "title": "跟队：阿根廷决赛首发还有两处存疑，包括右后卫和德保罗的位置",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "RMC：本届世界杯上座人数破666万创历史纪录",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩能否做到？从没有球员能够两次获得世界杯金靴奖",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：梅西和亚马尔的壁画在完成后几小时就遭到破坏",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：利物浦接近75万镑签下哥伦比亚17岁天才马丁内斯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "伊涅斯塔：西班牙必须坚持自己的风格；梅西有能力做到任何事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
