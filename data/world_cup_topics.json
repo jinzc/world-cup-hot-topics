@@ -1,10 +1,23 @@
 {
-  "update_time": "2026-07-18 18:24:16",
+  "update_time": "2026-07-18 19:58:18",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "下周一请假是为了看世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%91%A8%E4%B8%80%E8%AF%B7%E5%81%87%E6%98%AF%E4%B8%BA%E4%BA%86%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "贝林厄姆不当球星还能当谐星",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%8D%E5%BD%93%E7%90%83%E6%98%9F%E8%BF%98%E8%83%BD%E5%BD%93%E8%B0%90%E6%98%9F",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -14,8 +27,8 @@
     "B站": {
       "topics": [
         {
-          "title": "世界杯季军预测",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E9%A2%84%E6%B5%8B",
+          "title": "为什么中国不申请世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E8%AF%B7%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
@@ -37,7 +50,7 @@
         {
           "title": "FIFA实力榜姆巴佩进攻第一",
           "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
-          "hot": "777.6万"
+          "hot": "783.2万"
         }
       ],
       "count": 1,
@@ -46,103 +59,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "费加罗报：接手法国时德尚目标晋级世界杯，如今是争冠热门",
+          "title": "Opta数据解读：39岁梅西仍主宰世界杯，全新方式延续影响力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：阿森纳正评估伤情，怕世界杯伤病危机影响英超卫冕",
+          "title": "继足球世界杯之后，英格兰和阿根廷橄榄球队将会正面交锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "特色设计！阿迪达斯女足世界杯部分客场球衣谍照泄露",
+          "title": "鲁伊斯：很幸运和梅西当过队友，没有人会喜欢对阵他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "电讯：低级别联赛能减少消耗，使高龄球员有体能迎战世界杯",
+          "title": "纳瓦斯：非要选决赛看好哪个队会选阿根廷，因为有梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米体：莫德里奇近期将与米兰续约1年，目前度假仍保持训练",
+          "title": "这届世界杯作为曼联球迷看的挺烦的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "四强球队世界杯期间变阵次数：英格兰20次居首，阿根廷11次",
+          "title": "大胆预测世界杯决赛，上半场先进球的输",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科拉平托：看世界杯决赛比自己参加比利时大奖赛更紧张",
+          "title": "C罗老是给媒体排名8—15，是不是皇马害了他。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国评论员：如果你不喜欢梅西，那你就是得了‘足球新冠’",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "格林伍德：我从C罗身上学到很多，他非常注重每个细节",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西给亚马尔洗澡这事：谁说说20年前就那么巧吗？亚马尔的爹妈当时很出名吗？为啥就选了亚马尔",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "真的第一次讨论，如何防梅西这个点？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "兄弟们，这次我真服了。梅西卫冕的话，C罗真的追不上了。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]队报：姆巴佩季军战将继续首发，与梅西争金靴让他动力十足",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果C罗2018年原地退役，历史地位能不能保5争3？",
+          "title": "每日邮报：图赫尔为英格兰世界杯出局极力开脱，指责球员“DNA”先天不足导致传控体系瘫痪，难以应对阿根廷。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯季军战前瞻：姆巴佩争金靴，英格兰力拼近60年最佳战绩",
+          "title": "前教练：亚马尔和库巴西球商远超同龄人，能执教他们很自豪",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：姆巴佩与贝林迎“没人想踢”的季军战，只能为尊严而战",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "ESPN：罗梅罗或离开热刺，皇萨、国米和，马竞对其有意",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：皇马改变对罗德里主意，穆帅要求签不同类型的中场",
+          "title": "帕斯托雷：梅西是独一无二的球员，他的水平高人一等",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
