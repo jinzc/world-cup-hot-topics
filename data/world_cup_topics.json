@@ -1,8 +1,14 @@
 {
-  "update_time": "2026-07-19 23:03:46",
+  "update_time": "2026-07-20 01:07:03",
   "sources": {
     "微博": {
       "topics": [
+        {
+          "title": "世界杯收官抽百万黄金",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%8A%BD%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91",
+          "hot": 0,
+          "label": ""
+        },
         {
           "title": "世界杯",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
@@ -10,7 +16,7 @@
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -26,8 +32,8 @@
           "hot": 0
         },
         {
-          "title": "世界杯季军赛赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "title": "以兵法局的方式打开世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E5%85%B5%E6%B3%95%E5%B1%80%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
@@ -49,17 +55,17 @@
         {
           "title": "世界杯决赛：西班牙vs阿根廷",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "hot": "1208.1万"
+          "hot": "1211.3万"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": "781.5万"
+          "hot": "790.2万"
         },
         {
-          "title": "老吃家都来世界杯面大赛了",
-          "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
-          "hot": "766.6万"
+          "title": "比决赛先来的是宿舍世界杯",
+          "url": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": "771.3万"
         }
       ],
       "count": 3,
@@ -68,93 +74,93 @@
     "虎扑": {
       "topics": [
         {
-          "title": "3次！萨卡和戈登均追平英格兰球员单届世界杯助攻纪录",
+          "title": "世界杯点球大战：阿根廷7次赢6次最佳，西班牙5次赢1次最差",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥利塞25/26赛季共送出34次助攻，追平梅西11/12赛季纪录",
+          "title": "法国官推：姆巴佩是60年来首位单届世界杯中参与14球的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥利塞单届世界杯7次助攻，历史上仅次于1958年8助的科帕",
+          "title": "一群西班牙球迷世界杯决赛赛前聚集，一起高歌辱骂梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯俱乐部进球榜：皇马100球第一，拜仁87球，巴萨78球",
+          "title": "记者：国际足联检票系统一度出现故障，决赛现场排起长队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "南美足联主席：加油阿根廷，把世界杯冠军留在美洲大陆！",
+          "title": "贝林厄姆赛后合影主动站在球队最边缘",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗更新Ins，发布与乔治娜一同潜水游泳的视频",
+          "title": "说实话，C罗以后的历史地位会不会像斯蒂法诺那样，逐步下滑。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迈阿密国际官推发布梅西、德保罗海报：就是今天了，冲吧！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "FIFA官推再次预热世界杯金靴之争：姆巴佩10球，梅西8球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "都在讨论世界杯决赛，谁还记得坎塞洛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "各位萨迷们，今年世界杯最支持谁？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩世界杯打入22球，独占世界杯历史射手榜榜首！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩不能少了登贝莱，英格兰有贝林厄姆才更强",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "今年巴西杂志足球运动员历史评选，姆巴佩排名第19名！ESPN评选21世纪最好25大球员，姆巴佩排名第6",
+          "title": "同样是世界杯一冠一亚，为什么大罗能进历史前10，而姆巴佩进历史前50都费劲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "10球4助，姆巴佩是60年来首位单届世界杯参与14球的球员",
+          "title": "国窖1573丨西班牙vs阿根廷：亚马尔、罗德里出战，阿根廷首发暂未公布",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：37岁哈维-马丁内斯自由身离开卡塔尔乙级球队阿尔比达",
+          "title": "小孩哥，亚马尔与库巴西是世界杯决赛第三第四年轻首发的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "父亲祝福麦卡利斯特：去实现你的另一个梦吧，我们与你同在",
+          "title": "维尼修斯度假换新造型，留胡须在米兰现身",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "Opta更新世界杯夺冠概率：西班牙59.5%，阿根廷40.5%",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "RMC：德尚结束世界杯征程后低调抵达法国，未与接机球迷见面",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：世界杯决赛前纽约空气改善，预计比赛不受影响",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔世界杯决赛前晒童年照，并配文：为了你，也为了这条街",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "哈曼：德国队是本届世界杯最令人失望的球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "哈曼：梅西是美加墨世界杯最佳球员，决赛我看好阿根廷赢球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
