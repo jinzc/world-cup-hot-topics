@@ -1,11 +1,17 @@
 {
-  "update_time": "2026-07-20 01:07:03",
+  "update_time": "2026-07-20 03:16:55",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯收官抽百万黄金",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%8A%BD%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91",
+          "title": "阿根廷世界杯决赛首发",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E9%A6%96%E5%8F%91",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "樊振东展望世界杯决赛",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B1%95%E6%9C%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "label": ""
         },
@@ -16,7 +22,7 @@
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -27,22 +33,27 @@
     "B站": {
       "topics": [
         {
-          "title": "王冰冰带你回顾本届世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "世界杯决赛首发出炉",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89",
           "hot": 0
         },
         {
-          "title": "以兵法局的方式打开世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E5%85%B5%E6%B3%95%E5%B1%80%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "王冰冰带你回顾本届世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0
         },
         {
           "title": "世界杯决赛看点",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9",
           "hot": 0
+        },
+        {
+          "title": "管泽元谈世界杯落幕",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88%E4%B8%96%E7%95%8C%E6%9D%AF%E8%90%BD%E5%B9%95",
+          "hot": 0
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -55,112 +66,157 @@
         {
           "title": "世界杯决赛：西班牙vs阿根廷",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "hot": "1211.3万"
+          "hot": "1211.2万"
+        },
+        {
+          "title": "刘建宏肇俊哲陪看世界杯终极决战",
+          "url": "https://www.douyin.com/search/%E5%88%98%E5%BB%BA%E5%AE%8F%E8%82%87%E4%BF%8A%E5%93%B2%E9%99%AA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E6%9E%81%E5%86%B3%E6%88%98",
+          "hot": "776.4万"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": "790.2万"
+          "hot": "770.2万"
         },
         {
           "title": "比决赛先来的是宿舍世界杯",
           "url": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "771.3万"
+          "hot": "769.2万"
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯点球大战：阿根廷7次赢6次最佳，西班牙5次赢1次最差",
+          "title": "奥尔莫做墙做球，亚马尔小角度推射被扑出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国官推：姆巴佩是60年来首位单届世界杯中参与14球的球员",
+          "title": "明星助阵！“甜茶”携世界杯决赛用球亮相赛前仪式",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "一群西班牙球迷世界杯决赛赛前聚集，一起高歌辱骂梅西",
+          "title": "冠军记忆再现！伊涅斯塔、肯佩斯携大力神杯亮相世界杯决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：国际足联检票系统一度出现故障，决赛现场排起长队",
+          "title": "创造历史，塔菲是首位参加两届世界杯决赛的里昂球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆赛后合影主动站在球队最边缘",
+          "title": "8万余名观众见证！特朗普专机飞越世界杯决赛球场上空",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说实话，C罗以后的历史地位会不会像斯蒂法诺那样，逐步下滑。",
+          "title": "特朗普谈世界杯决赛：我不会选边站，但很难押注梅西会输",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "同样是世界杯一冠一亚，为什么大罗能进历史前10，而姆巴佩进历史前50都费劲",
+          "title": "此前从没有过！连续3届世界杯决赛均有法甲球员代表双方首发",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "相比半决赛更换3人，斯卡洛尼两届世界杯仅一次沿用相同首发",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "决战时刻！阿根廷全队抵达球场，梅西、德保罗并肩亮相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "39岁25天！梅西成世界杯决赛历史最年长非门将球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯和英超欧冠看下来，越来越觉得梅努的可贵",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2026世界杯决赛热线——西班牙VS阿根廷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国窖1573丨西班牙vs阿根廷：亚马尔、罗德里出战，阿根廷首发暂未公布",
+          "title": "谁能做到？21世纪还没有球队能够两次赢得世界杯冠军",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "小孩哥，亚马尔与库巴西是世界杯决赛第三第四年轻首发的球员",
+          "title": "女足巨星助阵，邦马蒂现身世界杯决赛现场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯度假换新造型，留胡须在米兰现身",
+          "title": "邮报：阿根廷球迷冒险横穿公路赶赴世界杯决赛现场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "Opta更新世界杯夺冠概率：西班牙59.5%，阿根廷40.5%",
+          "title": "西阿决赛打响，肯佩斯和伊涅斯塔护送大力神杯入场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "RMC：德尚结束世界杯征程后低调抵达法国，未与接机球迷见面",
+          "title": "奥哈拉：贝林厄姆或许就是凯恩在英格兰锋线的接班人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：世界杯决赛前纽约空气改善，预计比赛不受影响",
+          "title": "西班牙能否做到？此前三届北美举办的世界杯冠军均为南美球队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔世界杯决赛前晒童年照，并配文：为了你，也为了这条街",
+          "title": "格伊：世界杯的票价太离谱，我不知道FIFA当时到底在想什么",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哈曼：德国队是本届世界杯最令人失望的球队",
+          "title": "罗马诺：阿莫林希望米兰买10号位；切尔西没在引进莱奥",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "哈曼：梅西是美加墨世界杯最佳球员，决赛我看好阿根廷赢球",
+          "title": "莫拉塔：罗德里的称赞让我想哭；希望西班牙今晚加冕世界杯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅叔叔与亚宝宝，梅西亚马尔创造世界杯决赛首发年龄差纪录",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "39岁25天，梅西是出战世界杯决赛第二年长的球员",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "孔蒂：意大利队？没人接触过我；罗梅罗进步了很多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 12,
       "status": "success"
     },
     "小红书": {
@@ -175,6 +231,11 @@
     },
     "网易": {
       "topics": [
+        {
+          "title": "世界杯决赛首发：西班牙11人不变！阿根廷更换3将 德保罗+冈皇先发",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
         {
           "title": "英格兰6-4法国获季军 萨卡戴帽姆巴佩2射1传",
           "url": "https://sports.163.com/worldcup2026/",
@@ -197,11 +258,6 @@
         },
         {
           "title": "看爽了！世界杯季军战轰出网球比分：两队轰38脚进10球 全场0黄牌",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "首次获得季军，英格兰取得近60年来世界杯最佳成绩",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
