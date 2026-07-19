@@ -1,14 +1,8 @@
 {
-  "update_time": "2026-07-19 19:14:56",
+  "update_time": "2026-07-19 21:41:12",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "姆巴佩说我们也是人",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E6%98%AF%E4%BA%BA",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "贝林厄姆在女友与哈兰德身边对比",
           "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94",
@@ -22,13 +16,13 @@
           "label": ""
         },
         {
-          "title": "上咪咕直击世界杯终局之战",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%92%AA%E5%92%95%E7%9B%B4%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98",
+          "title": "姆巴佩说我们也是人",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E6%98%AF%E4%BA%BA",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -44,28 +38,18 @@
           "hot": 0
         },
         {
-          "title": "花10万来世界杯被送医院",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B110%E4%B8%87%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E9%80%81%E5%8C%BB%E9%99%A2",
+          "title": "世界杯决赛战术前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E6%88%98%E6%9C%AF%E5%89%8D%E7%9E%BB",
           "hot": 0
         },
         {
-          "title": "姆巴佩成世界杯历史射手王",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "title": "姆巴佩 从小镇踢向足坛之巅",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E4%BB%8E%E5%B0%8F%E9%95%87%E8%B8%A2%E5%90%91%E8%B6%B3%E5%9D%9B%E4%B9%8B%E5%B7%85",
           "hot": 0
         },
         {
-          "title": "鬼畜区大战世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E7%95%9C%E5%8C%BA%E5%A4%A7%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        },
-        {
-          "title": "佛得角门将二度开导姆巴佩",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E4%BA%8C%E5%BA%A6%E5%BC%80%E5%AF%BC%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": 0
-        },
-        {
-          "title": "萨卡回应贝林厄姆让点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%90%A8%E5%8D%A1%E5%9B%9E%E5%BA%94%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%AE%A9%E7%82%B9",
+          "title": "世界杯决战之夜前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E6%88%98%E4%B9%8B%E5%A4%9C%E5%89%8D%E7%9E%BB",
           "hot": 0
         },
         {
@@ -74,12 +58,12 @@
           "hot": 0
         },
         {
-          "title": "世界杯季军赛赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "title": "世界杯决赛看点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9",
           "hot": 0
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "知乎": {
@@ -92,122 +76,147 @@
         {
           "title": "姆巴佩22球登顶世界杯历史射手榜",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A922%E7%90%83%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C",
-          "hot": "824.6万"
+          "hot": "784.3万"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": "784万"
+          "hot": "781.3万"
         },
         {
-          "title": "如何评价姆巴佩",
-          "url": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": "768.8万"
-        },
-        {
-          "title": "我是第一个关注佩德里的人",
-          "url": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%B3%E6%B3%A8%E4%BD%A9%E5%BE%B7%E9%87%8C%E7%9A%84%E4%BA%BA",
-          "hot": "767.8万"
+          "title": "老吃家都来世界杯面大赛了",
+          "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
+          "hot": "764.5万"
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯决赛开赛前夕，洪水席卷纽约城&amp;城市里面一片内涝",
+          "title": "法主持人：姆巴佩聪明超足球范畴，他有政治头脑是电视天才",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：为确保安全，FBI世界杯期间已查扣700余架违规无人机",
+          "title": "阿根廷队决赛海报：梅西领衔，恩佐、小蜘蛛、帕雷德斯出镜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "此前8届世界杯中，有7届季军在半决赛负于最终的冠军",
+          "title": "此前有3队从未落后过夺得世界杯，本届西班牙有望成第4队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA预测决赛首发：梅西pk亚马尔，佩德里、劳塔罗替补",
+          "title": "1998年以来，每届世界杯决赛都有皇马球员参加",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帕斯托雷惹怒皇马；切尔西预计恩佐会留下，且内部希望留他",
+          "title": "法国队致敬德尚：永远铭刻在法国足球史上，感谢你的一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西22年补射是1966年来决赛最高预期进球值，比点球还高",
+          "title": "罗梅罗-库巴西本届对比：传球成功率96%-96%，争顶72%-55%",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "1966年来世界杯决赛合计打进了48球，而预期进球值达57.6",
+          "title": "登贝莱本届世界杯6球2助攻，20次射门10次射正18次创造机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯金球奖最新赔率：梅西低至1.083，罗德里7.50",
+          "title": "费加罗报：姆巴佩有领袖风范，他不想让法国踢英格兰时丢脸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "图赫尔解释为什么梅努没有在世界杯出场：我觉得他还没有准备好",
+          "title": "验货成功！巴萨官方：祝贺戈登在世界杯实至名归获得第三名",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "浅谈法国队换个人当核心能不能拿冠军，以及为什么以姆巴佩当核心拿不了冠军？",
+          "title": "伊涅斯塔：阻止梅西恐怕会超出西班牙的能力范围",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "三大名帅兵败美加墨，他们曾经是曼联球迷心心念念的主帅目标",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皮克就马德里竞技CEO胡利安·阿尔瓦雷斯今夏不会加盟巴塞罗那一事发表看法",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]梅西与亚马尔在巴塞罗那的壁画被破坏，涂鸦称反对现代足球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩世界杯打入22球，独占世界杯历史射手榜榜首！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "说起来挺奇怪的，姆粉竟然真的因为姆巴佩数据好特别高兴，然后还试图骑脸对线",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "你们说连贝林厄姆，维尼修斯都相处不好的人，究竟是什么人？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 16,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯史话67（完结篇）：黑袍加身：梅西加冕卡塔尔",
+          "title": "巴媒：弗拉门戈将阿尔马达视为首要目标，将在世界杯后谈判",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "友情提示，展望2030年世界杯🌎🏆：贝林厄姆将年...",
+          "title": "马竞有10名球员参加世界杯决赛，是自1934年以来首次",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：姆巴佩晒女友穿法国球衣，27秒后删除",
+          "title": "阿根廷本届世界杯常规时间最后15分钟已进8球，追平赛事纪录",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "纳达尔谈世界杯决赛：相信西班牙夺冠，若输给阿根廷也能接受",
+          "title": "德天空：克洛普将在下周五与德国足协签约，有效期至2030年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "斯帕正赛和世界杯决赛同日，围场车手球衣亮相",
+          "title": "克媒：40岁莫德里奇将与米兰续约1年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "新泽西州长怒斥国际足联卖决赛场地草皮：他们一直在践踏我们",
+          "title": "队报：齐达内将到场观看西班牙对阿根廷的世界杯决赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "韩国前国脚具滋哲：若以100分来衡量，韩国足球只做到了10分",
+          "title": "OPTA：近7次世界杯决赛6次先得分球队夺冠，仅2006年法国例外",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "拉姆忆14年世界杯决赛：保持寻常心是关键，不要做太大改变",
+          "title": "伦敦足球网：切尔西内部认为恩佐价值高于三位中场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
