@@ -1,28 +1,16 @@
 {
-  "update_time": "2026-07-19 21:41:12",
+  "update_time": "2026-07-19 23:03:46",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "贝林厄姆在女友与哈兰德身边对比",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "世界杯",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "姆巴佩说我们也是人",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E6%98%AF%E4%BA%BA",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -38,23 +26,8 @@
           "hot": 0
         },
         {
-          "title": "世界杯决赛战术前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E6%88%98%E6%9C%AF%E5%89%8D%E7%9E%BB",
-          "hot": 0
-        },
-        {
-          "title": "姆巴佩 从小镇踢向足坛之巅",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E4%BB%8E%E5%B0%8F%E9%95%87%E8%B8%A2%E5%90%91%E8%B6%B3%E5%9D%9B%E4%B9%8B%E5%B7%85",
-          "hot": 0
-        },
-        {
-          "title": "世界杯决战之夜前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E6%88%98%E4%B9%8B%E5%A4%9C%E5%89%8D%E7%9E%BB",
-          "hot": 0
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "title": "世界杯季军赛赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
           "hot": 0
         },
         {
@@ -63,7 +36,7 @@
           "hot": 0
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -74,19 +47,19 @@
     "抖音": {
       "topics": [
         {
-          "title": "姆巴佩22球登顶世界杯历史射手榜",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A922%E7%90%83%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C",
-          "hot": "784.3万"
+          "title": "世界杯决赛：西班牙vs阿根廷",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "hot": "1208.1万"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
           "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": "781.3万"
+          "hot": "781.5万"
         },
         {
           "title": "老吃家都来世界杯面大赛了",
           "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
-          "hot": "764.5万"
+          "hot": "766.6万"
         }
       ],
       "count": 3,
@@ -95,67 +68,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "法主持人：姆巴佩聪明超足球范畴，他有政治头脑是电视天才",
+          "title": "3次！萨卡和戈登均追平英格兰球员单届世界杯助攻纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷队决赛海报：梅西领衔，恩佐、小蜘蛛、帕雷德斯出镜",
+          "title": "奥利塞25/26赛季共送出34次助攻，追平梅西11/12赛季纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "此前有3队从未落后过夺得世界杯，本届西班牙有望成第4队",
+          "title": "奥利塞单届世界杯7次助攻，历史上仅次于1958年8助的科帕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "1998年以来，每届世界杯决赛都有皇马球员参加",
+          "title": "世界杯俱乐部进球榜：皇马100球第一，拜仁87球，巴萨78球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法国队致敬德尚：永远铭刻在法国足球史上，感谢你的一切",
+          "title": "南美足联主席：加油阿根廷，把世界杯冠军留在美洲大陆！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗-库巴西本届对比：传球成功率96%-96%，争顶72%-55%",
+          "title": "C罗更新Ins，发布与乔治娜一同潜水游泳的视频",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "登贝莱本届世界杯6球2助攻，20次射门10次射正18次创造机会",
+          "title": "迈阿密国际官推发布梅西、德保罗海报：就是今天了，冲吧！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费加罗报：姆巴佩有领袖风范，他不想让法国踢英格兰时丢脸",
+          "title": "FIFA官推再次预热世界杯金靴之争：姆巴佩10球，梅西8球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "验货成功！巴萨官方：祝贺戈登在世界杯实至名归获得第三名",
+          "title": "都在讨论世界杯决赛，谁还记得坎塞洛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊涅斯塔：阻止梅西恐怕会超出西班牙的能力范围",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "三大名帅兵败美加墨，他们曾经是曼联球迷心心念念的主帅目标",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皮克就马德里竞技CEO胡利安·阿尔瓦雷斯今夏不会加盟巴塞罗那一事发表看法",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]梅西与亚马尔在巴塞罗那的壁画被破坏，涂鸦称反对现代足球",
+          "title": "各位萨迷们，今年世界杯最支持谁？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -165,63 +123,38 @@
           "hot": ""
         },
         {
-          "title": "说起来挺奇怪的，姆粉竟然真的因为姆巴佩数据好特别高兴，然后还试图骑脸对线",
+          "title": "姆巴佩不能少了登贝莱，英格兰有贝林厄姆才更强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "你们说连贝林厄姆，维尼修斯都相处不好的人，究竟是什么人？",
+          "title": "今年巴西杂志足球运动员历史评选，姆巴佩排名第19名！ESPN评选21世纪最好25大球员，姆巴佩排名第6",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 16,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴媒：弗拉门戈将阿尔马达视为首要目标，将在世界杯后谈判",
+          "title": "10球4助，姆巴佩是60年来首位单届世界杯参与14球的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马竞有10名球员参加世界杯决赛，是自1934年以来首次",
+          "title": "官方：37岁哈维-马丁内斯自由身离开卡塔尔乙级球队阿尔比达",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷本届世界杯常规时间最后15分钟已进8球，追平赛事纪录",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德天空：克洛普将在下周五与德国足协签约，有效期至2030年",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "克媒：40岁莫德里奇将与米兰续约1年",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：齐达内将到场观看西班牙对阿根廷的世界杯决赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "OPTA：近7次世界杯决赛6次先得分球队夺冠，仅2006年法国例外",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "伦敦足球网：切尔西内部认为恩佐价值高于三位中场",
+          "title": "父亲祝福麦卡利斯特：去实现你的另一个梦吧，我们与你同在",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
