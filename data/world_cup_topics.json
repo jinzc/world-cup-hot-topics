@@ -1,16 +1,58 @@
 {
-  "update_time": "2026-07-19 06:01:52",
+  "update_time": "2026-07-19 07:59:45",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯季军将获2900万美元奖金",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E5%B0%86%E8%8E%B72900%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
+          "title": "姆巴佩世界杯历史射手王",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "贝林厄姆让点",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%AE%A9%E7%82%B9",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩半场交换球衣",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8D%8A%E5%9C%BA%E4%BA%A4%E6%8D%A2%E7%90%83%E8%A1%A3",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩进球",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩图赫尔聊起来了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩梅开二度",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "姆巴佩10球",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A910%E7%90%83",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 8,
       "status": "success"
     },
     "百度": {
@@ -21,17 +63,27 @@
     "B站": {
       "topics": [
         {
-          "title": "一个公式预测世界杯决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E5%85%AC%E5%BC%8F%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "title": "姆巴佩成世界杯历史射手王",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
           "hot": 0
         },
         {
-          "title": "2026世界杯十大金主",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E5%A4%A7%E9%87%91%E4%B8%BB",
+          "title": "萨卡帽子戏法",
+          "url": "https://search.bilibili.com/all?keyword=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
+          "hot": 0
+        },
+        {
+          "title": "姆巴佩梅开二度",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
+          "hot": 0
+        },
+        {
+          "title": "一个公式预测世界杯决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E5%85%AC%E5%BC%8F%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -42,14 +94,14 @@
     "抖音": {
       "topics": [
         {
-          "title": "FIFA实力榜姆巴佩进攻第一",
-          "url": "https://www.douyin.com/search/FIFA%E5%AE%9E%E5%8A%9B%E6%A6%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E6%94%BB%E7%AC%AC%E4%B8%80",
-          "hot": "877.5万"
+          "title": "英格兰队史首获世界杯铜牌",
+          "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%8F%B2%E9%A6%96%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%93%9C%E7%89%8C",
+          "hot": "968.9万"
         },
         {
           "title": "老吃家都来世界杯面大赛了",
           "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
-          "hot": "764.7万"
+          "hot": "762.1万"
         }
       ],
       "count": 2,
@@ -58,138 +110,123 @@
     "虎扑": {
       "topics": [
         {
-          "title": "半场落后英格兰4球，姆巴佩在丢球后两次露出笑容",
+          "title": "皇马球员单届世界杯进22球+赛事历史进99球，俱乐部之中最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩首发出战英格兰，女友爱珀斯托现场观战",
+          "title": "姆巴佩：上半场被英格兰打懵了，最惋惜的是没好好送别德尚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "里程碑时刻，萨卡的进球是本届世界杯诞生的第300粒进球",
+          "title": "对攻！法国队史4次参加世界杯季军战，总共打进16球丢14球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "还差一球，世界杯三四名决赛历史最大分差纪录是4-0",
+          "title": "一人顶两，贝林厄姆世界杯打进8球，兰帕德+杰拉德合计才3球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德禁区外拉球过人，随后一脚远射被迈尼昂扑住",
+          "title": "英法战进10球/射正20次/预期进球5.69，本届世界杯单场最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2010年来，法国队首次连续2场世界杯丢掉至少2球",
+          "title": "记者：英格兰必须围绕贝林厄姆建队，他能挺身而出锁定胜局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "放假？法国队首次在世界杯赛场开场20分钟丢掉2球",
+          "title": "萨卡：贝林从没想要罚点，他是第一个对我说去完成戴帽的人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "5球，英格兰超越阿根廷成本届世界杯头球进球最多的球队",
+          "title": "直接抢萨默维尔啊，别等拉什福德了。。拿下萨默维尔拉什福德自己就滚蛋了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩大禁区外围起脚远射，皮球偏出远端立柱",
+          "title": "没看错的话，贝林和姆巴佩赛后没有拥抱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨卡快速反击杀入禁区，扣过防守射门被拉克鲁瓦挡出底线",
+          "title": "隔壁姆巴佩贝林谁是一哥？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯三四名决赛最快进球榜：赖斯的进球排名第三",
+          "title": "姆巴佩这下真得专注皇马了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "据说就是因为这场比赛，国际足联确定了脱衣庆祝要给牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "啥？英格兰4:0了？不知道的还以为英格兰在拼命给凯恩喂金靴呢！结果人家根本没上场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩还是下场吧，全队都放弃了，就他自己还想着刷进球",
+          "title": "兄弟们，贝林和姆巴佩怎么都不打招呼？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "半场战报：英格兰4-0法国，赖斯传射建功，萨卡梅开二度",
+          "title": "实况足球丨英格兰6-4法国夺季军，萨卡戴帽，姆巴佩2射1传",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "温格：奥尔莫能回撤至中场，就像梅西在阿根廷队所做的那样",
+          "title": "懂球帝海报：姆巴佩登顶世界杯历史射手王",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "自2002年以来，赖斯是单届世界杯靠角球助攻两次的英格兰球员",
+          "title": "奥利塞单届世界杯20次射门零进球，为2010年梅西以来最多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "萨卡打进空门，攻入美加墨世界杯第300球",
+          "title": "懂球帝美加墨世界杯7月19日红榜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：雷暴取消西班牙队世界杯决赛前最后一次训练",
+          "title": "欧文：在世界杯前与图赫尔续约是场闹剧，一开始就不该找他",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "0-2落后英格兰，法国首次在世界杯开场20分钟内丢两球",
+          "title": "法国足协致敬德尚：作为球员和主帅，很少有人为法国付出更多",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "赖斯破门为世界杯季军战第3快，世界杯最快进球也诞生在季军战",
+          "title": "高山，德尚是执教世界杯场次最多、胜场最多和进球最多的教练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马克龙：法国足球翻开新一页，感谢德尚带来的传奇胜利",
+          "title": "U17女篮世界杯：中国73-71险胜斯洛文尼亚锁定前六",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "第12次世界杯出场，赖斯斩获个人生涯世界杯首球",
+          "title": "姆巴佩10球领跑世界杯射手榜，梅西想反超需决赛戴帽或2球1助",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "自2010年以来，法国首次连续两场世界杯至少丢两球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "法国队开场3分钟丢球，是球队自1982年以来世界杯最快失球",
+          "title": "姆巴佩：梅西肯定也会进球；若能踢决赛我宁愿不要历史射手王",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "小红书": {
@@ -205,17 +242,47 @@
     "网易": {
       "topics": [
         {
-          "title": "法国vs英格兰：姆巴佩、谢尔基首发，凯恩、贝林替补",
+          "title": "英格兰6-4法国获季军 萨卡戴帽姆巴佩2射1传",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "世界杯季军战英法均轮换7人，姆巴佩、奥利塞、赖斯连场首发",
+          "title": "姆巴佩独享世界杯射手王！22球反超梅西",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
         {
-          "title": "《队报》名记对中国足球感同身受：法国足球复兴靠三点",
+          "title": "德尚完成执教法国队生涯谢幕之战，187场122胜&amp;世界杯夺冠1次",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "评分完美10分！姆巴佩心酸：宁愿不要射手王的虚名，我更想踢决赛",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "看爽了！世界杯季军战轰出网球比分：两队轰38脚进10球 全场0黄牌",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "首次获得季军，英格兰取得近60年来世界杯最佳成绩",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "帽子戏法，萨卡当选法国vs英格兰全场最佳球员",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "马克龙：法国足球翻开新一页，感谢德尚带来的传奇胜利",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "TA：雷暴取消西班牙队世界杯决赛前最后一次训练",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         },
@@ -228,24 +295,9 @@
           "title": "范志毅：世界杯不拿冠军和最后一名没什么区别 没人会记住2-48名",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
-        },
-        {
-          "title": "特朗普曝光因凡蒂诺疯狂计划：让中美合办世界杯 球员们会很喜欢",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "不是30分钟！官方：世界杯决赛中场休息最多17分钟 中场秀11分钟",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "Metro：恩佐-费尔南德斯社媒嘲讽英格兰，随后删除",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 11,
       "status": "success"
     },
     "腾讯": {
