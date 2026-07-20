@@ -1,32 +1,8 @@
 {
-  "update_time": "2026-07-20 06:59:01",
+  "update_time": "2026-07-20 08:06:28",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "恩佐两黄变一红",
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E4%B8%A4%E9%BB%84%E5%8F%98%E4%B8%80%E7%BA%A2",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "世界杯中场秀 不转播",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80%20%E4%B8%8D%E8%BD%AC%E6%92%AD",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "大马丁 门神降临阿根廷",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%20%E9%97%A8%E7%A5%9E%E9%99%8D%E4%B8%B4%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "帕雷德斯",
-          "url": "https://s.weibo.com/weibo?q=%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "姆巴佩金靴",
           "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4",
@@ -34,20 +10,44 @@
           "label": ""
         },
         {
-          "title": "特朗普摸大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "title": "亚马尔和蒙牛有个冠军的新秘密",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%92%8C%E8%92%99%E7%89%9B%E6%9C%89%E4%B8%AA%E5%86%A0%E5%86%9B%E7%9A%84%E6%96%B0%E7%A7%98%E5%AF%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯中场秀",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9C%BA%E7%A7%80",
+          "title": "罗德里获世界杯金球奖",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "觉得压力大的可以看看大马丁",
-          "url": "https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E5%A4%A7%E9%A9%AC%E4%B8%81",
+          "title": "集美派对预测世界杯冠军封神",
+          "url": "https://s.weibo.com/weibo?q=%E9%9B%86%E7%BE%8E%E6%B4%BE%E5%AF%B9%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%B0%81%E7%A5%9E",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "恩佐两黄变一红",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E4%B8%A4%E9%BB%84%E5%8F%98%E4%B8%80%E7%BA%A2",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "亚马尔决赛数据",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%86%B3%E8%B5%9B%E6%95%B0%E6%8D%AE",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "世界杯最新冠军榜",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E6%96%B0%E5%86%A0%E5%86%9B%E6%A6%9C",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "亚马尔最年轻双冠王",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%8F%8C%E5%86%A0%E7%8E%8B",
           "hot": 0,
           "label": ""
         },
@@ -58,43 +58,19 @@
           "label": ""
         },
         {
-          "title": "世界杯",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "大马丁 门神降临阿根廷",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%20%E9%97%A8%E7%A5%9E%E9%99%8D%E4%B8%B4%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "世界杯决赛判罚尺度",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%88%A4%E7%BD%9A%E5%B0%BA%E5%BA%A6",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "帕雷德斯黄牌",
-          "url": "https://s.weibo.com/weibo?q=%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF%E9%BB%84%E7%89%8C",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "樊振东评世界杯最佳阵容",
-          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "大马丁 手指骨折带伤参赛",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%20%E6%89%8B%E6%8C%87%E9%AA%A8%E6%8A%98%E5%B8%A6%E4%BC%A4%E5%8F%82%E8%B5%9B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "亚马尔小腿被踩",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%B0%8F%E8%85%BF%E8%A2%AB%E8%B8%A9",
+          "title": "帕雷德斯赛后染红",
+          "url": "https://s.weibo.com/weibo?q=%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF%E8%B5%9B%E5%90%8E%E6%9F%93%E7%BA%A2",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 15,
+      "count": 11,
       "status": "success"
     },
     "百度": {
@@ -120,8 +96,23 @@
           "hot": 0
         },
         {
+          "title": "徐静雨评西班牙世界杯夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0",
+          "hot": 0
+        },
+        {
+          "title": "亚马尔 19岁的世界杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%2019%E5%B2%81%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "hot": 0
+        },
+        {
           "title": "大马丁扑救数上双",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E9%A9%AC%E4%B8%81%E6%89%91%E6%95%91%E6%95%B0%E4%B8%8A%E5%8F%8C",
+          "hot": 0
+        },
+        {
+          "title": "罗德里获世界杯金球奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
           "hot": 0
         },
         {
@@ -133,14 +124,9 @@
           "title": "世界杯决赛看点",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%82%B9",
           "hot": 0
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "hot": 0
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "知乎": {
@@ -153,137 +139,132 @@
         {
           "title": "西班牙捧起大力神杯",
           "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "hot": "1119.4万"
+          "hot": "1206.3万"
         },
         {
-          "title": "萨卡帽子戏法",
-          "url": "https://www.douyin.com/search/%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
-          "hot": "768.3万"
+          "title": "罗德里获世界杯金球奖",
+          "url": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%90%83%E5%A5%96",
+          "hot": "769.9万"
         },
         {
           "title": "世界杯决赛中场秀",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E7%A7%80",
-          "hot": "766.8万"
+          "hot": "769.1万"
         },
         {
           "title": "我是第一个关注佩德里的人",
           "url": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%B3%E6%B3%A8%E4%BD%A9%E5%BE%B7%E9%87%8C%E7%9A%84%E4%BA%BA",
-          "hot": "763.8万"
+          "hot": "763.7万"
         },
         {
           "title": "比决赛先来的是宿舍世界杯",
           "url": "https://www.douyin.com/search/%E6%AF%94%E5%86%B3%E8%B5%9B%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E5%AE%BF%E8%88%8D%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": "763.6万"
-        },
-        {
-          "title": "姆巴佩：我宁愿不当这个历史射手王",
-          "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%EF%BC%9A%E6%88%91%E5%AE%81%E6%84%BF%E4%B8%8D%E5%BD%93%E8%BF%99%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "hot": "761.2万"
+          "hot": "762.3万"
         },
         {
           "title": "如何评价姆巴佩",
           "url": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A7%86%E5%B7%B4%E4%BD%A9",
-          "hot": "723.2万"
+          "hot": "758.1万"
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "因凡蒂诺：祝贺西班牙队夺得本届世界杯冠军，第二次加冕",
+          "title": "1966年来单届完成传球600+球员：罗德里、库巴西、拉波尔特",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "特朗普因凡蒂诺为西班牙颁奖，罗德里在全队簇拥下捧起金杯",
+          "title": "库巴西：梅西是我榜样，看到他这样我难过，不喜欢看他输球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷官方致敬梅西：你带给我们生命最巨大快乐，感谢奉献",
+          "title": "美加墨裁判评议：双方共7人逃黄；恩佐&amp;帕雷德斯红牌正确",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷第二次世界杯加时赛输球，此前唯一一次是14年决赛",
+          "title": "世界杯+欧/美洲杯+欧冠+金球奖得主，罗德里是历史第七人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西班牙队夺得队史第二座世界杯冠军，纳达尔表示祝贺",
+          "title": "太阳报介绍罗德里女友：女方是外科医学生，两人大学时相识",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热刺是英超历史上首支，连续三届世界杯都有球员夺冠俱乐部",
+          "title": "队报：法国足协和国家队互相不满，德尚出征前就有重重问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维被推倒时，埃里克-加西亚也遭遇围攻并被锁喉",
+          "title": "梅西本届世界杯8场8球4助，只有决赛没参与进球阿根廷便输球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "京多安：西班牙夺冠实至名归，祝贺我的前队友费兰和罗德里",
+          "title": "西班牙队史7座冠军：2次世界杯、4次欧洲杯、1次欧国联",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "最佳年轻球员+金手套+金球奖，西班牙包揽世界杯3大个人奖杯",
+          "title": "5球1助，奥亚萨瓦尔是皇家社会队史第一位世界杯冠军得主",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "时隔16年再次夺得世界杯！西班牙全队捧起大力神杯！！",
+          "title": "队报：温契奇不早给阿根廷黄牌，找平衡纵容西班牙针对梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这可能是世界杯有史以来实力最悬殊的比赛",
+          "title": "迪马利亚安慰阿根廷：这个国家为你们骄傲，我爱你们每个人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔金球赔率第一了",
+          "title": "世界杯决赛0射正球队：26阿根廷、14阿根廷、90阿根廷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷输了对梅西也是解脱了，至少亚军不会被吧",
+          "title": "拉什福德Instagram：失败让人痛心，今天以正确的方式回应，现在我休息，反思，回来时成为更好的自己",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西，阿根廷不要为我哭泣！39岁，回巴萨效力一年再退役吧",
+          "title": "库巴西世界杯非常完美的表现，但回到巴萨又会面临很糟糕的局面了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "今天西班牙其实赢得很侥幸，缺一个姆巴佩这样一锤定音的，要不是对面罚下两人，真就输了",
+          "title": "就算梅老板世界杯决赛发挥不佳，但8球4助攻的表现怎么连世界杯金球都被罗德里偷了？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我现在要说，罗德里可以买",
+          "title": "感觉今年金球奖，姆巴佩又有机会了，没一个人有绝对优势，姆总三个金靴，个人表现没输过",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我靠突然想到罗德里好像能竞争历史第一后腰了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 16,
+      "count": 17,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "实况足球丨西班牙1-0阿根廷夺队史第二冠，费兰绝杀，恩佐染红",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中场核心！西班牙后腰罗德里荣获美加墨世界杯金球奖！",
+          "title": "实况足球丨西班牙1-0阿根廷夺队史第二冠，费兰绝杀恩佐染红",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -293,57 +274,57 @@
           "hot": ""
         },
         {
-          "title": "历届世界杯冠军：西班牙第二次加冕，巴西五星德意各四星",
+          "title": "赖特炮轰世界杯决赛场地：草皮太差，属实离谱",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "何时兑现承诺？库库此前曾说世界杯夺冠就纹德拉富恩特的脸",
+          "title": "美媒：西班牙首夺世界杯冠军詹姆斯去热火，如今他再成自由身",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "绝对赢家，西班牙夺得世界杯的同时队内三名球员获得赛事奖项",
+          "title": "欧洲杯冠军第3次赢得世界杯冠军，其中两次由西班牙做到",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "自1982年以来，库巴西是首位获得世界杯最佳新秀奖的后卫",
+          "title": "唯一的阿根廷人，梅西是第14名输掉两场世界杯决赛的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "金球奖给个位置！法比安是今年唯一包揽欧冠+世界杯冠军的球员",
+          "title": "库巴西：我更看重世界杯冠军和全队的付出，个人奖项是次要的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：荷兰队获得2026美加墨世界杯公平竞赛奖",
+          "title": "迪马利亚致敬阿根廷队：你们已是传奇，我非常爱你们",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "夺冠大功臣，罗德里连续拿下欧洲杯+世界杯最佳球员奖",
+          "title": "吉诺比利晒梅西泪洒赛场照片：太让人感动了，谢谢你，天才！",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "遗憾无缘卫冕，39岁梅西领取奖牌后泪洒赛场！",
+          "title": "阿根廷、法国均未幸免，近16支世界杯小组赛全胜球队都没夺冠",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "挡不住的斗牛士，西班牙大赛淘汰赛9连胜连夺欧洲杯+世界杯",
+          "title": "队史第一人，奥亚萨瓦尔成为皇家社会首位世界杯冠军",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佩德里替补出场送出关键传球4次全场最多，传球成功率93%",
+          "title": "西班牙王室见证历史时刻，两位公主随国家队捧起世界杯奖杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 12,
       "status": "success"
     },
     "小红书": {
@@ -389,22 +370,27 @@
           "hot": ""
         },
         {
+          "title": "世界杯奖项汇总：西班牙获4大奖！罗德里获金球，19岁中卫获金童奖",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "历届世界杯冠军：西班牙第二次加冕，巴西五星德意各四星",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯48强最终排名：西班牙夺冠 阿根廷亚军 葡萄牙仅第13 日本第21",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
           "title": "梅西的人生经过梳理，就成了阿根廷新的足球史",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "接任法国队主帅在即，齐达内现场观看世界杯决赛",
-          "url": "https://sports.163.com/worldcup2026/",
-          "hot": ""
-        },
-        {
-          "title": "次元壁破了！“泰德-拉索”与贾斯汀-比伯齐聚世界杯决赛中场秀",
           "url": "https://sports.163.com/worldcup2026/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "腾讯": {
