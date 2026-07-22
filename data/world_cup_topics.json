@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-07-22 19:54:24",
+  "update_time": "2026-07-22 22:13:57",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "加维说阿根廷球员不该被禁赛",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BB%B4%E8%AF%B4%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E5%91%98%E4%B8%8D%E8%AF%A5%E8%A2%AB%E7%A6%81%E8%B5%9B",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "教练说C罗没有王心迪厉害",
-          "url": "https://s.weibo.com/weibo?q=%E6%95%99%E7%BB%83%E8%AF%B4C%E7%BD%97%E6%B2%A1%E6%9C%89%E7%8E%8B%E5%BF%83%E8%BF%AA%E5%8E%89%E5%AE%B3",
+          "title": "C罗世界杯期间涨粉超千万",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E6%B6%A8%E7%B2%89%E8%B6%85%E5%8D%83%E4%B8%87",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -26,6 +20,16 @@
     },
     "B站": {
       "topics": [
+        {
+          "title": "在村里举办一场世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E6%9D%91%E9%87%8C%E4%B8%BE%E5%8A%9E%E4%B8%80%E5%9C%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
+        },
+        {
+          "title": "美加墨世界杯回顾复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9E%E9%A1%BE%E5%A4%8D%E7%9B%98",
+          "hot": 0
+        },
         {
           "title": "王冰冰的世界杯收官总结",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%AE%98%E6%80%BB%E7%BB%93",
@@ -37,7 +41,7 @@
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "知乎": {
@@ -50,7 +54,7 @@
         {
           "title": "2026世界杯 再见",
           "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E6%9D%AF+%E5%86%8D%E8%A7%81",
-          "hot": "902.9万"
+          "hot": "892.5万"
         }
       ],
       "count": 1,
@@ -59,98 +63,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯门将扑救次数排行：巴拉圭门将吉尔领衔，大马丁在列",
+          "title": "Sofascore官方：罗德里跑动距离本届最多，奥利塞冲刺跑最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "里瑟：维尔茨偶有高光但得提升稳定性；努萨会非常适合红军",
+          "title": "米体：维拉标价大马丁不低1200万，尤文不愿匹配或另寻目标",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2026年世界杯零封场次最多的门将：乌奈-西蒙7次断层领先",
+          "title": "马卡：李刚仁转会马竞预计周四官宣，转会费3500万+500万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安保升级！世界杯决赛体育场周围部署了精锐狙击手",
+          "title": "英超近10赛季创绝佳机会榜：德布劳内、萨拉赫、B费前三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "遭歧视的韩国女球迷，因把梅西球衣当抹布擦窗户而被全网骂",
+          "title": "FIFA公布球迷票选世界杯最佳阵：梅西，姆巴佩，哈兰德领衔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：加拉塔萨雷和费内巴切争夺莱奥，米兰要5000万-6000万",
+          "title": "[流言板]阿邦拉霍：很惊讶没有球队报价拉什福德，可能是因薪资过高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前马竞球员罗德里和前巴萨球员库库都去隔壁？",
+          "title": "没关注过亚马尔，看世界杯的时候也没觉得有多强，但是这个视频让我看到他的强度了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "都签泥头车签贝席了，几千万签罗德里也不是不行",
+          "title": "最新身价：哈兰德亚马尔2.2亿，姆巴佩2亿奥利塞1.7亿贝林1.6亿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马将总年薪2200万欧报价维尼修斯，不接受将以近9000万欧出售",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "跟队ACTUSRMCF：弗洛伦蒂诺·佩雷斯拒绝罗德里加盟皇马的两大原因： 在金球奖私人庆祝活动上，他曾取笑维尼修斯。 在大选相关事件中，罗德里并未否认自己与恩里克·里克梅存在关联。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯与皇马续约陷入僵局，球员要求签字费皇马不愿支付",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉蒙·阿尔瓦雷斯：罗德里十分期待皇家马德里向自己送上转会报价。他已经多次拒绝了曼城开出的续约合同。",
+          "title": "罗德里到底能不能来了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "前巴萨后卫：戈登完美适配巴萨，不担心拉什福德未来",
+          "title": "全市场：热刺愿降价到4500万欧起卖罗梅罗，国米有意抢人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA：2030世界杯决赛场地竞争，伯纳乌领先诺坎普",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨青训教练：亚马尔7岁就与众不同，意识到他是“特殊球员”",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "莫雷托：莱奥转会陷入停滞暂无报价，可能集训后再离队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意天空：国米边路引援需评估，斯彭斯、罗梅罗等人均在名单",
+          "title": "TA：特朗普施压国际足联，希望摩洛哥承办2030世界杯决赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
