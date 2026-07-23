@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-24 03:37:18",
+  "update_time": "2026-07-24 05:13:59",
   "sources": {
     "微博": {
       "topics": [
@@ -36,6 +36,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "德天空：皇马已决定今夏签下罗德里，决定已经100%做出",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯赛场没踢够！奥利塞现身纽约加入当地街头野球赛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "记者：梅西可能继续留在阿根廷，帮助球队培养尼科-帕斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -46,17 +56,32 @@
           "hot": ""
         },
         {
-          "title": "没关注过亚马尔，看世界杯的时候也没觉得有多强，但是这个视频让我看到他的强度了",
+          "title": "下届世界杯的关键会是贝尔纳尔吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Ramon_AlvarezMM：弗洛伦蒂诺·佩雷斯已经批准皇马引进罗德里。局势将于周二迎来重大转机，主席看到了罗德里在世界杯上的亮眼表现，态度发生转变。他要来了",
+          "title": "梅西今年的表现让人想起了19年",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "天空：皇马已决定签下罗德里，正着手与球员敲定个人条款。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩ins粉丝1.3亿，贝林5364万，谁的人气高一目了然！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆根本就不是齐达内，他只是一个抢着进球的伪组织核心。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -67,12 +92,12 @@
           "hot": ""
         },
         {
-          "title": "葡萄牙营销学院高管：C罗品牌价值远超葡萄牙国家队",
+          "title": "记者：利物浦有意2027年免签维尼修斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿邦拉霍：金球奖应该给KK，他比亚马尔和凯恩更突出",
+          "title": "葡萄牙营销学院高管：C罗品牌价值远超葡萄牙国家队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
