@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-25 00:48:02",
+  "update_time": "2026-07-25 02:23:39",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,43 @@
     "虎扑": {
       "topics": [
         {
+          "title": "TA：美国查获超44.5万件世界杯侵权商品，梅西假球衣最多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：拉什福德不太愿意去土超踢球，他有可能会去热刺",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "荷兰弟谈与梅西合拍电影宣传片：他能走出舒适区，我很感激",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德天空：皇马全力推动罗德里转会，已与球员团队展开谈判",
+          "title": "辩论报：罗德里不希望曼城为自己去皇马要高价，最多5000万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩还有油么，他周薪多少，如果他和拉什福德互换下怎么样",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西生涯所有比赛视频",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨球迷梅西球迷，数学家邓煜获菲尔茨奖",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Plettigoal：皇家马德里计划为罗德里提供一份至2030年到期的合同。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "明早一睁眼，嘿喂狗，罗德里与皇马达成个人协议？如果罗德里健康我还是愿意他来取代楚梅，对比罗德里，杵梅真是个木头桩子，球商跟姆总一挂，踢球又还洁癖，就是不知道罗德里未来会不会反复伤缺",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩的价值不能以金球奖来衡量",
+          "title": "维尼修斯为核心的巴西队为什么止步世界杯16强？36年来首次没进8强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "莫伊塞-基恩：最想在世界杯决赛中进球；不当球员或成说唱歌手",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：世界杯期间美国海关查获超44.5万件侵权商品，其中大量假球衣",
+          "title": "利物浦旧将：曼联应该卖B费筹钱重建，他的助攻纪录被高估",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
