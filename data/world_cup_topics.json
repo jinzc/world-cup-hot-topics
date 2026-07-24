@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-25 04:25:35",
+  "update_time": "2026-07-25 06:11:46",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "TA：美国查获超44.5万件世界杯侵权商品，梅西假球衣最多",
+          "title": "记者：国米与热刺开始谈罗梅罗转会，国米愿出4000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：拉什福德不太愿意去土超踢球，他有可能会去热刺",
+          "title": "梅西母系家族溯源：从意大利迁至巴西，最终扎根阿根廷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "荷兰弟谈与梅西合拍电影宣传片：他能走出舒适区，我很感激",
+          "title": "TA：老佛爷+穆帅本没打算签罗德里，但他世界杯踢太好改主意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨此时应该速度摸一手罗德里！",
+          "title": "DO：皇马正积极推进曼城中场罗德里的加盟，有信心能签下他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "DO：皇马正在推进签下罗德里的交易，世界杯的出色表现改变了皇马的立场。",
+          "title": "世界杯期间印度有大量巴西球迷，巴西10月初去印度踢友谊赛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马拿下罗德里的话，感觉真会买楚阿梅尼",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "德容把薪资空间腾出来了，去追罗德里啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：皇马暂未推动罗德里转会，现阶段主要专注于清理阵容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
@@ -63,14 +78,9 @@
           "title": "记者：出于竞技和家庭的双重原因，罗德里想去皇马且不会续约",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "Goal：C罗要求引援团队不受干涉，利雅得胜利已接触B费",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
