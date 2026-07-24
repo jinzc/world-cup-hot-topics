@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-25 02:23:39",
+  "update_time": "2026-07-25 04:25:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -44,12 +44,12 @@
           "hot": ""
         },
         {
-          "title": "辩论报：罗德里不希望曼城为自己去皇马要高价，最多5000万",
+          "title": "巴萨此时应该速度摸一手罗德里！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯为核心的巴西队为什么止步世界杯16强？36年来首次没进8强？",
+          "title": "DO：皇马正在推进签下罗德里的交易，世界杯的出色表现改变了皇马的立场。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -60,12 +60,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "利物浦旧将：曼联应该卖B费筹钱重建，他的助攻纪录被高估",
+          "title": "记者：出于竞技和家庭的双重原因，罗德里想去皇马且不会续约",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "Goal：C罗要求引援团队不受干涉，利雅得胜利已接触B费",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
