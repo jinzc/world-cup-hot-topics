@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-26 03:19:22",
+  "update_time": "2026-07-26 05:01:23",
   "sources": {
     "微博": {
       "topics": [
@@ -36,6 +36,26 @@
     "虎扑": {
       "topics": [
         {
+          "title": "国米总监：已向热刺表达对罗梅罗兴趣；还在寻找新的右翼卫",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队：费内巴切仍是莱奥头号下家，米兰可能不到4000万就卖",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "卫报：阿森纳有意维尼修斯，已向皇马询问情况",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "邮报：塔帅渴望签维尼修斯，称他是阿森纳冲击欧冠终极推力",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "邮报：穆帅很看重维尼修斯，但若皇马要卖他也不太可能阻拦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -51,73 +71,53 @@
           "hot": ""
         },
         {
-          "title": "罗马提议曼联将拉什福德加入科内交易，但前者年薪实在太高",
+          "title": "看完莱万总觉得市面上的中锋都索然无味",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：巴黎决心今夏签下罗德里，认为他能让球队更难被击败",
+          "title": "TeleFootball：何塞·穆里尼奥向皇马提出要求，希望留下维尼修斯。何塞·穆里尼奥向皇马方面表态，希望队内全部明星球员留队。他希望留住姆巴佩、贝林厄姆以及维尼修斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "ESPN：若维尼修斯谈不妥续约，皇马将阿森纳视唯一可能下家",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "邦马蒂：金球奖我会选罗德里或库巴西，也可能是梅西",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西和德保罗将在世界杯后休息，不参加下周的美职联全明星",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "比朔夫：过去一周训练强度很大；期待参加世界杯队友归来",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【玩够了就赶紧回来】肖社媒催促B费归队：我们等着你，队长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "楚阿梅尼没机会，维尼修斯是真有机会",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "隔壁要拿下迪奥曼德了，能不能明年免签维尼修斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "El Debate：罗德里努力将转会费定为4500万欧加奖金，以此让皇马改变立场。",
+          "title": "欧冠进球一预期进球数据:                         维尼修斯—2.88，姆巴佩+4.21，费兰+0.37， 进球转化率:  维尼修斯7%，姆巴佩23%，费兰18%",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "布朗：拉什福德留在曼联肯定会给卡里克很大的帮助",
+          "title": "奥西利奥：我们确实有意罗梅罗，已和球员经纪人以及热刺协商",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "迪洛伦佐：德布劳内？比赛方式由教练决定；等待卢卡库回归",
+          "title": "马卡：维尼修斯、迪奥曼德属一家经纪公司；皇马大笔引援必有大牌离队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意媒：国米要给罗梅罗500万欧年薪，球员经纪人已抵达意大利",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：皇马内部称罗德里不适合穆帅体系，迪奥曼德为首要目标",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥莱报：回到罗萨里奥，梅西现场观战其家族经营球队的比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
