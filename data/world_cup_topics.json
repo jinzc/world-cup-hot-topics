@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-27 07:04:17",
+  "update_time": "2026-07-27 11:51:54",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,20 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "村超和世界杯体验有何异同",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%91%E8%B6%85%E5%92%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E9%AA%8C%E6%9C%89%E4%BD%95%E5%BC%82%E5%90%8C",
-          "hot": 0
-        },
-        {
-          "title": "小王拆解世界杯谁是输家",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%8E%8B%E6%8B%86%E8%A7%A3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E6%98%AF%E8%BE%93%E5%AE%B6",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -37,7 +26,7 @@
         {
           "title": "佩德里西班牙小伙体验中国文化",
           "url": "https://www.douyin.com/search/%E4%BD%A9%E5%BE%B7%E9%87%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8F%E4%BC%99%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96",
-          "hot": "1066.7万"
+          "hot": "764.5万"
         }
       ],
       "count": 1,
@@ -46,58 +35,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "隆戈：米兰为莱奥标价6000万，但下家出价远低于此",
+          "title": "罗马诺：曼城绝不愿以2000-3000万低价，卖罗德里给皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：罗德里很想加盟皇马，但后者对他的兴趣不及其他新援",
+          "title": "世界杯48支参赛队伍中，已有18支球队更换主教练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：阿森纳的确有意维尼修斯，迪奥曼德加盟或促成其离队",
+          "title": "罗马诺：穆西亚拉团队保证他会留队，拜仁也仍然非常信任他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：目前与莱奥团队展开最具体谈判的俱乐部是贝西克塔斯",
+          "title": "ESPN历届世界杯排名：82年第一，26年第六，22年第十一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：如果皇马签下罗德里不再需要楚阿梅尼，球员愿意加盟曼联",
+          "title": "世体：佩德里在中国受到热烈欢迎，他的影响力已扩展到全球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马目标扬迪奥曼德26世界杯对厄瓜多尔集锦",
+          "title": "德转评金球奖竞争：0热门人选，凯恩亚马尔等5人有力竞争者",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马是疯了吗，给罗德里4年合同，还高薪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这新闻真是有点意思。 六台：巴萨关注迪奥曼德、B席、邓弗里斯和库库雷利亚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "埃布努塔利布：愿代表摩洛哥或德国出战，很失望没踢上世界杯",
+          "title": "姆巴佩在世界杯结束后致法国球迷的公开信：&quot;谢谢你...",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "归队报到，伊萨克、赫拉芬贝赫、维尔茨已加入利物浦季前训练",
+          "title": "ESPN：梅西将连续第二年退出MLS全明星赛，但这次不会被处罚",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "塞尔记者：阿森纳确实有意维尼修斯，楚阿梅尼也可能离队",
+          "title": "切尔西前助教：拉克鲁瓦在世界杯踢得很差；恩佐想走就应卖掉",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马特塔社媒：我们原本希望把世界杯带回家，感谢教练组信任",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
