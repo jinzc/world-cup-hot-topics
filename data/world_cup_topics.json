@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-07-28 14:34:33",
+  "update_time": "2026-07-28 17:41:18",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "世界杯决赛后立刻挂哨的两位裁判",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%90%8E%E7%AB%8B%E5%88%BB%E6%8C%82%E5%93%A8%E7%9A%84%E4%B8%A4%E4%BD%8D%E8%A3%81%E5%88%A4",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "佛得角后卫轰出世界杯最佳进球",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%90%8E%E5%8D%AB%E8%BD%B0%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E8%BF%9B%E7%90%83",
+          "title": "C罗无世界杯冠军遭航空公司嘲讽",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -50,26 +44,51 @@
         {
           "title": "世界杯最佳进球来自佛得角",
           "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E8%BF%9B%E7%90%83%E6%9D%A5%E8%87%AA%E4%BD%9B%E5%BE%97%E8%A7%92",
-          "hot": "910.1万"
+          "hot": "844.8万"
+        },
+        {
+          "title": "佩德里也来打卡落地沪签",
+          "url": "https://www.douyin.com/search/%E4%BD%A9%E5%BE%B7%E9%87%8C%E4%B9%9F%E6%9D%A5%E6%89%93%E5%8D%A1%E8%90%BD%E5%9C%B0%E6%B2%AA%E7%AD%BE",
+          "hot": "775万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "巴萨近2赛季制造进球榜：拉菲尼亚84球第一，亚马尔80球第二",
+          "title": "齐达内：离开皇马我只想执教法国；还没和姆巴佩聊他要休息",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "龙赛罗：维尼修斯留皇马吧，少赚点又如何，你有可能拿金球",
+          "title": "法足协主席：向德尚致敬；齐达内带队4年至2030年世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "格策评德国足球总统山：贝皇、盖德穆勒、马特乌斯、诺伊尔",
+          "title": "米兰对莱奥要6000万欧，费内巴切开价4000万+1000万年薪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "斯通斯在世界杯上传球成功率高达95.3%，有记录以来最高",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙主裁：梅西要我好好说话是正常交流，名人会更受关注",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "拜仁官方：祝世界最佳中锋凯恩33岁生快，祝你未来进球更多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一个世界杯，一个转会，让我确信这个区一堆神人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -79,33 +98,63 @@
           "hot": ""
         },
         {
-          "title": "做个调查，你希望阿尔瓦雷斯来巴萨吗？",
+          "title": "[流言板]隆加里：热刺国米接近达成4000万欧协议，但罗梅罗想等巴萨",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA：德容为世界杯留力还伤了；克鲁皮非卖；巴萨仍追小蜘蛛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯要真去阿森纳，肯定不是为钱，纯粹为了金球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯缺席皇家马德里的训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界最强左边锋是不是维尼修斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "车技有待提升，维尼修斯把高尔夫球车开进了花坛",
+          "title": "齐达内：我拒绝了俱乐部邀请只为执教法国，尚未与姆巴佩沟通",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "美议员要求因凡蒂诺出席听证会，回应世界杯票务争议和特朗普关系",
+          "title": "足球装备网：姆巴佩可能离开耐克旗下；未来他或将打造个人品牌",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：巴萨今夏需签中锋，弥补莱万离开的空缺",
+          "title": "法国足协主席：去年2月开始，我就在邀请齐达内接手国家队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "多古：曼联队友谁最有可能退役后当教练？B费是不二人选",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "荷媒：阿贾克斯想签回埃德松-阿尔瓦雷斯，双方已进行接触",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
