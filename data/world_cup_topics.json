@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-30 03:34:57",
+  "update_time": "2026-07-30 05:04:37",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "内马尔宣布退出巴西国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "840.7万"
+          "hot": "828.4万"
         }
       ],
       "count": 1,
@@ -35,38 +35,64 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗社媒晒自拍：当你面向阳光，阴影便会退至身后",
+          "title": "费尔明：这个夏天很痛苦；没看西班牙在世界杯的前几场比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "楚阿梅尼没机会，维尼修斯是真有机会",
+          "title": "记者：梅西已归队合练，身体状态良好预计可出战联盟杯首战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里，为什么射门力量这么弱？",
+          "title": "卫报：欧足联周四召开紧急会议，可能对FIFA进行地区性抵制",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "克鲁皮伤了只剩阿尔瓦雷斯了",
+          "title": "[流言板]费尔明：这个夏天很痛苦；没看西班牙在世界杯的前几场比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "那些看衰罗德里的 不同意转会的人呢？",
+          "title": "维尼修斯缺席皇家马德里的训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这届世界杯后，维尼修斯能如愿加薪吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯为核心的巴西队为什么止步世界杯16强？36年来首次没进8强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "记者：梅西已参加迈阿密国际训练，可出战联盟杯对阵圣路易斯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意媒：若费内巴切签不下莱奥，可能转追伊斯梅拉-萨尔",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：我不确定拉什福德是不是阿尔特塔喜欢的类型",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
