@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-29 20:08:03",
+  "update_time": "2026-07-29 23:12:43",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "内马尔宣布退出巴西国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "892.4万"
+          "hot": "841.8万"
         }
       ],
       "count": 1,
@@ -35,78 +35,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "聊聊美国世界杯后足球运动的变革",
+          "title": "阿斯：皇马与罗德里个人协议无问题，预估转会费4-5000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "回顾齐达内作为法国国脚高光时刻，世界杯决赛头球梅开二度",
+          "title": "佩德里，为什么射门力量这么弱？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "结束世界杯征程后，英格兰队各国脚开启休假调整",
+          "title": "我感觉，现在好像最应该买罗德里，可能能直接把球队实力提升一个档次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大马丁的卡车冲出路面遇险，邻居出手相救&amp;他回赠礼物致谢",
+          "title": "【绯闻对象】罗德里2026年世界杯个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跨区请教一下在拉什福德想离队之前，你们对他是什么看法？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "内马尔亲口忏悔：离开巴萨是我这辈子最大的错误！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "一直觉得这赛季的亚马尔就是比奥利塞强势一头",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里之后，下一步肯定要买中卫，再来个优秀的中卫，这夏天转会可以打满分了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Score 90：如果皇马签下迪奥曼德和罗德里，今夏能与2009年那个传奇的夏窗相提并论吗？",
+          "title": "阿斯：罗德里转会皇马的交易可能在24小时内完成，皇马与曼城已经开始进行谈判。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "FIFA欲引外资运营世界杯，欧足联称“已越红线”",
+          "title": "邮报：欧足联已安排周四与55个成员紧急谈判，以团结对抗FIFA",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "近三个赛季五大联赛进球+助攻榜：凯恩、姆巴佩、哈兰德前三",
+          "title": "记者：曼城对罗德里的估值远高于外界传言的5000万欧元",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "​罗德里陷转会漩涡，皇马正式报价曼城索要高价",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意媒：国米不愿满足罗梅罗650万欧元年薪要求，谈判陷入停滞",
+          "title": "小贝林厄姆：期待我们创造伟大成就，新赛季我将承担更多责任",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
