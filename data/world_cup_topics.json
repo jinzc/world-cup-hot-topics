@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-29 23:12:43",
+  "update_time": "2026-07-30 01:22:24",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "内马尔宣布退出巴西国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "841.8万"
+          "hot": "865.5万"
         }
       ],
       "count": 1,
@@ -35,53 +35,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿斯：皇马与罗德里个人协议无问题，预估转会费4-5000万欧",
+          "title": "拜仁训练强度拉满，孔帕尼还让金玟哉别留情就干二队小将",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里，为什么射门力量这么弱？",
+          "title": "西球迷对梅西不满，要求撤销其获得的阿斯图里亚斯公主奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我感觉，现在好像最应该买罗德里，可能能直接把球队实力提升一个档次",
+          "title": "马卡：李刚仁引爆马竞球衣销售热潮，未登场已创销量纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【绯闻对象】罗德里2026年世界杯个人集锦",
+          "title": "克鲁皮伤了只剩阿尔瓦雷斯了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：罗德里转会皇马的交易可能在24小时内完成，皇马与曼城已经开始进行谈判。",
+          "title": "内马尔亲口忏悔：离开巴萨是我这辈子最大的错误！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果西班牙像英国一样分成四个地区队参赛，加泰罗尼亚能夺得多少个世界杯冠军",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩的合同-一场彻头彻尾的自欺欺人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "Ben Jacobs＆科贝：曼城对罗德里的估值高于报道的5000万欧，他们可能为罗德里标价7000万欧。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果西班牙和英国一样分成四个地区队参赛，卡斯蒂利亚能夺得几个世界杯冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "邮报：欧足联已安排周四与55个成员紧急谈判，以团结对抗FIFA",
+          "title": "男友必备技能，姆巴佩在船上游玩时各种姿势给女朋友拍照",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：曼城对罗德里的估值远高于外界传言的5000万欧元",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "小贝林厄姆：期待我们创造伟大成就，新赛季我将承担更多责任",
+          "title": "马卡：李刚仁热身赛未出战，但已成马竞队史球衣销量最高新援",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
