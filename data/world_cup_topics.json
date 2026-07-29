@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-30 05:04:37",
+  "update_time": "2026-07-30 07:04:27",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "内马尔宣布退出巴西国家队",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": "828.4万"
+          "hot": "826.2万"
         }
       ],
       "count": 1,
@@ -35,27 +35,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "费尔明：这个夏天很痛苦；没看西班牙在世界杯的前几场比赛",
+          "title": "塞尔：皇马不再担心罗德里的身体状况，最大障碍是转会价格",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：梅西已归队合练，身体状态良好预计可出战联盟杯首战",
+          "title": "科贝：皇马为罗德里估价4000-7000万欧，正在等待曼城开价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卫报：欧足联周四召开紧急会议，可能对FIFA进行地区性抵制",
+          "title": "阿德耶米：不惧与亚马尔竞争；相信自己能重返德国国家队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]费尔明：这个夏天很痛苦；没看西班牙在世界杯的前几场比赛",
+          "title": "土记者：莱奥去哪由米兰决定，加拉塔萨雷是通过中间人接触",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯缺席皇家马德里的训练",
+          "title": "德国政客：请求德国足协主席对因凡蒂诺实施全国球场禁入令",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "内马尔亲口忏悔：离开巴萨是我这辈子最大的错误！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "克鲁皮伤了只剩阿尔瓦雷斯了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -65,33 +75,63 @@
           "hot": ""
         },
         {
-          "title": "维尼修斯为核心的巴西队为什么止步世界杯16强？36年来首次没进8强？",
+          "title": "[流言板]塞尔：皇马向曼城就罗德里提出初步口头报价，约为5000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：梅西已参加迈阿密国际训练，可出战联盟杯对阵圣路易斯",
+          "title": "AI制图博主晒拉莫斯和帕雷德斯拳击台对决图，拉莫斯本人点赞",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "意媒：若费内巴切签不下莱奥，可能转追伊斯梅拉-萨尔",
+          "title": "塞尔：皇马口头报价罗德里5000万欧，正等曼城回应",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：我不确定拉什福德是不是阿尔特塔喜欢的类型",
+          "title": "奥利塞谈世界杯：未能夺冠很失望，感谢球迷支持",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：阿尔瓦雷斯斟酌转会，计划再表态推动加盟巴萨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆西亚拉缺席拜仁亚洲行，留慕尼黑单独训练",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫雷托：国米接近退出罗梅罗争夺战，球员年薪要求超700万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：莱奥愿意去土超，费内巴切和加拉塔萨雷都在和米兰谈判",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "斯基拉：马竞开始谈罗梅罗，西蒙尼将他视为中卫完美人选",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "英媒：热刺可能追逐拉什福德，但球员工资是障碍",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
