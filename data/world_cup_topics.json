@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-30 22:25:00",
+  "update_time": "2026-07-31 00:41:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,32 +35,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "英超近3赛季直塞成功率排名：福登56.5%第一，B费第四",
+          "title": "记者：皇马考虑引进莱万特前锋卡洛斯-埃斯皮，以补强锋线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天体：罗德里若离队无人能替，但马雷斯卡有信心调教安德森",
+          "title": "记者：曼城对罗德里的要价低于皇马预算，后者对签他很乐观",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂：内马尔卡塞米罗达尼洛，一代球员从巴西队谢幕",
+          "title": "卡尼萨雷斯：罗德里值4000万欧，必须考虑他的年龄+曾经大伤",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "什琴斯尼：特狮仍是高水平门将；莱万走后我能多练习说西语",
+          "title": "全票通过！BBC：欧足联抵制FIFA的决定获全部成员协会支持",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]拉什福德告别巴萨：享受这里的每一刻，带着珍贵的回忆离开",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里，为什么射门力量这么弱？",
+          "title": "其实并不太看好买罗德里，更应该买一个类似法比安路易斯的角色",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -68,26 +63,30 @@
           "title": "维尼修斯若转投巴萨，夏窗皇马巨额投入就全打水漂了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        }
-      ],
-      "count": 7,
-      "status": "success"
-    },
-    "懂球帝": {
-      "topics": [
+        },
         {
-          "title": "前曼城后卫门迪拍卖世界杯冠军奖杯复制品，成交价5.4万欧元",
-          "url": "https://www.dongqiudi.com/",
+          "title": "[流言板]记者：皇马考虑引进莱万特前锋卡洛斯-埃斯皮，以补强锋线",
+          "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿媒：梅西回归迈阿密国际，最快周末复出",
-          "url": "https://www.dongqiudi.com/",
+          "title": "Pepe Álvarez：贝林厄姆的父亲马克·贝林厄姆在赛季结束时与皇马进行会面讨论贝林厄姆离开俱乐部的可能性",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "欧足联官方：若因凡蒂诺推进私有化，所有成员协会将抵制全部国际足联赛事。",
+          "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 9,
       "status": "success"
+    },
+    "懂球帝": {
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
