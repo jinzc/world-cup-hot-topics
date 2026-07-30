@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-31 00:41:35",
+  "update_time": "2026-07-31 02:22:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -33,55 +33,9 @@
       "status": "empty"
     },
     "虎扑": {
-      "topics": [
-        {
-          "title": "记者：皇马考虑引进莱万特前锋卡洛斯-埃斯皮，以补强锋线",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：曼城对罗德里的要价低于皇马预算，后者对签他很乐观",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "卡尼萨雷斯：罗德里值4000万欧，必须考虑他的年龄+曾经大伤",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "全票通过！BBC：欧足联抵制FIFA的决定获全部成员协会支持",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "其实并不太看好买罗德里，更应该买一个类似法比安路易斯的角色",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯若转投巴萨，夏窗皇马巨额投入就全打水漂了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]记者：皇马考虑引进莱万特前锋卡洛斯-埃斯皮，以补强锋线",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Pepe Álvarez：贝林厄姆的父亲马克·贝林厄姆在赛季结束时与皇马进行会面讨论贝林厄姆离开俱乐部的可能性",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "欧足联官方：若因凡蒂诺推进私有化，所有成员协会将抵制全部国际足联赛事。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 9,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "懂球帝": {
       "topics": [],
