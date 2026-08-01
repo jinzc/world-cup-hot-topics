@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-02 04:12:43",
+  "update_time": "2026-08-02 06:01:34",
   "sources": {
     "微博": {
       "topics": [],
@@ -27,9 +27,45 @@
       "status": "empty"
     },
     "虎扑": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "电讯：欧足联考虑用因凡蒂诺亲自拟的方案脱离FIFA另立门户",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯最爱说套话的主帅排名：波波维奇最多，图赫尔第四",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：拜仁有意引进舍什科，将其视为凯恩的理想接班人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯真要去阿森纳了？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴塞罗那教练塞蒂恩：不能理解德拉富恩特在世界杯途中把佩德里撤下首发的选择",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：罗梅罗未和巴萨达协议，也未向国米索要700万到800万年薪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "叠个甲，如果说两年来四大皆空是姆巴佩的责任，那么未来皇马拿了冠军算谁的？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 7,
+      "status": "success"
     },
     "懂球帝": {
       "topics": [],
