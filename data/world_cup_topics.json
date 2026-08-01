@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-02 02:04:12",
+  "update_time": "2026-08-02 04:12:43",
   "sources": {
     "微博": {
       "topics": [],
@@ -32,15 +32,9 @@
       "status": "empty"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "记者：若无法签下阿尔瓦雷斯，巴萨可能不再引进其他前锋",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
