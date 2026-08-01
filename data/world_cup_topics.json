@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-08-01 06:11:26",
+  "update_time": "2026-08-01 08:06:35",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国际足联回应多方抵制",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%96%B9%E6%8A%B5%E5%88%B6",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -22,71 +29,50 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "欧足联宣布抵制所有国际足联赛事",
-          "url": "https://www.douyin.com/search/%E6%AC%A7%E8%B6%B3%E8%81%94%E5%AE%A3%E5%B8%83%E6%8A%B5%E5%88%B6%E6%89%80%E6%9C%89%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%B5%9B%E4%BA%8B",
-          "hot": "907.2万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "弗里克：只专注于现有的阵容；很享受曾与拉什福德共事",
+          "title": "前助教：卖拉什福德或重蹈麦克托米奈覆辙，要卖最好卖海外",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "圣吉罗斯点杀布鲁日赢得比利时超级杯，麦卡利斯特破门",
+          "title": "乔治娜晒最新海边度假美照，与C罗&amp;迷你罗在沙滩上同框",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "自媒体独家：阿森纳与维尼修斯就个人条款达成原则性协议",
+          "title": "各洲足联陆续发声回应FIFA商业计划：欧亚等三大洲明确反对",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "波兰足协按U20女足世界杯如期举行推进筹备，相信抵制可避免",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "蒂勒曼斯曼联首训，看来世界杯上的伤病已经恢复了️",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]弗里克：只专注于现有的阵容；很享受曾与拉什福德共事",
+          "title": "维尼修斯和娜娜达成个人协议了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "亚马尔父亲：我儿子出生时我就知道他会成为明星",
+          "title": "TA：因凡蒂诺已经被质疑能否继续担任国际足联主席",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "南美足联官方：FIFA应就国际足联前进企业的潜在影响作出澄清",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：卢卡已回归那不勒斯合练，阿利松仍单独训练",
+          "title": "记者：中北美及加勒比海足联主席蒙塔利亚尼成FIFA新主席热门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
