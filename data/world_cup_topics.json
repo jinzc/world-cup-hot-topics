@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-01 22:37:42",
+  "update_time": "2026-08-02 00:06:45",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,7 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：阿森纳球员对维尼修斯可能加盟很兴奋，会主动问进展",
+          "title": "英超过去10季制造进球榜：萨拉赫284球第一，凯恩孙兴慜二三",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：欧足联强调禁区手球规则，间接承认上赛季巴萨被误判",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "比西武：内马尔是我崇拜的偶像；竭尽全力为巴萨做出贡献",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "西甲过去10季制造进球榜：梅西226球第一，格列兹曼第三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -39,58 +54,38 @@
           "hot": ""
         },
         {
-          "title": "维尼修斯真要去阿森纳了？",
+          "title": "[流言板]每体：欧足联强调禁区手球规则，间接承认上赛季巴萨被误判",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "熊，贝林，姆巴佩对于老大之争",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "ESPN跟队Rodra：据我所知，迪奥曼德1.22亿+1000万欧浮动，罗德里6500万欧，维尼续约悬而未决。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "DO：维尼修斯愿意降低经济要求与皇马续约，若无法达成一致也愿意加盟阿森纳。",
+          "title": "当姆巴佩回归左路时，届时皇马将无懈可击",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世体：欧洲球迷协会再次要求国际足联主席因凡蒂诺离任",
+          "title": "talkSPORT：欧足联考虑要求成员撤回支持因凡蒂诺",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "意媒：德布劳内在那不勒斯过得并不顺心，加拉塔萨雷有意接触",
+          "title": "塞尔电台：巴萨仍未放弃阿尔瓦雷斯；有信心完成所有球员注册",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：约旦王子呼吁取消国际足联主席选举的秘密投票",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：库库雷利亚把自己的世界杯冠军奖牌借给当地邮递员试戴",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尔茨：我对上赛季完全不满意，我们有很多地方需要做得更好",
+          "title": "记者：巴萨今夏球员注册无忧；仍未放弃阿尔瓦雷斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
