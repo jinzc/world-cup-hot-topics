@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-03 02:04:44",
+  "update_time": "2026-08-03 04:14:19",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "欧足联要求因凡蒂诺辞职",
           "url": "https://www.douyin.com/search/%E6%AC%A7%E8%B6%B3%E8%81%94%E8%A6%81%E6%B1%82%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%E8%BE%9E%E8%81%8C",
-          "hot": "781万"
+          "hot": "783.2万"
         }
       ],
       "count": 1,
@@ -35,12 +35,22 @@
     "虎扑": {
       "topics": [
         {
+          "title": "利物浦vs利兹联首发：伊萨克、维尔茨出战，田中碧登场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "泰晤士：C罗访美时因凡蒂诺便完成勾兑，本想决赛前宣布FFE",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "维尼修斯社媒：家人、朋友与假期……感谢这一切❤️",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨：尽管上赛季拿到了英超，但阿森纳想要的是所有奖杯",
+          "title": "[流言板]每体：巴萨静待阿尔瓦雷斯，若交易不成也不会仓促引援中锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -50,43 +60,58 @@
           "hot": ""
         },
         {
-          "title": "最理想状态是和姆巴佩都走吧",
+          "title": "有人声称维尼修斯上次续约拖很久的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队Ramon Alvarez MM：皇马对于莱比锡近期在扬·迪奥曼德转会谈判中的态度感到意外，对方似乎持续拖延交易进程。皇马方面认为莱比锡的举动十分反常。",
+          "title": "皇马跟队马里奥：维尼修斯续约的最终决定权掌握在弗洛伦蒂诺·佩雷斯手中。弗洛伦蒂诺与尤尼·卡拉法特是俱乐部内最信任维尼修斯的两个人。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "霍安：世界杯我当替补是合理安排；不应由我评估是否签小蜘蛛",
+          "title": "利物浦vs利兹联：伊萨克、维尔茨首发，索博斯洛伊出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "点谁呢？维尼修斯经纪公司总裁：不能任由媒体发布虚假的信息",
+          "title": "跟队：罗梅罗正在接近国米，但前提是帕瓦尔必须离队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：欧足联已经威胁起诉因凡蒂诺，并警告其休想销毁证据",
+          "title": "阿斯：迪奥曼德转会因经纪公司纠纷受阻，国际足联已介入调查",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法尔克：拜仁有考虑让凯恩更靠后，且可能会重新考虑签谢什科",
+          "title": "内马尔和儿子直播拆宝可梦卡，最高约18万人同时在线",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "消息人士：维尼修斯的经纪人否认球员与阿森纳达成任何协议",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "苏契奇：莫德里奇是过去20年里世界上最好的球员之一",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "里克尔梅：国际足联懂得及时纠错，有些人也该以此为榜样",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
