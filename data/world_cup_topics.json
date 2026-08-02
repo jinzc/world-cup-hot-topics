@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-03 04:14:19",
+  "update_time": "2026-08-03 06:01:36",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "欧足联要求因凡蒂诺辞职",
           "url": "https://www.douyin.com/search/%E6%AC%A7%E8%B6%B3%E8%81%94%E8%A6%81%E6%B1%82%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%E8%BE%9E%E8%81%8C",
-          "hot": "783.2万"
+          "hot": "781.5万"
         }
       ],
       "count": 1,
@@ -35,83 +35,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "利物浦vs利兹联首发：伊萨克、维尔茨出战，田中碧登场",
+          "title": "半场：利物浦2-0利兹联，钱伯斯、维尔茨破门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "泰晤士：C罗访美时因凡蒂诺便完成勾兑，本想决赛前宣布FFE",
+          "title": "弗林蓬勾传禁区，维尔茨包抄破门，利物浦2-0利兹联",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯社媒：家人、朋友与假期……感谢这一切❤️",
+          "title": "欢度假期，恩佐社媒发布与家人、友人的度假图集",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：巴萨静待阿尔瓦雷斯，若交易不成也不会仓促引援中锋",
+          "title": "记者：我可以明确说，罗德里和迪奥曼德都会加盟皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：国米接近签下罗梅罗；巴萨可能是帕瓦尔或弗拉泰西下家",
+          "title": "EP23:风波之后，再忆世界杯亚军--阿根廷",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有人声称维尼修斯上次续约拖很久的",
+          "title": "现在不像是给维尼修斯施压，更像是逼维尼修斯离队留转会费。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队马里奥：维尼修斯续约的最终决定权掌握在弗洛伦蒂诺·佩雷斯手中。弗洛伦蒂诺与尤尼·卡拉法特是俱乐部内最信任维尼修斯的两个人。",
+          "title": "维尼修斯如果转会去阿森纳算不算开创了先河呢",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果皇马今夏放走维尼修斯，会不会成为第二个埃托奥？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "利物浦vs利兹联：伊萨克、维尔茨首发，索博斯洛伊出战",
+          "title": "半场战报：利物浦2-0利兹联，维尔茨破门，钱伯斯建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跟队：罗梅罗正在接近国米，但前提是帕瓦尔必须离队",
+          "title": "记者：大量欧足联成员协会将撤回对因凡蒂诺的书面支持",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：迪奥曼德转会因经纪公司纠纷受阻，国际足联已介入调查",
+          "title": "霍安-加西亚：不会为世界杯冠军文身；幸亏不必为小蜘蛛操心",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内马尔和儿子直播拆宝可梦卡，最高约18万人同时在线",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "消息人士：维尼修斯的经纪人否认球员与阿森纳达成任何协议",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "苏契奇：莫德里奇是过去20年里世界上最好的球员之一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "里克尔梅：国际足联懂得及时纠错，有些人也该以此为榜样",
+          "title": "零点电台记者：罗德里和迪奥曼德都将在今夏加盟皇马",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
