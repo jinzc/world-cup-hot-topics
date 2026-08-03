@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-03 12:36:23",
+  "update_time": "2026-08-03 16:35:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "啊这！帕雷德斯在死球状态下把球踢向对方球员，引发了冲突",
+          "title": "9年前今天内马尔加盟巴黎，2.22亿欧转会费纪录仍保持至今",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "青训教练：埃斯皮球风像伊布，希望看到他与姆巴佩组双前锋",
+          "title": "门将历史转会榜：凯帕7160万镑第一，阿利松、奥纳纳二三位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基米希：若能和克洛普合作，我想为德国球迷创造辉煌的时刻",
+          "title": "共和报：米兰对莱奥要5000万欧，目前土超两豪门开出4000万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莱万：登陆美职联对我来说是另一个世界，我对队友们很满意",
+          "title": "龙赛罗呼吁维尼修斯留下：荣誉大于金钱，离开皇马外面很冷",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "又和佩德里拍上了 碰到好几次了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：国米接近签下罗梅罗；巴萨可能是帕瓦尔或弗拉泰西下家",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯动态：家人 朋友和假期 感谢一切",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆里尼奥：维尼修斯正是我最喜欢执教的那种球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "邮报：世界杯巴尔科曾挑衅贝林引冲突，蓝军新援需用表现说话",
+          "title": "马卡：维尼修斯已抵皇马体育城，本周或定去留",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "多库：这届世界杯我踢得不算好，对阵埃及前我咳出了血",
+          "title": "迪马利亚：在场上见到奥塔门迪让我特别开心，祝他一切顺利",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "Eldebate：扬-迪奥曼德想成另一个C罗，皇马谈转会",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：梅西预计在北美联杯对阵圣路易斯竞技的比赛中首发出场",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "懂球译站 | 欧足联与FIFA：一场愈演愈烈的战争",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷乙级球队发布纪念款球衣，马岛旗帜与梅西元素融入设计",
+          "title": "拉什：伊萨克和维尔茨将成核心，不是必须要找萨拉赫替代者",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
