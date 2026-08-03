@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-04 05:12:46",
+  "update_time": "2026-08-04 07:11:22",
   "sources": {
     "微博": {
       "topics": [
@@ -8,15 +8,9 @@
           "url": "https://s.weibo.com/weibo?q=u17%E5%9B%BD%E8%B6%B3%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3u17",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "U17国足3比2阿森纳U17",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B33%E6%AF%942%E9%98%BF%E6%A3%AE%E7%BA%B3U17",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -45,7 +39,7 @@
         {
           "title": "U17国足3:2绝杀阿森纳U17",
           "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B33%3A2%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3U17",
-          "hot": "1128.1万"
+          "hot": "1145.5万"
         }
       ],
       "count": 1,
@@ -54,63 +48,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "博主：姆巴佩盼与贝林厄姆沟通缓和关系，后者不愿先迈步",
+          "title": "ESPN：皇马为维尼修斯报价年薪2200万欧，双方暂无会面安排",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "鲍曼：世界杯前沦为替补难以接受，我独自处理并消化了此事",
+          "title": "塞尔：罗德里认可巴萨的竞技计划，巴萨或用中卫预算签他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：拜仁有意引进舍什科，将其视为凯恩的理想接班人",
+          "title": "有点唏嘘，但21年c罗回归我当时真的很开心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]博主：姆巴佩盼与贝林厄姆沟通缓和关系，后者不愿先迈步",
+          "title": "[流言板]记者：罗德里今夏大概率加盟皇马，但最终由球员本人决定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马21世纪转会价值评分：C罗、齐达内、莫德里奇谁才是最成功的一笔？",
+          "title": "[流言板]塞尔：罗德里认可巴萨的竞技计划，巴萨或用中卫预算签他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果皇马今夏放走维尼修斯，会不会成为第二个埃托奥？",
+          "title": "[流言板]塞尔：皇马认为罗德里身价超6000万欧，相信球员首选是皇马",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "肖像权、年薪双重诉求曝光，理性看待维尼修斯与皇马的续约分歧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿森纳的“攻心计”：三步让维尼修斯心甘情愿离开皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "每体：由于世界杯私有化计划破产，因凡蒂诺加薪计划受阻",
+          "title": "阿斯报：马竞拒绝谈判，阿尔瓦雷斯经纪人将赴巴萨商定策略",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国前体育部长：法国队在98年世界杯前暂停了突击兴奋剂检测",
+          "title": "马卡：C罗对于婚礼的态度是低调，所有现在并无过多消息流传",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "战济州前赛前发布会上没德语翻译，孔帕尼临时给金玟哉当翻译",
+          "title": "阿斯：皇马不会再为维尼修斯提交新的续约报价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "瑞安：球队计划和更衣室氛围是他接受莱万特续约报价的关键",
+          "title": "ESPN：皇马向维尼修斯开出2200万欧续约年薪，球员索要3000万",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B席：皇马的邀请让人难以拒绝，来这里没有丝毫犹豫",
+          "title": "意媒：莱奥受加拉塔萨雷追逐，米兰要价6000万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
