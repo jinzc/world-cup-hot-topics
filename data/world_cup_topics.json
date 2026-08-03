@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-04 01:58:34",
+  "update_time": "2026-08-04 03:50:29",
   "sources": {
     "微博": {
       "topics": [
@@ -45,7 +45,7 @@
         {
           "title": "U17国足3:2绝杀阿森纳U17",
           "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B33%3A2%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3U17",
-          "hot": "1139.3万"
+          "hot": "1129.4万"
         }
       ],
       "count": 1,
@@ -54,17 +54,27 @@
     "虎扑": {
       "topics": [
         {
+          "title": "B席：加盟皇马，我实现了为足球历史上最伟大俱乐部效力梦想",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：皇马认为罗德里转会尽在掌握，尊重曼城的谈判节奏",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨认为顶级9号只有凯恩/哈兰德，B计划靠球员多面性+伪9",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "BBC：皇马本周重启维尼修斯续约谈判，阿森纳只能静待机会",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "阿斯：B席成穆帅手中万能牌，有主力实力但场上位置未定",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：若塔帅不想让维尼修斯干脏活累活，或安排他去踢9号位",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：塔帅看重阿森纳整体防守，若维尼修斯加盟也需要回防",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -74,43 +84,53 @@
           "hot": ""
         },
         {
-          "title": "77687星力捕鱼挑战﻿正版九代阵容：幸运六狮，牛魔王，十代正版，幸运六狮，下载，可持续做平台推演，帮C罗圆梦：世界杯冠军",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "[流言板]巴萨认为顶级9号只有凯恩/哈兰德，B计划靠球员多面性+伪9",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]BBC：皇马本周重启维尼修斯续约谈判，阿森纳只能静待机会",
+          "title": "到底是谁不希望维尼修斯去阿森纳？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯经纪人晒出一张“伦敦”照片，引发球迷无限遐想",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：维尼修斯的续约条件——税后年薪2000万欧+肖像权对标姆巴佩+续约奖金。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴媒：内马尔入选桑托斯大名单，但因参加慈善拍卖会未随队去客场",
+          "title": "法国前体育部长：法国队在98年世界杯前暂停了突击兴奋剂检测",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "塞尔维亚足协官方：已撤回对因凡蒂诺连任国际足联主席的支持",
+          "title": "战济州前赛前发布会上没德语翻译，孔帕尼临时给金玟哉当翻译",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：特朗普将全力阻止因凡蒂诺因出售世界杯股份被迫辞职",
+          "title": "瑞安：球队计划和更衣室氛围是他接受莱万特续约报价的关键",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席：皇马的邀请让人难以拒绝，来这里没有丝毫犹豫",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
