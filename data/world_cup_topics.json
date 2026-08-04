@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-05 03:48:17",
+  "update_time": "2026-08-05 05:19:51",
   "sources": {
     "微博": {
       "topics": [
@@ -39,7 +39,7 @@
         {
           "title": "内马尔回应退役相关问题",
           "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BA%94%E9%80%80%E5%BD%B9%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98",
-          "hot": "774.9万"
+          "hot": "883.5万"
         }
       ],
       "count": 1,
@@ -48,33 +48,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "亚马尔的速度和爆发力能再快一点就好了。",
+          "title": "沃齐尼亚：为世界杯准备了一生；始终相信自己能效力豪门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天价! 维尼修斯团队索要类似姆巴佩的签约奖金,约8500万欧",
+          "title": "C罗与利雅得胜利新帅澳波会面，回归球队备战新赛季",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：巴萨询问罗德里情况，但球员明确表态想加盟才会出手",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "隆戈：加拉塔萨雷愿给莱奥1000w年薪，米兰想要5000w转会费",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "8月5日今日寿星，西班牙球星，加维22岁生日",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴塞罗那理发师发布与姆巴佩合影",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿森纳的“攻心计”：三步让维尼修斯心甘情愿离开皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "威尔希尔：阿森纳若签下维尼修斯无疑会是一种强烈表态",
+          "title": "维尼修斯顾问：阿森纳和这名球员之间从未有过正式接触",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "金玟哉：我相信主教练会给我很多机会，我也计划继续留在拜仁",
+          "title": "天空体育：因凡蒂诺召集国际足联高层举行危机会议",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意媒：加拉塔萨雷为推进转会联合奥斯梅恩施压莱奥和米兰",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
