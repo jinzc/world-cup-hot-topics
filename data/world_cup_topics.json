@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-06 05:19:34",
+  "update_time": "2026-08-06 07:08:49",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世体：马竞坚决拒绝出售阿尔瓦雷斯，球员或寻求西蒙尼帮助",
+          "title": "环球体育：皇马认为找维尼修斯替代者更贵，遂加码续约报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "经纪团队正与皇马商谈续约，维尼修斯突然清空个人社媒动态",
+          "title": "罗马诺：穆里尼奥亲自致电维尼修斯，推动其续约留队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为啥我魔不竞争一下在维尼修斯？",
+          "title": "记者：维尼修斯是谈判续约的赢家，仅24小时皇马失去主动权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]世体：马竞坚决拒绝出售阿尔瓦雷斯，球员或寻求西蒙尼帮助",
+          "title": "电讯报：C罗与迷你罗打球谁输了都会生气，严重时两天不说话",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队&amp; 西班牙皇马广播电台AlbertoPereiro：维尼修斯将继续留守皇家马德里",
+          "title": "UOL：枪手愿给维尼修斯2400万欧年薪，保留100%商业代言收入",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "迈阿密vs圣路易斯城首发：梅西领衔，卡塞米罗、德保罗出战",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔科塔：维尼修斯要比姆巴佩多跑，这是他场上位置所限",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "索内斯：苏格兰在世界杯缺乏信念，没有球员站出来主宰舞台",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我支持拉什福德留下发挥作用",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -57,40 +77,40 @@
           "title": "何意味？维尼修斯清空社交媒体简介头像和帖子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "想问下皇马球迷，如果熊和龟只能留一个，那么你们会留哪个。如果可以的话，你们还希望姆巴佩在24年加盟吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 7,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "斯基拉：大马丁被埃梅里说法，已决定继续留在维拉",
+          "title": "阿斯：皇马报价存在限期，正催促维尼修斯尽快回应",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺与国际足联秘书长一起，现身女足非洲杯比赛现场",
+          "title": "迈阿密国际vs圣路易斯竞技：梅西、德保罗回归，搭档卡塞米罗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：皇马在今日谈判后，对维尼修斯会续约充满信心",
+          "title": "此前与官员起冲突，喀麦隆足协：非足联撤销对埃托奥全部处罚",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "C罗社媒晒部分豪车收藏，配文：我的玩具",
+          "title": "TA：危机会议后，因凡蒂诺获国际足联高层全力支持",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫德里奇：感觉不错，希望米兰继续提升",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
