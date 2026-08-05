@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-05 20:04:33",
+  "update_time": "2026-08-05 23:20:49",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,98 @@
     "虎扑": {
       "topics": [
         {
-          "title": "哈弗茨接受采访时，哲凯赖什躲在树后偷窥",
+          "title": "DO：皇马还欠维尼修斯一笔忠诚奖金，若他不续约或不愿支付",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：德科与小蜘蛛经纪人的会面预计于马德里午餐时段进行",
+          "title": "DO：阿森纳方面认为，如果维尼修斯不留皇马就会选择来枪手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "一直没前锋的话我觉得两年后会8000万砸凯恩",
+          "title": "Here We Go！罗马诺：富安健洋加盟水晶宫，已通过体检",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：亚马尔点赞德科会见小蜘蛛经纪人报道，极具象征意义",
+          "title": "两桩转会迎来进展？维尼修斯经纪人社媒：今天是美好的一天",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "ellarguero：维尼修斯已经拒绝皇马最新开出的年薪2200万欧元、合约续约至2031年的合同方案。这份报价早在两周前就已送达球员手中，遭到维尼修斯回绝。但皇马并未就此放弃",
+          "title": "21世纪球员场均进球榜：哈兰德0.83球第一，梅西0.79球第二",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不要满屏说维尼修斯了，说点别的事，比如铁拐李什么时候来？",
+          "title": "马卡：巴萨不会加入罗德里争夺战，今夏他们就没想过买中场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为啥我魔不竞争一下在维尼修斯？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗梅罗：巴萨对奥斯梅恩的兴趣加深。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "DO:皇马愿意给维尼修斯一千万忠诚奖",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA首席DO:皇马目前内部的运作规划，是默认罗德里将会加盟球队。或许皇马有些过于乐观超前预判，也有可能转会最终真的会落地。曼城方面希望罗德里续约，但球员至今没有展现出续约意愿。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "B费社媒晒图：重聚曼联",
+          "title": "Here we go！罗马诺：富安健洋将加盟水晶宫，48小时内签约",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皇马官方：赫伊森单独训练，米利唐等4人恢复中",
+          "title": "DO：维尼修斯忠诚奖约1000万欧元；枪手为今、明年签约做好了准备",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "菲戈：因凡蒂诺玷污了国际足联主席这一职位，他必须立即下台",
+          "title": "巴尔泰萨吉：1-1战平国米？我们踢得不错；希望莱奥留下来",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "DO：此刻皇马的会议将决定维尼修斯去留；枪手为签他计划了很久",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥莱报：罗梅罗优先加盟马竞，马竞准备3000万欧报价",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "李昇祐：和曼城有差距很正常，这样的机会对韩国足球帮助很大",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "评论员：皇马没有胆量在没有罗德里的情况下踢新赛季",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
