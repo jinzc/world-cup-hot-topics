@@ -1,10 +1,29 @@
 {
-  "update_time": "2026-08-06 20:07:25",
+  "update_time": "2026-08-06 23:21:25",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "韩国足协7场比赛性贿赂20名裁判",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "U17国足vs勒沃库森",
+          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3vs%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "韩国足协被曝曾多次性贿赂外籍裁判",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%A2%AB%E6%9B%9D%E6%9B%BE%E5%A4%9A%E6%AC%A1%E6%80%A7%E8%B4%BF%E8%B5%82%E5%A4%96%E7%B1%8D%E8%A3%81%E5%88%A4",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,9 +31,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "U17国足三连胜",
+          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%83%9C",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -22,100 +47,96 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国际足联致歉",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%87%B4%E6%AD%89",
+          "hot": "806.9万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "阿森纳自媒体：给维尼修斯的报价极重磅，昨天甚至还有信心",
+          "title": "莫雷托：罗德里已和巴萨谈妥个人条款，后者即将联系曼城",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加拉塔萨雷3000万+500万报价莱奥被拒；米兰还是要求5000万",
+          "title": "记者：拜仁将曼联前锋谢什科视为凯恩的接替者，或28年行动",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "JTBC：韩国足协曾向外籍裁判提供性招待，含世预赛和奥预赛",
+          "title": "科贝：巴萨今夏曾拒6000万欧签罗德里，现已非常接近成交",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：阿森纳失望维尼修斯续约，目前缺乏其他锋线引援目标",
+          "title": "马卡：罗德里同意加盟巴萨，转会费不会低于5000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "韩联社：韩国足协史上首次遭警方搜查，现场气氛如“灵堂”",
+          "title": "每体：罗德里加盟巴萨或需要适当降薪，完成交易需各方让步",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "零点电台：维尼修斯将续约至2031年，涨薪+提高肖像权分成",
+          "title": "罗德里和佩德里世界杯不兼容问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西班牙记者：罗德里希望下周末前敲定未来，他正权衡皇萨",
+          "title": "有没有可能是拉波承诺开足马力宣传让罗德里拿下今年金球奖，所以他转头来了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2023 年夏季后， 曼联改变了新签约和续约合同的结构。72上赛季未达标，拉什福德受益旧标准将涨薪。",
+          "title": "我们又不会像曼城指望罗德里踢一个赛季的单后腰，怕什么续航？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里和小蜘蛛，属于两个性质的交易",
+          "title": "罗德里来会给巴萨带来防守质变，欧冠不是梦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我们最不缺中场了，还去买罗德里，假的吧。这不会是拉总弗帅能想出来的事",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果签下罗德里，德科夏窗评级",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里来没问题，但是还是得签中卫啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]德容有长期伤停证明，巴萨可以用伤病特例轻松注册罗德里",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Sergi Valentin：罗德里已经告知自己的经纪人，希望在8月15日之前敲定自己的未来去向。目前他仅考虑两家下家选项：巴塞罗那或是皇家马德里。",
+          "title": "没有罗德里，对巴萨很重要",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "特瓦斯：纳赛尔不是接替因凡蒂诺出任国际足联主席的理想人选",
+          "title": "莫雷托：巴萨和罗德里谈妥个人条款，接下来将正式联系曼城",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "迈阿密国际主帅：梅西的凌空抽射难度极高，他就是足坛毕加索",
+          "title": "世体：巴萨还需与罗德里和曼城敲定细节，球员希望13日前解决",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "天空：欧足联继续抵制FIFA赛事，并强调对因凡蒂诺失去信心",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "迪马济奥：加拉塔萨雷将马丁内利视为莱奥备选",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
