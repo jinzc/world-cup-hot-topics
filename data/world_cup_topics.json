@@ -1,23 +1,10 @@
 {
-  "update_time": "2026-08-06 14:39:04",
+  "update_time": "2026-08-06 17:44:49",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "C罗再次回应女友身材评论",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8F%8B%E8%BA%AB%E6%9D%90%E8%AF%84%E8%AE%BA",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "姆巴佩女友是迪奥宝格丽双代言人",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A5%B3%E5%8F%8B%E6%98%AF%E8%BF%AA%E5%A5%A5%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%8F%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -42,7 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：切尔西对恩佐情况很放松，如果他愿留下就会推进续约",
+          "title": "德容有长期伤停证明，巴萨可以用伤病特例轻松注册罗德里",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝电台：巴萨为罗德里开出过一份6000万欧的报价",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队：皇马内部认为，签下罗德里的转会已经大概率没戏了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -52,63 +49,73 @@
           "hot": ""
         },
         {
-          "title": "罗德里来会给巴萨带来防守质变，欧冠不是梦",
+          "title": "[流言板]科贝电台：巴萨为罗德里开出过一份6000万欧的报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：维尼修斯与皇马达成续约协议，预计很快可以签署",
+          "title": "大伤后的罗德里和晚年布斯克茨有什么区别？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]著名记者：维尼修斯与皇马就续约达成协议，预计很快签约",
+          "title": "[流言板]罗马诺：巴萨已就罗德里转会事宜分别和曼城及球员团队沟通",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "就维尼休斯，姆巴佩说几句心里话",
+          "title": "[流言板]德容有长期伤停证明，巴萨可以用伤病特例轻松注册罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不进球就是副作用,皇马下季成绩取决于穆帅敢不敢动姆巴佩",
+          "title": "皇马跟队Rodra10：皇马方面认为他们已经失去了签下罗德里的机会，让我们拭目以待事态发展。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "那些之前和我对喷，罗德里必来的人，惭愧吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "天又没塌，如果一个罗德里就能决定皇马以后能走多远，那费那么大劲买这么多人来做甚，直接一步到位把他连带那几根铁拐一起买过来不就得了？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "Carlos Carpio：确认！维尼修斯将与皇马续约，双方已达成全面协议，风波结束。维尼修斯已同意以下条款：续约至2031年，税后年薪2500万欧元，肖像权小幅上涨，续约完成。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：维尼修斯与皇马达成续约协议，预计很快可以签署",
+          "title": "世体：巴萨是否签罗德里看球员本人，费用预计6000-6500万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "韩国总统：韩国足协非民主化的组织架构是一切问题的根源",
+          "title": "记者：巴萨曾6000万报价罗德里，当时球员与皇马达成协议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "切尔西小将麦奎因：阿扎尔和C罗都是偶像",
+          "title": "塞尔：李刚仁已与大部队会合，有望对曼城完成马竞首秀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩社媒分享与女友度假照片：有你在的每一天都是晴天",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴西足协主席：反对出售FFE，我们会和南美足联一起做决定",
+          "title": "​罗马诺：罗德里去留全凭自己决定，皇马巴萨均已备好报价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
