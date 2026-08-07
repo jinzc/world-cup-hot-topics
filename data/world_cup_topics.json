@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-07 13:46:24",
+  "update_time": "2026-08-07 15:35:12",
   "sources": {
     "微博": {
       "topics": [
@@ -19,20 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "详解历届世界杯冠军表现",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%8E%86%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E8%A1%A8%E7%8E%B0",
-          "hot": 0
-        },
-        {
-          "title": "韩国被爆性贿赂世预赛裁判",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -40,96 +29,130 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "U17国足三战全胜夺小组头名",
-          "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E4%B8%89%E6%88%98%E5%85%A8%E8%83%9C%E5%A4%BA%E5%B0%8F%E7%BB%84%E5%A4%B4%E5%90%8D",
-          "hot": "766.4万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "加维：将迎在巴萨的第12赛季，我怀揣前所未有的渴望和动力",
+          "title": "罗马诺：巴萨愿为罗德里支付略高于4500万欧，曼城要价更高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "金玟哉解释世界杯上被换下后不满：当时确实希望能派上前锋",
+          "title": "枪手名宿：维尼修斯把阿森纳当成抬价工具",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英超过去10季WS场均评分最高阵：阿扎尔、B费、大马丁在列",
+          "title": "罗马诺：老佛爷始终支持保护维尼修斯，即他与阿隆索有矛盾",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝尔纳特：姆巴佩绝不是“独裁者”；欧冠是我心头的一根刺",
+          "title": "每体：总价5500万欧，巴萨为罗德里首次报价未被曼城接受",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝尔纳特：梅西就是历史最佳球员；迪马利亚可能被低估了",
+          "title": "阿森纳认为维尼修斯能真正提升实力，无缘他后或不签左边锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塔皮亚：阿根廷支持世界杯扩到64队，争取在本土踢完小组赛",
+          "title": "BBC跟队：按目前的信息，预计古斯托离队；内托/恩佐会留队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有可能德容配罗德里效果更好",
+          "title": "罗马诺：阿森纳与罗梅罗经纪人谈过，但热刺拒把他卖给死敌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "谈谈罗德里和佩德里的问题",
+          "title": "罗马诺：巴萨与曼城正式谈判罗德里，表示愿支付超4500万欧费用",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "理想状态，罗德里有可能救活的三个球员",
+          "title": "问一下各位萨迷，你们感觉罗德里将来的前景会怎么样？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "很多团蜜气的不是没买罗德里，而是罗德里去巴萨了，对吧",
+          "title": "罗德里与巴萨个人条款达成协议，年薪1500万欧4年合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里去巴萨好事情，说不定还能和亚马尔内讧金球奖哈哈",
+          "title": "解析为什么巴萨要截胡皇马，签下罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在抱怨罗德里不来的不就两拨人么，一拨只看世界杯的，一拨觉得上赛季四大皆空最大原因是中场的",
+          "title": "弗里克这么迫切的想要罗德里",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不来罗德里有人和天塌了一样，纯粹为了反对而反对。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "其实b席洗球能力还是很强的，不如铁拐李的是出球能力。但是满场飞也能弥补一些问题。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "一牙买加球迷串中三场世界杯比分，奖金高达330万美元",
+          "title": "每体：巴萨4500+1000万欧报价罗德里被拒，固定费最多5000万",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "金玟哉：希望韩国新任主教练有着属于自己的清晰足球理念",
+          "title": "每体：小蜘蛛世界杯时已与西蒙尼会面，并表示只想为巴萨效力",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "迪马济奥：曼城想签恩佐接替罗德里",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：弗里克坚信巴萨需老将压阵，罗德里不会抑制贝尔纳尔发展",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：巴萨与曼城正式谈罗德里，球员想去巴萨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴媒：FIFA计划在马拉卡纳球场办9场2027女足世界杯比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队：切尔西需要本月出售16人；恩佐仍在探索各种可能性",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "蒙特雷主帅：梅西的假期也太短了，他难道不想多歇几天？",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
