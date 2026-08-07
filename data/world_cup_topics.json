@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 05:48:06",
+  "update_time": "2026-08-08 06:45:43",
   "sources": {
     "微博": {
       "topics": [
@@ -39,46 +39,41 @@
         {
           "title": "刘浩存百花奖开幕式灵动红衣舞",
           "url": "https://www.douyin.com/search/%E5%88%98%E6%B5%A9%E5%AD%98%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E7%81%B5%E5%8A%A8%E7%BA%A2%E8%A1%A3%E8%88%9E",
-          "hot": "776.7万"
+          "hot": "769.8万"
+        },
+        {
+          "title": "第38届百花奖开幕式",
+          "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "766.8万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "每体：德科面谈+弗里克游说+熟人牵线，巴萨最终说服罗德里",
+          "title": "龙赛罗：罗德里更想去巴萨就去吧，其他皇马新援都一心来投",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡盘点巴萨截胡皇马案例：罗德里/内马尔/比利亚等在列",
+          "title": "记者：巴萨已与罗德里谈妥，但离最终完成交易仍然较远",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "talkSPORT：维拉有意杰克逊，受欧足联规定限制或压哨出手",
+          "title": "罗梅罗：阿劳霍主动离队而非巴萨要求，认为租借对双方最好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "暂未归队！恩佐晒伊比萨岛度假照，与家人继续享受假期",
+          "title": "莫雷托：阿劳霍离队为巴萨腾出薪资空间，助力引进罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米体：劳塔罗、萨内蒂致电罗梅罗，劝其加盟国米",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "前曼城分析主管：罗德里能为巴萨添成熟度，帮贝尔纳尔成长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "家乡万人欢迎！费兰回忆世界杯进球：决赛前有预感会成主角",
+          "title": "阿斯：马竞计划出售莫利纳/鲁杰里/阿尔马达，以签下罗梅罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -88,38 +83,58 @@
           "hot": ""
         },
         {
-          "title": "个人对球队转会的一些看法:罗德里，小蜘蛛，以及后卫",
+          "title": "牢霍租借，会不会再补一名中卫，罗梅罗或者一名左脚中卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩刚官宣恋情 上了好多热搜",
+          "title": "看到报道说弗里克几次致电罗德里，感觉很欣慰",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "怎么好像B席不是皇马球员一样？",
+          "title": "驳斥因为没有罗德里所以四大皆空理论以及国家德比=法国打西班牙理论，这都特么哪跟哪啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里就算真被巴萨截胡了，这夏窗也满分了啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "环球体育：南美足联力挺因凡蒂诺，抗衡欧足联施压",
+          "title": "每体：西班牙国内批评政府在争夺世界杯决赛举办地时不作为",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "英媒：因凡蒂诺在欧足联任职时，与女员工发生关系并由欧足联埋单",
+          "title": "马卡：巴萨出租阿劳霍，为引进罗德里腾挪出薪资空间",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "全市场：加拉塔萨雷仍盯德布劳内，莱奥或成变量",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩杜拉：马竞领跑争罗梅罗，暂无劳塔罗致电罗梅罗的消息",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "米体：劳塔罗致电劝罗梅罗加盟国米，但马竞也在盯着罗梅罗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
