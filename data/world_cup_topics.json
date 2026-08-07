@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 01:56:58",
+  "update_time": "2026-08-08 03:08:13",
   "sources": {
     "微博": {
       "topics": [
@@ -33,7 +33,7 @@
         {
           "title": "刘浩存百花奖开幕式灵动红衣舞",
           "url": "https://www.douyin.com/search/%E5%88%98%E6%B5%A9%E5%AD%98%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E7%81%B5%E5%8A%A8%E7%BA%A2%E8%A1%A3%E8%88%9E",
-          "hot": "780.6万"
+          "hot": "777.1万"
         }
       ],
       "count": 1,
@@ -42,27 +42,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "太阳报介绍C罗婚宴酒店：每晚1100镑起，6座泳池+24小时服务",
+          "title": "科贝：罗德里曾问瓜帅皇萨2选1该去哪，瓜帅建议他去巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡媒：菲利克斯与前女友科尔塞罗夜店重逢，两人已重新互关",
+          "title": "记者：米兰坚持莱奥6000万要价，球员倾向留队&amp;不续约",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "被当面分享世界杯阴谋论，梅迪纳：我们没放弃，我们想赢的",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "索斯盖特晒世界杯期间生活：拒绝担任解说，享受家庭时光",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "塞尔：巴萨希望本周末就敲定罗德里，未来几小时将加速谈判",
+          "title": "李刚仁效应！阿斯：马竞将为东亚市场争取更早开球时间",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -72,22 +62,27 @@
           "hot": ""
         },
         {
-          "title": "罗德里交易，最大的问题，这时候把罗德里卖了去买替代，曼城百分之一百被宰，所以对曼城来说，不卖是最好的，要买就按曼城的价格。",
+          "title": "足坛十大谣言（一）拉波尔塔逼走梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跨圈提问，你们真的想要罗德里吗8000万？",
+          "title": "[流言板]塞尔：巴萨希望本周末就敲定罗德里，未来几小时将加速谈判",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队 jfelixdiaz：穆里尼奥也收到了俱乐部传递的信号——即便没能签下罗德里，依靠皇马现有一线队阵容，教练组也可以拿出对应的中场轮换与战术解决方案。",
+          "title": "[流言板]前曼城分析主管：罗德里能为巴萨添成熟度，帮贝尔纳尔成长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我发现曼城真的不差钱，合同到期离队的球员很多，不排除让罗德里明年免费离队",
+          "title": "[流言板]每体：巴萨认为与曼城分歧不大，罗德里转会已进入最后阶段",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]科贝：罗德里曾问瓜帅皇萨2选1该去哪，瓜帅建议他去巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -97,18 +92,33 @@
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "前枪手球员再会面，恩凯蒂亚和富安健洋在水晶宫重聚握手",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：瓜帅建议罗德里加盟巴萨，因为他们的风格和曼城相似",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "斯基拉：莱奥已经收到大额报价，但他没兴趣去沙特",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "英媒：维拉受欧足联规则限制，或推迟追逐雅克松",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
