@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-07 18:59:25",
+  "update_time": "2026-08-07 19:52:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,37 +29,62 @@
     "虎扑": {
       "topics": [
         {
-          "title": "每体专栏：费兰应庆幸身披巴萨球衣，梅西等传奇都以此为荣",
+          "title": "BBC：因世界杯影响，斯凯利新赛季开始将暂时锁定阿森纳主力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：若没签莱奥加拉塔萨雷考虑马丁内利，阿森纳要价不低",
+          "title": "马卡：巴萨准备5000万欧报价罗德里，曼城认为不够+不会降价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世体：罗德里此前在思考未来没回应皇马，德科低调推进转会",
+          "title": "独立报：因罗德里可能离队，曼城正在考虑引进恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孔萨是阿森纳下个目标，他今夏顺位仅次于吉马良斯/维尼修斯",
+          "title": "亚马尔小学老师：他总是球不离身，拿球时确实和别人不一样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：马竞认为签下罗梅罗可提升防守，也有助于留住小蜘蛛",
+          "title": "每体：罗德里若加盟将严重挤压德容空间，他在巴萨未来成疑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：皇马抢库库+B席对巴萨没那么重要，签罗德里扳回一城",
+          "title": "罗梅罗：罗德里转会巴萨或很快搞定；费兰同意开启离队谈判",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "没想到罗德里居然只比德荣大一岁",
+          "title": "旧将：马马尔达什维利很清楚，阿利松会继续占据主力席位",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA独家：曼城对罗德里要价8000万欧起步；巴萨坚称财政无碍",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡电台：罗德里从接近去皇马到去巴萨，穆帅对此极其愤怒",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马竟然弄丢了罗德里，这个是能带来一大堆冠军的球员啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗梅罗：罗德里转会巴萨或很快搞定；费兰同意开启离队谈判",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA独家：曼城对罗德里要价8000万欧起步；巴萨坚称财政无碍",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -69,38 +94,59 @@
           "hot": ""
         },
         {
-          "title": "大概算了一下，交易罗德里的成本接近阿尔瓦雷斯",
+          "title": "罗德里与巴萨个人条款达成协议，年薪1500万欧4年合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马里奥-苏亚雷斯：足球圈都知道皇马话事人从没想要过罗德里",
+          "title": "[流言板]记者：罗德里对皇马提过3点不满；曾表示愿加盟但意愿并不强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "区内到底有没有看过2024年欧洲杯后的罗德里比赛",
+          "title": "穆鸟要被气死了，罗德里是核心引援，这下告吹了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这么关注如菊，我来提一个人，切尔西的凯塞多，传球虽然比不上如菊，但是昨天打尤文可以看出还有有点东西的，覆盖面大，跑动积极，拼抢凶横，真来搞过来不比如菊强，配一个B席或者82，有没有搞头",
+          "title": "罗德里这么厉害，为何去年曼城被皇马淘汰",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里踢西甲虐菜，虐的飞起，德容重伤，还给巴萨捞到个比德容防守争顶组织更强的后腰，只要他不受伤，今年西甲必是巴萨，fp差不多到头了",
+          "title": "[流言板]ABC专栏：罗德里本人是其转会皇马最大阻碍，后者或躲过一劫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 18,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "奥莱报：若罗德里离队马雷斯卡想签恩佐，切尔西要至少1亿欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：罗德里若加盟巴萨，德容恐失去主力位置",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：巴萨准备5000万欧报价罗德里，但曼城认为不够",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：巴萨今天将报价罗德里，总价最高6000万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
