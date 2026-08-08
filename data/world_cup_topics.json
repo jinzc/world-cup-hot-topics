@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-09 01:37:11",
+  "update_time": "2026-08-09 02:49:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,26 @@
     "虎扑": {
       "topics": [
         {
+          "title": "迈阿密国际头像添加了黑色丝带，以悼念梅西父亲的去世",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "太阳报：2000多名球迷聚集等C罗结婚，结果等来另一对新人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴黎官方：俱乐部上下对梅西致以深切慰问，愿逝者安息",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿根廷记者：梅西目前在私人飞机上，预计当地时间晚9点抵达",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "纳达尔社媒：无法想象梅西的痛苦，向他和家人致以慰问",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -39,32 +59,12 @@
           "hot": ""
         },
         {
-          "title": "龙赛罗悼念梅西父亲：失去父亲是巨大的痛苦，向家人致哀",
+          "title": "[流言板]每体：巴萨6000万欧总价2度报价罗德里，曼城7000万欧愿放人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "令人泪目！豪尔赫最后一次现场看梅西比赛，赛后父子相拥",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西此前谈早年父亲：他每天4点出门晚9点回，平时聚少离多",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体悼念梅西父亲：一生都在儿子身后，默默见证他征服世界",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "蒂勒曼斯一点问题没有，但是四线作战就靠四个中场（蒂勒曼斯，梅努，安德烈，b费）打三个位置吗。。。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "即便是老霍走了也是补一个左脚中卫，罗梅罗也不适合现在巴萨的高位。对于费兰这种出生没话说，太把自己当回事了，就剩一年合同，巴黎报五千万也不少了",
+          "title": "虽然很沉重，但还是想问问，梅西以后的新经纪人该怎么办？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -75,12 +75,27 @@
     "懂球帝": {
       "topics": [
         {
+          "title": "龙赛罗悼念梅西父亲：任何人都不应该如此年轻就离开这个世界",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴黎官方悼念梅西父亲：俱乐部全力支持梅西，愿豪尔赫安息",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "大巴黎官方：向梅西父亲豪尔赫的去世表示深切哀悼",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
           "title": "奥莱报：梅西从劳德代尔堡返罗萨里奥，送别父亲",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
