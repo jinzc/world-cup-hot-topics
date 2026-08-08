@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 19:35:30",
+  "update_time": "2026-08-08 21:03:46",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "曝巴萨欲签下罗梅罗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B7%B4%E8%90%A8%E6%AC%B2%E7%AD%BE%E4%B8%8B%E7%BD%97%E6%A2%85%E7%BD%97",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,42 +29,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗梅罗：曼城和巴萨今早继续敲定罗德里转会，预计12日到队",
+          "title": "GOAL：梅西家族尚未发布豪尔赫去世消息，主流机构暂未报道",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "双方著名自媒体：不论是否成行热刺队长罗梅罗都愿去阿森纳",
+          "title": "罗梅罗团队：费兰本周致电了弗里克，告知他自己转投巴黎",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在不知道为啥中锋这么稀缺。在没有合适中锋情况下，非要1.5亿来一个阿尔瓦雷斯吗？不值得吧？",
+          "title": "[流言板]曼晚：罗德里决意离开曼城去西甲，英超强度或也是影响因素",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这是拿中卫预算去买罗德里？",
+          "title": "梅西父亲去世的消息源可能是假的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁买罗德里感觉也要脱一层皮呀！看看曼城的替代方案：布阿迪上亿欧，过来还可能打不了主力。最想要的恩佐1.2亿磅！就算有钱也要考虑财政公平原则吧！总体看下来曼城肯定要么卖个高价！要么留一年最好！",
+          "title": "莫德里奇是10年代最佳中场吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里只接到皇马球员电话，而不是魔力鸟。是他评估后选择放弃加盟皇马选巴萨",
+          "title": "说不买罗德里不行的全是扫码秘书",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：特别期待巴萨对罗德里更高的一份报价，真是操碎了心",
+          "title": "[流言板]曼晚：罗德里决意离开曼城去西甲，英超强度或也是影响因素",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "老佛爷就巴塞罗那对罗德里的关注表示，看个乐呵",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
