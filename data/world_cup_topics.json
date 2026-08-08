@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 23:36:27",
+  "update_time": "2026-08-09 00:43:03",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,73 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "河床队官方：惊悉梅西父亲去世噩耗，向梅西全家表示慰问",
+          "title": "博卡青年官方：深表哀悼豪尔赫-梅西去世，我们与梅西同在",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "悼念豪尔赫-梅西，纽维尔老男孩训练基地今日降半旗",
+          "title": "塔皮亚：感谢豪尔赫培养出了梅西，他塑造了梅西的价值观",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿足协官方：梅西父亲去世，阿根廷各级联赛赛前将进行默哀",
+          "title": "刘易斯：有人走就有人留这就是足球，罗德里的出色无需多言",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "肯佩斯：惊悉豪尔赫-梅西逝世，向梅西全家表示深切慰问",
+          "title": "这36号是青训吗，我还以为新买的姆巴佩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "数百球迷希望现场见证C罗婚礼，姐姐辟谣：他根本没说要结婚",
+          "title": "最新消息：穆里尼奥将成为维尼修斯的父亲般的人物",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因梅西父亲去世，梅西家族拥有的俱乐部暂停下场阿丙级联赛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "球王梅西的父亲 豪尔赫梅西因病去世",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "RIP 向足球史上历史最佳之一的球员梅西表示慰问，感谢您为我们带来了梅西这样一位伟大的球员",
+          "title": "皇马对引进罗德里的犹豫，其实是个医学问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "皇马官方：对梅西父亲豪尔赫的去世表示深切哀悼",
+          "title": "每体：罗德里加盟后巴萨需要套现，马克斯可能是合适的人选",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "全市场：罗梅罗标价5000万欧，巴萨与他重新取得联系",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨官方：深切哀悼梅西父亲逝世，感谢他将其子最辉煌的岁月托付给我们",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿根廷足协：阿根廷各级所有比赛开赛前，为梅西父亲默哀1分钟",
+          "title": "皇马热身赛新援邓弗里斯身披33号球衣，B席身披31号",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
