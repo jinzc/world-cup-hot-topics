@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 21:03:46",
+  "update_time": "2026-08-08 22:38:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,74 @@
     "虎扑": {
       "topics": [
         {
-          "title": "GOAL：梅西家族尚未发布豪尔赫去世消息，主流机构暂未报道",
+          "title": "太阳报：罗梅罗愿意加盟阿森纳，但热刺无意卖给枪手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗团队：费兰本周致电了弗里克，告知他自己转投巴黎",
+          "title": "梅西父亲豪尔赫去世，金球奖官方、南美足联官方发文悼念",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼晚：罗德里决意离开曼城去西甲，英超强度或也是影响因素",
+          "title": "罗萨里奥疗养院声明：豪尔赫-梅西凌晨2点去世，无其他细节",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西父亲去世的消息源可能是假的",
+          "title": "世体：罗梅罗仍在等待巴萨动向，尤其是在阿劳霍离队后",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莫德里奇是10年代最佳中场吗？",
+          "title": "罗马诺：梅西父亲去世享年68岁，向梅西全家致以慰问",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说不买罗德里不行的全是扫码秘书",
+          "title": "ESPN：曼城对罗德里最低要价为7000万欧，不低于此价卖巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]曼晚：罗德里决意离开曼城去西甲，英超强度或也是影响因素",
+          "title": "梅西父亲去世的消息源",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "老佛爷就巴塞罗那对罗德里的关注表示，看个乐呵",
+          "title": "我看到很多人说b席要上首发 那楚阿梅尼和巴尔韦德下谁",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "老佛爷在罗德里的转会上这么硬，他图啥？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆尼里奥战术中场过渡为主，错过罗德里也没啥问题，主要看怎么用贝林",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "阿斯：巴萨仍在追阿尔瓦雷斯，报价已升至1.2亿欧元",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "消息人士：热刺后卫罗梅罗希望阿森纳加入他的争夺战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
