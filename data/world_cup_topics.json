@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 17:45:51",
+  "update_time": "2026-08-08 18:41:01",
   "sources": {
     "微博": {
       "topics": [
@@ -36,68 +36,48 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿斯：穆帅力促维尼修斯续约，两人世界杯期间已有交流",
+          "title": "TyC：米兰有意帕雷德斯，博卡内部相信帕雷德斯无离队意愿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：巴萨告知卡萨多/巴尔德吉，不会随队参加今晚的比赛",
+          "title": "亚足联俱乐部积分排名：中国排名总第11位，东亚赛区第6位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：拉什福德回归曼联，季前赛就对当初弃用他的阿莫林",
+          "title": "梅西父亲去世的消息源可能是假的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德科他没毛病！出完费蓝看好拿下罗德里+一前锋一中后卫",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "法国记者Romain Molina：皇马高层始终对罗德里抱有疑虑，主席弗洛伦蒂诺·佩雷斯尤其如此。 罗德里从来都不是皇马的转会优先目标。皇马之所以考虑引进他，仅仅是迫于球迷舆论压力",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "热身赛重点观察中场82和B席配效果，阿若德内收组织出球，唉斯皮中锋效果",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里舔了大半年，怎么一大票人就突然爱上了",
+          "title": "阿根廷媒体：梅西父亲豪尔赫去世，享年68岁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "曼晚：卡里克执教曼联是拉什福德留队的关键原因之一",
+          "title": "阿媒：梅西父亲豪尔赫-梅西于当地时间昨晚离世，享年68岁",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：维尼修斯感激穆里尼奥帮忙，双方共同让步促成续约",
+          "title": "罗德里戈社媒晒训练照：星期六加油",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：罗德里多年前就钟情巴萨，哈白一直是他的榜样",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：皮肤科专家为亚马尔定制护肤方案",
+          "title": "独立报谈阿森纳左边锋目标：阿尔瓦雷斯、巴尔科拉、恩迪亚耶",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
