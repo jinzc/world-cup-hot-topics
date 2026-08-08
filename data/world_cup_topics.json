@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08 07:39:57",
+  "update_time": "2026-08-08 10:07:30",
   "sources": {
     "微博": {
       "topics": [],
@@ -30,14 +30,14 @@
     "抖音": {
       "topics": [
         {
-          "title": "第38届百花奖开幕式",
-          "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "772.7万"
-        },
-        {
           "title": "刘浩存百花奖开幕式灵动红衣舞",
           "url": "https://www.douyin.com/search/%E5%88%98%E6%B5%A9%E5%AD%98%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%E7%81%B5%E5%8A%A8%E7%BA%A2%E8%A1%A3%E8%88%9E",
-          "hot": "769.2万"
+          "hot": "771.8万"
+        },
+        {
+          "title": "第38届百花奖开幕式",
+          "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "770.2万"
         }
       ],
       "count": 2,
@@ -46,73 +46,78 @@
     "虎扑": {
       "topics": [
         {
-          "title": "巴萨前董事：罗德里狠狠打脸了世上最傲慢的俱乐部和其粉丝",
+          "title": "亚马尔：我从不考虑失败，我脑海中只有举起世界杯奖杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩杜拉：马竞为罗梅罗开600万欧年薪，巴萨后续动向值得关注",
+          "title": "传菲利克斯与前女友在夜店重逢，双方社媒重新互关",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "龙赛罗：罗德里更想去巴萨就去吧，其他皇马新援都一心来投",
+          "title": "镜报：姐姐称C罗今年不会与乔治娜结婚，今日是否大婚疑点多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]科贝：罗德里曾问瓜帅皇萨2选1该去哪，瓜帅建议他去巴萨",
+          "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]记者：巴萨已与罗德里谈妥，但离最终完成交易仍然较远",
+          "title": "罗梅罗：罗德里最终转会费接近6000万欧，或到周一才能敲定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨前董事：罗德里狠狠打脸了世上最傲慢的俱乐部和其粉丝",
+          "title": "世界杯决赛前亚马尔采访：从来不会去想输球，我只想着捧杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：巴萨买罗德里这事弄的，把我都弄的很尴尬",
+          "title": "莫雷托：巴萨准备提高对罗德里的报价，有信心尽快敲定交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "下赛季B席：我是来养老的，居然不引援了直接让我干中场核心，又当爹又当妈，这个钱这么难赚吗？",
+          "title": "罗马诺：罗梅罗目前优先与马竞谈判，巴萨仍有机会加入争夺",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "对待拉什福德的态度就体现了卡里克的智慧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一早起来阿劳霍走了那我们就能买罗梅罗了吧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "利物浦租借了阿劳霍，知道这意味着什么吗？意味着阿劳霍的离开不仅能助力罗德里的到来，巴萨还有可能再签下一名左脚中卫。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿邦拉霍：如果让我预测谁最可能拿到最多红牌，我会选罗梅罗",
+          "title": "罗马诺：马竞将为罗梅罗提供4000万欧报价，避免球员被截胡",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "天空：欧足联确认曾为因凡蒂诺向员工支付离职补偿",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "欧文：在无缘维尼修斯之后，阿森纳应该尝试签拉什福德",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费抵达哥德堡，耐心为球迷签名合影",
+          "title": "加泰电台：巴萨初次报价罗德里遭拒，曼城要价近8000万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
