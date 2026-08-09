@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10 04:41:49",
+  "update_time": "2026-08-10 05:39:56",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "罗梅罗：在处理完坎塞洛和9号位引援后，巴萨将引进一名中卫",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗梅罗：罗德里转会已进入收尾阶段，费兰会把房子借给他住",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "阿斯：穆帅与皇马高层始终保持沟通，罗德里转会未引发矛盾",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -44,38 +54,28 @@
           "hot": ""
         },
         {
-          "title": "[流言板]罗梅罗：在处理完坎塞洛和9号位引援后，巴萨将引进一名中卫",
+          "title": "[流言板]世体：巴萨接近5500万欧+浮动签下罗德里，或有球员加入交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗梅罗：罗德里转会已进入收尾阶段，费兰会把房子借给他住",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔世界杯表现真得很差吗？",
+          "title": "[流言板]记者：世界杯前巴萨曾率先联系罗梅罗，他最终或加盟马竞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
-        {
-          "title": "世体：巴萨接近与曼城就罗德里达成协议，只剩细节问题待解决",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
         {
           "title": "迪马济奥：罗马准备2500万欧+50%二转分成报价罗德里戈-莫拉",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
