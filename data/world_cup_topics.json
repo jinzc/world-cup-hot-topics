@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10 02:52:11",
+  "update_time": "2026-08-10 03:39:26",
   "sources": {
     "微博": {
       "topics": [],
@@ -39,33 +39,38 @@
           "hot": ""
         },
         {
+          "title": "[流言板]泰晤士：拉什福德不愿降薪转会，曼联找不到性价比更高边锋",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "就事论事，C罗为何如此耐操？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "[流言板]世体：罗德里转会进入最后阶段，巴萨曼城仅部分细节未敲定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "现在通告是巴萨用德容换曼城罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "法媒：姆巴佩7月31日告别耐克，将和出人意料的新品牌签约",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
           "title": "世体：巴萨接近与曼城就罗德里达成协议，只剩细节问题待解决",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "西蒙尼：李刚仁还需要时间来适应，会根据需要来调整他的位置",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
