@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10 05:39:56",
+  "update_time": "2026-08-10 06:38:57",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "罗马诺：罗德里转会巴萨进展顺利，目前不考虑球员加入交易",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：世界杯前巴萨曾率先联系罗梅罗，他最终或加盟马竞",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "罗梅罗：在处理完坎塞洛和9号位引援后，巴萨将引进一名中卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -54,28 +64,38 @@
           "hot": ""
         },
         {
-          "title": "[流言板]世体：巴萨接近5500万欧+浮动签下罗德里，或有球员加入交易",
+          "title": "世体：巴萨接近5500万欧+浮动签下罗德里，或有球员加入交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]记者：世界杯前巴萨曾率先联系罗梅罗，他最终或加盟马竞",
+          "title": "就事论事，C罗为何如此耐操？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]世体：巴萨接近5500万欧+浮动签下罗德里，或有球员加入交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "迪马济奥：罗马准备2500万欧+50%二转分成报价罗德里戈-莫拉",
+          "title": "每体：罗德里若加盟巴萨，德容、贝尔纳尔等4人或受影响",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯报：穆帅与俱乐部管理层在罗德里转会失败一事上并无矛盾",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
