@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10 01:37:26",
+  "update_time": "2026-08-10 02:52:11",
   "sources": {
     "微博": {
       "topics": [],
@@ -39,53 +39,33 @@
           "hot": ""
         },
         {
-          "title": "每体：罗德里若加盟，德容、卡萨多地位下降&amp;贝尔纳尔或受益",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "最后一个中场名字会不会是卡萨多？罗德里去巴萨他大概率得走。感觉很适配卡里克现在的要求，能洗球 传球出色，跑动可以，除了身体差点意思。但做个轮换绰绰有余。价格大概率4kw-5k能带走。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "虽然很沉重，但还是想问问，梅西以后的新经纪人该怎么办？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔世界杯表现真得很差吗？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "转：在罗德里事件中，所有人都玩了双面游戏",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里只接到皇马球员电话，而不是魔力鸟。是他评估后选择放弃加盟皇马选巴萨",
+          "title": "[流言板]世体：罗德里转会进入最后阶段，巴萨曼城仅部分细节未敲定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "维尔茨：我喜欢伊劳拉的足球理念，非常期待与他合作",
+          "title": "法媒：姆巴佩7月31日告别耐克，将和出人意料的新品牌签约",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "第二球算谁的？伊萨克：我和维尔茨都觉得两个人都碰到了球",
+          "title": "世体：巴萨接近与曼城就罗德里达成协议，只剩细节问题待解决",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "西蒙尼：李刚仁还需要时间来适应，会根据需要来调整他的位置",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
