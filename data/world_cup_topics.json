@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-11 05:50:32",
+  "update_time": "2026-08-11 06:47:25",
   "sources": {
     "微博": {
       "topics": [],
@@ -32,7 +32,7 @@
         {
           "title": "第38届百花奖闭幕式",
           "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F",
-          "hot": "774.7万"
+          "hot": "775.1万"
         }
       ],
       "count": 1,
@@ -41,12 +41,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：曼城认为恩佐太贵考虑更经济中场，内部提及麦卡名字",
+          "title": "记者：父亲去世后梅西将留在阿根廷陪伴家人，暂无归队日期",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：福特即将以租借形式离队，目前手头有2-3份报价",
+          "title": "记者：曼城认为恩佐太贵考虑更经济中场，内部提及麦卡名字",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -56,7 +56,17 @@
           "hot": ""
         },
         {
-          "title": "德容加3000换罗德里有没有搞头",
+          "title": "[流言板]罗马诺：巴萨不会推进罗梅罗的交易，这是俱乐部层面的决定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里转会巴萨：谈判融洽但迟迟不官宣，到底卡在哪儿？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗马诺：巴萨曼城再度接触，罗德里转会费肯定超6000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -66,33 +76,33 @@
           "hot": ""
         },
         {
-          "title": "[流言板]塞尔：皇马错失罗德里并未放弃补强，穆帅仍想要1中场+1后卫",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "现在通告是巴萨用德容换曼城罗德里",
+          "title": "本泽马与姆巴佩真闹掰了？皇马球迷扒出社交网络“铁证",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "邮报：马竞即将以3400万镑的价格签下罗梅罗",
+          "title": "世体：巴萨签罗德里的交易可能会加入其他球员，以降低成本",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：罗梅罗将加盟马竞，已接受体检",
+          "title": "记者：巴塞罗那已经越来越接近与罗德里达成协议",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "邮报：马竞即将以3400万镑的价格签下罗梅罗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
