@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10 07:38:09",
+  "update_time": "2026-08-10 10:24:03",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,88 +29,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗马诺：罗德里转会巴萨进展顺利，目前不考虑球员加入交易",
+          "title": "巴黎每届世界杯都有冠军成员，18姆巴佩22梅西今年鲁伊斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：世界杯前巴萨曾率先联系罗梅罗，他最终或加盟马竞",
+          "title": "维尔茨：很喜欢伊劳拉的足球理念，真的期待之后与他的合作",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：在处理完坎塞洛和9号位引援后，巴萨将引进一名中卫",
+          "title": "曼晚：拉什福德决心找回在曼联位置，将与库尼亚竞争首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：罗德里转会已进入收尾阶段，费兰会把房子借给他住",
+          "title": "曼晚：拉什福德决心为位置而战，预计将与库尼亚竞争左边锋位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：穆帅与皇马高层始终保持沟通，罗德里转会未引发矛盾",
+          "title": "MSN重聚？梅洛爆料：内马尔明年1月加盟迈阿密国际！可能在那挂靴",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：罗德里转会巴萨未停滞，在正常推进预计周一敲定",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "多名梅西球迷来到墓园外，留下多张暖心标语为其送上支持",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世体：巴萨接近5500万欧+浮动签下罗德里，或有球员加入交易",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉什福德回到卡灵顿的首日",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼城看中巴萨新星汤米，可能加入罗德里交易",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "虽然很沉重，但还是想问问，梅西以后的新经纪人该怎么办？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我们明显是以身入局，其实是骗隔壁买罗德里，挖了个坑给隔壁，没想到他们真跳了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "现在通告是巴萨用德容换曼城罗德里",
+          "title": "罗德里若加盟巴萨，三名中场球员的未来恐将生变",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "罗梅罗：巴萨记者收到了马竞球迷团体可能实施人身攻击的威胁",
+          "title": "日媒：日本足协对韩国足协性招待的4名日本裁判展开调查",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：罗德里若加盟巴萨，德容、贝尔纳尔等4人或受影响",
+          "title": "曼晚：拉什福德和梅努随队参加爱尔兰季前赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：阿尔瓦雷斯今日归队，他将再次向马竞表达加盟巴萨意愿",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "芝加哥火焰3-1逆转桑托斯拉古纳，莱万多夫斯基破门，洛德建功",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡报：内马尔合同结束后的去向未定，MSN有望重聚迈阿密",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
