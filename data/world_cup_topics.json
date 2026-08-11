@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-11 21:21:46",
+  "update_time": "2026-08-11 23:05:56",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "进400球场次：梅西525场，姆巴佩537场，C罗内马尔均653场",
+          "title": "队报：无缘世界杯执法，索马里裁判将在欧超杯重回聚光灯下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧足联裁判主管：VAR可介入第二黄，不会采用VAR挑战规则",
+          "title": "绝杀时刻从不缺席！联盟杯补时阶段破门锁定胜局，莱万与生俱来的射手嗅觉，永远值得信赖 #足球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "其实就算b费缺勤，靠蒂勒曼斯+库尼亚+齐尔克泽也能把曼联中前场盘活。维拉就是这么踢的，上赛季中期太猛了。当时好像接近十连胜，随着卡马拉报销后势头就下来了。。。",
+          "title": "这届世界杯西班牙是无锋阵吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -48,9 +48,25 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "欧足联裁判主管：VAR耗时过长令人担忧，我们非常不满于当前的使用方式",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "NBA新赛季揭幕战：76人对阵尼克斯&amp;绿军VS活塞&amp;西决重演",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：胡利安-阿尔瓦雷斯按马竞计划单练，周三会合队友",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
