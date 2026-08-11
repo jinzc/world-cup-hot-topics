@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-11 23:05:56",
+  "update_time": "2026-08-12 01:04:41",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,43 +29,78 @@
     "虎扑": {
       "topics": [
         {
-          "title": "队报：无缘世界杯执法，索马里裁判将在欧超杯重回聚光灯下",
+          "title": "德天体：凯恩新合同签至2029年，薪资仍维持每年约2500万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "绝杀时刻从不缺席！联盟杯补时阶段破门锁定胜局，莱万与生俱来的射手嗅觉，永远值得信赖 #足球",
+          "title": "莱奥：我只专注于球场，除家人和律师外无人有权代表我发言",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这届世界杯西班牙是无锋阵吗？",
+          "title": "塞尔：费兰售价可能决定罗德里报价，前者去巴黎或更早发生",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔瓦雷斯和经纪人抵达马竞训练基地，想和俱乐部谈谈",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "RJ领衔，恩佐、古斯托以及切尔西新援全部到队恢复正式训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里就算7000万欧买也值了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里不来，b席也不错",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩：一切奋斗，只为铸就不朽传奇",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "欧足联裁判主管：VAR耗时过长令人担忧，我们非常不满于当前的使用方式",
+          "title": "切尔西官方：里斯-詹姆斯、恩佐和古斯托等人今天已归队训练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "NBA新赛季揭幕战：76人对阵尼克斯&amp;绿军VS活塞&amp;西决重演",
+          "title": "诺伊尔：若生涯末战是世界杯出局会很遗憾；愿在渣叔手下踢球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：胡利安-阿尔瓦雷斯按马竞计划单练，周三会合队友",
+          "title": "官方：莱万特租借签下比利亚雷亚尔边锋蒂亚戈-费尔南德斯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "诺伊尔：退役可能性很高但不是板上钉钉；拜仁有拿欧冠的实力",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德天空：凯恩愿意留队，拜仁将和他续约至2029年+薪资不变",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
