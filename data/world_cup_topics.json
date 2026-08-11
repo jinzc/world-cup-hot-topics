@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-11 19:51:01",
+  "update_time": "2026-08-11 21:21:46",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,59 +29,28 @@
     "虎扑": {
       "topics": [
         {
-          "title": "维尔茨：在英超踢1年后我知道是怎么样的了，新赛季看我表现",
+          "title": "进400球场次：梅西525场，姆巴佩537场，C罗内马尔均653场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "镜报：拉什福德仍希望离开曼联，他倾向寻找新球队重振生涯",
+          "title": "欧足联裁判主管：VAR可介入第二黄，不会采用VAR挑战规则",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名宿：我愿用斯凯利交换拉什福德，阿尔特塔很适合调教后者",
+          "title": "其实就算b费缺勤，靠蒂勒曼斯+库尼亚+齐尔克泽也能把曼联中前场盘活。维拉就是这么踢的，上赛季中期太猛了。当时好像接近十连胜，随着卡马拉报销后势头就下来了。。。",
           "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费如果最终在曼联退役或者离开曼联，他能到曼联队史排名第几呢？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：贝林厄姆假期到周三，不过他将于明日提前回到皇马参加训练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "82去替补对谁都好，现在82体力退化而且踢不了中场。在替补和罗德里戈两个人左右两边替补尖刀才是最优解。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 6,
-      "status": "success"
-    },
-    "懂球帝": {
-      "topics": [
-        {
-          "title": "英媒：曼联球迷真的该再给拉什福德一次机会，各方暂时没得选",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：维尼修斯续约年薪超2200万欧；穆帅是他留队的原因之一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：阿尔瓦雷斯今日训练安排为上午单独恢复，下午参加合练",
-          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 3,
       "status": "success"
+    },
+    "懂球帝": {
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
