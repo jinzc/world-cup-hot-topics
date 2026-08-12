@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 03:11:40",
+  "update_time": "2026-08-13 05:54:29",
   "sources": {
     "微博": {
       "topics": [
@@ -33,7 +33,7 @@
         {
           "title": "C罗宣布结婚5小时收获1400万赞",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
-          "hot": "763.3万"
+          "hot": "761.3万"
         }
       ],
       "count": 1,
@@ -42,22 +42,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "拉科vs皇马首发：维尼修斯、B席领衔，恩德里克出战",
+          "title": "天体：巴萨准备提高对罗德里报价，预计为5000-6000万镑之间",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔回归训练，巴萨官方：欢迎回家，世界冠军😍",
+          "title": "欧洲超级杯二连冠！马尔基尼奥斯率全队捧起冠军奖杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：一切奋斗，只为铸就不朽传奇",
+          "title": "[流言板]天体：巴萨准备提高对罗德里报价，预计为5000-6000万镑之间",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "36氪：李宁将与姆巴佩签约，他与耐克解约传闻属实。",
+          "title": "连续看了两场热身赛，对维尼修斯的身体状况很失望，希望早点把身体练回来。预测新赛季维尼休斯和姆巴佩两大巨星谁的表现更好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -66,9 +66,25 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "梅里诺：能赢得英超和世界杯确实很棒，但足球不会因此而停滞",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马兹拉维：拉什福德留队的话本赛季能成为重要的一员",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡里克：拉什福德是我们的球员，我们正共同期待着新赛季开始",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
