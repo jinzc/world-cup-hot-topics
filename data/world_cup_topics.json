@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 06:50:38",
+  "update_time": "2026-08-13 07:50:00",
   "sources": {
     "微博": {
       "topics": [
@@ -33,7 +33,7 @@
         {
           "title": "C罗宣布结婚5小时收获1400万赞",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
-          "hot": "761.4万"
+          "hot": "761.1万"
         }
       ],
       "count": 1,
@@ -42,12 +42,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：马竞3500万欧+500万欧签下罗梅罗，计划周四接受体检",
+          "title": "梅西已抵达球场，参加完父亲葬礼后再次进入球队大名单",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天体：巴萨准备提高对罗德里报价，预计为5000-6000万镑之间",
+          "title": "卢卡-齐达内谈对阵梅西：面对历史最佳之一，当然会非常困难",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：巴萨希望尽快敲定费兰离队，将有助于推进罗德里转会",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "迈阿密国际vs莱昂首发：德保罗、卡塞米罗出战，梅西替补",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "泰晤士报：曼城再次拒绝巴萨报价，为罗德里标价7000万镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -55,20 +70,50 @@
           "title": "[流言板]泰晤士报：曼城再次拒绝巴萨报价，为罗德里标价7000万镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "罗德里只要不去皇马，巴萨完全可以和曼城耗到最后",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：马竞不会被随便拿捏；认为巴萨能签下罗德里太荒谬",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔瓦雷斯软弱的态度，以及对罚款的顾虑已经完全耽误了巴萨夏窗引援",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "RMC：纳赛尔无意竞选国际足联主席的职位",
+          "title": "天空：巴萨准备提高对罗德里的报价；森林对赖因德斯感兴趣",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "天空：切尔西之所以为恩佐设置ddl，是因为不想再次陷入混乱",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "英国名记：尤文、米兰、加拉塔萨雷都对B费感兴趣",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "摆脱丧父之痛，梅西已经归队并进入北美联赛杯替补名单",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
