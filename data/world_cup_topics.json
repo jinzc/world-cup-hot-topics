@@ -1,8 +1,14 @@
 {
-  "update_time": "2026-08-12 18:14:28",
+  "update_time": "2026-08-12 19:53:24",
   "sources": {
     "微博": {
       "topics": [
+        {
+          "title": "姆巴佩签约中国品牌",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%AD%BE%E7%BA%A6%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C",
+          "hot": 0,
+          "label": ""
+        },
         {
           "title": "C罗宣布结婚",
           "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
@@ -10,7 +16,7 @@
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -33,7 +39,7 @@
         {
           "title": "C罗宣布结婚5小时收获1400万赞",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
-          "hot": "769.9万"
+          "hot": "739.4万"
         }
       ],
       "count": 1,
@@ -42,78 +48,78 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：目标是周五罗德里不用前往曼城；德容仍坚持保守治疗",
+          "title": "蒂勒曼斯：拉什福德非常谦逊+勤奋，他在曼联能带来很大影响",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：巴萨不接受对罗德里8000万要价，或6500万+500万成交",
+          "title": "巴黎人报：对阵维拉欧超杯，恩里克让参加世界杯球员全出场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这家伙从什么时候装成b费的铁粉了，当初不支持b费续约，边缘b费，支持博格巴续约的也是他",
+          "title": "名记：除马丁内斯外，荷兰也接触哈维考虑邀请他执教国家队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里就算7000万欧买也值了",
+          "title": "罗马诺确认：曼城收到巴萨对罗德里的新报价，仍未达到要价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果德科真的报价6000万固定+2000万浮动买罗德里，配上税后1500万薪资",
+          "title": "[流言板]曼晚：曼联今晚热身赛踢利兹联，拉什福德梅努利马都打替补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗马诺跟进泰晤士独家：巴萨6000万+附加报价罗德里，仍不够",
+          "title": "详细比较埃斯帕特和福特，为什么我觉得福特更适合亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果拉波尔特罗梅罗都搞不来，他怎么样？在西甲踢得很不错到英超就一般了，但也能捞到稳定的相对主力时间",
+          "title": "前锋就剩四个人了 西蒙尼官宣阿尔瓦雷斯留队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "36氪：李宁将与姆巴佩签约，他与耐克解约传闻属实。",
+          "title": "李宁签姆巴佩？​这不就是李宁这些年被安踏按在地上摩擦的原因吗？​沉迷低级流量，​忽略内涵！​",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本泽马与姆巴佩真闹掰了？皇马球迷扒出社交网络“铁证",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]评论员：皇马部分引援在为去年打补丁；仍缺罗德里这根主梁",
+          "title": "从现在种种传言来看，恩佐应该是概率最大的中场，纸面来说，他应该是很适配的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "世界杯狂揽833亿，为何中国彩票市场仍在下行？",
+          "title": "界面新闻：李宁否认签约法国球星姆巴佩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：罗德里若健康曼城上赛季本该夺冠",
+          "title": "蒂莱曼斯：曼联曾两次联系过我；拉什福德很出色，希望他留队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：阿尔瓦雷斯回归马竞首训，不知道他是否和西蒙尼交谈过",
+          "title": "罗马诺：巴萨对罗德里提出了6000万欧的新报价，曼城想要更多",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：曼联首发预测，B费领衔姆伯莫出任中锋，蒂勒曼斯有望先发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
