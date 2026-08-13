@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 12:58:06",
+  "update_time": "2026-08-13 14:23:58",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：比赛结束后梅西迅速离场，未与对手交换球衣",
+          "title": "TA：皇马缺少控场型中场，多名与罗德里相似的球员值得考虑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "外网皇马球迷热议B席：他绝对是超值签约，真的很棒",
+          "title": "金球奖提名次数：C罗18次&amp;梅西16次前二，马尔蒂尼13次第三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西在突破中被莱昂后卫抱起，之后两人相视而笑",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "BBC记者：尤文、米兰和加拉塔萨雷均有意曼联中场B费",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "“坏橙理论”的教训还没吃够，居然指望拉什福德洗心革面？拉什福德就是那个坏橙，赶紧走",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看现在的态势，小蜘蛛和罗德里都不要买了",
+          "title": "教练要有基本的情商，不管拉什福德卖不卖的出去，卡里克都已经尽力，场面话已经说足了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -64,28 +49,38 @@
           "hot": ""
         },
         {
-          "title": "莱万即将离开巴塞罗那",
+          "title": "罗德里只要不去皇马，巴萨完全可以和曼城耗到最后",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：国足11月热身赛有望过招佛得角；足协婉拒赴伊拉克比赛",
+          "title": "金球奖官方：金球奖历史提名次数排行，C罗18次居首，梅西16次",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马卡：梅西在父亲去世后复出，赛后没有与对手换球衣",
+          "title": "TA：切尔西为恩佐标价1.2亿镑，周五是最后报价期限",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马竞主席：任何球队都会很高兴拥有C罗，但他不会为马竞效力",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "土媒：特拉布宗已就引进帕雷德斯达成协议，转会费1000万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
