@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 01:03:12",
+  "update_time": "2026-08-14 03:12:25",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,73 +29,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
+          "title": "记者：罗德里现身马德里餐厅用餐，若无意外明日返曼城训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "决战24小时？跟队：切尔西目前仍未收到任何对恩佐的报价",
+          "title": "罗马诺：罗德里告诉曼城，若转会未果最后一年也将付出一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡里克：拉什福德回曼联像一笔新签约，我不会对他区别对待",
+          "title": "马卡：巴萨曼城尚未谈妥罗德里，球员周五将返回曼城训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：穆帅眼中贝林厄姆是完美10号，曾称后者与兰帕德很像",
+          "title": "罗德里交易完成的概率不足4成",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联与利兹联热身赛后加布里埃尔和拉什福德交谈",
+          "title": "也该为B费培养接班人了，大家看好谁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卧槽今年夏天罗德里来不了了。推上说他给曼城发短信表示如果价格不合适他会再留一年再走，区里的人满意了",
+          "title": "卡里克公开撑拉什福德，有些人却恨不得给拉什福德立刻除名",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这个罗梅罗不是巴萨要买吗？怎么跑马竞去了",
+          "title": "[流言板]罗马诺跟进泰晤士独家：巴萨6000万+附加报价罗德里，仍不够",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]阿斯：B席表现惊艳，罗德里未能加盟，他或成新赛季后腰首选",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿斯：B席是皇马双后腰之一，卡马文加不走他们就不会买后腰",
+          "title": "罗马诺：费兰渴望再次和恩里克共事；巴萨对罗德里已更加乐观",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "莫雷托：巴萨对罗德里的最终报价或接近8000万欧，交易即将敲定",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：罗梅罗即将飞往马德里，周五接受马竞体检",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙媒：利雅得青年接近签下罗赫尔-马丁内斯，球员目前为自由身",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "卡里克：拉什福德能给我们带来极大帮助；我能理解梅努的感受",
+          "title": "还在西班牙，一家马德里餐馆社媒晒罗德里照片",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
