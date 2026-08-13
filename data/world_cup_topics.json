@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 04:52:51",
+  "update_time": "2026-08-14 05:54:17",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,56 +29,76 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：巴萨接触过罗梅罗+经纪人推动传闻，弗帅优先左脚中卫",
+          "title": "罗梅罗：弗里克要求巴萨别放弃小蜘蛛，仍非常执着于签下他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：弗里克要求补充经验和领导力，故同意推动罗德里交易",
+          "title": "40冠，马尔基尼奥斯成为单一俱乐部夺冠数最多球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：曼城或用赖因德斯收入签恩佐，切尔西还没收到报价",
+          "title": "每体：罗德里尝试向曼城请假，希望留在西班牙等待完成转会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队：罗德里100%确定加盟巴萨，否则他不会告诉皇马",
+          "title": "阿根廷记者：恩佐和曼城已谈妥，曼城相信切尔西会软化降价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里只要不去皇马，巴萨完全可以和曼城耗到最后",
+          "title": "[流言板]罗德里搭乘瑞安航空返回英国，抵达利物浦后回曼彻斯特",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]莫雷托：巴萨最终报价罗德里约为7500万欧，确信交易能成",
+          "title": "曼城还想买恩佐，现在着急的是曼城",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：巴萨曼城尚未谈妥罗德里，球员周五将返回曼城训练",
+          "title": "[流言板]罗梅罗：弗里克要求巴萨别放弃小蜘蛛，仍非常执着于签下他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]记者：罗德里现身马德里餐厅用餐，若无意外明日返曼城训练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马如果今夏抢安德森，然后把琼妹卖去英超，算不算中场的一次升级！出球中场等以后再说，毕竟出来的就一个罗德里。",
+          "title": "[流言板]皇马跟队：罗德里100%确定加盟巴萨，否则他不会告诉皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "飞往英格兰，罗德里被拍到在马德里准备登机",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "特维斯：请给梅西力量，帮助他继续踢球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队记者：莱奥因股四头肌疲劳不会参加对阵曼联的友谊赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：周五将是罗德里转会的关键日子，巴萨和曼城将进行会谈",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：罗德里希望推迟归队，等待巴萨和曼城敲定转会",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "记者：曼城与恩佐达成协议，但报价仍低于切尔西要价",
           "url": "https://www.dongqiudi.com/",
@@ -93,24 +113,9 @@
           "title": "意天空：米兰买人不会受卖人影响；卡尔迪纳莱下周和莱奥面谈",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "罗马诺&amp;莫雷托：莱奥离队在目前什么实质性的进展都没有",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "半场战报：舒尔本1-2阿贾克斯，罗德里戈-弗雷塔斯，加埃、布兰特建功",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：费兰渴望再次和恩里克共事；巴萨对罗德里已更加乐观",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
