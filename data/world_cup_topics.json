@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 18:16:00",
+  "update_time": "2026-08-13 19:54:00",
   "sources": {
     "微博": {
       "topics": [
@@ -36,12 +36,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世体：阿尔瓦雷斯随马竞正常训练，过程中神情略显严肃",
+          "title": "热刺转会收入榜：贝尔、凯恩排名前二；罗梅罗有望并列第五",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：切尔西向恩佐潜在买家下通牒，周5下午5点前付1.2亿",
+          "title": "BBC：尤文米兰有意B费，他更倾向留队甚至可能在曼联退役",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "SPORT1：凯恩已拒绝其他所有球队，他想和拜仁续约至2030年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -51,7 +56,17 @@
           "hot": ""
         },
         {
-          "title": "为什么还有人觉得齐尔克泽踢不了英超？他是和b费不搭，他有能力踢英超！！！！",
+          "title": "厌恶拉什福德不是因为他薪资高！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "也该为B费培养接班人了，大家看好谁",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里德交易把巴萨架住了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -61,38 +76,33 @@
           "hot": ""
         },
         {
-          "title": "罗德里只要不去皇马，巴萨完全可以和曼城耗到最后",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【白衣军团】B席VS拉科鲁尼亚 个人集锦",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "突发新闻：巴塞罗那对罗德里的第二次报价（约5500万英镑）已被曼城拒绝",
+          "title": "夏窗引援虎头蛇尾了，最关键的组织中场最后还是没有，只能靠33岁的b席",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德媒：凯恩拒绝追求，想与拜仁续约至2030年",
+          "title": "奥哈拉：热刺应该追拉什福德，德泽尔比是完美管理者",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "名记：B费更倾向留在曼联，或终老球队",
+          "title": "哈曼：维尔茨新赛季需尽快进入状态，否则9月份外界又会质疑他",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意天空：罗马与波尔图仍未就罗德里戈-莫拉转会达成协议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
