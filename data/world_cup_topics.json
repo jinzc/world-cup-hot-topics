@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 10:34:19",
+  "update_time": "2026-08-13 12:58:06",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马兹拉维&amp;卡里克：拉什福德状态很好，他能带来不一样的东西",
+          "title": "马卡：比赛结束后梅西迅速离场，未与对手交换球衣",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "联盟杯无缘出线，梅西23年职业生涯首次遭遇小组出局",
+          "title": "外网皇马球迷热议B席：他绝对是超值签约，真的很棒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "专家：相较于维尼修斯，巴尔科拉更契合阿森纳的建队思路",
+          "title": "梅西在突破中被莱昂后卫抱起，之后两人相视而笑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡里克：拉什福德本就是曼联球员，回归两三天以来他心情一直不错",
+          "title": "BBC记者：尤文、米兰和加拉塔萨雷均有意曼联中场B费",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯这件事拖到现在吧，三方最蠢的还真是巴萨高层",
+          "title": "“坏橙理论”的教训还没吃够，居然指望拉什福德洗心革面？拉什福德就是那个坏橙，赶紧走",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大概算了一下，交易罗德里的成本接近阿尔瓦雷斯",
+          "title": "看现在的态势，小蜘蛛和罗德里都不要买了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "切尔西同意卖恩佐了要曼城拿1.2亿磅。。。罗德里要给曼城凑七千万吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莱万即将离开巴塞罗那",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "莱昂官方致敬梅西：这个拥抱来自莱昂，来自所有人，来自足球",
+          "title": "记者：国足11月热身赛有望过招佛得角；足协婉拒赴伊拉克比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跟队：曼城已准备好与巴萨就罗德里再次谈判，要价将超6000万镑",
+          "title": "马卡：梅西在父亲去世后复出，赛后没有与对手换球衣",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
