@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-13 23:04:27",
+  "update_time": "2026-08-14 01:03:12",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,43 +29,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "也该为B费培养接班人了，大家看好谁",
+          "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拿阿尔瓦雷斯的预算去打包米考塔泽/特雷索尔迪+维加有说法吗",
+          "title": "决战24小时？跟队：切尔西目前仍未收到任何对恩佐的报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米利唐 回到训练场上，正常情况预计9月份复出。",
+          "title": "卡里克：拉什福德回曼联像一笔新签约，我不会对他区别对待",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：穆帅眼中贝林厄姆是完美10号，曾称后者与兰帕德很像",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼联与利兹联热身赛后加布里埃尔和拉什福德交谈",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "卧槽今年夏天罗德里来不了了。推上说他给曼城发短信表示如果价格不合适他会再留一年再走，区里的人满意了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这个罗梅罗不是巴萨要买吗？怎么跑马竞去了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：曼城1.2亿欧报价恩佐，切尔西尚未回应",
+          "title": "阿斯：B席是皇马双后腰之一，卡马文加不走他们就不会买后腰",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：切尔西未收到针对恩佐正式报价，标价仍为1.2亿镑",
+          "title": "莫雷托：巴萨对罗德里的最终报价或接近8000万欧，交易即将敲定",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "加泰媒：巴萨为罗德里报价6500万欧，曼城要价至少7000万",
+          "title": "罗马诺：罗梅罗即将飞往马德里，周五接受马竞体检",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "沙媒：利雅得青年接近签下罗赫尔-马丁内斯，球员目前为自由身",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡里克：拉什福德能给我们带来极大帮助；我能理解梅努的感受",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
