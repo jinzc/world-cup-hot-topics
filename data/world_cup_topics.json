@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 03:12:25",
+  "update_time": "2026-08-14 04:52:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,88 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：罗德里现身马德里餐厅用餐，若无意外明日返曼城训练",
+          "title": "记者：巴萨接触过罗梅罗+经纪人推动传闻，弗帅优先左脚中卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：罗德里告诉曼城，若转会未果最后一年也将付出一切",
+          "title": "每体：弗里克要求补充经验和领导力，故同意推动罗德里交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：巴萨曼城尚未谈妥罗德里，球员周五将返回曼城训练",
+          "title": "罗马诺：曼城或用赖因德斯收入签恩佐，切尔西还没收到报价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里交易完成的概率不足4成",
+          "title": "皇马跟队：罗德里100%确定加盟巴萨，否则他不会告诉皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "也该为B费培养接班人了，大家看好谁",
+          "title": "罗德里只要不去皇马，巴萨完全可以和曼城耗到最后",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡里克公开撑拉什福德，有些人却恨不得给拉什福德立刻除名",
+          "title": "[流言板]莫雷托：巴萨最终报价罗德里约为7500万欧，确信交易能成",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗马诺跟进泰晤士独家：巴萨6000万+附加报价罗德里，仍不够",
+          "title": "[流言板]马卡：巴萨曼城尚未谈妥罗德里，球员周五将返回曼城训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]阿斯：B席表现惊艳，罗德里未能加盟，他或成新赛季后腰首选",
+          "title": "[流言板]记者：罗德里现身马德里餐厅用餐，若无意外明日返曼城训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马如果今夏抢安德森，然后把琼妹卖去英超，算不算中场的一次升级！出球中场等以后再说，毕竟出来的就一个罗德里。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "罗马诺：费兰渴望再次和恩里克共事；巴萨对罗德里已更加乐观",
+          "title": "记者：曼城与恩佐达成协议，但报价仍低于切尔西要价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "还在西班牙，一家马德里餐馆社媒晒罗德里照片",
+          "title": "澳波为C罗送上结婚祝贺，队友们纷纷鼓掌致意",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意天空：米兰买人不会受卖人影响；卡尔迪纳莱下周和莱奥面谈",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺&amp;莫雷托：莱奥离队在目前什么实质性的进展都没有",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "半场战报：舒尔本1-2阿贾克斯，罗德里戈-弗雷塔斯，加埃、布兰特建功",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：费兰渴望再次和恩里克共事；巴萨对罗德里已更加乐观",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
