@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 05:54:17",
+  "update_time": "2026-08-14 06:52:09",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,11 @@
     "虎扑": {
       "topics": [
         {
+          "title": "塞尔：罗德里明日归队训练，巴萨乐观认为他最迟周一可到队",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "罗梅罗：弗里克要求巴萨别放弃小蜘蛛，仍非常执着于签下他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -44,38 +49,53 @@
           "hot": ""
         },
         {
-          "title": "阿根廷记者：恩佐和曼城已谈妥，曼城相信切尔西会软化降价",
+          "title": "罗德里交易完成的概率不足4成",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗德里搭乘瑞安航空返回英国，抵达利物浦后回曼彻斯特",
+          "title": "[流言板]塞尔：罗德里明日归队训练，巴萨乐观认为他最迟周一可到队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼城还想买恩佐，现在着急的是曼城",
+          "title": "[流言板]罗梅罗：罗德里称飞曼市为录告别视频，周末将抵达巴塞罗那",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗梅罗：弗里克要求巴萨别放弃小蜘蛛，仍非常执着于签下他",
+          "title": "罗德里的两条关键信息",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]皇马跟队：罗德里100%确定加盟巴萨，否则他不会告诉皇马",
+          "title": "皇马这赛季不应该错过恩佐",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "卖巴尔韦德换恩佐确实可以26岁换同级别23岁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "飞往英格兰，罗德里被拍到在马德里准备登机",
+          "title": "每体：巴萨否认接触劳塔罗，仍全力追阿尔瓦雷斯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "名记罗梅罗：弗里克对米卡塔泽加盟存疑，德科看好他",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "坐廉航飞往英格兰，罗德里被拍到在马德里准备登机",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -83,39 +103,9 @@
           "title": "特维斯：请给梅西力量，帮助他继续踢球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "跟队记者：莱奥因股四头肌疲劳不会参加对阵曼联的友谊赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：周五将是罗德里转会的关键日子，巴萨和曼城将进行会谈",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：罗德里希望推迟归队，等待巴萨和曼城敲定转会",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：曼城与恩佐达成协议，但报价仍低于切尔西要价",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "澳波为C罗送上结婚祝贺，队友们纷纷鼓掌致意",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意天空：米兰买人不会受卖人影响；卡尔迪纳莱下周和莱奥面谈",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
