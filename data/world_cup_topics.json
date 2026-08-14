@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 05:31:51",
+  "update_time": "2026-08-15 06:30:52",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,7 +35,37 @@
     "虎扑": {
       "topics": [
         {
+          "title": "记者：小蜘蛛转会只能靠巴萨加价，若罗德里来他肯定来不了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "塞尔：巴萨签罗德里取得重大进展，转会费预计7000-7500万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗梅罗：拉波尔塔/德科等人连续两晚聚餐，商讨巴萨各项规划",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "太阳报：C罗婚前协议曝光，若离婚乔治娜不分资产&amp;月领8.5万",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：法国足协正暗中靠近因凡蒂诺，无意参与欧足联抵制",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "回来了！姆巴佩社媒晒训练照，结束假期后已投入皇马训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫德里奇最有吸引力的英格兰俱乐部。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -45,23 +75,28 @@
           "hot": ""
         },
         {
+          "title": "[流言板]每体：巴萨望本周末敲定罗德里，固定转会费约6500-7000万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "大家认为皇马能够反截胡罗德里吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米利唐 回到训练场上，正常情况预计9月份复出。",
+          "title": "世界杯结束25天，阿根廷世界杯判罚今天上热搜了。。。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "迈阿密国际主帅奥约斯：请尊重梅西的隐私",
+          "title": "记者：巴萨目标周一签下罗德里，转会费6500-7000万欧加奖金",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
