@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 06:30:52",
+  "update_time": "2026-08-15 07:28:17",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,42 +35,42 @@
     "虎扑": {
       "topics": [
         {
+          "title": "世体：巴萨坚定追求罗德里和小蜘蛛，后者将继续推动离队",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：贝林厄姆归队后状态出色，有望随队出战沙尔克04",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：米兰愿接受最低4000万欧固定转会费，今夏出售莱奥",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：巴萨望本周末敲定罗德里，固定转会费约6500-7000万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "记者：小蜘蛛转会只能靠巴萨加价，若罗德里来他肯定来不了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：巴萨签罗德里取得重大进展，转会费预计7000-7500万欧",
+          "title": "[流言板]世体：巴萨坚定追求罗德里和小蜘蛛，后者将继续推动离队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：拉波尔塔/德科等人连续两晚聚餐，商讨巴萨各项规划",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "太阳报：C罗婚前协议曝光，若离婚乔治娜不分资产&amp;月领8.5万",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：法国足协正暗中靠近因凡蒂诺，无意参与欧足联抵制",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "回来了！姆巴佩社媒晒训练照，结束假期后已投入皇马训练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "莫德里奇最有吸引力的英格兰俱乐部。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨视阿尔瓦雷斯为头号引援目标，下周末定生死",
+          "title": "就算8000w也必须拿下罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -80,17 +80,22 @@
           "hot": ""
         },
         {
+          "title": "夏窗引援虎头蛇尾了，最关键的组织中场最后还是没有，只能靠33岁的b席",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "大家认为皇马能够反截胡罗德里吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界杯结束25天，阿根廷世界杯判罚今天上热搜了。。。",
+          "title": "罗德里最傻的就是信了巴萨，马上拒绝了皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
@@ -99,9 +104,14 @@
           "title": "记者：巴萨目标周一签下罗德里，转会费6500-7000万欧加奖金",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
+        },
+        {
+          "title": "内马尔：球迷向我们要求一些东西时，我也想让他们多支持我们",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
