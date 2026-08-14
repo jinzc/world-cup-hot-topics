@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 21:22:37",
+  "update_time": "2026-08-14 22:58:59",
   "sources": {
     "微博": {
       "topics": [
@@ -24,14 +24,9 @@
           "title": "中国足球小将战平巴萨",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E6%88%98%E5%B9%B3%E5%B7%B4%E8%90%A8",
           "hot": 0
-        },
-        {
-          "title": "曝曼城将签下恩佐",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%9B%BC%E5%9F%8E%E5%B0%86%E7%AD%BE%E4%B8%8B%E6%81%A9%E4%BD%90",
-          "hot": 0
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "知乎": {
@@ -47,47 +42,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "蒂勒曼斯：B费第一个发消息欢迎我；卡里克给我的角色很舒服",
+          "title": "世体：佩德里归队后暂未参加合练，巴萨称是特定训练规划",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：拉什福德曾说缺稳定环境，现卡里克已找回曼联的平稳",
+          "title": "跟队：曼联内部讨论蒂勒曼斯搭档B费，认为两人串联配合默契",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "史密斯：萨卡能重返最佳水准，新赛季他为枪手多进球很关键",
+          "title": "曼联vs米兰名单：梅努、拉什福德回归，JJ-加布里埃尔在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：若切尔西成功出售恩佐，可能考虑从水晶宫引进沃顿",
+          "title": "姆巴佩：穆里尼奥知道如何赢球，我确信皇马今年会再次夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴恩斯：贝林厄姆不是梅西也不是C罗，他无法单靠自己赢比赛",
+          "title": "曼联vs米兰名单：利马、梅努、拉什福德回归，JJ·加布里埃尔在列",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]蒂勒曼斯：很高兴B费从对手变成队友；梅努前途无量",
+          "title": "[流言板]罗梅罗：巴萨确实有意路易斯-苏亚雷斯，弗里克已为他开绿灯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎来买费兰是态度强硬，曼城出售罗德里，也是态度强硬？那咱们是什么",
+          "title": "巴萨应该多买拉菲尼亚、戈登这种当打之年英超中游球队的核心，而不是高薪高价去砸罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在最恶心的不是阿尔瓦雷斯签不下来",
+          "title": "看看巴黎的夏窗：售出李刚仁、穆阿尼和贡萨洛拉莫斯，换回费兰、戈茨和阿克利舍乌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马如果今夏抢安德森，然后把琼妹卖去英超，算不算中场的一次升级！出球中场等以后再说，毕竟出来的就一个罗德里。",
+          "title": "[流言板]姆巴佩：穆里尼奥知道如何赢球，我确信皇马今年会再次夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -98,17 +93,22 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "ESPN：内马尔未定是否客战帕尔梅拉斯，此前称不在人工草坪比赛",
+          "title": "姆巴佩：有穆里尼奥这样一位教练很有好处，因为他知道怎么赢",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "前教练：如果你喜欢维尼修斯的球风，那你一定会爱上迪奥曼德",
+          "title": "太阳报：C罗婚前签财产协议，若离婚乔治娜无权分走一半财产",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TyC：阿尔瓦雷斯明确不想继续留队，团队要求尽快与希尔-马林会面",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
