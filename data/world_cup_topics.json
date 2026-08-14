@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 12:55:00",
+  "update_time": "2026-08-14 14:19:59",
   "sources": {
     "微博": {
       "topics": [
@@ -36,6 +36,26 @@
     "虎扑": {
       "topics": [
         {
+          "title": "阿斯：巴萨给罗德里税后1500万欧年薪，总成本将高达2.1亿欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "今天是罗梅罗之日：他抵达马德里将接受马竞体检，随后官宣",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：让小蜘蛛去起诉5亿违约金太高？那亚马尔10亿欧怎么说",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "远藤航：无缘世界杯我没有后悔也没有留恋；做好自己就行",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "戴维斯：C罗非常清楚该如何调校自己的身体，很多球员都不懂",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -46,22 +66,7 @@
           "hot": ""
         },
         {
-          "title": "莫罗：我面对C罗完成了一线队首秀，赛后还带走了他的球衣",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：马雷斯卡希望有恩佐后插上能力，他进攻能力更具威胁",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙特媒：C罗婚后新造型亮相训练，澳波携胜利全队向他贺喜",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "“坏橙理论”的教训还没吃够，居然指望拉什福德洗心革面？拉什福德就是那个坏橙，赶紧走",
+          "title": "[流言板]阿斯：巴萨给罗德里税后1500万欧年薪，总成本将高达2.1亿欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -71,17 +76,12 @@
           "hot": ""
         },
         {
-          "title": "罗德里要是来不了是真的失望",
+          "title": "皇马这赛季不应该错过恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里加盟是一个新周期的开始",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里最傻的就是信了巴萨，马上拒绝了皇马",
+          "title": "夏窗引援虎头蛇尾了，最关键的组织中场最后还是没有，只能靠33岁的b席",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -92,27 +92,32 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "葡媒：C罗婚礼只邀请4位见证人，母亲姐姐都没来；两人签了婚前协议",
+          "title": "世体：阿尔瓦雷斯没有放弃加盟巴萨，仍希望说服马竞",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：范德芬的高薪合同太扯了，罗梅罗是坎贝尔后最羞耻队长",
+          "title": "罗马诺：恩佐未来迎关键时刻，切尔西英国时间17点后不再出售",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "新西兰足协官方：撤回对因凡蒂诺竞选连任国际足联主席的支持",
+          "title": "皇社小将：C罗是最佳射手和最佳球员；现役最强前锋是姆巴佩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "森保一：世界杯我们本应战胜巴西，我的战术安排应该更巧妙些",
+          "title": "西媒盘点C罗不同时期发型：哪一个发型是最好的？",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：罗梅罗是领袖也是隐患；球员对热刺没有归属感",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
