@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 18:29:24",
+  "update_time": "2026-08-15 19:26:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,22 +35,17 @@
     "虎扑": {
       "topics": [
         {
+          "title": "拉门斯：成曼联1号门将是我梦想；世界杯感觉不好会尽快翻篇",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "记者：世界杯决赛进球后，费兰认为自己的能力被巴萨低估",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "专家：弗里克或因无球时贡献不足放弃拉什福德，更相信戈登",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼联伤情：芒特预计揭幕战对赫尔城复出；德里赫特仍未知",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]曼联伤情：芒特预计揭幕战对赫尔城复出；德里赫特仍未知",
+          "title": "莫德里奇最有吸引力的英格兰俱乐部。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -58,25 +53,45 @@
           "title": "下赛季b费会爆发，进球助攻双20+，立贴为证",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "个人观点应该放弃阿尔瓦雷斯了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一直好奇，为什么C罗那么强壮，却踢不了单中锋呢？背身持球护球很难练吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴萨官方：佩德里正进行特定训练计划",
+          "title": "晚旗报：切尔西发了恩佐训练视频，预计留队至2027年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "仍在尝试，罗马诺：曼城内部已就再次尝试引进恩佐可行方案展开讨论",
+          "title": "记者：罗德里转会很可能会推动恩佐转会，恩佐本人渴望踢欧冠",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "律师：罗德里戈-莫拉不在法廖利计划中，他渴望上场踢比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：巴萨第三次报价罗德里，金额超过6000万镑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
