@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 07:28:17",
+  "update_time": "2026-08-15 09:41:52",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,78 +35,38 @@
     "虎扑": {
       "topics": [
         {
-          "title": "世体：巴萨坚定追求罗德里和小蜘蛛，后者将继续推动离队",
+          "title": "阿斯：巴萨仍全力追逐阿尔瓦雷斯，若失败将陷锋线引援困局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科贝：贝林厄姆归队后状态出色，有望随队出战沙尔克04",
+          "title": "姆巴佩：皇马这赛季一定会夺冠 穆帅知道如何带队赢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：米兰愿接受最低4000万欧固定转会费，今夏出售莱奥",
+          "title": "巴萨应该多买拉菲尼亚、戈登这种当打之年英超中游球队的核心，而不是高薪高价去砸罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：巴萨望本周末敲定罗德里，固定转会费约6500-7000万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：小蜘蛛转会只能靠巴萨加价，若罗德里来他肯定来不了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]世体：巴萨坚定追求罗德里和小蜘蛛，后者将继续推动离队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "就算8000w也必须拿下罗德里",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：巴萨望本周末敲定罗德里，固定转会费约6500-7000万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "夏窗引援虎头蛇尾了，最关键的组织中场最后还是没有，只能靠33岁的b席",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "大家认为皇马能够反截胡罗德里吗？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里最傻的就是信了巴萨，马上拒绝了皇马",
+          "title": "现在最恶心的不是阿尔瓦雷斯签不下来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：巴萨目标周一签下罗德里，转会费6500-7000万欧加奖金",
+          "title": "佩德里：父母告诉我想成为职业球员，就须努力不能只满足于天赋",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内马尔：球迷向我们要求一些东西时，我也想让他们多支持我们",
+          "title": "曼晚：拉什福德回归训练，有望战米兰复出",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
