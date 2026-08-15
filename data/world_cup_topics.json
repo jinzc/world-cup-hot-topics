@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 20:51:21",
+  "update_time": "2026-08-15 21:35:54",
   "sources": {
     "微博": {
       "topics": [
@@ -42,6 +42,11 @@
     "虎扑": {
       "topics": [
         {
+          "title": "每体：巴萨号码大洗牌，戈登或穿7号，4号或归埃里克/罗德里",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "马卡：巴萨就罗德里向曼城提交第3份报价，近7000万欧+奖金",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -52,63 +57,38 @@
           "hot": ""
         },
         {
-          "title": "罗梅罗：我期盼加盟马竞有很长时间，这里有很多阿根廷队友",
+          "title": "下赛季b费会爆发，进球助攻双20+，立贴为证",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "转载米体报道称阿莫林不满莱奥，莱奥亲自回复：这是在撒谎",
+          "title": "重大利好！据塞尔：朱利安·阿尔瓦雷斯向队友承认，他在处理事情的方式和风格上犯了错误，并且只要他穿着马德里竞技队的球衣，他的承诺就会是100%的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "也该为B费培养接班人了，大家看好谁",
+          "title": "有的曼城球迷的嘴脸啊，巴萨报价罗德里这叫没有诚意？？？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德容在撒谎？罗梅罗说的全是真的？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：巴萨号码大洗牌，戈登或穿7号，4号或归埃里克/罗德里",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]马卡：巴萨就罗德里向曼城提交第3份报价，近7000万欧+奖金",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]马卡：皇马后防逐渐齐整让穆帅感觉踏实，米利唐或提前复出",
+          "title": "[流言板]为何布阿迪转会曼城迟迟未完成？TA跟队：原因在罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "莱奥回应媒体称自己为更衣室负面因素：大概是因为你在造谣吧",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：巴萨第三次报价罗德里，最高7000万欧+奖金",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "米体：莱奥无法兼容阿莫林体系，还被视为更衣室负面因素",
+          "title": "曼联vs米兰：库尼亚、B费、马奎尔出战，米兰首发稍后带来",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
