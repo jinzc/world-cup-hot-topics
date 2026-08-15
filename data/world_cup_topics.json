@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15 22:30:04",
+  "update_time": "2026-08-15 23:28:02",
   "sources": {
     "微博": {
       "topics": [
@@ -42,48 +42,59 @@
     "虎扑": {
       "topics": [
         {
-          "title": "曼城伤情：格10/萨维尼奥或首战复出，罗德里或对水晶宫复出",
+          "title": "阿斯专栏：西蒙尼盼罗梅罗成为马竞新戈丁，让后防完成升级",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：拉什福德今晚穿9号，这只是临时号码正式号码下周确认",
+          "title": "曼晚盘点卡里克为阿莫林纠错：重新启用梅努；不让B费踢后腰",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为何布阿迪转会曼城迟迟未完成？TA跟队：原因在罗德里",
+          "title": "卡塔尔足协致函亚足联：未经事先协商，不得强加集体立场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "先锋报：德科曾告诉罗德里不会和皇马竞价，想来就明确表态",
+          "title": "罗德里6800w加1000浮动加盟了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：佩德里执行特殊训练计划，单独训练备战西甲首轮",
+          "title": "感觉罗德里快了，有巴萨媒体已经开始套球衣了，只有1000万差价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：巴萨就罗德里向曼城提交第3份报价，近7000万欧+奖金",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]先锋报：德科曾告诉罗德里不会和皇马竞价，想来就明确表态",
+          "title": "皇马官方：沙尔克04VS皇马比赛大名单，姆巴佩、贝林厄姆、迪奥曼德入选。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "拜仁3-1莱比锡，迪亚斯、布朗破门，穆西亚拉进球&amp;伤退",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：尤文再次询价大马丁，维拉有意接盘铃木彩艳",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯决赛裁判视角画面公布，温契奇提醒梅西：管住帕雷德斯",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
