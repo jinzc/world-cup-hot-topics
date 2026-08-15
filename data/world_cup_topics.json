@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-16 04:30:10",
+  "update_time": "2026-08-16 05:28:03",
   "sources": {
     "微博": {
       "topics": [
@@ -42,6 +42,11 @@
     "虎扑": {
       "topics": [
         {
+          "title": "沙特联：胜利3-0征服，菲利克斯建功，科斯塔首秀破门",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "“沙特金球”到手！菲利克斯领取25/26赛季沙特联最佳球员奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -52,27 +57,22 @@
           "hot": ""
         },
         {
-          "title": "赶紧放弃，去抢布阿迪或者恩佐",
+          "title": "[流言板]被球迷问及罗德里，隆加里：他会成为一名巴塞罗那球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卧槽今年夏天罗德里来不了了。推上说他给曼城发短信表示如果价格不合适他会再留一年再走，区里的人满意了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]记者：世界杯决赛进球后，费兰认为自己的能力被巴萨低估",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里要是来不了是真的失望",
+          "title": "贪得无厌的曼二狗，让他们求仁得仁吧，罗德里免签走更好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
           "title": "罗德里第三次报价被拒绝了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里啥时候去巴萨？巴萨爽快点，气氛组都已经满了，还不给钱了事？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
