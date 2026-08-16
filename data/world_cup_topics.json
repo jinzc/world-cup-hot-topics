@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 01:25:49",
+  "update_time": "2026-08-17 02:38:40",
   "sources": {
     "微博": {
       "topics": [
@@ -36,22 +36,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "图片报：穆西亚拉未来几天恢复训练，埃贝尔赛后表示无大碍",
+          "title": "白宫世界杯主任：希望因凡蒂诺下台的人都应该检查一下脑子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "友谊赛：沙尔克0-3皇马，姆巴佩破僵，赫伊森埃斯皮建功",
+          "title": "[流言板]Here we go！罗马诺：罗德里即将加盟巴塞罗那",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里的钱实在谈不妥就不要了，上赛季最后加维踢后腰也很好",
+          "title": "罗德里来了巴萨终于有一个真正的后腰了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "中锋其实可以凑合，但是后腰必须要咬死罗德里",
+          "title": "HWG！罗德里加盟巴塞罗那！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -60,9 +60,20 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "Here we go！罗马诺：罗德里即将加盟巴萨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "半场战报：西班牙人2-0莱万特，罗伯托-费尔南德斯梅开二度",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
