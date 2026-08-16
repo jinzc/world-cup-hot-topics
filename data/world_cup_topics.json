@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 02:38:40",
+  "update_time": "2026-08-17 03:26:26",
   "sources": {
     "微博": {
       "topics": [
@@ -36,27 +36,77 @@
     "虎扑": {
       "topics": [
         {
-          "title": "白宫世界杯主任：希望因凡蒂诺下台的人都应该检查一下脑子",
+          "title": "迪马：尤文顾虑大马丁手指伤势，已决定加速推进维卡里奥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]Here we go！罗马诺：罗德里即将加盟巴塞罗那",
+          "title": "跟队：罗德里转会费总价6540万镑，曼城对此感到满意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里来了巴萨终于有一个真正的后腰了",
+          "title": "记者：巴萨与曼城原则上达协议，将以7650万欧签下罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "HWG！罗德里加盟巴塞罗那！",
+          "title": "马卡披露罗德里谈判：巴萨每次加500万欧；曼城降价1000万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：若合同手续顺利，巴萨希望罗德里在周三甘伯杯上亮相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：巴萨固转+奖金总价7500万欧签下罗德里，曼城同意出售",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "塞尔：罗德里转会费约7000万欧，还需敲定最后细节+交换文件",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：罗德里将与巴萨签约4年，转会费6500万欧+浮动",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一个晚上坎塞洛免签，罗德里6000+1500，我求求你们快给德圣道歉！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "签罗德里这一步 赌的成分很大，希望能有好结果",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "心情很复杂，祝福罗德里，顺便分析下罗德里，让萨米吃颗定心丸。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]DO：巴萨总价7650万欧从曼城签下罗德里，固定转会费6000万",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里和佩德里能共存我吃",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "7500买个俱乐部不出力的铁拐李，萨巴真是疯了，就西班牙世界杯来看，佩德里和铁拐李无法共存，我觉得铁拐李下赛季要被拷打了，毕竟萨巴阵容有点差，没有西班牙那个体系",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
@@ -67,12 +117,27 @@
           "hot": ""
         },
         {
-          "title": "半场战报：西班牙人2-0莱万特，罗伯托-费尔南德斯梅开二度",
+          "title": "DO：罗德里固定转会费6000万欧元，总价7650万欧元",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "西班牙人3-0大胜莱万特，罗伯托-费尔南德斯双响，多兰破门",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：巴萨有信心让罗德里周三在诺坎普亮相",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：罗德里加盟巴萨的总价可以达到7500万欧元",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
