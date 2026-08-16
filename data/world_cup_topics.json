@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-16 18:29:46",
+  "update_time": "2026-08-16 19:26:26",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "孔帕尼：新赛季乌尔比希会获得时间，但诺伊尔仍是拜仁一门",
+          "title": "维尼修斯整容后颜值变了，合影的粉丝都有点认不出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "利物浦首战科莫首发：麦卡、基耶萨首发，远藤航出战",
+          "title": "记者：铃木彩艳已同意加盟维拉，大马丁离队可能性增加",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨视阿尔瓦雷斯为头号引援目标，下周末定生死",
+          "title": "阿斯：C罗渐淡出核心位置，菲利克斯成俱乐部+国家队接班人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "DO：尤文1000万欧总价再次报价大马丁，维拉要求1000万固定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马奎尔表态希望拉什福德留队，称赞其比赛威胁巨大，留下对曼联会很有价值",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "上半场，中场拿不住球，中锋完全废的，B费状态差",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -47,35 +62,30 @@
           "title": "强留罗德里有什么意思，要钱没够",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "[流言板]巴萨曼城距达成协议只差1000万欧，都相信罗德里交易能成",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里要是来不了是真的失望",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 4,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "DO：尤文总价1000万欧报价大马丁，与维拉的估价差距在缩小",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：罗德里戈2027年初复出，米利唐9月或10月回归",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "英媒：社区盾杯哈兰德可出场，罗德里出战可能性不大",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "雷霆何时退役威少球衣？杰伦-威廉姆斯：能在揭幕战直接退吗",
+          "title": "罗马诺：维拉接近3500万欧签下铃木彩艳，尤文仍关注马丁内斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
