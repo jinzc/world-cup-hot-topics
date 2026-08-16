@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 04:30:37",
+  "update_time": "2026-08-17 05:26:46",
   "sources": {
     "微博": {
       "topics": [
@@ -36,6 +36,31 @@
     "虎扑": {
       "topics": [
         {
+          "title": "记者：罗德里周一在曼市接受体检，当天或周二前往巴塞罗那",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗梅罗：罗德里明日抵达巴塞罗那，完成加盟相关流程",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "摩根点评罗德里转会巴萨：对阿森纳来说是好消息",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "瑞安航空转发罗德里HWG社媒：还需要我们再送你一程吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：尤文放弃大马丁后致电热刺，尝试租借维卡里奥",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "DO：大马丁转会尤文交易告吹，尤文将转攻其他目标",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -46,52 +71,17 @@
           "hot": ""
         },
         {
-          "title": "罗马诺：曼城签下布阿迪只是时间问题；仍然没有放弃恩佐",
+          "title": "挺好的，罗德里加盟巴萨，巴萨和皇马专区都很高兴，难得和谐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：罗德里和曼城属于友好分手，曼城满意巴萨出的费用",
+          "title": "罗德里的到来真正受益的并不是佩德里，反而是库巴西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪马：尤文顾虑大马丁手指伤势，已决定加速推进维卡里奥",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "跟队：罗德里转会费总价6540万镑，曼城对此感到满意",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：罗德里总价7650万欧加盟巴萨，两队良好关系促成交易",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡披露罗德里谈判：巴萨每次加500万欧；曼城降价1000万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里7650万欧加盟巴萨，这钱花得值不值？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "还是hwg了，我就预期6500，现在7500。就当坎塞洛那1000花到罗德里身上了。罗德里最好能踢出应该有的表现。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]DO：巴萨总价7650万欧从曼城签下罗德里，固定转会费6000万",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这曼城一输，不会不卖罗德里了啊？",
+          "title": "维尼修斯签完合同怎么就这德行？感觉像阿扎尔附体一样。有种不好预感。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -99,14 +89,9 @@
           "title": "B席？绝对物超所值啊！控球、传球都是恰到好处！凭一己之力，就让球队细腻丝滑了很多！身体健康最重要‼️",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "罗德里和佩德里能共存我吃",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 14,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
@@ -117,52 +102,17 @@
           "hot": ""
         },
         {
-          "title": "罗马诺：罗马接近签下波尔图中场罗德里戈-莫拉",
+          "title": "蒂亚戈-门德斯赛前拒绝与内马尔握手，曾被内马尔说是蠢货",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：维拉坚持对大马丁要价1500万欧，尤文认为报价已合理",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：维尼修斯遭沙尔克球迷狂嘘，随后以飞吻回应",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "DO：大马丁加盟尤文交易告吹，铃木彩艳仍将加盟维拉",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：罗德里将和巴萨签约四年，巴萨已经在安排体检",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "天空体育：曼城接受巴萨6540万镑报价，罗德里将离队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：罗德里加盟巴萨的固定转会费至少6500万欧元",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿利松：赢球对我们恢复信心很有帮助；雅凯和阿劳霍表现很好",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡报：亚马尔开始兑现世界杯夺冠留胡子承诺",
+          "title": "记者：罗德里周一在曼市接受体检，当天或周二飞往巴塞罗那",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
