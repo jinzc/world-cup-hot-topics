@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 23:32:03",
+  "update_time": "2026-08-18 00:35:58",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "电讯报：加拉塔萨雷想5000万+2倍薪资报价B费，曼联坚决不卖",
+          "title": "这布阿迪都能要1.3亿，亚马尔真实身价不得3亿以上？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：我和拜仁合同只剩1年&amp;会在下周谈续约，双方都很放松",
+          "title": "曼城把罗德里b席放走，再花两个1.3亿欧买两个愣头青，这球队完了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：姆巴佩加入后穆帅的4231更有意义，战术天平彻底改变",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "BBC：加拉塔萨雷准备5000万欧正式报价B费，曼联绝对不会卖",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：穆帅的训练让球员疲惫但也打下基础，维尼修斯开始回防",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "隔壁又开始贬低罗德里了",
+          "title": "买了罗德里之后大家就把买首发中锋的念头放下吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -64,33 +49,33 @@
           "hot": ""
         },
         {
-          "title": "罗德里这事到底是吃不到葡萄说葡萄酸，还是真没想买，以及罗德里对皇马巴萨影响力现实分析",
+          "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "意天空：图拉姆复出可首发意甲揭幕战，劳塔罗大概率替补",
+          "title": "EA27评分最高前27：姆巴佩和哈兰德91并列第一，梅西89",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：阿尔瓦雷斯今早随马竞训练，巴萨本周定备选方案",
+          "title": "记者：罗德里乘坐的飞机已经起飞，预计当地时间今天晚上抵达",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩：下周或下下周和俱乐部谈续约，双方都很放松",
+          "title": "邮报：曼联无意今夏出售B费，他们清楚签他的替代者更费钱",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔调侃佩德里和加维：草莓奶油和棒棒糖在我身后呢",
+          "title": "球衣装备网：阿迪被指偷工减料，世界杯球衣的冠军盾采用廉价材质",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
