@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 06:31:29",
+  "update_time": "2026-08-18 07:29:07",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,32 @@
     "虎扑": {
       "topics": [
         {
+          "title": "六台：皇马此前对罗德里的报价不足4000万欧，远低于巴萨",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "水晶宫前老板：因凡蒂诺应该让位，让温格来管理国际足联",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：罗德里明早9点体检，若所有手续顺利将在13点亮相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "马特乌斯：凯恩是金球奖头号人选；遗憾埃尔马拉未加盟多特",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "国际足联高层离职，曾猛烈批评因凡蒂诺称“丢工作也要说”",
+          "title": "B费现在需要做的，就是像当年的鲁尼一样。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]EAFC27男足评分公布：姆巴佩哈兰德91，亚马尔90，梅西89",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里没来，皇马球迷其实挺遗憾的",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]六台：皇马此前对罗德里的报价不足4000万欧，远低于巴萨",
+          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -65,17 +65,12 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "阿斯：皇马、巴萨争夺桑坦德新星马丁内斯，球员解约金300万欧",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：巴萨不强行安排罗德里首秀，需多堂合练后登场",
+          "title": "Here we go！罗马诺：罗德里戈-莫拉2500万+50%二转加盟罗马",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
