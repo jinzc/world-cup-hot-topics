@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 04:34:24",
+  "update_time": "2026-08-18 05:32:04",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,7 +29,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "图片报：凯恩已向拜仁高层明确传达态度，他希望继续效力",
+          "title": "马特乌斯：凯恩是金球奖头号人选；遗憾埃尔马拉未加盟多特",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "国际足联高层离职，曾猛烈批评因凡蒂诺称“丢工作也要说”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -49,58 +54,28 @@
           "hot": ""
         },
         {
-          "title": "TA曼联跟队：B费倾向于留队，曼联已经开始与他谈判续约",
+          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：B费无意加盟加拉塔萨雷，拉什福德和他一样也不会去",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世界杯决赛裁判视角解析：温契奇让梅西“管住”帕雷德斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]TA曼联跟队：B费倾向于留队，曼联已经开始与他谈判续约",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "买下罗德里应该是为冲击欧冠",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "问题来了～国家队罗德里+佩德里效果很差～俱乐部两个人如何兼容？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆总，埃斯皮，B席，居莱尔热身赛都发挥优秀",
+          "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：莱奥被门德斯推荐给了罗马",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：国际足联首席运营官凯文-拉穆尔已离职",
+          "title": "每体：巴萨不强行安排罗德里首秀，需多堂合练后登场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
