@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 02:50:00",
+  "update_time": "2026-08-18 03:33:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗马诺：罗德里没要求费尔明让出巴萨16号，是后者主动选7号",
+          "title": "罗马诺：切尔西方面明确否认有意大马丁，他可能留在维拉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：为巴萨效力是我的梦想，要争取欧冠和其他所有冠军",
+          "title": "记者：门德斯代表米兰向罗马推荐莱奥，想推动他加盟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]EAFC27男足评分公布：姆巴佩哈兰德91，亚马尔90，梅西89",
+          "title": "TA曼联跟队：B费倾向于留队，曼联已经开始与他谈判续约",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：B费无意加盟加拉塔萨雷，拉什福德和他一样也不会去",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯决赛裁判视角解析：温契奇让梅西“管住”帕雷德斯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "每体：巴萨不急于让罗德里首秀，视其为核心+将耐心等他恢复",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA曼联跟队：B费倾向于留队，曼联已经开始与他谈判续约",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]每体：巴萨已为罗德里预订私人飞机，预计周一19点左右抵达",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -49,27 +74,22 @@
           "hot": ""
         },
         {
-          "title": "问题来了～国家队罗德里+佩德里效果很差～俱乐部两个人如何兼容？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "罗德里这事到底是吃不到葡萄说葡萄酸，还是真没想买，以及罗德里对皇马巴萨影响力现实分析",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
+          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯签完合同怎么就这德行？感觉像阿扎尔附体一样。有种不好预感。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
@@ -80,22 +100,27 @@
           "hot": ""
         },
         {
+          "title": "记者：莱奥被门德斯推荐给了罗马",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：国际足联首席运营官凯文-拉穆尔已离职",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：B费正在与曼联谈续约，加拉塔萨雷开出2000万欧年薪",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
           "title": "罗德里：加盟巴萨是梦想，目标赢得欧冠和一切",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "热门航班顺利降落，罗德里已经飞抵巴塞罗那",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：雅典AEK签下莱万特中场阿里亚加，双方签至2030年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
