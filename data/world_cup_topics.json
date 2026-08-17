@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 18:38:55",
+  "update_time": "2026-08-17 19:32:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "916.8万"
+          "hot": "917.5万"
         }
       ],
       "count": 1,
@@ -35,22 +35,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "BBC：曼城希望本周内完成布阿迪转会，马雷斯卡仍想要恩佐",
+          "title": "阿斯：切尔西主动请门德斯来卖恩佐，他和马雷斯卡两情相悦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧文：不认为谢什科是曼联的未来；卡里克可助拉什福德回暖",
+          "title": "切尔西13笔交易待做；曼城若想签恩佐，需付出远高于1.2亿镑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：马雷斯卡真的想要恩佐，设想在曼城也让他踢靠前的定位",
+          "title": "科贝：皇马曾设定报价上限，不会为罗德里支付超过6000万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁又开始贬低罗德里了",
+          "title": "这布阿迪都能要1.3亿，亚马尔真实身价不得3亿以上？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -60,43 +60,58 @@
           "hot": ""
         },
         {
-          "title": "罗德里去了隔壁其实也没必要太紧张",
+          "title": "为啥不试试让拉什福德留下踢中锋呢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b席拖后能平替维蒂尼亚的作用，甚至防守意识还要强于维球王。这赛季再出不了成绩，fp和他力排众议引进的巨星可以该哪儿来回哪儿去了",
+          "title": "b洗当魔笛 恩佐当克罗斯，拿26岁巴尔韦德换23岁亏哪里了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩进那球，我是没看懂对方到底回传给谁，稳稳的传到姆脚下。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿斯：德保罗朝主裁炫耀冠军星星，问主裁你有吗？",
+          "title": "每体：马竞担心阿尔瓦雷斯离队风波影响他的赛季表现",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "弗里克亲口承诺核心角色，巴萨官宣罗德里在即",
+          "title": "记者：罗德里当地时间明天9点在巴塞罗那体检",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：罗德里加盟巴萨后，马竞和黄潜都能获得数百万欧元收入",
+          "title": "李刚仁：这支球队已经做好夺冠准备，我带着争冠雄心而来",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "莫雷托：瓦伦西亚接近签下阿尔瑙-马丁内斯，赫罗纳要价800万欧",
+          "title": "TA盘点阿森纳领袖：厄德高领衔，萨卡赖斯在列",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡洛斯-罗梅罗：身边有很多优秀的队友，今年我会很享受",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "C罗：转过身看到乔治娜的瞬间，就知道她是我一生挚爱",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
