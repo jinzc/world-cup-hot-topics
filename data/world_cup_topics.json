@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 15:08:42",
+  "update_time": "2026-08-17 16:52:54",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "918.6万"
+          "hot": "877.2万"
         }
       ],
       "count": 1,
@@ -35,43 +35,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "铃木彩艳想踢主力去维拉；尤文担忧大马丁伤势+将租维卡里奥",
+          "title": "每体：巴萨给罗德里队内顶薪，浮动款中有1000万曼城很难拿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：皇马巴萨给罗德里的合同一样，但巴萨全队都打了电话",
+          "title": "RAC1：弗里克告诉罗德里，他的经验和能力对巴萨至关重要",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：佛爷曾给罗德里打电话，但内部认为他会拖慢球队节奏",
+          "title": "每体：坎塞洛罗德里今日抵达巴塞罗那，周三现场观看甘伯杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "比起罗德里的加盟，最让我开心的是若昂•坎塞洛的第三次加盟",
+          "title": "罗马诺：帕斯托雷和曼城联系没断过，我预计本周继续谈恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里去巴萨，这钱花得值不值？",
+          "title": "每体：罗德里将是克鲁伊夫后首位带着金球奖加盟巴萨的球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡报说皇马嫌罗德里慢，巴萨全队打电话才抢到人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "你要这么想，罗德里就很便宜了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "中国足球史话：14年亚青赛韦世豪双响射日，国青依无缘八强",
+          "title": "马卡：罗德里加盟巴萨总价7650万欧，容易达成的浮动为1100万",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：坎塞洛预计当地时间中午抵达巴塞罗那，罗德里下午到达",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "麦卡蒂尔：担心雅凯难适应英超，维尔茨是例子",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：巴萨计划周二官宣罗德里，周三甘伯杯前主场亮相",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：弗里克告诉罗德里，他将在巴萨发挥重要作用",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
