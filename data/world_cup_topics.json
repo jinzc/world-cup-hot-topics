@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 09:46:55",
+  "update_time": "2026-08-17 11:06:57",
   "sources": {
     "微博": {
       "topics": [
@@ -8,21 +8,9 @@
           "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%8F%A1%E6%89%8B%E9%81%AD%E6%97%A0%E8%A7%86",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "罗德里将加盟巴萨",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗乔治娜婚礼合照",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%A9%9A%E7%A4%BC%E5%90%88%E7%85%A7",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -51,7 +39,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "923.3万"
+          "hot": "892.4万"
         }
       ],
       "count": 1,
@@ -60,42 +48,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "【集锦】巴塞尔2-5巴萨，阿德耶米破门，亚马尔点射",
+          "title": "记者：罗德里不能既讨厌皇马又进行谈判，球迷可视之为戏弄",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：姆巴佩仍在最佳状态，维尼修斯还没感觉，B席无所适从",
+          "title": "阿利松：若带着正确态度去比赛，面对我们没几队能控住球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赛前两队互相致意，内马尔遭瓦斯科达伽马球员无视",
+          "title": "哈弗茨：我们仍有需要改进的地方，想以完美状态开启英超",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：签下罗德里后，巴萨将正式解决卡萨多的离队情况",
+          "title": "【集锦】沙尔克0-3皇马，姆巴佩破僵，赫伊森、埃斯皮建功",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费兰·托雷斯在巴塞罗那待了4年，而唯一评论他告别帖的球员是佩德里。拉什福德只待了一年，整个球队都向他致以祝福 令人唏嘘",
+          "title": "每体专栏：巴萨展现久违的雄心，这才是罗德里加盟的意义",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨为罗德里预订私人飞机，这排面给足了",
+          "title": "不知道区里为什么这么不看好罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里来后，中锋的选择更加谨慎",
+          "title": "是我的错觉吗 卡马文加和b席的搭档出乎意料的行云流水  sp的头球真漂亮",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆总，埃斯皮，B席，居莱尔热身赛都发挥优秀",
+          "title": "仔细看了一下，，贺伊森不仅一个进球防守的选择，判断，上抢都不错，真是个宝藏，还年轻，大有前途。b席确实不错，轻描淡写的把中场盘活了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -109,19 +97,9 @@
           "title": "Here we go！罗马诺：罗德里即将加盟巴萨",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "意天空：迈尼昂和拉比奥归队，莱奥和加比亚周中恢复合练",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：弗里克要求引进领袖，罗德里正是答案",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
