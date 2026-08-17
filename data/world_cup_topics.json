@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 01:33:31",
+  "update_time": "2026-08-18 02:50:00",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,12 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：曼城或未来几天内正式1.2亿镑报价恩佐，试探切尔西",
+          "title": "罗马诺：罗德里没要求费尔明让出巴萨16号，是后者主动选7号",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "ESPN：巴萨仍相信能签下阿尔瓦雷斯；想引进纯正9号位球员",
+          "title": "罗德里：为巴萨效力是我的梦想，要争取欧冠和其他所有冠军",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]EAFC27男足评分公布：姆巴佩哈兰德91，亚马尔90，梅西89",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]每体：巴萨不急于让罗德里首秀，视其为核心+将耐心等他恢复",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -44,7 +54,12 @@
           "hot": ""
         },
         {
-          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
+          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里这事到底是吃不到葡萄说葡萄酸，还是真没想买，以及罗德里对皇马巴萨影响力现实分析",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -52,25 +67,35 @@
           "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "姆总，埃斯皮，B席，居莱尔热身赛都发挥优秀",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "英超首轮裁判：布拉马尔执法揭幕战阿森纳vs考文垂",
+          "title": "罗德里：很高兴来到这里，为巴萨踢球是我的梦想",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里：加盟巴萨是梦想，目标赢得欧冠和一切",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "热门航班顺利降落，罗德里已经飞抵巴塞罗那",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "官方：雅典AEK签下莱万特中场阿里亚加，双方签至2030年",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
