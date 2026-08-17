@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 13:40:19",
+  "update_time": "2026-08-17 15:08:42",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "925万"
+          "hot": "918.6万"
         }
       ],
       "count": 1,
@@ -35,17 +35,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿媒：恩佐遭英媒集体攻击，甚至被称为头号公敌",
+          "title": "铃木彩艳想踢主力去维拉；尤文担忧大马丁伤势+将租维卡里奥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "专家：罗德里是巴萨本世纪最佳签约之一，欧冠淘汰赛需要他",
+          "title": "马卡：皇马巴萨给罗德里的合同一样，但巴萨全队都打了电话",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西职业生涯首次点球三连失，整体命中率77%",
+          "title": "马卡：佛爷曾给罗德里打电话，但内部认为他会拖慢球队节奏",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "比起罗德里的加盟，最让我开心的是若昂•坎塞洛的第三次加盟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -53,50 +58,20 @@
           "title": "罗德里去巴萨，这钱花得值不值？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "6000万基础买罗德里，曼城管理层真的挺给巴萨面子的吧？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里加盟巴萨的好处",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里去了隔壁其实也没必要太紧张",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯热身赛能被批成这样，nb",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "塞尔电台：罗德里加盟巴萨，堪称本世纪最佳引援之一",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：罗德里是巴萨自克鲁伊夫以来签下的首位金球奖得主",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：梅西生涯点球命中率77%。连续三次罚失点球很少见",
+          "title": "中国足球史话：14年亚青赛韦世豪双响射日，国青依无缘八强",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
