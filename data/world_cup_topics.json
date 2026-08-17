@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 03:33:33",
+  "update_time": "2026-08-18 04:34:24",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "图片报：凯恩已向拜仁高层明确传达态度，他希望继续效力",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥巴梅扬：新赛季最想和亚马尔换球衣，我很喜欢这小家伙",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "罗马诺：切尔西方面明确否认有意大马丁，他可能留在维拉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -54,51 +64,31 @@
           "hot": ""
         },
         {
-          "title": "每体：巴萨不急于让罗德里首秀，视其为核心+将耐心等他恢复",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "[流言板]TA曼联跟队：B费倾向于留队，曼联已经开始与他谈判续约",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：巴萨已为罗德里预订私人飞机，预计周一19点左右抵达",
+          "title": "买下罗德里应该是为冲击欧冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：巴萨不急于让罗德里首秀，视其为核心+将耐心等他恢复",
+          "title": "问题来了～国家队罗德里+佩德里效果很差～俱乐部两个人如何兼容？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里这事到底是吃不到葡萄说葡萄酸，还是真没想买，以及罗德里对皇马巴萨影响力现实分析",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯签完合同怎么就这德行？感觉像阿扎尔附体一样。有种不好预感。",
+          "title": "姆总，埃斯皮，B席，居莱尔热身赛都发挥优秀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
-        {
-          "title": "罗德里：很高兴来到这里，为巴萨踢球是我的梦想",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
         {
           "title": "记者：莱奥被门德斯推荐给了罗马",
           "url": "https://www.dongqiudi.com/",
@@ -108,19 +98,9 @@
           "title": "TA：国际足联首席运营官凯文-拉穆尔已离职",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "TA：B费正在与曼联谈续约，加拉塔萨雷开出2000万欧年薪",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：加盟巴萨是梦想，目标赢得欧冠和一切",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
