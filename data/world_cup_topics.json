@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 19:32:40",
+  "update_time": "2026-08-17 20:57:42",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "917.5万"
+          "hot": "914.2万"
         }
       ],
       "count": 1,
@@ -35,83 +35,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿斯：切尔西主动请门德斯来卖恩佐，他和马雷斯卡两情相悦",
+          "title": "米体：加拉塔萨雷3500万+奖金报价莱奥，米兰想要卖到更多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "切尔西13笔交易待做；曼城若想签恩佐，需付出远高于1.2亿镑",
+          "title": "乔治娜谈到与C罗的结婚仪式，他们选择在自家客厅举办婚礼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科贝：皇马曾设定报价上限，不会为罗德里支付超过6000万欧",
+          "title": "李刚仁：加盟马竞只为夺冠，希望让更多韩国球迷爱上球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这布阿迪都能要1.3亿，亚马尔真实身价不得3亿以上？",
+          "title": "罗德里来了之后，弗里克要是拿不到欧冠就说不过去了吧。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
+          "title": "隔壁又开始贬低罗德里了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为啥不试试让拉什福德留下踢中锋呢",
+          "title": "【青训球员介绍】12级小将Gael Seijo，巴萨从拉科挖来的小将，奥纳纳+罗德里结合体！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b洗当魔笛 恩佐当克罗斯，拿26岁巴尔韦德换23岁亏哪里了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩进那球，我是没看懂对方到底回传给谁，稳稳的传到姆脚下。",
+          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "每体：马竞担心阿尔瓦雷斯离队风波影响他的赛季表现",
+          "title": "C罗：可能已到生涯最后一年，我的未来都已经规划好了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：罗德里当地时间明天9点在巴塞罗那体检",
+          "title": "媒体人：如今的京沪大战已不再等同于中国足球最重要的比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "李刚仁：这支球队已经做好夺冠准备，我带着争冠雄心而来",
+          "title": "阿斯：何塞普-马丁内斯下赛季将成国米主力门将",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "TA盘点阿森纳领袖：厄德高领衔，萨卡赖斯在列",
+          "title": "名记：拉什福德离队的可能性没有完全消失；引援让球迷很焦虑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "卡洛斯-罗梅罗：身边有很多优秀的队友，今年我会很享受",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗：转过身看到乔治娜的瞬间，就知道她是我一生挚爱",
+          "title": "马卡：罗德里加盟巴萨，黄潜或获162.5万欧团结机制补偿",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
