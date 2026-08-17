@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 12:51:38",
+  "update_time": "2026-08-17 13:40:19",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "金球先生罗德里将加盟巴萨",
           "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%85%88%E7%94%9F%E7%BD%97%E5%BE%B7%E9%87%8C%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8",
-          "hot": "929.1万"
+          "hot": "925万"
         }
       ],
       "count": 1,
@@ -50,22 +50,32 @@
           "hot": ""
         },
         {
-          "title": "记者：罗德里不能既讨厌皇马又进行谈判，球迷可视之为戏弄",
+          "title": "罗德里去巴萨，这钱花得值不值？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b洗当魔笛 恩佐当克罗斯，拿26岁巴尔韦德换23岁亏哪里了",
+          "title": "6000万基础买罗德里，曼城管理层真的挺给巴萨面子的吧？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]龙赛罗：姆巴佩用一半世界杯届数就超梅西，穆帅用他不保留",
+          "title": "罗德里加盟巴萨的好处",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里去了隔壁其实也没必要太紧张",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯热身赛能被批成这样，nb",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
@@ -76,22 +86,17 @@
           "hot": ""
         },
         {
+          "title": "每体：罗德里是巴萨自克鲁伊夫以来签下的首位金球奖得主",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
           "title": "马卡：梅西生涯点球命中率77%。连续三次罚失点球很少见",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "世体：李刚仁、罗梅罗尚未注册，或无缘马竞西甲首轮",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：日本前国脚山根视来加盟浦和红钻；他曾参加22年世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
