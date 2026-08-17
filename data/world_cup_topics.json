@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 05:32:04",
+  "update_time": "2026-08-18 06:31:29",
   "sources": {
     "微博": {
       "topics": [],
@@ -39,17 +39,7 @@
           "hot": ""
         },
         {
-          "title": "奥巴梅扬：新赛季最想和亚马尔换球衣，我很喜欢这小家伙",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：切尔西方面明确否认有意大马丁，他可能留在维拉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：门德斯代表米兰向罗马推荐莱奥，想推动他加盟",
+          "title": "[流言板]EAFC27男足评分公布：姆巴佩哈兰德91，亚马尔90，梅西89",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -59,23 +49,33 @@
           "hot": ""
         },
         {
-          "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
+          "title": "罗德里没来，皇马球迷其实挺遗憾的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]六台：皇马此前对罗德里的报价不足4000万欧，远低于巴萨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "阿斯：皇马、巴萨争夺桑坦德新星马丁内斯，球员解约金300万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "每体：巴萨不强行安排罗德里首秀，需多堂合练后登场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
