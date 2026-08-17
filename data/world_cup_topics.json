@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 21:47:17",
+  "update_time": "2026-08-17 22:35:15",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "费尔明将接过费兰7号球衣，罗德里16号球衣已空出",
+          "title": "BBC：加拉塔萨雷准备5000万欧正式报价B费，曼联绝对不会卖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基翁：阿森纳曾追维尼修斯是好事，证明他们想要抵达新高度",
+          "title": "TA：穆帅的训练让球员疲惫但也打下基础，维尼修斯开始回防",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米体：加拉塔萨雷3500万+奖金报价莱奥，米兰想要卖到更多",
+          "title": "记者：马雷斯卡视布阿迪为B席替代，还要曼城签罗德里接班人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：罗德里近日与费尔明沟通，希望在巴萨继续穿16号",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "切尔西乐观认为恩佐会留队；曼城要买就得给远高于1.2亿报价",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：罗德里今日抵达巴塞罗那，将于明日体检并完成亮相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩德里加维均已加入合练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗马诺：罗德里近日与费尔明沟通，希望在巴萨继续穿16号",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -49,38 +74,53 @@
           "hot": ""
         },
         {
-          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
+          "title": "各位好久不见 追了一个夏天了罗德里，还是去了隔壁，大伤也好 一年合同也好 转会费高也好 对隔壁确实是补强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯签完合同怎么就这德行？感觉像阿扎尔附体一样。有种不好预感。",
+          "title": "仔细看了一下，，贺伊森不仅一个进球防守的选择，判断，上抢都不错，真是个宝藏，还年轻，大有前途。b席确实不错，轻描淡写的把中场盘活了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里这事到底是吃不到葡萄说葡萄酸，还是真没想买，以及罗德里对皇马巴萨影响力现实分析",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "镜报：曼城有信心周末前敲定布阿迪，马雷斯卡认为他能替代B席",
+          "title": "每体：马竞已开始担心，阿尔瓦雷斯离队风波会影响其表现",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "洛卡特利：与斯帅已经冰释前嫌，意大利队无缘世界杯很失望",
+          "title": "英媒：曼联将拒绝任何对B费的报价，球员本人也希望留队",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴萨官方晒照：佩德里今日已恢复合练",
+          "title": "RMC：因凡蒂诺承压，国际足联酝酿轮值主席制",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "世体：罗德里明天早上接受巴萨体检，将于北京时间19点亮相",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马特-劳：切尔西相信恩佐会留下，若他转会蓝军可能追斯科特",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
