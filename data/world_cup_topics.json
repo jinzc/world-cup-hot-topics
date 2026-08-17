@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-17 22:35:15",
+  "update_time": "2026-08-17 23:32:03",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,21 @@
     "虎扑": {
       "topics": [
         {
+          "title": "电讯报：加拉塔萨雷想5000万+2倍薪资报价B费，曼联坚决不卖",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "凯恩：我和拜仁合同只剩1年&amp;会在下周谈续约，双方都很放松",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：姆巴佩加入后穆帅的4231更有意义，战术天平彻底改变",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "BBC：加拉塔萨雷准备5000万欧正式报价B费，曼联绝对不会卖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -39,47 +54,12 @@
           "hot": ""
         },
         {
-          "title": "记者：马雷斯卡视布阿迪为B席替代，还要曼城签罗德里接班人",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：罗德里近日与费尔明沟通，希望在巴萨继续穿16号",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "切尔西乐观认为恩佐会留队；曼城要买就得给远高于1.2亿报价",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世体：罗德里今日抵达巴塞罗那，将于明日体检并完成亮相",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里加维均已加入合练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗马诺：罗德里近日与费尔明沟通，希望在巴萨继续穿16号",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "隔壁又开始贬低罗德里了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "各位好久不见 追了一个夏天了罗德里，还是去了隔壁，大伤也好 一年合同也好 转会费高也好 对隔壁确实是补强",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "仔细看了一下，，贺伊森不仅一个进球防守的选择，判断，上抢都不错，真是个宝藏，还年轻，大有前途。b席确实不错，轻描淡写的把中场盘活了",
+          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -89,38 +69,33 @@
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "每体：马竞已开始担心，阿尔瓦雷斯离队风波会影响其表现",
+          "title": "意天空：图拉姆复出可首发意甲揭幕战，劳塔罗大概率替补",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "英媒：曼联将拒绝任何对B费的报价，球员本人也希望留队",
+          "title": "每体：阿尔瓦雷斯今早随马竞训练，巴萨本周定备选方案",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "RMC：因凡蒂诺承压，国际足联酝酿轮值主席制",
+          "title": "凯恩：下周或下下周和俱乐部谈续约，双方都很放松",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：罗德里明天早上接受巴萨体检，将于北京时间19点亮相",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马特-劳：切尔西相信恩佐会留下，若他转会蓝军可能追斯科特",
+          "title": "亚马尔调侃佩德里和加维：草莓奶油和棒棒糖在我身后呢",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
