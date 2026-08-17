@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 00:35:58",
+  "update_time": "2026-08-18 01:33:31",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "这布阿迪都能要1.3亿，亚马尔真实身价不得3亿以上？",
+          "title": "记者：曼城或未来几天内正式1.2亿镑报价恩佐，试探切尔西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼城把罗德里b席放走，再花两个1.3亿欧买两个愣头青，这球队完了。",
+          "title": "ESPN：巴萨仍相信能签下阿尔瓦雷斯；想引进纯正9号位球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "买了罗德里之后大家就把买首发中锋的念头放下吧",
+          "title": "问题来了～国家队罗德里+佩德里效果很差～俱乐部两个人如何兼容？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
+          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -52,35 +52,25 @@
           "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "姆总，埃斯皮，B席，居莱尔热身赛都发挥优秀",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "EA27评分最高前27：姆巴佩和哈兰德91并列第一，梅西89",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：罗德里乘坐的飞机已经起飞，预计当地时间今天晚上抵达",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：曼联无意今夏出售B费，他们清楚签他的替代者更费钱",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "球衣装备网：阿迪被指偷工减料，世界杯球衣的冠军盾采用廉价材质",
+          "title": "英超首轮裁判：布拉马尔执法揭幕战阿森纳vs考文垂",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
