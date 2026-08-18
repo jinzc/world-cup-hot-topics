@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 02:48:50",
+  "update_time": "2026-08-19 03:32:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "罗德里抵达巴塞罗那",
           "url": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3",
-          "hot": "920.6万"
+          "hot": "918.4万"
         }
       ],
       "count": 1,
@@ -35,109 +35,53 @@
     "虎扑": {
       "topics": [
         {
+          "title": "弗里克：罗德里可能是世界上最好的6号位，他能提升全队水平",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆西亚拉：我正在治疗神经系统功能异常，没有更多健康风险",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "半场：迪里耶1-3胜利，马内助攻，菲利克斯传射",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：罗德里赴老友巴萨高管婚礼时，与德科共进午餐改变选择",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "德科Ins晒罗德里加盟照：欢迎！我们的工作仍在继续",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "罗梅罗：坎塞洛明日无法出席亮相仪式，还有行政手续待处理",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：曼城或卖尼科-冈萨雷斯，以筹集资金签恩佐与布阿迪",
+          "title": "[流言板]龙赛罗：尊重罗德里去低一级的平台；伟大球员都该效力皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "龙赛罗：尊重罗德里去低一级的平台；伟大球员都该效力皇马",
+          "title": "[流言板]德科Ins晒罗德里加盟照：欢迎！我们的工作仍在继续",
           "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨/曼城之间转会榜：罗德里6000万，打破两队间转会费纪录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "有想法？小蜘蛛点赞了曼城社媒发布的罗德里告别视频",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "友谊赛：海登海姆2-4拜仁，迪亚斯破门，穆西亚拉伤退",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "足坛30+岁球员转会费榜：C罗1.17亿居首，罗德里并列第五",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗梅罗：坎塞洛明日无法出席亮相仪式，还有行政手续待处理",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]弗里克：罗德里可能是世界上最好的6号位，他能提升全队水平",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "回到西班牙好好养伤为了西班牙2030本土世界杯养精蓄锐",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这张被贝林厄姆特别帅",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 11,
-      "status": "success"
-    },
-    "懂球帝": {
-      "topics": [
-        {
-          "title": "官方：巴萨签下30岁曼城中场罗德里，据悉转会费总价超7000万欧",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "英媒：维拉租借签下万-比萨卡，赛季后强制买断",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德科：欢迎罗德里，我们继续努力工作",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼城晒罗德里海报：他赢得了一切",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "图片报：穆西亚拉热身赛再次倒地，被紧急送回更衣室",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "龙赛罗：罗德里是一名非凡的球员，但错过最重要加盟皇马的良机",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "埃贝尔：穆西亚拉很快会亲自作出回应，我们了解目前的情况",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "英媒：纽卡谈尼科-冈萨雷斯，曼城愿放人筹资签恩佐",
-          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 8,
       "status": "success"
+    },
+    "懂球帝": {
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
