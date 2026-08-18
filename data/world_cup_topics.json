@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 05:30:34",
+  "update_time": "2026-08-19 06:31:25",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "埃贝尔：我此前知道穆西亚拉情况，他下场后换衣服洗澡去了",
+          "title": "普利西奇参加米兰一线队训练，世界杯受伤后首次回归合练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英超CEO：FIFA按下了自毁按钮，怎样都不该考虑出售世界杯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼城男女足今夏都有人加盟巴萨：罗德里+队史最贵女足新援",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙王冠：迪里耶1-4胜利，菲利克斯双响，阿尔哈姆丹破门",
+          "title": "每体主编：罗德里获热烈欢迎，老佛爷却只在私下介绍穆帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -54,22 +44,17 @@
           "hot": ""
         },
         {
-          "title": "说实话佩德里这两年多少是被巴萨的阵容耽误了发展",
+          "title": "[流言板]每体主编：罗德里获热烈欢迎，老佛爷却只在私下介绍穆帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "新球迷请教：在沙尔克04比赛中，看见姆巴佩左路传中，小熊中路门前抢点……",
+          "title": "姆巴佩和科比作为各自领域历史前十的守门员，其实性格是相似的，好胜心强有时真会给队友无形的压力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
@@ -78,9 +63,29 @@
           "title": "官方：巴萨签下30岁曼城中场罗德里，据悉转会费总价超7000万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
+        },
+        {
+          "title": "埃贝尔：凯恩完全配得上金球奖，他是现象级人物",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "澳波：C罗正在很好地恢复，他很快就会回归参加比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "ESPN2026年攻击型中场排名：B费第1，贝林第2，索博第3",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "体图：凯恩明日领取欧洲金靴，拜仁办盛典推动续约",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
