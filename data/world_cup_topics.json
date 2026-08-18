@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 00:39:15",
+  "update_time": "2026-08-19 01:33:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,113 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗梅罗：阿尔瓦雷斯今夏加盟巴萨希望渺茫，目前看来很困难",
+          "title": "罗德里不使用社媒，巴萨球迷去给歌手奥利维娅-罗德里戈留言",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科贝：巴萨给阿尔瓦雷斯期限到周末，无进展将启动B计划",
+          "title": "罗德里：曼城是我生涯极为重要部分，离开内心当然万分不舍",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里与拉波尔塔、德科等一同用餐，受到球迷们的热烈欢迎",
+          "title": "TA：曼城认为皇马更好谈判，但罗德里执意去巴萨才只能妥协",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "镜报：曼联愿意满足巴萨对加维3500万镑要价，但他拒绝加盟",
+          "title": "TA：巴萨从B席事件中吸取教训，秘密和罗德里谈判最终才截胡",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯为什么现在才和马竞闹？",
+          "title": "曼城官方告别罗德里：你已成为球队历史一部分，祝未来顺利",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
+          "title": "韩文体部报告：3名中国足协人员曾获性接待，含裁判部负责人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：阿莫林执教时最正确决定，让B费相信自己对曼联很重要",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "合同剩1年！记者：B费拒绝曼联的续约报价，年薪仅比此前多50万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里背伤情况怎么样",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "随着巴萨官宣罗德里，转会费细则也出来了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]巴萨官方：罗德里加盟球队，双方签约至2030年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "比媒：多库小腿受伤将缺阵数周，曼城担心是世界杯后遗症",
+          "title": "官方：巴萨签下30岁曼城中场罗德里，据悉转会费总价超7000万欧",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "曾批评因凡蒂诺提案，被解雇的国际足联前高管：做正确的事",
+          "title": "罗德里：曼城球迷们，是时候说再见了，我的心永远属于蓝色",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "沙媒：门迪将在吉达国民的第二轮联赛中回归，球员此前在世界杯受伤",
+          "title": "邮报：拉什福德回归后表现抢眼，留队概率上升",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：阿尔瓦雷斯考虑在转会窗结束后更换经纪人",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "图片报：勒沃库森新帅卡莱斯-马丁内斯手写信拉近球迷关系",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里：我还收到过其他报价，但巴萨是我的首选",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里：我有其他选项，但巴萨是我的第一选择",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "鲁尼：拉什福德想留队的话必须沉下心来，变得更加积极",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "詹俊：金球先生罗德里正式加盟巴萨，巴萨最强阵剑指西甲+欧冠",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
