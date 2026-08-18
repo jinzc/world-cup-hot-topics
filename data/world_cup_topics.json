@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 09:41:48",
+  "update_time": "2026-08-18 11:02:38",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "罗德里抵达巴塞罗那",
           "url": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3",
-          "hot": "922.3万"
+          "hot": "922.6万"
         }
       ],
       "count": 1,
@@ -35,78 +35,113 @@
     "虎扑": {
       "topics": [
         {
-          "title": "态度很拼！维尼修斯狂奔半场，积极回追断球",
+          "title": "阿根廷记者：恩佐和曼城保持着积极态度，但曼城知道要加钱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：德科与罗德里及经纪人畅聊3个半小时，他终被说服加盟",
+          "title": "罗马诺：曼联考虑拉什福德回归的高薪，影响B费续约谈判进程",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前体育总监：亚马尔能当比西武的大哥，后者身上有种X因素",
+          "title": "曼城认为内托1亿太贵；想让安德森拖后+布阿迪后考虑买恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "六台记者：巴萨没必要签罗德里，想和皇马抢+掩盖小蜘蛛闹剧",
+          "title": "罗马诺：除了土超球队外，沙特俱乐部也致电米兰询价莱奥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费现在需要做的，就是像当年的鲁尼一样。",
+          "title": "罗马诺辟谣：加维不可能去曼联，后者首要目标补强左后卫",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]奥巴梅扬：新赛季最想和亚马尔换球衣，我很喜欢这小家伙",
+          "title": "罗马诺：凯恩幕后已和拜仁谈续约，目前双方在讨论合同细节",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]六台：皇马此前对罗德里的报价不足4000万欧，远低于巴萨",
+          "title": "亚马尔谈加维和佩德里染发造型：看后面的草莓奶油味棒棒糖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【白衣军团】姆巴佩VS沙尔克04 个人集锦",
+          "title": "罗德里：一切都解决没问题了，为巴萨踢球对我来说是梦想",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]莫雷托：皇马曾想尽一切办法签下罗德里，他一度接近加盟",
+          "title": "C罗在联赛首轮赛前喊话：尽情去踢，第一场比赛总是最难的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看了欧文力挺拉什福德的采访，忽然觉得英格兰关于人情世故可能是认真的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]罗马诺：曼联考虑拉什福德回归的高薪，影响B费续约谈判进程",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔瓦雷斯不来的话，应该是奥斯梅恩了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]前体育总监：亚马尔能当比西武的大哥，后者身上有种X因素",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩和科比作为各自领域历史前十的守门员，其实性格是相似的，好胜心强有时真会给队友无形的压力",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里没来，皇马球迷其实挺遗憾的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 16,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记者：阿尔瓦雷斯将在本次转会窗结束后更换经纪人",
+          "title": "马卡：罗德里曾无限接近皇马，却最终与儿时梦想擦肩而过",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "欧洲球探解释不关注中国球员：感觉中国足球似乎远离世界足球",
+          "title": "​罗德里抵达巴萨即将签约，首秀或因伤暂缓",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "最新消息，大连英博连续2场中超被针对，已上诉中国足协！",
+          "title": "​姆巴佩6分钟破门，穆里尼奥看到最好皇马",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西17赛季11次评分第一，亚马尔紧随其后",
+          "title": "布鲁日前总监：亚马尔将成比西武的大哥哥，帮他很好地融入巴萨",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "克鲁克：曼城在完成罗德里交易后，布阿迪是曼城头号目标",
+          "title": "记者：恩佐加盟曼城的局面并不明朗，若此时报价切尔西将涨价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
