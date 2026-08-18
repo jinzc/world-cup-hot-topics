@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 03:32:59",
+  "update_time": "2026-08-19 04:31:41",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,18 +22,17 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "罗德里抵达巴塞罗那",
-          "url": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3",
-          "hot": "918.4万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
+        {
+          "title": "沙王冠：迪里耶1-4胜利，菲利克斯双响，阿尔哈姆丹破门",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
         {
           "title": "弗里克：罗德里可能是世界上最好的6号位，他能提升全队水平",
           "url": "https://soccer.hupu.com/",
@@ -45,43 +44,44 @@
           "hot": ""
         },
         {
-          "title": "半场：迪里耶1-3胜利，马内助攻，菲利克斯传射",
+          "title": "青木这能力，对里昂，右边一对二晃动，拉开一点点空间，另外两个人上来慢一点，马上破门，你说亚马尔，也不过如此",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：罗德里赴老友巴萨高管婚礼时，与德科共进午餐改变选择",
+          "title": "[流言板]曼城男女足今夏都有人加盟巴萨：罗德里+队史最贵女足新援",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德科Ins晒罗德里加盟照：欢迎！我们的工作仍在继续",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗梅罗：坎塞洛明日无法出席亮相仪式，还有行政手续待处理",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]龙赛罗：尊重罗德里去低一级的平台；伟大球员都该效力皇马",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]德科Ins晒罗德里加盟照：欢迎！我们的工作仍在继续",
+          "title": "不知道区里为什么这么不看好罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "官方：巴萨签下30岁曼城中场罗德里，据悉转会费总价超7000万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "英媒：曼联正与B费商谈续约，将巩固其队内顶薪地位",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "利雅得胜利4-1迪里耶，菲利克斯双响，西马坎、哈姆丹建功",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
