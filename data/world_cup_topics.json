@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 23:38:17",
+  "update_time": "2026-08-19 00:39:15",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "罗梅罗：阿尔瓦雷斯今夏加盟巴萨希望渺茫，目前看来很困难",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：巴萨给阿尔瓦雷斯期限到周末，无进展将启动B计划",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "罗德里与拉波尔塔、德科等一同用餐，受到球迷们的热烈欢迎",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -39,83 +49,38 @@
           "hot": ""
         },
         {
-          "title": "足坛U21球员身价榜：亚马尔2.2亿居首，内维斯和杜埃排二三",
+          "title": "阿尔瓦雷斯为什么现在才和马竞闹？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "足坛30+岁球员身价榜：凯恩6000万居首，罗德里5500万排第二",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "韩媒：3名中国足协人员赴韩参加裁判交流项目时曾接受性接待",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里比吉马良斯大了1年5个月，巴萨照样高转会费 高薪买。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里如果能把贝尔纳尔带出来就足够了，过两年直接扶正",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗德里与拉波尔塔、德科等一同用餐，受到球迷们的热烈欢迎",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "新球迷请教：在沙尔克04比赛中，看见姆巴佩左路传中，小熊中路门前抢点……",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "踢曼城天神下凡刚过没到半年，给82说的连首发位置都没了，很难想象每天在专区聊球的都是群什么人。b席组织后场出球，谁覆盖、向前能力更强，谁就是第二个后腰选择",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【白衣军团】家有一老，如有一宝！B席季前赛 个人集锦",
+          "title": "我不明白为什么这么多人不喜欢姆巴佩…人家世界杯金靴，联赛金靴，而且还不是自己最不喜欢的位置获得的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "桑切斯：看到梅西、苏亚雷斯和莱万都来到美职联，我也可以",
+          "title": "比媒：多库小腿受伤将缺阵数周，曼城担心是世界杯后遗症",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "拜仁官方：诺伊尔、基米希、比朔夫因负荷管理未入选比赛名单",
+          "title": "曾批评因凡蒂诺提案，被解雇的国际足联前高管：做正确的事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "博主：拜仁轮休诺伊尔基米希，帕利尼亚因转会谈判缺席",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意媒：普利希奇和莱奥接近复出，加比亚将恢复合练",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "凯恩：知道自己踢出一个非常美妙的赛季，但金球奖不取决于我",
+          "title": "沙媒：门迪将在吉达国民的第二轮联赛中回归，球员此前在世界杯受伤",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
