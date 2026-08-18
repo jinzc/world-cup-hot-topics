@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 01:33:59",
+  "update_time": "2026-08-19 02:48:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,64 +22,70 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "罗德里抵达巴塞罗那",
+          "url": "https://www.douyin.com/search/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3",
+          "hot": "920.6万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "罗德里不使用社媒，巴萨球迷去给歌手奥利维娅-罗德里戈留言",
+          "title": "罗梅罗：坎塞洛明日无法出席亮相仪式，还有行政手续待处理",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：曼城是我生涯极为重要部分，离开内心当然万分不舍",
+          "title": "罗马诺：曼城或卖尼科-冈萨雷斯，以筹集资金签恩佐与布阿迪",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：曼城认为皇马更好谈判，但罗德里执意去巴萨才只能妥协",
+          "title": "龙赛罗：尊重罗德里去低一级的平台；伟大球员都该效力皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：巴萨从B席事件中吸取教训，秘密和罗德里谈判最终才截胡",
+          "title": "巴萨/曼城之间转会榜：罗德里6000万，打破两队间转会费纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼城官方告别罗德里：你已成为球队历史一部分，祝未来顺利",
+          "title": "有想法？小蜘蛛点赞了曼城社媒发布的罗德里告别视频",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "韩文体部报告：3名中国足协人员曾获性接待，含裁判部负责人",
+          "title": "友谊赛：海登海姆2-4拜仁，迪亚斯破门，穆西亚拉伤退",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：阿莫林执教时最正确决定，让B费相信自己对曼联很重要",
+          "title": "足坛30+岁球员转会费榜：C罗1.17亿居首，罗德里并列第五",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "合同剩1年！记者：B费拒绝曼联的续约报价，年薪仅比此前多50万欧",
+          "title": "[流言板]罗梅罗：坎塞洛明日无法出席亮相仪式，还有行政手续待处理",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里背伤情况怎么样",
+          "title": "[流言板]弗里克：罗德里可能是世界上最好的6号位，他能提升全队水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "随着巴萨官宣罗德里，转会费细则也出来了",
+          "title": "回到西班牙好好养伤为了西班牙2030本土世界杯养精蓄锐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨官方：罗德里加盟球队，双方签约至2030年",
+          "title": "这张被贝林厄姆特别帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -95,47 +101,42 @@
           "hot": ""
         },
         {
-          "title": "罗德里：曼城球迷们，是时候说再见了，我的心永远属于蓝色",
+          "title": "英媒：维拉租借签下万-比萨卡，赛季后强制买断",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "邮报：拉什福德回归后表现抢眼，留队概率上升",
+          "title": "德科：欢迎罗德里，我们继续努力工作",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：阿尔瓦雷斯考虑在转会窗结束后更换经纪人",
+          "title": "曼城晒罗德里海报：他赢得了一切",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "图片报：勒沃库森新帅卡莱斯-马丁内斯手写信拉近球迷关系",
+          "title": "图片报：穆西亚拉热身赛再次倒地，被紧急送回更衣室",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：我还收到过其他报价，但巴萨是我的首选",
+          "title": "龙赛罗：罗德里是一名非凡的球员，但错过最重要加盟皇马的良机",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗德里：我有其他选项，但巴萨是我的第一选择",
+          "title": "埃贝尔：穆西亚拉很快会亲自作出回应，我们了解目前的情况",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "鲁尼：拉什福德想留队的话必须沉下心来，变得更加积极",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "詹俊：金球先生罗德里正式加盟巴萨，巴萨最强阵剑指西甲+欧冠",
+          "title": "英媒：纽卡谈尼科-冈萨雷斯，曼城愿放人筹资签恩佐",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
