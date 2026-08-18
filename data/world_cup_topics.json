@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18 19:31:52",
+  "update_time": "2026-08-18 20:58:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,68 +29,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "FC27切尔西能力值：恩佐、凯塞多最高，帕尔默85，罗杰斯84",
+          "title": "TA：维拉纯租借报价万比萨卡遭拒绝，将继续推进此交易",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "六台：瓜帅曾与罗德里交流，告诉他巴萨比皇马更适合你",
+          "title": "沙特体育：利雅得胜利给C罗制定90分钟特别体能训练，找状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "六台记者：巴萨没那么多钱，买了罗德里/戈登还能签小蜘蛛？",
+          "title": "罗德里与巴萨正式完成合同签署，双方签约至2030年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莫德里奇：很高兴能够回到米兰，留下就是为了赢得冠军",
+          "title": "【技术】资深球迷详细分析梅西如果选择西班牙国家队，能拿多少个世界杯&amp;欧洲杯冠军!",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费尔明：因伤错过世界杯已经翻篇了；弗里克教我别纠结失误",
+          "title": "说实话佩德里这两年多少是被巴萨的阵容耽误了发展",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：曼联仅给B费的年薪涨了50万欧，他拒绝这份续约合同",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "FC27曼联能力值：B费89最高，蒂勒曼斯85，库尼亚、姆伯莫84",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "合同剩1年！记者：B费拒绝曼联的续约报价，年薪仅比此前多50万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "继维尼修斯续约后，皇马计划与这位23岁巨星进行重磅续约",
+          "title": "西媒：罗德里在巴萨领到了顶薪.签税后4年1300万欧元。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "英媒：凯恩列新月引援头号目标，代表已会谈",
+          "title": "英媒：切尔西盘点恩佐替代者，沃顿或近1亿镑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：罗德里抵达诺坎普，将与巴萨签约",
+          "title": "TA：西汉姆联拒绝维拉对万-比萨卡报价，维拉仍希望完成交易",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：土耳其三大豪门之一接触拉什福德经纪人",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "英媒：以防曼城突然出手恩佐，切尔西盯上沃顿等3名接班人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
