@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 06:31:25",
+  "update_time": "2026-08-19 07:28:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,11 @@
     "虎扑": {
       "topics": [
         {
+          "title": "巴黎巴萨分票+梅西姆巴佩表现平平，拜仁希望凯恩能拿金球奖",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "普利西奇参加米兰一线队训练，世界杯受伤后首次回归合练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -44,17 +49,27 @@
           "hot": ""
         },
         {
-          "title": "[流言板]每体主编：罗德里获热烈欢迎，老佛爷却只在私下介绍穆帅",
+          "title": "拉什福德乐于帮扶曼联队内年轻球员，并与多名青训小将密切交流",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩和科比作为各自领域历史前十的守门员，其实性格是相似的，好胜心强有时真会给队友无形的压力",
+          "title": "[流言板]龙赛罗：尊重罗德里去低一级的平台；伟大球员都该效力皇马",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "【白衣军团】家有一老，如有一宝！B席季前赛 个人集锦",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：皇马正在关注桑坦德竞技19岁中场塞尔吉奥·马丁内斯。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
@@ -65,27 +80,42 @@
           "hot": ""
         },
         {
-          "title": "埃贝尔：凯恩完全配得上金球奖，他是现象级人物",
+          "title": "英超CEO：推行世界杯出售计划，因凡蒂诺按下自毁按钮",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "澳波：C罗正在很好地恢复，他很快就会回归参加比赛",
+          "title": "ESPN年度百大边锋：梅西第5，萨拉赫第17",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "ESPN2026年攻击型中场排名：B费第1，贝林第2，索博第3",
+          "title": "阿奴诺比谈揭幕战对阵詹姆斯：这是一种荣誉，会很酷",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "体图：凯恩明日领取欧洲金靴，拜仁办盛典推动续约",
+          "title": "卫报：以色列撤回对国际足联主席因凡蒂诺的连任支持",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意天空：罗马敲定罗德里戈-莫拉，转会费2500万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "普约尔：有穆里尼奥皇马可能更强；罗德里非常适合巴萨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼城队史转出榜：小蜘蛛最高罗德里第二，费兰萨内帕尔默在列",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "小红书": {
