@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 12:43:49",
+  "update_time": "2026-08-19 13:37:11",
   "sources": {
     "微博": {
       "topics": [
@@ -36,6 +36,11 @@
     "虎扑": {
       "topics": [
         {
+          "title": "普约尔：39岁的梅西依然令人难以置信，他就是历史最佳球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "官方：日本和欧足联达成协议，日本U16将“参加”U17欧预赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -56,46 +61,41 @@
           "hot": ""
         },
         {
-          "title": "鲁尼谈拉什福德：马库斯的情况真的很奇怪。我们知道他有能力，他已经证明过这一点，但他有没有那份饥渴感？他到底想不想为曼联效力？",
+          "title": "罗德里来了，如果欧冠还是没起色的话，教练就要考虑换瓜迪奥拉了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]德科Ins晒罗德里加盟照：欢迎！我们的工作仍在继续",
+          "title": "隔壁大黄嘴上说着不要罗德里，说罗德里打伤过不行，10个帖子9个罗德里可见破防的破厉害",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里如果能把贝尔纳尔带出来就足够了，过两年直接扶正",
+          "title": "罗德里的球衣背后怎么变rodrigo了？怎么多了go？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]多图流：罗德里携伴侣完成签约，与拉波尔塔等巴萨高层合影",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]穆帅：姆巴佩是外星人级别的，皇马不需要罗德里",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "咨询一下，有没有哪个像罗德里这种acl后，还能恢复原样状态的球员？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]穆里尼奥：现在更衣室氛围非常好；姆巴佩简直强的不可思议",
+          "title": "真相大白：原来罗德里就是这么被皇马和穆里尼奥嫌弃的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "罗马诺：万-比萨卡已开始体检，铃木彩艳和鲁杰里即将官宣",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "许尔策勒：世界杯期间请教过安帅，他着重强调与球员的联结",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "迈阿密国际晒照，梅西苏牙面对镜头微笑",
           "url": "https://www.dongqiudi.com/",
@@ -105,14 +105,9 @@
           "title": "给这组合起个名字吧，巴萨中场时隔16年再现世界杯冠军组合",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "体坛：乌兹别克推动在中国9月30日踢阿根廷，对国足尚不确定",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
