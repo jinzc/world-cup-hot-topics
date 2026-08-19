@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 21:00:24",
+  "update_time": "2026-08-19 22:40:53",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,109 @@
     "虎扑": {
       "topics": [
         {
-          "title": "麦克马纳曼：姆巴佩来了后贝林角色改变，期待穆帅如何布阵",
+          "title": "米体：比利奇想莫德里奇留在克罗地亚国家队，他还没做决定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佐拉：94世界杯被红牌罚下是噩梦，前几个月还在看心理医生",
+          "title": "阿斯：西班牙人主场是维尼修斯的福地，穆帅不担心他的状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马为B席举行亮相仪式，弗洛伦蒂诺亲自接待新援",
+          "title": "曼晚：拉什福德不合适踢中锋，他要融入曼联只有踢回左边锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "中场现在有b费，蒂勒曼斯，梅努，桑托斯，巴莱巴，芒特，不说无敌，但也真的可以了，如果巴莱巴顺利下树，就快研究其他位置的补强吧",
+          "title": "曼晚：拉什福德越来越可能留队，卡里克或让他尝试其他位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥：皇马报价丰厚罗德里犹豫不决，皇马不能容纳反复权衡的球员",
+          "title": "TA：切尔西只有恩佐/内托离队才真正要买人，否则就是卖冗员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]阿斯：阿尔瓦雷斯开启加练模式，预计在周日的比赛中复出",
+          "title": "太阳报：拉什福德不会向库尼亚要回曼联10号，预计身穿14号",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马训练场外，球迷们为姆巴佩挂起了一条横幅",
+          "title": "塔皮亚：世界杯结束已1个月，说阿根廷放弃抵抗的人还未道歉",
           "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：皇马争夺桑坦德竞技19岁中场马丁内斯，解约金300万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "六台：B席得知罗德里可能加盟皇马后表情不悦，两人关系不佳",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "塞尔吉奥马丁内斯要去皇马了啊，就300万，德科不是找发现了吗，快动手啊，这稳赚不赔的啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马球迷在巴尔德贝巴斯训练场外给姆巴佩拉横幅来支持姆巴佩：“现在你在这里，你是世界上最好的球员”",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]穆帅：姆巴佩是外星人级别的，皇马不需要罗德里",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 12,
+      "status": "success"
+    },
+    "懂球帝": {
+      "topics": [
+        {
+          "title": "德雷森：凯恩单赛季进球本世纪仅次于梅西，这表明其历史意义",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "萨哈：曼联还得继续补强中场，减轻B费的压力",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德雷森：凯恩上赛季73球，本世纪仅次于梅西",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席：从小就想为皇马这样的俱乐部效力，这不是人人都能做到的",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卢卡-托尼打趣凯恩：别再破我们的纪录了",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德天空：拜仁已明确决定不找穆西亚拉替代者，100%支持他",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "意媒：门德斯赴米兰，谈伊纳西奥转会及莱奥未来",
+          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 7,
       "status": "success"
-    },
-    "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
     },
     "小红书": {
       "topics": [],
