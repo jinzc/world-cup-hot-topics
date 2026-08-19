@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-20 06:31:37",
+  "update_time": "2026-08-20 07:29:01",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,82 +22,19 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "穆西亚拉连场热身赛晕倒",
-          "url": "https://www.douyin.com/search/%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%E8%BF%9E%E5%9C%BA%E7%83%AD%E8%BA%AB%E8%B5%9B%E6%99%95%E5%80%92",
-          "hot": "826.4万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
-      "topics": [
-        {
-          "title": "凯恩：我和C罗、梅西是否为同层级球星？这得由你们来评判",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "塞尔：皇马关注罗德里多年；世界杯夺冠时他就已经选择巴萨",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "李刚仁：目前还缺少比赛节奏，替补登场就是为了帮助球队",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "太阳报：孔萨是热刺球迷童年梦想效力热刺，也是萨卡挚友",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨官网介绍罗德里十件事：大学读了6年 崇拜布斯克茨 远离社媒",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Ramón Álvarez：俱乐部消息源告诉我，皇马已经敲定了塞尔吉奥·马丁内斯的签约。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]塞尔：皇马关注罗德里多年；世界杯夺冠时他就已经选择巴萨",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 7,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "意媒：门德斯筹划让米兰用莱奥+现金换鲁本-迪亚斯加盟",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "迈阿密国际主帅奥约斯：梅西正在逐渐恢复平静",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉什福德回应卡拉格：多谢，要是能安安静静踢足球就太好了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "神经科医生：穆西亚拉不像典型失神发作；治疗得当不影响踢球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 4,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
