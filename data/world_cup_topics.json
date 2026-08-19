@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19 22:40:53",
+  "update_time": "2026-08-19 23:38:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,108 +29,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "米体：比利奇想莫德里奇留在克罗地亚国家队，他还没做决定",
+          "title": "邮报：巴萨关注拜仁与凯恩的续约谈判，他想要至少3年合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：西班牙人主场是维尼修斯的福地，穆帅不担心他的状态",
+          "title": "凯恩：上赛季是我生涯最佳表现，期待再迎来一个伟大的赛季",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：拉什福德不合适踢中锋，他要融入曼联只有踢回左边锋",
+          "title": "马竞发布阿尔瓦雷斯新赛季定妆照：表情严肃，蓄起了胡子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：拉什福德越来越可能留队，卡里克或让他尝试其他位置",
+          "title": "心情很复杂，祝福罗德里，顺便分析下罗德里，让萨米吃颗定心丸。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：切尔西只有恩佐/内托离队才真正要买人，否则就是卖冗员",
+          "title": "[流言板]六台：B席得知罗德里可能加盟皇马后表情不悦，两人关系不佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：拉什福德不会向库尼亚要回曼联10号，预计身穿14号",
+          "title": "贝林厄姆禁区里的攻门效率也太逆天了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塔皮亚：世界杯结束已1个月，说阿根廷放弃抵抗的人还未道歉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：皇马争夺桑坦德竞技19岁中场马丁内斯，解约金300万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "六台：B席得知罗德里可能加盟皇马后表情不悦，两人关系不佳",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "塞尔吉奥马丁内斯要去皇马了啊，就300万，德科不是找发现了吗，快动手啊，这稳赚不赔的啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马球迷在巴尔德贝巴斯训练场外给姆巴佩拉横幅来支持姆巴佩：“现在你在这里，你是世界上最好的球员”",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]穆帅：姆巴佩是外星人级别的，皇马不需要罗德里",
+          "title": "JFD＆Ramon Alvarez：桑坦德竞技19岁中场塞尔吉奥·马丁内斯即将加盟皇马，他的解约金为300万欧元。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德雷森：凯恩单赛季进球本世纪仅次于梅西，这表明其历史意义",
+          "title": "拜仁官方祝贺凯恩拿下欧洲金靴：进球和奖杯，世界最佳球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "萨哈：曼联还得继续补强中场，减轻B费的压力",
+          "title": "拉基蒂奇：永远不会有另一个布斯克茨，罗德里与他完全不同",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德雷森：凯恩上赛季73球，本世纪仅次于梅西",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "B席：从小就想为皇马这样的俱乐部效力，这不是人人都能做到的",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "卢卡-托尼打趣凯恩：别再破我们的纪录了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德天空：拜仁已明确决定不找穆西亚拉替代者，100%支持他",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意媒：门德斯赴米兰，谈伊纳西奥转会及莱奥未来",
+          "title": "邮报：巴萨关注凯恩续约，利雅得新月也有意",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
