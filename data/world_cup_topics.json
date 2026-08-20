@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-20 18:37:35",
+  "update_time": "2026-08-20 19:33:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿方索：冰球最吸引我的地方是能打架；最想看基米希打冰球",
+          "title": "六台记者：罗德里不敢去皇马，加盟巴萨是更容易的选择",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥赖利：曼城要适应没罗德里的日子；期待自己能回中场踢球",
+          "title": "米体：米兰对莱奥要价底线是5000万欧+奖金，要门德斯找买家",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：姆巴佩/维尼/贝林等6人，是穆帅在皇马不可动摇的主力",
+          "title": "皇马官宣B席加盟视频被群嘲：AI制作粗糙，还出现错别字",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：穆帅战术思路已有变化，昔日不可能让B席搭档楚阿梅尼",
+          "title": "看到很多人说罗德里是来养老的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赫内斯：德国和阿根廷世界杯阵容不算出色，但后者拼尽全力",
+          "title": "罗德里薪资出了，税前2700万+400万奖金",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "完全不理解为什么会有人觉得罗德里年纪大",
+          "title": "隔壁凯恩好像还没续约，一直再谈，德科会不会偷摸来个大的，表面声称要阿尔瓦雷斯，实则声东击西",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]皇马官宣B席加盟视频被群嘲：AI制作粗糙，还出现错别字",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -62,50 +67,20 @@
           "title": "隔壁为了恶心皇马直接给罗德里匹配了队内顶薪",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "别说国内，看看国外球迷对B席言论的评价，天下球迷都一样！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "穆看来很看重居莱尔，可以像莫德里奇和B席样转型发展",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "至今不明白，一只球队是中了什么邪把一个中锋位置不是最佳，边锋位置不是最佳，前腰位置不是最佳的一个人当前场核心围绕他建队，皇马一直是以招揽各个位置最佳闻名的队伍，如今为了姆巴佩，历史彻底改写走偏了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿方索：穆西亚拉两次出事让我心碎，他会以更强大的姿态回归",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德转：英格兰旅外最贵阵，凯恩领衔，贝林兄弟在列",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "西塞：法国足球仍有很多有特点的天赋球员；要有“赢者心态”",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "赫内斯：德国队的世界杯表现完全是灾难，雷蒂格无法胜任工作",
+          "title": "不是3号，罗梅罗将身披马竞的21号球衣",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
