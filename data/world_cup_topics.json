@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-20 11:04:05",
+  "update_time": "2026-08-20 12:44:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,73 +29,68 @@
     "虎扑": {
       "topics": [
         {
+          "title": "跟队：小蜘蛛该向李刚仁学习，赶快进入状态重新赢回球迷",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "李刚仁：没想到首秀如此梦幻，我很高兴能帮助球队取胜",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴埃纳：感谢世界杯，帮我找回了上赛季失去的信心",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席：接到皇马电话时没任何犹豫，当年和姆巴佩有过默契配合",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "跟队：阿图尔每踢1分钟能花尤文3.1万欧元，比C罗和DV9还贵",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：米兰与门德斯密切合作，买他的球员就必须帮忙卖莱奥",
+          "title": "罗德里一定，巴莱巴就来了，左后卫也快了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西甲：马竞2-0马拉加，李刚仁建功，巴埃纳任意球破门",
+          "title": "穆里尼奥：居莱尔和贝林厄姆的争论是不是应该结束了？哈哈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帅！李刚仁替补精彩内切劲射破门，代表马竞西甲首秀建功",
+          "title": "真相大白：原来罗德里就是这么被皇马和穆里尼奥嫌弃的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西在父亲去世后，打进回到迈阿密国际后的首粒进球",
+          "title": "罗德里去了隔壁其实也没必要太紧张",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉莫斯：K77当然有能力赢得金球奖；很难想像没有C罗的足球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "詹俊：进攻端方面，个人觉得曼联应留下拉什福德和齐尔克泽",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿斯：莫德里奇13岁女儿加盟皇马梯队，曾效力于米兰青训",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：李刚仁进球+赢下4次对抗，马竞引进他不只为卖球衣",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "至今不明白，一只球队是中了什么邪把一个中锋位置不是最佳，边锋位置不是最佳，前腰位置不是最佳的一个人当前场核心围绕他建队，皇马一直是以招揽各个位置最佳闻名的队伍，如今为了姆巴佩，历史彻底改写走偏了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "皇马300万欧拿下桑坦德新星马丁内斯，这彩票刮得值",
+          "title": "我发现了，只要是球员表现不好，锅推给姆巴佩就可以了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "跟队记者：目前没有任何迹象表明恩佐正在消极怠工",
+          "title": "米体：球迷冲场铲伤加蒂脚踝，尤文中卫或无缘意甲揭幕战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B席：我和姆巴佩曾共事过，希望重建这种默契为皇马带来胜利",
+          "title": "曼联9年前客战赫尔城首发：仅拉什福德仍在队，卡里克已挂帅",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
