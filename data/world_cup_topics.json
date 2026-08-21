@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 02:47:53",
+  "update_time": "2026-08-22 03:30:39",
   "sources": {
     "微博": {
       "topics": [
@@ -36,17 +36,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "103球追平萨赫拉维，C罗并列利雅得胜利队史联赛射手王",
+          "title": "英超新赛季首球诞生！哈弗茨破门，阿森纳揭幕战迎梦幻开局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡里克：拉什福德完全能胜任中锋 绝不会说曼联无法夺英超冠军",
+          "title": "扩大比分！萨卡抢点破门，阿森纳2-0",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗梅罗：巴尔德与门德斯商谈未来，卡萨多仍在评估下家选项",
+          "title": "伊劳拉：新规限制阿利松基本不能戴队长袖标，我跟他沟通过",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "孔萨现身酋长球场！枪手新援在英超揭幕战前接受主场欢迎",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡拉菲奥里助攻，哈弗茨抢点破门！阿森纳1-0",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "41岁传奇仍在刷新极限！C罗社媒庆祝胜利：很高兴回归赛场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "儿皇梦的罗德里来了巴萨，儿萨梦的B席来了皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -54,19 +74,9 @@
           "title": "罗德里：曼城没人喜欢皇马，我看得出来，很多人对B席选择加盟皇马感到失望",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "看了罗德里这反复的小人嘴脸，觉得他跟芭莎还真是绝配。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩在大巴黎队史地位排第几？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
@@ -77,27 +87,22 @@
           "hot": ""
         },
         {
+          "title": "揭幕战对阵考文垂破门，哈弗茨攻入新赛季英超首球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "西媒：亚马尔的女友已搬入其豪宅，两人感情持续升温",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
           "title": "萨卡迎塔帅麾下第198次联赛首发，比其他阿森纳球员多10+次",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：门德斯周五和卡萨多、巴尔德会面，还见了亚马尔",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：马拉加免签前莱万特中场巴勃罗-马丁内斯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "伦敦足球：阿森纳仍在等待引进阿尔瓦雷斯的机会",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
