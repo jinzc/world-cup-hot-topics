@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 04:32:42",
+  "update_time": "2026-08-22 05:31:07",
   "sources": {
     "微博": {
       "topics": [
@@ -36,27 +36,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "半场：阿森纳2-0考文垂，哈弗茨首开记录，萨卡建功",
+          "title": "哈弗茨vs考文垂全场数据：射门1进球1，关键传球1，越位2",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿森纳英超历史射手榜：亨利居首，萨卡61球超越桑切斯排第6",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "邮报：欧国联计划引入非欧洲球队，亚洲足联未来也可能加入",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨夏窗锋线引援困境：追不到阿尔瓦雷斯，劳塔罗也悬了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我发现了，只要是球员表现不好，锅推给姆巴佩就可以了。",
+          "title": "萨卡vs考文垂全场数据：射门3进球1，过人成功1，被犯规1",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -64,9 +49,14 @@
           "title": "罗德里：曼城没人喜欢皇马，我看得出来，很多人对B席选择加盟皇马感到失望",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "欧冠进球一预期进球数据:                         维尼修斯—2.88，姆巴佩+4.21，费兰+0.37， 进球转化率:  维尼修斯7%，姆巴佩23%，费兰18%",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
@@ -77,12 +67,37 @@
           "hot": ""
         },
         {
-          "title": "半场：阿森纳2-0考文垂，哈弗茨破门，萨卡建功",
+          "title": "从英超到欧冠决赛和社区盾，哈弗茨连续四场为阿森纳首发进球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "厄德高：我希望赛季进球上双；我和萨卡、怀特三人特点互补",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "10场10球，多特是凯恩职业生涯进球第二多的德国球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝蒂斯1-0皇家社会，罗德里戈-里克尔梅破门，奥斯卡松失良机",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿森纳3-0考文垂，厄德高连场破门，哈弗茨、萨卡建功",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "四年后再战英超，措利斯数据：3次关键传球，传中造萨卡破门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
