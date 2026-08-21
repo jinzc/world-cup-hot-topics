@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 06:31:42",
+  "update_time": "2026-08-22 07:30:13",
   "sources": {
     "微博": {
       "topics": [
@@ -36,58 +36,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "法甲揭幕战马赛4-0斯特拉斯堡，古伊里双响赫伊别尔破门",
+          "title": "哈弗茨赛后社媒：2026-27赛季的良好开局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨vs考文垂全场数据：射门1进球1，关键传球1，越位2",
+          "title": "罗梅罗：经纪人发言获小蜘蛛同意；若周日被嘘或推动他离队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有没有跟我一样，因为世界杯喜欢上巴萨的罗密",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "完全不理解为什么会有人觉得罗德里年纪大",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：曼城没人喜欢皇马，我看得出来，很多人对B席选择加盟皇马感到失望",
+          "title": "[流言板]罗梅罗：经纪人发言获小蜘蛛同意；若周日被嘘或推动他离队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "卡里克：我们希望再次进入欧冠区；拉什福德归队后状态非常好",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "从英超到欧冠决赛和社区盾，哈弗茨连续四场为阿森纳首发进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "厄德高：我希望赛季进球上双；我和萨卡、怀特三人特点互补",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "10场10球，多特是凯恩职业生涯进球第二多的德国球队",
+          "title": "加里-内维尔：阿森纳如果签阿尔瓦雷斯，有望冲击欧冠冠军",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
