@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-21 07:32:23",
+  "update_time": "2026-08-21 09:47:49",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,38 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "六台：罗德里决定加盟巴萨后致电皇马，双方关系并未闹僵",
+          "title": "马卡：维尼修斯已成皇马最资深球员，出场与进球数均第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿隆索：被球迷嘘正常，恩佐有能力赢回信任；会让他偏组织",
+          "title": "皇马用AI制作B席的官宣视频，结果被球迷喷惨了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]六台：罗德里决定加盟巴萨后致电皇马，双方关系并未闹僵",
+          "title": "扇对手头部+顶牛，有记者表示：梅西的行为恐被罚款或停赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗梅罗：巴萨加速推进劳塔罗交易，未来几天或有关键进展",
+          "title": "[流言板]曼晚：卡里克称拉什福德状态极佳，曼联仍对报价持开放态度",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：穆里尼奥谈姆巴佩",
+          "title": "卡里克：拉什福德完全能胜任中锋 绝不会说曼联无法夺英超冠军",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "塞尔吉奥马丁内斯要去皇马了啊，就300万，德科不是找发现了吗，快动手啊，这稳赚不赔的啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西亚还有几个人有印象",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马训练场外，球迷们为姆巴佩挂起了一条横幅",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]皇马官宣B席加盟视频被群嘲：AI制作粗糙，还出现错别字",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "德媒：拜仁不考虑引进穆西亚拉替代者，全力支持他康复",
+          "title": "莱万：从西甲和欧冠再到美职联，我与格列兹曼都热爱着足球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
