@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 03:30:39",
+  "update_time": "2026-08-22 04:32:42",
   "sources": {
     "微博": {
       "topics": [
@@ -36,37 +36,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "英超新赛季首球诞生！哈弗茨破门，阿森纳揭幕战迎梦幻开局",
+          "title": "半场：阿森纳2-0考文垂，哈弗茨首开记录，萨卡建功",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "扩大比分！萨卡抢点破门，阿森纳2-0",
+          "title": "阿森纳英超历史射手榜：亨利居首，萨卡61球超越桑切斯排第6",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊劳拉：新规限制阿利松基本不能戴队长袖标，我跟他沟通过",
+          "title": "邮报：欧国联计划引入非欧洲球队，亚洲足联未来也可能加入",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孔萨现身酋长球场！枪手新援在英超揭幕战前接受主场欢迎",
+          "title": "巴萨夏窗锋线引援困境：追不到阿尔瓦雷斯，劳塔罗也悬了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡拉菲奥里助攻，哈弗茨抢点破门！阿森纳1-0",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "41岁传奇仍在刷新极限！C罗社媒庆祝胜利：很高兴回归赛场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "儿皇梦的罗德里来了巴萨，儿萨梦的B席来了皇马",
+          "title": "我发现了，只要是球员表现不好，锅推给姆巴佩就可以了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -76,7 +66,7 @@
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
@@ -87,22 +77,12 @@
           "hot": ""
         },
         {
-          "title": "揭幕战对阵考文垂破门，哈弗茨攻入新赛季英超首球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "西媒：亚马尔的女友已搬入其豪宅，两人感情持续升温",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "萨卡迎塔帅麾下第198次联赛首发，比其他阿森纳球员多10+次",
+          "title": "半场：阿森纳2-0考文垂，哈弗茨破门，萨卡建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
