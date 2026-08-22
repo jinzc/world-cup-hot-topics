@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 18:30:43",
+  "update_time": "2026-08-22 19:26:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,27 @@
     "虎扑": {
       "topics": [
         {
+          "title": "DO：阿森纳有意签下阿尔瓦雷斯，但他是否愿回英超是未知数",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "弗里克：罗德里计划下周开始合练；坎塞洛已做好比赛准备",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "阿根廷足协律师：帕雷德斯被禁赛10场处罚过重，将申请上诉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联公布新赛季号码：拉什福德回归穿9号，加布里埃尔77号",
+          "title": "罗德里：曼城没人喜欢皇马，我看得出来，很多人对B席选择加盟皇马感到失望",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：罗德里大概率无缘巴萨西甲首战，贝尔纳尔将继续首发",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "JFD：塞尔吉奥·马丁内斯将加盟皇马，他会首先加入卡斯蒂亚。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "jfelixdiaz：塞尔吉奥·马丁内斯转会皇马交易很快敲定马丁内斯将加盟皇马B队（卡斯蒂亚），同时拥有跟随一线队合练的资格。双方谈判明确：他本赛季主要在预备队征战。",
+          "title": "[流言板]记者：本以为极具个性的姆巴佩和穆帅难相处，但他们已默契",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -63,29 +63,9 @@
           "title": "曼联vs赫尔城：桑托斯、蒂勒曼斯首秀，库尼亚、B费先发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
-        },
-        {
-          "title": "弗里克：罗德里是出色的领袖，我们必须用胜利开启新赛季",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔：踢球后名气让我失去自由，但我不会忘记自己是谁",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "意媒：措利斯曾一心加盟曼联，但拉什福德回归占据左边锋位置",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "西蒙尼：只要阿尔瓦雷斯还是马竞的球员，我就会支持他",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
