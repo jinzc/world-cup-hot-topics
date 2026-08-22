@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22 15:37:30",
+  "update_time": "2026-08-22 16:38:46",
   "sources": {
     "微博": {
       "topics": [],
@@ -39,38 +39,28 @@
           "hot": ""
         },
         {
-          "title": "问一下，就世界杯表现看，如菊真的恢复正常了吗？会不会开赛又回到上赛季曼城那状态？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：国际足联公布阿根廷与西班牙比赛后的罚单",
+          "title": "龙哥说到做到，阿斯报：阿隆索亲自督训姆巴佩，以近乎“一对一”的方式对姆巴佩进行高强度专项调教。要求他承担更多跑动对抗。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿媒记者：国际足联处罚不公，加维禁1场贝林免罚",
+          "title": "世体：西足协将申诉加维处罚，申请暂缓1场禁赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "环球体育：维尼修斯375场128球，均为皇马现役最多",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中国足协发文，禁止城市联赛对外公开裁判处罚结果",
+          "title": "世体：西足协将就加维停赛提出申诉，将以巴洛贡为先例申请暂缓执行",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
