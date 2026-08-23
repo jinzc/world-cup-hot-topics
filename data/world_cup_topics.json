@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 04:31:13",
+  "update_time": "2026-08-24 05:28:07",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,37 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "加维本场出战45分钟伤退，对抗10胜5，2次被犯规1拦截",
+          "title": "亚马尔本场1过人1次被犯规，错失1次良机，对抗6胜3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内维尔：看维尔茨踢球，我真想狠狠地踢一脚他的屁股",
+          "title": "阿斯：加维伤情初步反馈令人担忧，将在周一接受进一步检查",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世体：拉菲尼亚点射破门，庆祝动作疑似致意阿尔瓦雷斯",
+          "title": "踢球者：穆西亚拉卡尔本周有望合练，格纳布里还需约10天",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "米兰换人，莫德里奇、拉比奥替换亚沙里、奇克",
+          "title": "亚马尔的态度太懒散了……",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿德耶米这左路踢的比拉什福德都强太多了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看加维现在逼抢看的心慌慌的",
+          "title": "转：维尼修斯？这事儿看起来不妙",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
