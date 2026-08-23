@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-23 20:54:03",
+  "update_time": "2026-08-23 21:37:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,23 +29,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿曼记者：因凡蒂诺或将出席2026年度亚足联颁奖典礼",
+          "title": "官方：34岁伊朗前锋塔雷米加盟迪拜祈祷，时隔7年重返亚洲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "今晚首发看点颇多，坎塞洛或佩斯克尔，埃斯帕特或加维，拉菲或哈姆扎，亚马尔或阿德耶米",
+          "title": "马竞球员FC26评分：奥布拉克88分居首，阿尔瓦雷斯86分随后",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "迪亚斯热身赛白踢了？维尼修斯灾难发挥不敢换，穆里尼奥你在怕什么？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "『马弁观点』不要再抛出贝林厄姆和居莱尔10号位之争的设想",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "穆里尼奥：维尼修斯遭对手和球迷霸凌",
+          "title": "揭幕战率队完胜曼联，赫尔城主帅续约新合同将大幅涨薪",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
