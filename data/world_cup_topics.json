@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 06:29:16",
+  "update_time": "2026-08-24 07:27:50",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,43 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "弗里克：并未要求巴尔德离队；加维伤情感觉比预想稍好",
+          "title": "C罗社媒：很高兴能参与电竞世界杯，向所有工作人员致敬",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维右膝不适下场，这伤病史真让人心里发紧",
+          "title": "哪个队有b费，哪个队伤病增加30%",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔像要哭了一样…",
+          "title": "曼联重建的根源就是b费和拉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我团历史上有比姆巴佩还更破坏球队的球员吗？秘书来说说",
+          "title": "何塞·阿尔瓦雷斯：曼城联系并询问弗兰基·德容的情况据我所知，曼城希望本周签下弗兰基·德容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "转：维尼修斯？这事儿看起来不妙",
+          "title": "佩德里转身，巴萨由守转攻",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "续约维尼、不买罗德里，让82当队长。这三件错事关上了最后一丝希望的大门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "加维：伤在胫骨但影响了膝盖，我很担心",
+          "title": "内维尔：真想骂醒维尔茨，我们之前对他和伊萨克太宽容了",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "加里-内维尔：维尔茨、伊萨克太温和了，他们需要尽快证明身价",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "弗里克：加维伤到了膝盖，但情况比他预想的好一些",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
