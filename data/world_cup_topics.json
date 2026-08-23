@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 05:28:07",
+  "update_time": "2026-08-24 06:29:16",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "亚马尔本场1过人1次被犯规，错失1次良机，对抗6胜3",
+          "title": "弗里克：并未要求巴尔德离队；加维伤情感觉比预想稍好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：加维伤情初步反馈令人担忧，将在周一接受进一步检查",
+          "title": "加维右膝不适下场，这伤病史真让人心里发紧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "踢球者：穆西亚拉卡尔本周有望合练，格纳布里还需约10天",
+          "title": "亚马尔像要哭了一样…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔的态度太懒散了……",
+          "title": "我团历史上有比姆巴佩还更破坏球队的球员吗？秘书来说说",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -58,9 +58,15 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "加维：伤在胫骨但影响了膝盖，我很担心",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
