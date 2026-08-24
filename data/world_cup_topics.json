@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 15:12:13",
+  "update_time": "2026-08-24 16:56:53",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,17 +35,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "TA：伊劳拉发现斯洛特时代问题仍存，伊萨克/维尔茨难被激活",
+          "title": "巴萨名宿：亚马尔被换下时不满是自私，这是对队友的不尊重",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：穆帅练出球队新杀招，把贝林厄姆变成“定位球中锋”",
+          "title": "马卡：穆帅找维尼修斯谈了一次话，坚定表达了自己的支持",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA评曼联队史最伟大球员TOP25：查尔顿第1！吉格斯第2、C罗第10",
+          "title": "前皇马门将：维尼修斯续约是因为没有豪门要他，太容易招黑",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "费尔明就是拉玛西亚自研阿尔瓦雷斯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我还想着新赛季加维能发挥发挥呢，我是真从他17岁首秀看过来的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔被换下后不悦，巴萨名宿批评:任何球员都不能这么自私",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]阿斯：穆帅练出球队新杀招，把贝林厄姆变成“定位球中锋”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -53,30 +73,40 @@
           "title": "你们说为什么都是加盟皇马想当老大，为什么不排斥贝林，却排斥姆巴佩？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "穆帅就爱大中锋，姆巴佩的初体验，没贝林厄姆好用",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "塞尔：阿尔瓦雷斯在场上像“行尸走肉”，这样的局面没有赢家",
+          "title": "弗罗因德：凯恩值得赢得金球奖，这对拜仁来说也意义重大",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "中国足球史话：盘点国足历届亚运会之旅，最好成绩为亚军",
+          "title": "评论员：不容忍亚马尔被换下闹情绪，这是不尊重队友",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "拜仁CCO：今年金球奖只能给凯恩，看数据不可能有其他人获奖",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "拜仁高层：凯恩如果获得金球奖，将提升俱乐部品牌",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：曼联需重磅新援，否则球迷很难忘掉揭幕战溃败",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
