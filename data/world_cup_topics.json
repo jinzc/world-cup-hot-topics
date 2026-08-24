@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 16:56:53",
+  "update_time": "2026-08-24 17:57:05",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,27 +35,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "巴萨名宿：亚马尔被换下时不满是自私，这是对队友的不尊重",
+          "title": "墨菲：同时有伊萨克&amp;维尔茨，伊劳拉或得调整利物浦逼抢方式",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：穆帅找维尼修斯谈了一次话，坚定表达了自己的支持",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "前皇马门将：维尼修斯续约是因为没有豪门要他，太容易招黑",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费尔明就是拉玛西亚自研阿尔瓦雷斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我还想着新赛季加维能发挥发挥呢，我是真从他17岁首秀看过来的",
+          "title": "讲真 加维已经不再适配现在的巴萨中场体系",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -65,48 +50,38 @@
           "hot": ""
         },
         {
-          "title": "[流言板]阿斯：穆帅练出球队新杀招，把贝林厄姆变成“定位球中锋”",
+          "title": "三十年老队迷为何旗帜鲜明反对姆巴佩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "你们说为什么都是加盟皇马想当老大，为什么不排斥贝林，却排斥姆巴佩？",
+          "title": "罗德里去隔壁一点不可惜，怕的是斯密特",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "弗罗因德：凯恩值得赢得金球奖，这对拜仁来说也意义重大",
+          "title": "墨媒：奥林匹亚科斯800万欧报价墨西哥国脚埃德松-阿尔瓦雷斯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "评论员：不容忍亚马尔被换下闹情绪，这是不尊重队友",
+          "title": "记者：纽卡接近与曼城谈妥尼科，切尔西找到替代者才会放恩佐",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "拜仁CCO：今年金球奖只能给凯恩，看数据不可能有其他人获奖",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "拜仁高层：凯恩如果获得金球奖，将提升俱乐部品牌",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼晚：曼联需重磅新援，否则球迷很难忘掉揭幕战溃败",
+          "title": "戴尔致信哈里-凯恩：希望你能拿到金球奖",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
