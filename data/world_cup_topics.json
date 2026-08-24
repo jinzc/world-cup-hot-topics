@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 18:46:44",
+  "update_time": "2026-08-24 19:35:39",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "阿尔瓦雷斯被狂嘘",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E8%A2%AB%E7%8B%82%E5%98%98",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,22 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗梅罗：加维伤势并不严重，正等待官方确认",
+          "title": "巴萨官方：加维右膝已确认仅为挫伤，预计将短期内恢复训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天体：B费+巴莱巴+蒂勒曼斯或成曼联未来中场首发搭档",
+          "title": "伤情并无大碍，加维发文：感谢我身边的人，抱歉让你们受苦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨名宿：亚马尔被换下时不满是自私，这是对队友的不尊重",
+          "title": "因凡蒂诺：首届U15世界杯将邀请全世界211个会员协会参赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]前皇马门将：维尼修斯续约是因为没有豪门要他，太容易招黑",
+          "title": "[流言板]天体：B费+巴莱巴+蒂勒曼斯或成曼联未来中场首发搭档",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "冷知识：费兰的运动战进球效率高于姆巴佩",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "开赛大吉：结果爽 过程强 亚马尔？？——红蓝今夜（20260824)",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -60,28 +64,23 @@
           "hot": ""
         },
         {
-          "title": "转：维尼修斯？这事儿看起来不妙",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我团历史上有比姆巴佩还更破坏球队的球员吗？秘书来说说",
+          "title": "贝林厄姆：对我来说，最重要的是在比赛的各个阶段帮助球队，帮助球队才是最重要的！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "每体：罗德里首次合练，巴尔德复训；加维待检查",
+          "title": "巴萨官方：医疗检查确认加维仅有膝盖瘀伤，预计短期内恢复训练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：罗德里恢复合练，有望巴萨首秀",
+          "title": "世体：加维膝盖检查无碍，他没有受伤",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
