@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 19:35:39",
+  "update_time": "2026-08-24 21:04:21",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,38 @@
     "虎扑": {
       "topics": [
         {
-          "title": "巴萨官方：加维右膝已确认仅为挫伤，预计将短期内恢复训练",
+          "title": "曼晚：多尔古踢赫尔城令人失望，拉什福德下轮应替换他首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伤情并无大碍，加维发文：感谢我身边的人，抱歉让你们受苦",
+          "title": "每体：罗德里完成巴萨首次合练，与弗里克交谈&amp;有望下场首秀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因凡蒂诺：首届U15世界杯将邀请全世界211个会员协会参赛",
+          "title": "费尔明就是拉玛西亚自研阿尔瓦雷斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]天体：B费+巴莱巴+蒂勒曼斯或成曼联未来中场首发搭档",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "冷知识：费兰的运动战进球效率高于姆巴佩",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "开赛大吉：结果爽 过程强 亚马尔？？——红蓝今夜（20260824)",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【ZT】【26-27赛季拷打姆巴佩系列第1期】",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆：对我来说，最重要的是在比赛的各个阶段帮助球队，帮助球队才是最重要的！",
+          "title": "加维的战术价值还有多大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴萨官方：医疗检查确认加维仅有膝盖瘀伤，预计短期内恢复训练",
+          "title": "记者：诺伊尔训练中肩部不适，治疗后继续训练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世体：加维膝盖检查无碍，他没有受伤",
+          "title": "记者：利马和达洛特世界杯归队较晚，但下轮二人就有望首发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
