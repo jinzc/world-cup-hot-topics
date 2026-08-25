@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 05:35:22",
+  "update_time": "2026-08-26 06:34:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "RAC1：诺坎普世界杯冠军致敬仪式或取消，正与西足协评估",
+          "title": "十人利雅得胜利让二追三，C罗社媒：一场精彩的逆转",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "瓦茨克回应赫内斯：克洛普只是有教练组，没有接管德国足协",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：巴萨9号位坚持非阿尔瓦雷斯不签，否则将等待冬窗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "电视台将为默特萨克举办告别仪式，他将前往德国足协工作",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "球星剪发后表现盘点：大罗阿福头拿世界杯，德约低谷后恢复",
+          "title": "Josep Pedrerol:巴塞罗那将于今日星期三询问亚马尔是否有什么问题。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -59,53 +44,33 @@
           "hot": ""
         },
         {
-          "title": "找一个伊尼戈马丁内斯类似的中卫很难吗？马丁+库巴西又要踢一个赛季了吗？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]RAC1：诺坎普世界杯冠军致敬仪式或取消，正与西足协评估",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩沉浸式一镜到底带不动皇马视角",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "我就想问问，看皇马超过十年的球迷，有没有喜欢姆巴佩的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "从巴洛特利到维尼修斯：穆里尼奥，被针对天才的最佳解药",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "体图：医生已建议穆西亚拉继续踢球，拜仁和孔帕尼也都信任他",
+          "title": "夸利亚雷拉：莱奥需重拾状态证明自己；责任总落在他身上",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B费：我愿用个人荣誉换球队的成功，毕竟我们打的不是网球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：加拉塔萨雷不愿意为莱奥支付超过4000万欧转会费",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "好友现场见证，马塔为B费颁发PFA年度最佳球员奖",
+          "title": "迪马：维拉再度与米兰联系谈莱奥转会，加拉塔萨雷也没放弃",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
