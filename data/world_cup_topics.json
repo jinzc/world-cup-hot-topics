@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-25 12:46:37",
+  "update_time": "2026-08-25 13:37:52",
   "sources": {
     "微博": {
       "topics": [],
@@ -33,40 +33,9 @@
       "status": "empty"
     },
     "虎扑": {
-      "topics": [
-        {
-          "title": "维尼修斯不满居莱尔传球选择对其喊道：传我啊，老是这样子",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "帕尔默这赛季和上赛季判若两人，目前第一轮英超mvp，希望能激励一下更好的b费",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "持续表态！世体：阿尔瓦雷斯给一条自己身穿巴萨球衣的视频点了赞",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费尔明就是拉玛西亚自研阿尔瓦雷斯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Julian Alvarez进度条 2",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩的困境：没法接受长时间不触球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        }
-      ],
-      "count": 6,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "懂球帝": {
       "topics": [
@@ -81,22 +50,17 @@
           "hot": ""
         },
         {
-          "title": "德拉富恩特：在世界杯前得知费尔明受伤后，我就给他打了电话",
+          "title": "王军：重返U20女足世界杯对我们年轻一代球员的发展至关重要",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "世界杯夺冠封爵？德拉富恩特：胜利是大家的，希望是“集体侯爵”",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "韩媒：FIFA和亚足联致函韩国足协，关注政府干预行为",
+          "title": "德拉富恩特：我打电话祝贺了罗德里加盟巴萨；亚马尔还没到巅峰期",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
