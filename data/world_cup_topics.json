@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 03:37:32",
+  "update_time": "2026-08-26 04:37:02",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "切尔西考虑斯科特替恩佐，约9000万镑报价或让伯恩茅斯出售",
+          "title": "每体：巴萨9号位坚持非阿尔瓦雷斯不签，否则将等待冬窗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "DO：热刺中场麦迪逊揭幕战遭遇肩部骨折，最长将缺席2周比赛",
+          "title": "电视台将为默特萨克举办告别仪式，他将前往德国足协工作",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "PFA英超年度最佳阵容：阿森纳5人领衔，B费、哈兰德入选",
+          "title": "球星剪发后表现盘点：大罗阿福头拿世界杯，德约低谷后恢复",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]官方：B费当选PFA球员票选25/26赛季年度最佳球员",
+          "title": "B费：能够被每周交手的大部分英超球员认可，这种感觉很特别",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔可能真的有些情况",
+          "title": "每体：亚马尔很同情巴尔德在巴萨遭遇，两人间关系非常亲密",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "从大部分阿尔瓦雷斯的转会新闻来分析",
+          "title": "[流言板]每体：巴萨9号位坚持非阿尔瓦雷斯不签，否则将等待冬窗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：皇马正全力签下塞尔吉奥·马丁内斯，俱乐部对交易乐观但球员尚未做出决定。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我就想问问，看皇马超过十年的球迷，有没有喜欢姆巴佩的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "意媒：莱奥继续单独训练，希拉已恢复合练",
+          "title": "土耳其名记：加拉塔萨雷和莱奥达成协议，年薪1200万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩蒂特：前球员联名批评国际足联也只是徒劳之举",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：如果今夏无法引进阿尔瓦雷斯，巴萨冬窗会继续尝试",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩德里：每次进球后，我都会亲吻手腕，把进球献给我的祖母",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
