@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-25 09:42:55",
+  "update_time": "2026-08-25 11:06:30",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,38 @@
     "虎扑": {
       "topics": [
         {
+          "title": "维尼修斯不满居莱尔传球选择对其喊道：传我啊，老是这样子",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "FIFA官方：女足世界杯抽签仪式将于12月11日进行",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "环球体育：C罗向婚礼牧师赠送其亲笔签名的葡萄牙队球衣",
+          "title": "从大部分阿尔瓦雷斯的转会新闻来分析",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马TV批裁判：亚马尔被轻碰就给牌，维尼修斯挨踢却被无视",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "恩佐准备替补上场时，现场球迷对他报以嘘声",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "你们说为什么都是加盟皇马想当老大，为什么不排斥贝林，却排斥姆巴佩？",
+          "title": "不敢想要是世界杯前没拿下戈登…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "离队心切？阿尔瓦雷斯点赞自己身穿巴萨球衣视频",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "温情时刻，内马尔赛前给予哭泣的小粉丝暖心拥抱",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "环球体育：C罗婚礼牧师获赠亲笔签名葡萄牙队球衣",
+          "title": "彩经前瞻：达曼协作vs利雅得胜利；C罗状态好，客队有望大胜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
