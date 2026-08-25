@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 04:37:02",
+  "update_time": "2026-08-26 05:35:22",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,16 @@
     "虎扑": {
       "topics": [
         {
+          "title": "RAC1：诺坎普世界杯冠军致敬仪式或取消，正与西足协评估",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "瓦茨克回应赫内斯：克洛普只是有教练组，没有接管德国足协",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "每体：巴萨9号位坚持非阿尔瓦雷斯不签，否则将等待冬窗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -44,22 +54,22 @@
           "hot": ""
         },
         {
-          "title": "B费：能够被每周交手的大部分英超球员认可，这种感觉很特别",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：亚马尔很同情巴尔德在巴萨遭遇，两人间关系非常亲密",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "[流言板]每体：巴萨9号位坚持非阿尔瓦雷斯不签，否则将等待冬窗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：皇马正全力签下塞尔吉奥·马丁内斯，俱乐部对交易乐观但球员尚未做出决定。",
+          "title": "找一个伊尼戈马丁内斯类似的中卫很难吗？马丁+库巴西又要踢一个赛季了吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]RAC1：诺坎普世界杯冠军致敬仪式或取消，正与西足协评估",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩沉浸式一镜到底带不动皇马视角",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -69,28 +79,28 @@
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "土耳其名记：加拉塔萨雷和莱奥达成协议，年薪1200万欧",
+          "title": "体图：医生已建议穆西亚拉继续踢球，拜仁和孔帕尼也都信任他",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佩蒂特：前球员联名批评国际足联也只是徒劳之举",
+          "title": "B费：我愿用个人荣誉换球队的成功，毕竟我们打的不是网球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：如果今夏无法引进阿尔瓦雷斯，巴萨冬窗会继续尝试",
+          "title": "记者：加拉塔萨雷不愿意为莱奥支付超过4000万欧转会费",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "佩德里：每次进球后，我都会亲吻手腕，把进球献给我的祖母",
+          "title": "好友现场见证，马塔为B费颁发PFA年度最佳球员奖",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
