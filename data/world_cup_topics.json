@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-27 00:23:48",
+  "update_time": "2026-08-27 03:10:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗梅罗：阿尔瓦罗-科尔特斯已决定离队，埃尔切或是潜在下家",
+          "title": "莫雷托：加拉塔萨雷在和米兰谈付款，与莱奥口头谈妥薪资",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "ESPN：阿根廷足协重启中国行谈判，梅西是否参赛仍未知",
+          "title": "队报：欧足联密谋让因凡蒂诺下台；温格被提及接任FIFA主席",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗马诺：加拉塔萨雷接近与米兰谈妥莱奥，转会费4500万欧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "FM：马丁内斯愿执教阿尔及利亚，愿降薪并配本土助教",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "足坛U19球员转会费榜：姆巴佩1.8亿居首，布阿迪9500万第四",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加维声援遭警方击打的未成年巴萨球迷，社媒留言送上支持",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果阿尔瓦雷斯来究竟是好事还是坏事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
@@ -50,17 +75,12 @@
           "hot": ""
         },
         {
-          "title": "土耳其名记：加拉塔萨雷提交了4500万欧+奖金的报价求购莱奥",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马塔祝贺B费获PFA年度最佳：你配得上这个奖项",
+          "title": "迪马济奥：米兰和加拉塔萨雷已经就莱奥转会达成协议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
