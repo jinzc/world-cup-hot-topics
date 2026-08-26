@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-27 03:10:51",
+  "update_time": "2026-08-27 07:17:28",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "莫雷托：加拉塔萨雷在和米兰谈付款，与莱奥口头谈妥薪资",
+          "title": "穆帅：嘘声证明球迷高要求，宁愿姆巴佩少进球但帮球队夺冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：欧足联密谋让因凡蒂诺下台；温格被提及接任FIFA主席",
+          "title": "罗梅罗：小蜘蛛仍想加盟巴萨，身边人+马竞有意制造其他传闻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：加拉塔萨雷接近与米兰谈妥莱奥，转会费4500万欧",
+          "title": "阿尔科塔：皇马不必要高位抢断，维尼姆巴佩要完成基本防守",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FM：马丁内斯愿执教阿尔及利亚，愿降薪并配本土助教",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "足坛U19球员转会费榜：姆巴佩1.8亿居首，布阿迪9500万第四",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "加维声援遭警方击打的未成年巴萨球迷，社媒留言送上支持",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果阿尔瓦雷斯来究竟是好事还是坏事",
+          "title": "姆巴佩能有贝林一半的逼抢态度也不至于这么多人喷他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "拉波尔塔：若马竞夏窗愿出售阿尔瓦雷斯，我们仍随时准备报价",
+          "title": "皇马4-1皇家社会，姆巴佩戴帽，维尼修斯传射，贝林厄姆两助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "迪马济奥：米兰和加拉塔萨雷已经就莱奥转会达成协议",
+          "title": "罗马诺&amp;莫雷托：莱奥还在评估加拉塔萨雷，门德斯让维拉回到交易当中",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "被他装到了，姆巴佩社媒：不满意？那就戴个帽",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "名记：维拉对莱奥报价提升至4500万欧，薪资报价涨至800万欧",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：维拉正和米兰就莱奥转会谈判，欲提供租借后强制买断报价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
