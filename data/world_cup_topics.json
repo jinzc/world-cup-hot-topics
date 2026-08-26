@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 12:48:10",
+  "update_time": "2026-08-26 13:40:30",
   "sources": {
     "微博": {
       "topics": [],
@@ -49,7 +49,12 @@
           "hot": ""
         },
         {
-          "title": "【看看就好】独立报：切尔西正在考虑在最后时刻签下曼联前锋拉什福德。曼联只接受永久转会，并将要价定在约2600万英镑。切尔西必须决定是否支付转会费并承担拉什福德约每周30万英镑的薪资。",
+          "title": "[流言板]德拉富恩特：亚马尔远未达到巅峰，他在国家队只是普通一员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "找一个伊尼戈马丁内斯类似的中卫很难吗？马丁+库巴西又要踢一个赛季了吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -59,13 +64,29 @@
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "本世纪各赛季欧冠金靴：C罗7次居首，梅西6次",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：维尼修斯留胡子改变形象，试图传递他在改变的信号",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "波斯特科格鲁谈换下C罗：我认为替补球员能发挥作用",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
