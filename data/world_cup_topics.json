@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 18:41:36",
+  "update_time": "2026-08-26 19:36:13",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "长春电影节开幕式",
           "url": "https://www.douyin.com/search/%E9%95%BF%E6%98%A5%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "765万"
+          "hot": "761.4万"
         }
       ],
       "count": 1,
@@ -35,27 +35,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "TA：维拉能向欧足联澄清我们是真需要杰克逊，就可以过关了",
+          "title": "镜报：曼城准备先开1亿镑转会费初始报价，向切尔西报价恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "BBC：曼城即将首次正式报价恩佐；他和经纪人吸引皇马但未果",
+          "title": "B费：希望能继续刷新助攻纪录，而且上赛季个人进球数我也不满意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果阿尔瓦雷斯来究竟是好事还是坏事",
+          "title": "[流言板]天体：B费+巴莱巴+蒂勒曼斯或成曼联未来中场首发搭档",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "当年阿尔瓦雷斯离开曼城的时候巴萨为何没有出手截胡？",
+          "title": "罗马诺也确认了，阿尔瓦雷斯没有参加训练，这应该算变相的罢训了吧…..，这事儿搞得",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "刚刷到的维尼修斯，把我笑死，真是没法了",
+          "title": "TEAMtalk：如果曼城最终签下恩佐，卡马文加可能会以约6000万欧的价格转会切尔西。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -66,12 +66,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "B费：我对足球充满热爱，虽然不完美但我知道该怎么踢",
+          "title": "布阿迪问答：足球偶像是小白；最喜欢的前曼城球员是德布劳内",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "布阿迪9500万欧转会费超内马尔，成为法甲史上卖出最贵的球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
