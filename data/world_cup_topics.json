@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26 15:00:12",
+  "update_time": "2026-08-26 16:53:08",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "曼城幕后vlog：哈兰德新发型亮相，罗德里告别",
+          "title": "六台：亚马尔最近黑着脸，是因为队内三个好兄弟都要走了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "体坛：吉尔吉斯主帅突然下课，与该国足协发生变动有关",
+          "title": "米体：莱奥成今夏关窗前新焦点，维拉和加拉塔萨雷都仍有意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德容：科曼在世界杯出局后辞任，我们当晚便启动了选帅程序",
+          "title": "[流言板]六台：亚马尔最近黑着脸，是因为队内三个好兄弟都要走了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧冠新世纪每季射手王：C罗7次，梅西6次，姆巴佩近3季2登顶",
+          "title": "如果阿尔瓦雷斯来究竟是好事还是坏事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：阿尔瓦雷斯心态崩了，一心投奔巴萨也引发更衣室不安",
+          "title": "关系越界？维尼修斯老婆遭男助理索吻！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]记者：维尼修斯蓄须以显示成熟，但依然难摆脱遭霸凌的困境",
+          "title": "维尼修斯女友遭男私人助理索吻引发争议，两人青梅竹马。熊这女友可真不是省油的灯呀！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -63,9 +63,25 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "内马尔社媒晒儿子卢卡15岁生日照",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "米体：维拉退出莱奥转会谈判，热刺亦基本无望",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：加维、德容缺席巴萨训练，卡萨多将收到报价并决定未来",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
