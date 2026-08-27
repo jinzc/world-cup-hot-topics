@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-27 16:55:44",
+  "update_time": "2026-08-28 03:47:36",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "如何看阿尔瓦雷斯转会风波",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E8%BD%AC%E4%BC%9A%E9%A3%8E%E6%B3%A2",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,53 +29,83 @@
     "虎扑": {
       "topics": [
         {
-          "title": "德布劳内：跟孔蒂的足球理念不合；我想赢球也想踢漂亮足球",
+          "title": "卫报：切尔西坚称曼城甚至都没有接触，绝不会贱卖放走恩佐",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：维拉愿为莱奥打破薪资上限，预计球员今天做出决定",
+          "title": "DO更新：大马丁750万英镑加盟切尔西，双方签约2+1年合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：预计曼城和恩佐的交易未来24-48小时内会取得进展",
+          "title": "阿隆索：恩佐无缘名单，我们要为一切做好准备",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "既然不补中锋，为何不留莱万一个赛季？",
+          "title": "Here we go！罗马诺：切尔西750万镑签下维拉门将大马丁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥：维尼修斯没进球我就不会换下他，我要让他听到球迷们的爱。",
+          "title": "电讯报：切尔西750万英镑签下维拉门将马丁内斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆帅提到 姆巴佩进球数量问题。",
+          "title": "阿根廷跟队：恩佐即将加盟曼城；切尔西不打算让他出场比赛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔最近发挥不好的原因就是这两年换了太多女朋友",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔的射门怎么感觉越来越抽象",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩德里真帅啊  这白毛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "就佩宝这个直塞 谁还说佩德里不会制造威胁",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿尔瓦雷斯都闹成这样了，巴萨为什么还不提高报价，忍心看球员哭成这样？马竞就是看巴萨+无耻，钱到位格列斯曼当年也去巴萨了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆在Instagram上写道：没有比家更好的地方了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "孔帕尼：穆西亚拉已参加了球队合练，新赛季一切都要重头开始",
+          "title": "26/27欧冠抽签：罗德里战旧主，阿森纳战皇马，曼联战拜仁！",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德布劳内：孔蒂严苛只谈足球，阿莱格里随和更重人情",
+          "title": "跟队：虽然将恩佐排除出比赛名单，但切尔西并不打算出售他",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跟队记者：恩佐转会曼城预计未来24小时到48小时内推进",
+          "title": "诺伊尔谈欧冠抽签：拜仁vs曼联绝对是欧冠经典对决",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
