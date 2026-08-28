@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-28 03:47:36",
+  "update_time": "2026-08-28 12:10:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,83 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "卫报：切尔西坚称曼城甚至都没有接触，绝不会贱卖放走恩佐",
+          "title": "FM：米兰考虑引进21岁法兰克福边锋小将巴霍亚，接替莱奥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "DO更新：大马丁750万英镑加盟切尔西，双方签约2+1年合同",
+          "title": "维尔茨：帮利物浦夺英超是我加盟原因；我技术+身体都有发展",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿隆索：恩佐无缘名单，我们要为一切做好准备",
+          "title": "罗马诺：米兰在等莱奥选维拉或加拉塔萨雷，预计1-2天有结果",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Here we go！罗马诺：切尔西750万镑签下维拉门将大马丁",
+          "title": "是不是莱万走了，亚马尔觉得现在更衣室没人比他更大牌的人了吗。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：切尔西750万英镑签下维拉门将马丁内斯",
+          "title": "罗马诺突发消息：恩佐今晚不在切尔西的大名单中。（欧冠皇城之战居然没有安排）",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷跟队：恩佐即将加盟曼城；切尔西不打算让他出场比赛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔最近发挥不好的原因就是这两年换了太多女朋友",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔的射门怎么感觉越来越抽象",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里真帅啊  这白毛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "就佩宝这个直塞 谁还说佩德里不会制造威胁",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿尔瓦雷斯都闹成这样了，巴萨为什么还不提高报价，忍心看球员哭成这样？马竞就是看巴萨+无耻，钱到位格列斯曼当年也去巴萨了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆在Instagram上写道：没有比家更好的地方了。",
+          "title": "卧槽！隔壁这佩德里有点吓人！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "26/27欧冠抽签：罗德里战旧主，阿森纳战皇马，曼联战拜仁！",
+          "title": "桑托斯官方：内马尔家族公司助俱乐部偿还债务，转会禁令解除",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "跟队：虽然将恩佐排除出比赛名单，但切尔西并不打算出售他",
+          "title": "北青：国足热身赛对手各有特点，便于短期内观察球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "诺伊尔谈欧冠抽签：拜仁vs曼联绝对是欧冠经典对决",
+          "title": "北青：国足邀请赛对手各有特点，连续作战模拟了亚洲杯节奏",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
