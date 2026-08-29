@@ -1,10 +1,23 @@
 {
-  "update_time": "2026-08-29 01:18:34",
+  "update_time": "2026-08-29 09:42:05",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "AI正在改变看世界杯的方式",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%AD%A3%E5%9C%A8%E6%94%B9%E5%8F%98%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9A%84%E6%96%B9%E5%BC%8F",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "阿尔瓦雷斯罢训",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E7%BD%A2%E8%AE%AD",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,22 +42,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：巴萨不担心亚马尔状态，坚信他本赛季仍会继续闪耀",
+          "title": "【集锦】胜利2-1布赖代合作，马内中柱，C罗破门制胜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：巴萨不担心亚马尔状态，坚信他本赛季仍会继续闪耀",
+          "title": "每体：弗里克盼罗德里融入后，帮助球队提升对比赛的控制力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩这样的表现，不应该高兴吗？我不理解为什么对他有如此大的偏见。",
+          "title": "[流言板]泰晤士报：拉什福德拒绝费内巴切，目前来看很可能留在曼联",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯这是在“交权”？赛后叫摄影师去拍姆巴佩",
+          "title": "姆总致敬c罗的庆祝动作",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -55,12 +68,22 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "胜利vs布赖代合作：C罗领衔，马内、菲利克斯、科曼出战",
+          "title": "拜仁5-1斯图加特，基米希、赛巴里助攻双响，奥利塞建功",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴黎客场2-2绝平里尔，维蒂尼亚传射建功，马尔基尼奥斯救主",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡报：巴萨内部普遍相信亚马尔会在2026-2027赛季大放异彩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
