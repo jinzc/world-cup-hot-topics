@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-31 01:18:53",
+  "update_time": "2026-08-31 04:55:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "切尔西官宣签下马丁内斯",
           "url": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%98%E5%AE%A3%E7%AD%BE%E4%B8%8B%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF",
-          "hot": "886.8万"
+          "hot": "923.4万"
         }
       ],
       "count": 1,
@@ -35,68 +35,43 @@
     "虎扑": {
       "topics": [
         {
-          "title": "3球1助，B费个人生涯首次在单场英超比赛中参与4球",
+          "title": "拉什福德赛后社媒：老特拉福德多么美妙的一天啊！💕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费挑传助攻，姆伯莫挑射弹到横梁入网，曼联5-1伊镇",
+          "title": "B费：不管是进3个、1个还是2个，我只想尽力来帮助曼联赢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "新赛季英超首个帽子戏法诞生！B费3球暂登顶射手榜&amp;独享第一",
+          "title": "科尔内利亚社媒晒照，梅西与儿子们身穿球衣为新赛季助威",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费上演英超第二次帽子戏法，两次都发生在曼联赛季首个主场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费视野开阔，观察守门员站位靠前超远吊射稍稍高出",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费英超点球命中27球，加盟同期仅少于萨拉赫的28球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆伯莫射门被挡，B费轻松补射破门戴帽，曼联4-1伊镇",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "真要实事求是地说拉什福德这场没那么差",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "想起了那年的5:1，b费帽子戏法，还有博格巴和青木",
+          "title": "话说b费最近任意球和角球质量是不是都开的一般？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "曼联5-2伊普斯维奇，B费戴帽+助攻，姆伯莫破门，库尼亚造点",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "皇马4-0大胜马拉加，贝林厄姆一条龙破门+造乌龙，姆巴佩建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "一条龙破门，贝林厄姆当选皇马vs马拉加全场最佳球员",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费曼联生涯第三次戴帽，英超的两次均为赛季主场首秀",
+          "title": "姆巴佩在西甲已打入60球，同期五大联赛进球数仅次于凯恩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
