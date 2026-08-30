@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-30 20:45:07",
+  "update_time": "2026-08-31 01:18:53",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,82 +26,82 @@
         {
           "title": "切尔西官宣签下马丁内斯",
           "url": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%98%E5%AE%A3%E7%AD%BE%E4%B8%8B%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF",
-          "hot": "803.1万"
-        },
-        {
-          "title": "中国足协辟谣不与安东尼奥续约",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%BE%9F%E8%B0%A3%E4%B8%8D%E4%B8%8E%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E7%BB%AD%E7%BA%A6",
-          "hot": "783.1万"
+          "hot": "886.8万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "阿隆索：恩佐？评估什么对球队最有利；桑切斯？我们让看发",
+          "title": "3球1助，B费个人生涯首次在单场英超比赛中参与4球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尔茨：很失望主场战平森林，我们对自己的要求是最高的",
+          "title": "B费挑传助攻，姆伯莫挑射弹到横梁入网，曼联5-1伊镇",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：恩佐连续2场被排出切尔西大名单，他正在寻求转会曼城",
+          "title": "新赛季英超首个帽子戏法诞生！B费3球暂登顶射手榜&amp;独享第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡塞米罗谈梅西表现：他依然是最佳，世界杯已证明过这点",
+          "title": "B费上演英超第二次帽子戏法，两次都发生在曼联赛季首个主场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃贝尔：金玟哉表现稳定，有人羡慕拜仁有他+塔+乌帕的配置",
+          "title": "B费视野开阔，观察守门员站位靠前超远吊射稍稍高出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "宠爱弟子！训练前穆里尼奥对维尼修斯又抱又摸头",
+          "title": "B费英超点球命中27球，加盟同期仅少于萨拉赫的28球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆伯莫射门被挡，B费轻松补射破门戴帽，曼联4-1伊镇",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "真要实事求是地说拉什福德这场没那么差",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "想起了那年的5:1，b费帽子戏法，还有博格巴和青木",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "中足联官方：对国安球员达万停赛6场+罚款6万，对英博翻译李钢禁赛5场+罚款5万",
+          "title": "皇马4-0大胜马拉加，贝林厄姆一条龙破门+造乌龙，姆巴佩建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "切尔西vs布莱顿：大马丁首秀，佩德罗、帕尔默出战，恩佐缺阵",
+          "title": "一条龙破门，贝林厄姆当选皇马vs马拉加全场最佳球员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿隆索谈恩佐缺阵：会评估什么对球队好，我们需要专注的球队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "没躲过！布莱顿踢维拉时大马丁缺阵，次轮战切尔西大马丁首发",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：阿尔瓦雷斯恢复合练，48小时内定去向",
+          "title": "B费曼联生涯第三次戴帽，英超的两次均为赛季主场首秀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
