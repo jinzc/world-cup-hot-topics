@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-09-01 22:42:15",
+  "update_time": "2026-09-02 02:20:16",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "曼城1.2亿镑报价恩佐",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E1.2%E4%BA%BF%E9%95%91%E6%8A%A5%E4%BB%B7%E6%81%A9%E4%BD%90",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,28 +36,29 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿总统：梅西退出国家队是种痛苦，没王牌情况下重建很困难",
+          "title": "从恩佐的转会看出切尔西是个体面的俱乐部",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卫报：切尔西和曼城还没谈妥恩佐的转会，还在谈",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西把国家队退役声明置顶了，同时…",
+          "title": "瓦伦西亚广播电台：在过去几小时内，瓦伦西亚俱乐部询问了关于租借胡安·马丁内斯可能性。这位球员拥有多个选择，其中包括留在皇家马德里。瓦伦西亚正在全力以赴。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "Here we go！罗马诺：恩佐加盟曼城，转会费超1.25亿英镑",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
