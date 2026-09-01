@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 07:43:29",
+  "update_time": "2026-09-01 12:50:16",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,68 +29,88 @@
     "虎扑": {
       "topics": [
         {
-          "title": "罗德里本场替补出战26分钟，触球38次，对抗3胜2",
+          "title": "每体：拉菲尼亚力压姆巴佩登顶射手榜，踢9号不再是权宜之计",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗梅罗：特温特想明夏5000万欧卖奈斯塔德；德科或还有后手",
+          "title": "德拉富恩特：人们仍无法完全衡量，梅西职业生涯的伟大程度",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎替补四叉戟卖了三亿多。。曼城老年罗德里和四个替补卖了3亿。这买卖做成这样成绩怎么可能多差。",
+          "title": "梅西退出国家队不只是因父亲去世，并肩战斗的团队正在更替",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看了两场车子，发现没有恩佐的切尔西，猛的一匹.",
+          "title": "看看之前在阿根廷主场，梅西究竟有多受欢迎",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西退国家队了，阿根廷队估计也是废了",
+          "title": "这个拉什福德啊，他为啥角球不进去抢点呢？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "蒂勒曼斯不适应很正常，维拉又没有b费这个角色，即使是前面有罗杰斯，罗杰斯特点也是和库尼亚相似。。蒂勒曼斯在维拉直接承担了很多的最后一传或者间接助攻，维拉其他球员全部无条件按他节奏。。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西突然宣布从阿根廷国家队退役",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西把国家队退役声明置顶了，同时…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "梅西：在决赛结束后我反复思考，决定从阿根廷国家队退役",
+          "title": "博尔赫斯的诗，马拉多纳和梅西的奖杯：无用的美丽",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿森纳1-0客胜维拉，萨卡一剑封喉，卡拉菲奥里连场献助攻",
+          "title": "微博整了个“C罗回应梅西国家队退役”的热搜，一眼假",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴萨5-2大胜巴列卡诺，亚马尔、拉菲尼亚双双梅开二度",
+          "title": "奥莱报：梅西退役后，留住斯卡洛尼是最优解",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "迪马利亚发文致敬梅西：你是足坛历史第一人，谢谢你做的一切",
+          "title": "Tyc：阿根廷原考虑来华踢友谊赛，梅西退出后彻底排除该选择",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "每体：阿尔瓦雷斯暂不考虑阿森纳，他不想成为曼城的直接对手",
+          "title": "母亲谈梅西退出国家队：全家人非常难过，但重要的是他快乐",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿夫迪亚谈缺席世预赛：开拓者不愿拿我的健康冒险",
+          "title": "奥莱报：梅西的阿根廷10号无法退役，马拉多纳曾遭FIFA拒绝",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "中国足协推出“十一人制足球竞赛规则普及”视频，第一期为界外球规则",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
