@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-09-02 05:41:21",
+  "update_time": "2026-09-02 07:57:05",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "曼城1.46亿欧元签下恩佐",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E1.46%E4%BA%BF%E6%AC%A7%E5%85%83%E7%AD%BE%E4%B8%8B%E6%81%A9%E4%BD%90",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,7 +36,7 @@
     "虎扑": {
       "topics": [
         {
-          "title": "想起很搞笑的一个事儿，恩佐之前每次遇上芒特都要嘲讽，可是他自己却两次主动转会",
+          "title": "从恩佐的转会看出切尔西是个体面的俱乐部",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -39,7 +46,7 @@
           "hot": ""
         },
         {
-          "title": "这个夏窗的亮点也就是罗德里",
+          "title": "周末联赛亚马尔别首发了吧，等欧冠",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -47,25 +54,30 @@
           "title": "姆巴佩从加盟皇马到现在，西甲联赛中在对方禁区内触球最多的球员，进球+助攻最多，进球最多，帽子戏法最多的球员！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "对比下昨晚姆巴佩、贝林厄姆、维尼三人的过人成功率",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "Here we go！罗马诺：恩佐加盟曼城，转会费超1.25亿英镑",
+          "title": "恩佐告别蓝军：我已深深爱上了切尔西，但生活就是要作出决定",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗西：梅西退出国家队很奇怪，看他踢球会觉得他还能再踢十年",
+          "title": "官方：曼城签下切尔西中场恩佐；据悉固定转会费1.25亿镑",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "官方：莱万特租借签下拉齐奥前锋拉特科夫",
+          "title": "曼城压哨官宣恩佐，哈兰德评论：好，我现在可以去睡觉了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
