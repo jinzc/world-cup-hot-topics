@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 17:54:48",
+  "update_time": "2026-09-01 22:42:15",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,30 +22,24 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "世预赛球迷砸球员遭安保驱离",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E9%A2%84%E8%B5%9B%E7%90%83%E8%BF%B7%E7%A0%B8%E7%90%83%E5%91%98%E9%81%AD%E5%AE%89%E4%BF%9D%E9%A9%B1%E7%A6%BB",
-          "hot": "908.6万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "迪马济奥：恩佐交易进入最后阶段，只要谈妥今天就去曼城",
+          "title": "阿总统：梅西退出国家队是种痛苦，没王牌情况下重建很困难",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "中国足协公布亚运会24人集训名单，较23人大名单增加史松宸",
+          "title": "卫报：切尔西和曼城还没谈妥恩佐的转会，还在谈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧冠皇马缺后腰缺中场！！！第一场欧冠踢国米，居莱尔、卡马文加、B席因上赛季欧冠红牌停赛上不了场",
+          "title": "梅西把国家队退役声明置顶了，同时…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -54,35 +48,9 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "亚运会国足U23名单：王钰栋领衔，吴曦等3名超龄球员入选",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "博尔赫斯的诗，马拉多纳和梅西的奖杯：无用的美丽",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺&amp;迪马：曼城1.2亿镑报价恩佐，恩佐转会曼城已达成原则性协议",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "孔帕尼：乌尔比希明天会首发；穆西亚拉能否出场还要再看看",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "本-雅各布斯：恩佐等待加盟曼城，切尔西盯上卡马拉、科内",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 5,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
