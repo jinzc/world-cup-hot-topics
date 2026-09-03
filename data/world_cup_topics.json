@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-04 05:38:06",
+  "update_time": "2026-09-04 07:55:34",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,6 +29,36 @@
     "虎扑": {
       "topics": [
         {
+          "title": "孙兴慜：梅西可能是GOAT我无法反驳，但我始终会选择偶像C罗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "多特蒙德欧冠大名单：贝林厄姆、吉拉西领衔，恩瓦内里入选",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼联欧冠大名单：B费领衔，拉什福德、芒特在列，巴莱巴入选",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：受欧冠B名单限制，皇马为塞尔吉奥-马丁内斯放弃门迪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨欧冠名单：亚马尔领衔，拉菲、佩德里与罗德里等在列",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马欧冠名单：门迪落选，卡马文加、居莱尔、B席首轮停赛",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "拉什福德新增两处球衣号码纹身，纪念身披曼联9号+巴萨14号",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -39,58 +69,54 @@
           "hot": ""
         },
         {
-          "title": "记者：曼城曾1.5亿欧报价阿尔瓦雷斯，遭拒后迅速签下恩佐",
+          "title": "[流言板]曼联欧冠大名单：B费领衔，拉什福德、芒特在列，巴莱巴入选",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔吐槽自家球场：有史以来最差草皮，真是干得漂亮",
+          "title": "怎么看待梅西退役巴萨官媒没有发布祝福，还删除ins祝福评论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]拉什福德新增两处球衣号码纹身，纪念身披曼联9号+巴萨14号",
+          "title": "欧足联官方：皇马本赛季欧冠名单公布，马丁内斯代替门迪入选A名单。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨欧冠名单：亚马尔领衔，拉菲、佩德里与罗德里等在列",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我去，恩佐是不算差但是1.25亿英镑也太夸张的价格了吧？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]拉什福德新增两处球衣号码纹身，纪念身披曼联9号+巴萨14号",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]马卡：受欧冠B名单限制，皇马为塞尔吉奥-马丁内斯放弃门迪",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "继续扒拉姆巴佩新赛季3场数据。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]皇马欧冠名单：门迪落选，卡马文加、居莱尔、B席首轮停赛",
+          "title": "米利唐啥时候能复出？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "B费：我能有今天，很重要的一步是从意大利回葡体踢球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "B费：我喜欢罚点球，因为我想让那些说我靠点球得分的人抱怨",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "B费：马奎尔曾说“若我必须让出队长，我很高兴那个人是你”",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼城欧冠A名单：报名23人，恩佐等新援在列，奥赖利可入B名单",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
