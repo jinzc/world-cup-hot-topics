@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-04 12:17:11",
+  "update_time": "2026-09-04 17:28:14",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "女篮世界杯中国vs美国",
           "url": "https://www.douyin.com/search/%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E7%BE%8E%E5%9B%BD",
-          "hot": "1150.5万"
+          "hot": "1100.2万"
         }
       ],
       "count": 1,
@@ -35,48 +35,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "B费：我对我在曼联创造的历史骄傲，想对自己说继续向前",
+          "title": "新爱体育与欧足联续约5年，继续独家转播欧冠至2031年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费：罚点球前我会去思考很多，但我做跳步成功率比爆射高",
+          "title": "亚马尔终于收获了新赛季进球，所以弗里克做出了哪些改变？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我去，恩佐是不算差但是1.25亿英镑也太夸张的价格了吧？",
+          "title": "恩佐给自己评分时8的写法是画两个圈，在外网引起超高讨论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩从加盟皇马到现在，西甲联赛中在对方禁区内触球最多的球员，进球+助攻最多，进球最多，帽子戏法最多的球员！",
+          "title": "FM：阿隆索向姆巴佩询问科内；切尔西出7000万欧但罗马没卖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马官方：皇家贝蒂斯VS皇马比赛大名单，塞尔吉奥·马丁内斯入选。",
+          "title": "卡拉格：萨卡应让自己而非帕尔默，成为英格兰最牛进攻天才",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：穆里尼奥将在卡斯蒂亚与一队之间调动马丁内斯，为他提供加入一队的机会。",
+          "title": "[流言板]亚马尔携女友巴黎约会，私人飞机出行&amp;入住4000欧一晚酒店",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]巴黎人报：K77拿金球呼声日益高涨；皇马主推姆巴佩而非贝林",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：贝林厄姆突前减轻姆巴佩压力，穆帅把他变成新兰帕德",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]穆里尼奥：不拿出最高水平无法击败贝蒂斯，珍惜梅西的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "LEGO乐高官方致敬梅西：绿茵场的世界传奇，感谢你所做的一切",
+          "title": "博班:莫德里奇在阿莫林战术体系下会很艰难",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "弗罗因德：穆西亚拉的情况尽在掌控；若博埃留下就是球队一员",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
