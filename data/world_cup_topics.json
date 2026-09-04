@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-09-04 22:10:01",
+  "update_time": "2026-09-05 02:15:28",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "张子宇 世界杯首秀",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E5%AE%87%20%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -33,7 +26,7 @@
         {
           "title": "女篮世界杯中国61:94美国",
           "url": "https://www.douyin.com/search/%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD61%3A94%E7%BE%8E%E5%9B%BD",
-          "hot": "1155.8万"
+          "hot": "1108.3万"
         }
       ],
       "count": 1,
@@ -42,17 +35,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "阿隆索：明天检查凯塞多；和恩佐尊重地沟通，感谢并向前看",
+          "title": "电讯：英足总全面复盘世界杯，仍支持图赫尔带队冲击欧洲杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "北青：国足9月重庆热身赛前，将先在北京集结组织集训",
+          "title": "梅西2010年旧视频：不穿鞋坐颠世界杯用球，随后连续头球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费称自己儿子踢球时说他是索博，索博回复：你儿子有品位",
+          "title": "恩佐缔造历史！蓝军曼城多次巨星交易刷新足坛记录",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为什么今年进欧冠花的钱反而比去年没进欧冠还少？因为受到了欧足联SCR限制！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -60,40 +58,30 @@
           "title": "曼晚更新曼联周薪：B费拉什福德30万镑第一 舍什科20万 巴莱巴9万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "[流言板]B费：马奎尔失去袖标后依然支持我，我永远记得他说过的话",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "c罗帽子戏法隔天梅西大四喜是哪年",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]巴黎人报：K77拿金球呼声日益高涨；皇马主推姆巴佩而非贝林",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "阿隆索：我们尊重恩佐的付出；没签卡马拉？我对阵容深度满意",
+          "title": "利物浦客战伊镇：伊萨克、维尔茨、索博出战，巴尔科拉替补",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：曼联认为自拉门斯在世界杯上那次失误后，变得更强了",
+          "title": "皇马客战贝蒂斯：姆巴佩搭档维尼修斯，贝林厄姆、居莱尔出战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴媒：科林蒂安因球迷辱骂获内马尔球衣男孩，被罚1万雷亚尔",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
