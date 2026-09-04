@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-05 02:15:28",
+  "update_time": "2026-09-05 05:20:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "女篮世界杯中国61:94美国",
           "url": "https://www.douyin.com/search/%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD61%3A94%E7%BE%8E%E5%9B%BD",
-          "hot": "1108.3万"
+          "hot": "1136.4万"
         }
       ],
       "count": 1,
@@ -35,27 +35,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "电讯：英足总全面复盘世界杯，仍支持图赫尔带队冲击欧洲杯",
+          "title": "姆巴佩vs贝蒂斯数据：1丢点+错失4次绝佳机会，18次丢失球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西2010年旧视频：不穿鞋坐颠世界杯用球，随后连续头球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "恩佐缔造历史！蓝军曼城多次巨星交易刷新足坛记录",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "为什么今年进欧冠花的钱反而比去年没进欧冠还少？因为受到了欧足联SCR限制！",
+          "title": "维尼修斯造点，姆巴佩点射被巴列斯扑出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
           "title": "曼晚更新曼联周薪：B费拉什福德30万镑第一 舍什科20万 巴莱巴9万",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看到有人说32的B费是曼联非卖品很可笑",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "埃丝皮上来明显进攻好起来了就是不用，就是不用，姆巴佩维尼修斯提的这么烂不敢换",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -66,22 +66,17 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "利物浦客战伊镇：伊萨克、维尔茨、索博出战，巴尔科拉替补",
+          "title": "剑南春｜皇马0-1贝蒂斯，姆巴佩失点+失良机，埃斯皮破门被吹",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皇马客战贝蒂斯：姆巴佩搭档维尼修斯，贝林厄姆、居莱尔出战",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴媒：科林蒂安因球迷辱骂获内马尔球衣男孩，被罚1万雷亚尔",
+          "title": "剑南春丨巴黎1-2不敌摩纳哥，伊杜博制胜，马尔基尼奥斯破门难救主",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
