@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-05 16:56:01",
+  "update_time": "2026-09-05 20:35:00",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,33 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "资深记者：梅西预计在迈阿密退役，参与竞技建设和招募球员",
+          "title": "弗里克：亚马尔受到撞击但不严重；热苏斯能出场踢一会儿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴特：曼联应签奥斯梅恩 拉什福德回归堪比7000万引援",
+          "title": "阿斯：姆巴佩皇马生涯失点率超两成；教练和球队仍信任他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "要是穆里尼奥没有魄力拿下姆巴佩",
+          "title": "阿斯：居莱尔再成优先调整对象，穆帅更难换姆巴佩维尼贝林",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "还真别说。换个角度，强打4231的穆鸟，还真是有机会拆掉姆巴佩这颗雷？（尽力推进！）",
+          "title": "世体：亚马尔缺席巴萨全队合练，在健身房单独训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "两场3球1助！官方：B费当选曼联8月最佳球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "很多人都知道结症在什么地方，但是就是无解，走一个姆巴佩，现有的球员可以全部盘活，可惜走不得，还有接近三年合同。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]阿斯：居莱尔再成优先调整对象，穆帅更难换姆巴佩维尼贝林",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "龟的水平，就别比C罗奔马了，贝尔他都比不过",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "蒂勒曼斯：以前对上B费是噩梦，现在和他成为队友轻松太多了",
+          "title": "多特客战霍芬海姆：吉拉西、乔布-贝林厄姆、菲利波-马内首发",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
