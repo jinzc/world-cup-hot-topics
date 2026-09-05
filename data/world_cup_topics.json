@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-05 20:35:00",
+  "update_time": "2026-09-05 23:55:01",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,43 @@
     "虎扑": {
       "topics": [
         {
-          "title": "弗里克：亚马尔受到撞击但不严重；热苏斯能出场踢一会儿",
+          "title": "哈兰德上赛季至今联赛进球30+，同期五大联赛仅凯恩做到",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：姆巴佩皇马生涯失点率超两成；教练和球队仍信任他",
+          "title": "半场：毕包0-0马竞，李刚仁、巴里奥斯中框",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：居莱尔再成优先调整对象，穆帅更难换姆巴佩维尼贝林",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "世体：亚马尔缺席巴萨全队合练，在健身房单独训练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "两场3球1助！官方：B费当选曼联8月最佳球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "很多人都知道结症在什么地方，但是就是无解，走一个姆巴佩，现有的球员可以全部盘活，可惜走不得，还有接近三年合同。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]阿斯：居莱尔再成优先调整对象，穆帅更难换姆巴佩维尼贝林",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "龟的水平，就别比C罗奔马了，贝尔他都比不过",
+          "title": "三年两欧冠时期天天熬夜看球的我，想不明白为什么甚至连皇马的喉舌都不喷姆巴佩…",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "多特客战霍芬海姆：吉拉西、乔布-贝林厄姆、菲利波-马内首发",
+          "title": "曼城1-0考文垂取三连胜，哈兰德头球破门，恩佐、布阿迪首秀",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "拜仁客战沙尔克：迪亚斯、布朗、卡尔出战，凯恩替补",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "恩佐曼城首秀数据：倒数第二传造进球，5次地面争抢4次成功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
