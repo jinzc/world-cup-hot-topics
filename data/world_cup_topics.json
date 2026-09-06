@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-07 00:51:12",
+  "update_time": "2026-09-07 03:00:34",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "佩德里：总是说我和罗德里无法共存，但和他搭档其实很轻松",
+          "title": "记者：亚马尔与队友用表现证明，球队无需斥资上亿引进中锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里本场打进1球，8夺回球权1过人1解围，对抗4胜3",
+          "title": "卡拉格：哈弗茨对防守贡献难以估量，巨星才可能取代他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里本场出战62分钟触球91次，1关键传球6夺回球权",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔本场梅开二度，3过人6关键传球，5次夺回球权",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "半场：阿森纳1-1切尔西，罗杰斯闪击，哈弗茨远射扳平",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里和佩德里是不是1+1&gt;2了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这就是大模型吗罗德里吗我的天啊",
+          "title": "哈弗茨：我们配得上赢下伦敦德比；厄德高回到了最佳状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "剑南春丨阿森纳2-1逆转切尔西，罗杰斯闪击哈弗茨扳平，厄德高制胜",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "剑南春丨巴萨5-0大胜瓦伦西亚，亚马尔双响，费尔明一射两传",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "因球迷不当行为，巴尼亚卢卡战士被欧足联罚款+关闭部分看台",
+          "title": "罗萨里奥德比第10分钟致敬梅西，迪马利亚为梅西献上掌声",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "因球迷赛中打出不当标语，贝尔格莱德红星被欧足联处罚",
+          "title": "哈弗茨：我听到厄德高朝我喊他在空位，所以把球让给了他",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "卡拉格：哈弗茨在攻防两端都能发挥作用，哲凯赖什取代不了他",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
