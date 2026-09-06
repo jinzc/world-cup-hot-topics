@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-06 21:32:33",
+  "update_time": "2026-09-07 00:51:12",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "拜仁CEO：15年后还嘘诺伊尔没必要，但这恐怕会成为固定仪式",
+          "title": "佩德里：总是说我和罗德里无法共存，但和他搭档其实很轻松",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃弗顿vs曼联首发：拉什福德、蒂勒曼斯出战，格拉利什替补",
+          "title": "佩德里本场打进1球，8夺回球权1过人1解围，对抗4胜3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这拉什福德状态确实好",
+          "title": "罗德里本场出战62分钟触球91次，1关键传球6夺回球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "感觉恩佐还是有实力的",
+          "title": "亚马尔本场梅开二度，3过人6关键传球，5次夺回球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]瓦伦西亚vs巴萨首发：亚马尔领衔，罗德里、佩德里先发",
+          "title": "半场：阿森纳1-1切尔西，罗杰斯闪击，哈弗茨远射扳平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "不懂就问，为什么维尼修斯和贝林厄姆被犯规次数在全队甚至整个联赛都遥遥领先？",
+          "title": "罗德里和佩德里是不是1+1&gt;2了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩31次射门进4球，在五大联赛是什么水平？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩背后有政治力量背书，他是马克龙的盟友，所以根本走不了。",
+          "title": "这就是大模型吗罗德里吗我的天啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴萨客战瓦伦西亚：罗德里首发，亚马尔、拉菲尼亚出战",
+          "title": "剑南春丨巴萨5-0大胜瓦伦西亚，亚马尔双响，费尔明一射两传",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "因球迷不当行为，巴尼亚卢卡战士被欧足联罚款+关闭部分看台",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "因球迷赛中打出不当标语，贝尔格莱德红星被欧足联处罚",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
