@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-06 12:18:08",
+  "update_time": "2026-09-06 17:16:58",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,38 +29,43 @@
     "虎扑": {
       "topics": [
         {
-          "title": "BBC公开阿森纳20人引援名单，包括罗梅罗/范德文/佩德罗等人",
+          "title": "马卡：马竞要找回阿尔瓦雷斯，他在毕包一战态度获认可",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔瓦雷斯赛后主动谢场，替补登场仍遭现场嘘声",
+          "title": "世体：巴萨曾两度接触哈维-格拉，今夏因签下罗德里搁置引援",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "半场：迈阿密2-1亚特兰大，梅西送助攻，苏牙、胖虎破门",
+          "title": "【集锦】贝蒂斯1-0皇马，埃斯皮倒勾被吹，姆巴佩补时失点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马跟队记者：Ramon_AlvarezMM：裘德·贝林厄姆的续约薪资标准，将以维尼修斯的合同作为基准参考。常理来看，贝林厄姆与基利安·姆巴佩都会对标这份薪资水平。",
+          "title": "如果1-2年后B费离队，那么曼联将如何发展？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我等着看明年隔壁贝林厄姆续约的大戏，英超现在这么有钱",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "在巴萨、阿根廷、迈阿密三度合作，梅西赛前跑到场边拥抱马蒂诺",
+          "title": "略伦特：阿尔瓦雷斯对我们非常重要，球队需要他的进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩社媒晒照：遗憾未能取胜，但我们要向前看为了欧冠努力",
+          "title": "马卡：阿尔瓦雷斯近期训练态度积极，希望重获马竞信任",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
