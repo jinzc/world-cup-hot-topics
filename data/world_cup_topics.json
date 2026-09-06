@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-06 17:16:58",
+  "update_time": "2026-09-06 21:32:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：马竞要找回阿尔瓦雷斯，他在毕包一战态度获认可",
+          "title": "拜仁CEO：15年后还嘘诺伊尔没必要，但这恐怕会成为固定仪式",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世体：巴萨曾两度接触哈维-格拉，今夏因签下罗德里搁置引援",
+          "title": "埃弗顿vs曼联首发：拉什福德、蒂勒曼斯出战，格拉利什替补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【集锦】贝蒂斯1-0皇马，埃斯皮倒勾被吹，姆巴佩补时失点",
+          "title": "这拉什福德状态确实好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "如果1-2年后B费离队，那么曼联将如何发展？",
+          "title": "感觉恩佐还是有实力的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我等着看明年隔壁贝林厄姆续约的大戏，英超现在这么有钱",
+          "title": "[流言板]瓦伦西亚vs巴萨首发：亚马尔领衔，罗德里、佩德里先发",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不懂就问，为什么维尼修斯和贝林厄姆被犯规次数在全队甚至整个联赛都遥遥领先？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩31次射门进4球，在五大联赛是什么水平？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩背后有政治力量背书，他是马克龙的盟友，所以根本走不了。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "略伦特：阿尔瓦雷斯对我们非常重要，球队需要他的进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡：阿尔瓦雷斯近期训练态度积极，希望重获马竞信任",
+          "title": "巴萨客战瓦伦西亚：罗德里首发，亚马尔、拉菲尼亚出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
