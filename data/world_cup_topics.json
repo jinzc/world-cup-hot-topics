@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-08 02:12:14",
+  "update_time": "2026-09-08 05:56:58",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "波切蒂诺：只有梅西才有资格带着傲气说话，但他不会这样",
+          "title": "劳塔罗：听到姆巴佩的话了，他确实是世界上最好的前锋之一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "吉拉西近两个赛季欧冠直接参与24球，仅次于凯恩、拉菲尼亚",
+          "title": "表现出色！记者：曼联队长B费将入围金球奖30人候选名单",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：我小时候更喜欢米兰&amp;是他们的球迷，国米也值得尊重",
+          "title": "[流言板]队报记者评欧冠历史最佳阵：梅西入选，无法国球员+C罗落选",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英超本轮过人榜：萨维奥居首，拉什福德、维尔茨在列",
+          "title": "[流言板]表现出色！记者：曼联队长B费将入围金球奖30人候选名单",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费状态差，能否半场换下？他蒂勒曼斯填他的位，桑托斯和梅努双后腰",
+          "title": "当年为啥买德容不买罗德里？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：金球奖我会投自己，如果今年我最终拿金球，不能算是偷的",
+          "title": "[流言板]队报记者评欧冠历史最佳阵：梅西入选，无法国球员+C罗落选",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]队报记者评欧冠历史最佳阵：梅西入选，无法国球员+C罗落选",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "有没有想过一个问题，是谁安排姆巴佩去新闻发布会的？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩这金球喊得有点早，皇马记者都看不下去了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "罗滕谈姆巴佩采访：基利安，没人认为你是上赛季世界最佳球员",
+          "title": "西媒：罗德里下场后向库巴西吐槽瓦伦西亚，称对手实力太差",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "博主：B费将入围2026年金球奖30人提名名单",
+          "title": "理解错了？努内斯被问到对恩佐的看法，回答的却全是马雷斯卡",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
