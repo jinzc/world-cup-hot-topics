@@ -1,20 +1,8 @@
 {
-  "update_time": "2026-09-09 03:48:58",
+  "update_time": "2026-09-09 06:31:36",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "C罗18次金球提名依旧领跑",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%9718%E6%AC%A1%E9%87%91%E7%90%83%E6%8F%90%E5%90%8D%E4%BE%9D%E6%97%A7%E9%A2%86%E8%B7%91",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗连续4年无缘金球奖提名",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E6%97%A0%E7%BC%98%E9%87%91%E7%90%83%E5%A5%96%E6%8F%90%E5%90%8D",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "哈兰德贝林厄姆入选金球奖名单",
           "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%85%A5%E9%80%89%E9%87%91%E7%90%83%E5%A5%96%E5%90%8D%E5%8D%95",
@@ -22,7 +10,7 @@
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -45,7 +33,7 @@
         {
           "title": "国足公布新一期集训名单",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%9C%9F%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95",
-          "hot": "933万"
+          "hot": "934.4万"
         }
       ],
       "count": 1,
@@ -54,73 +42,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "开赛前，菲戈分别向居莱尔与姆巴佩颁发欧冠最佳新秀&amp;金靴奖",
+          "title": "贝林厄姆：错失机会让全队陷入苦战，我要为此承担责任",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩71球，追平劳尔成欧冠历史第五射手且少用45场比赛",
+          "title": "马雷斯卡：很高兴能和恩佐再次合作；曼城的3亿中场个个出色",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "何塞普-马丁内斯送礼，巴尔韦德破门！皇马2-0国米！",
+          "title": "恩佐：我们梦想成为欧冠冠军，曼城的历史要求我们这样做",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩助攻上田绮世首开记录，里尔主场1-0领先贝蒂斯",
+          "title": "B费状态不好的情况下，应该替补，",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪亚斯断球直塞，姆巴佩铲射破门！皇马1-0国米！",
+          "title": "[流言板]记者：因此前言论，罗德里本人已亲自向瓦伦西亚全队道歉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每日邮报：阿玛德目前没有上草训练，估计国际比赛日后复出。德里赫特已经恢复训练，谨慎起见，曼联没有给出具体回归时间。另外，上一场出于保护被换下的拉什福德，卡里克表示：“拉什福德身体感觉到些许不适”。",
+          "title": "区里咋这么恨费兰，费兰上赛季西甲+世界杯，进球20个，世界杯决赛进球。进前30一点毛没有，倒是佩德里，奥尔莫，杜埃没进前30太逆天了。马基和维尼换佩德里，奥尔莫，杜埃还合理一点。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]贝林厄姆：错失机会让全队陷入苦战，我要为此承担责任",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]穆里尼奥：维尼修斯还没回到最佳状态，但他的努力值得尊重",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "金球奖候选：39岁梅西在列，凯恩、姆巴佩、哈兰德、亚马尔入选",
+          "title": "皇马2-1国米，何塞普超巨失误，姆巴佩、巴尔韦德、奥古斯托破门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "半场战报：博尔顿2-2西汉姆联，鲁本-罗德里格斯点射、埃尔哈洪，马夫罗帕诺斯、鲍恩破门",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "兄弟俩同夜建功，埃唐助攻帮里尔领先，2分钟后姆巴佩破门",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "夸张，梅西在金球奖周期49场45球30助攻，参与进球仅次于凯恩",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "71球追平劳尔，姆巴佩升至欧冠历史射手榜第五",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "亨利谈今年金球竞争：奥利塞非常接近，但我个人最看好姆巴佩",
+          "title": "剑南春丨曼城2-0波尔图，恩佐献助攻，哈兰德梅开二度",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
