@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-08 13:47:58",
+  "update_time": "2026-09-08 19:04:45",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,38 +29,84 @@
     "虎扑": {
       "topics": [
         {
-          "title": "队报：马雷斯卡今夏极力要求曼城从切尔西买恩佐以及古斯托",
+          "title": "记者：听完姆巴佩发言还觉得他是皇马的问题，有问题的是你",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "复刻C罗姆巴佩！郑钦文参加赛后发布会将饮料移出镜头外",
+          "title": "六台：队友劝小蜘蛛改变心态走出来，罗梅罗让他换掉苦瓜脸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报社论：此现象很反差，姆巴佩加盟皇马后离欧冠越来越远",
+          "title": "创造历史！赵松源是近30年首位以非职业身份入选国足的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "作为巴萨球迷你们怎么看隔壁时期的C罗和巴佩",
+          "title": "每体：加维回归后巴萨中场竞争白热化，已成幸福的烦恼",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说实话，历史上都没有姆巴佩这么年少成名的，虽然球技真一般",
+          "title": "记者：姆巴佩认为自己已经尽责，是在暗示其他人没完成任务",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "泰晤士：阿森纳明夏将签顶级前锋，塔帅也仍希望续约哈弗茨",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "拉什福德难道真的在巴萨锻炼涨球了？在西甲也没这么能过人，现在拉什福德很犀利，非常清灵，直接攻击力极强",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "任意球要不全丢给亚马尔练算了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "虽然都在喷，但如果姆巴佩真的拿金球了，大家会高兴吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：听完姆巴佩发言还觉得他是皇马的问题，有问题的是你",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TGM：我们一直对姆巴佩的看法错了。他不防守不是因为能力不足，而是更多地在于他看待比赛的方式就是不想参与防守。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国足最新集训名单：韦世豪在列，布尼亚明、王庚睿、赵松源入选",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "高中生国脚，清华附中17岁小将赵松源首次入选国足名单",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "新增一半，国足本期名单较6月名单保留15人",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
