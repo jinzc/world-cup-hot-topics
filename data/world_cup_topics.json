@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-10 17:33:09",
+  "update_time": "2026-09-10 22:14:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,12 +29,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "内马尔和对手球迷打嘴仗：我膝盖废了都比你们全队人强",
+          "title": "皇马、贝蒂斯卷入休达移民危机表态，可能波及西葡摩世界杯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：法足协不满世界杯奖金不如世俱杯，将正式反因凡蒂诺",
+          "title": "记者：买顶级左边锋至少7000万，曼联等于免费得到拉什福德",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：里沙利松向国际足联提出申请，试图终止他与热刺合同",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "瓦伦主帅：罗德里缺少对同行的尊重，他的那些话非常失礼",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩：我非常渴望帮助皇马，证明我们今年能做成大事",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "战术复盘：马库斯·拉什福德真的找回曼联时期的巅峰状态了吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "今年金球奖亚马尔拿的可能性越来越大了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -42,35 +67,25 @@
           "title": "巴萨没买小蜘蛛可能因祸得福，蜘蛛也跟姆巴佩很像，也是个弧顶仙人，只不过他的跑动面更大，回撤组织能力更强，隔壁巴萨还是需要高中锋硬仗破局，如果真让他们买到了哈兰德，再加上他们的中场，真能拼一拼欧冠了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "巴萨主席拉波尔塔：我一点也不羡慕皇马签下姆巴佩，他来的话会破坏更衣室的安全，也会卖掉其他球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 3,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "懂球译站 | 佩德里亲笔信：我的爷爷，是我见过最狂热的巴萨球迷",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "换人延误致丢球怒踹换人牌！官方：利物浦门将阿利松被罚款8000镑",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德保罗喷莱万：我拿过两次美洲杯和一次世界杯，你呢？",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "塞尔电台：维尼修斯、姆巴佩防守不积极，他们激怒了皇马球迷",
+          "title": "阿斯：国际足联或修改解约金规则，明年1月1日起生效",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
