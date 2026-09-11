@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-12 02:20:57",
+  "update_time": "2026-09-12 05:38:58",
   "sources": {
     "微博": {
       "topics": [
@@ -36,7 +36,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "内维尔选曼市德比阵容：拉什福德首发，巴莱巴复出B费得拉边",
+          "title": "姆巴佩：上赛季没人比我更强，我的表现与众不同配得上金球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩：我没渠道直接联系老佛爷；穆帅对我的要求就是进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩：亚马尔给我启发；梅罗是同级别；足球里进球最昂贵",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -46,44 +56,23 @@
           "hot": ""
         },
         {
-          "title": "金球奖凯恩现在领先，这个逻辑我有点不懂？",
+          "title": "[流言板]姆巴佩：上赛季没人比我更强，我的表现与众不同配得上金球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]坎塞洛：梦想和巴萨赢欧冠；唯一配得上金球奖的只有亚马尔",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "莫雷托：皇马希望与贝林厄姆续约至2031年，俱乐部对达成协议持乐观态度。",
+          "title": "区里人别给恩佐招魂了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "中足联官方：韦世豪因客场对阵河南赛后挑衅公众，被罚停赛3场+罚款3万",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：内马尔参与桑托斯引援，促成阿图尔、埃弗顿和库鸟加盟",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "斯内德将生涯部分纪念品拍卖，包括世界杯纪念品及C罗球衣",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 3,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
