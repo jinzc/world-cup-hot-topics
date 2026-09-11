@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-11 17:29:57",
+  "update_time": "2026-09-11 22:14:41",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "五年前的今天，C罗回归曼联后首次在老特拉福德亮相",
+          "title": "佩德罗：没踢世界杯当然遗憾，但也让我有时间休息+调整状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "周末客战莱万特，预计首发，轮换4人",
+          "title": "金球奖凯恩现在领先，这个逻辑我有点不懂？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Ramón Álvarez：皇马正着手与贝林厄姆续约至2032年，双方对达成协议充满乐观。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方消息：皇马将和贝林厄姆、库尔图瓦、居莱尔商谈续约",
+          "title": "穆里尼奥：对姆巴佩的批评？基利安是对的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国足U17集训名单：邝兆镭、帅惟浩入选，万项、张伯霖在列",
+          "title": "中足联官方：韦世豪因客场对阵河南赛后挑衅公众，被罚停赛3场+罚款3万",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "成都蓉城相关负责人：韦世豪去国足了，近期不会再回应争议",
+          "title": "民主刚果官方公布新一期国家队名单，万-比萨卡、维萨领衔",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马德里市长：不要求阿尔瓦雷斯道歉，先让他重回正轨",
+          "title": "马特-劳：恩佐两次书面申请离队，称与切尔西所有队友关系破裂",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿尔贝蒂尼：米兰买不起梅西、哈兰德、姆巴佩，只能打造体系",
+          "title": "阿根廷前国门罗梅罗：我的整个职业生涯都在为执教做准备",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "米体：冈萨雷斯搬回C罗在意大利的旧居，和新女友同住",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
