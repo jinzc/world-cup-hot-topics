@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-15 03:13:24",
+  "update_time": "2026-09-15 07:03:15",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,44 +22,40 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "中国足球小将西班牙捧杯",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF",
+          "hot": "897.5万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "每体：拉波尔塔/德科与门德斯聚餐，巴尔德亚马尔成主要话题",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：亚马尔会成为领袖，像我向拉莫斯&amp;布斯克茨学习一样",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "电讯：B费很幸运没有被吹罚，多名评论员一直认为他该吃牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里：原以为会在曼城退役，球队换代让我决定迎接新挑战",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "电讯社论：恩佐虽“招人恨”，但曼城看中的正是搅局者属性",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "希勒怒斥B费的表演“可悲”；阿邦拉霍表示争议进球就是报应",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "罗德里：欧冠可以争取但我们并非热门，关键在把握重要时刻",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫拉塔谈金球奖：亚马尔、罗德里、克瓦拉茨赫利亚分列前3",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：梅西从未索要过金球或说自己最佳，但他拿奖次数最多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "博主：西索科、K77或助推登贝莱姆巴佩之争，但2人并无矛盾",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里：巴萨用足球说服我加盟；拒绝皇马后曾打给穆帅致谢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -69,38 +65,58 @@
           "hot": ""
         },
         {
+          "title": "安德森 恩佐，蒂莱曼斯 桑托斯 巴莱巴",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
           "title": "[流言板]记者：有人害怕姆巴佩输掉金球奖，而且是输给19岁的球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：拉波尔塔/德科与门德斯聚餐，巴尔德亚马尔成主要话题",
+          "title": "[流言板]莫拉塔谈金球奖：亚马尔、罗德里、克瓦拉茨赫利亚分列前3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马后炮一下，个人感觉当年哈兰德第一意愿是皇马，不是曼城！fp最大的失误是迷恋姆巴佩，不是说他不强，而是不适配！现在如果中锋是哈宝！球队实力、气氛得多好！",
+          "title": "[流言板]记者：梅西从未索要过金球或说自己最佳，但他拿奖次数最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]罗滕：登贝莱不满姆巴佩言论&amp;视为背叛；法国队友也对他不满",
+          "title": "[流言板]每体：罗德里到来让加维失主角位置，最近2场都未获上场时间",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：姆巴佩是世界最佳，亚马尔比他低了四个档次",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：梅西从未索要过金球或说自己最佳，但他拿奖次数最多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 13,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "亚马尔：对欧冠有执念是件好事，若不敢想夺冠未免太懦弱了",
+          "title": "3C故意复刻罗德里此前一幕，打趣失误的佩德里“他太差了”",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里：决定加盟巴萨后我给穆帅打了电话，感谢他的兴趣",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
