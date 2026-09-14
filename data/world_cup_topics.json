@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-14 14:01:32",
+  "update_time": "2026-09-14 21:50:54",
   "sources": {
     "微博": {
       "topics": [],
@@ -24,75 +24,29 @@
     "抖音": {
       "topics": [
         {
-          "title": "中国队晋级U20女足世界杯16强",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7U20%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA",
-          "hot": "918.3万"
-        },
-        {
           "title": "中国足球小将西班牙捧杯",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF",
-          "hot": "895.3万"
+          "hot": "821万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "哈兰德：恩迪亚耶就像内马尔；安德森像狗一样全场飞奔不停",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "中锋带队模版，哈兰德又进化了！恩佐是最懂他的队友",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "北青：马尔代夫替土库曼斯坦参加国足邀请赛；赛事24日开始",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：弗里克对巴萨掉陷阱早有预言，罗德里数据十分完美",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼城一个恩佐加一个安德森，2.5亿，就是可以2个踢你们3个不落下风。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]前裁判：昨晚VAR多诺霍只看了恩佐是否触球，没关注是否干扰",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]记者：弗里克对巴萨掉陷阱早有预言，罗德里数据十分完美",
+          "title": "问一下萨迷2000万买的阿德米耶和上赛季的拉什福德到底谁更强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 1,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "罗马诺：曼联仍对卡里克有信心，和B费的续约谈判仍在进行中",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "韩国队新一期大名单：孙兴慜领衔，李刚仁、金玟哉、朴镇燮在列",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
