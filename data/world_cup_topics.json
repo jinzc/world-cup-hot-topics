@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-18 02:06:36",
+  "update_time": "2026-09-18 06:02:20",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "埃登斯官方：奥尔金结束俱乐部主席任期，欢迎梅西入主",
+          "title": "姆巴佩：最重要的是把金球奖带回伯纳乌，皇马是世界上最好的球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "措利斯：没想到哈弗茨和哲凯如此亲密；更衣室的氛围很健康",
+          "title": "姆巴佩在皇马踢中锋，你觉得历史上哪个中锋和他最像",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔谈遭种族歧视：被喊黑人根本不会刺痛我，我本身就是黑人",
+          "title": "看到一堆说拿下维尼上中锋的，挺好。。只要你们承认姆巴佩打单中锋，就是一坨。这是共识！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -48,9 +48,20 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "每体：阿尔瓦雷斯已恢复训练，盼赶上马德里德比",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "环球体育：里泽克、梅洛支持调侃内马尔",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
