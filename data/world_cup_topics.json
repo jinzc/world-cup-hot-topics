@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-09-18 20:54:11",
+  "update_time": "2026-09-19 01:02:10",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "日本男篮仅2人入选世预赛名单",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%E4%BB%852%E4%BA%BA%E5%85%A5%E9%80%89%E4%B8%96%E9%A2%84%E8%B5%9B%E5%90%8D%E5%8D%95",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,32 +36,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "热苏斯：和C罗共事所以互相了解对方想法；葡萄牙目标是夺冠",
+          "title": "巴埃纳：我心中的金球奖前三名是亚马尔、罗德里和梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名宿：拉什福德未来取决于他自己，希望看到他的位置更靠前",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA独家：姆巴佩和耐克终止合作，代言昂跑+获得该公司的股份",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔谈遭种族歧视：被喊黑人不会刺痛我，我本身就是黑人",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "热苏斯：C罗和其他球员一样，若表现出色就上场否则就当替补",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "德拉富恩特：金球会选西班牙球员，世界杯决赛应该在西班牙",
+          "title": "BBC：欧足联、中北美足联要求FIFA向211成员各支付千万美元",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -64,26 +51,31 @@
           "hot": ""
         },
         {
-          "title": "[流言板]每体：阿德耶米上场比赛完成39次冲刺，亚马尔直呼他太快了",
+          "title": "[流言板]巴埃纳：我心中的金球奖前三名是亚马尔、罗德里和梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]TA独家：姆巴佩和耐克终止合作，代言昂跑+获得该公司的股份",
+          "title": "亚马尔：我认为梅西是这届世界杯的最佳球员，39岁还能带队进决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]龙赛罗：姆巴佩有潜力成为世界最佳，别总用怀疑的眼光看他",
+          "title": "[流言板]皇马激进球迷组织：姆巴佩等必须道歉，否则老佛爷就该辞职",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
+        {
+          "title": "齐达内首期法国队名单：姆巴佩领衔，登贝莱、奥利塞在列，达库尼亚入围",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
         {
           "title": "热苏斯上任后葡萄牙首份名单：41岁C罗领衔！B费、B席入选，维蒂尼亚、坎塞洛在列",
           "url": "https://www.dongqiudi.com/",
@@ -93,9 +85,14 @@
           "title": "官方：姆巴佩签约瑞士品牌On昂跑，后者正式进军足球领域",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
+        },
+        {
+          "title": "英媒：欧足联等要求国际足联向211个成员协会各支付1000万美元",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
