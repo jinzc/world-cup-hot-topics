@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-20 01:08:38",
+  "update_time": "2026-09-20 04:28:34",
   "sources": {
     "微博": {
       "topics": [
@@ -14,15 +14,9 @@
           "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A2%AB%E5%90%93%E5%88%B0%E4%BA%86",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "日本未直播亚运会开幕式",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%9C%AA%E7%9B%B4%E6%92%AD%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -51,12 +45,12 @@
         {
           "title": "2026亚运会开幕式",
           "url": "https://www.douyin.com/search/2026%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "1220.5万"
+          "hot": "1211万"
         },
         {
           "title": "沉浸式参与亚运开幕式",
           "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8F%82%E4%B8%8E%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "768.1万"
+          "hot": "769.6万"
         }
       ],
       "count": 2,
@@ -65,33 +59,34 @@
     "虎扑": {
       "topics": [
         {
-          "title": "拉菲尼亚ins评论区给亚马尔留言：我心中的金球奖得主。",
+          "title": "越嘘越来劲！亚马尔客战塞维利亚遭嘘，摆手示意“再大声点”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "真是拉什福德的问题?",
+          "title": "我发现弗里克压根不会调教防守体系，哪怕把世界杯全套后防照搬过来，他也用不出德拉福恩特那种效果。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔要是有三个世界杯有没有可能超梅西",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]哈维：多方为梅西回归沟通了4个月，拉波尔塔却突然决定叫停",
+          "title": "阿斯报：不应该用进球衡量一切，维尼修斯在防守做了很多贡献！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "哈维：我很尊重C罗他是历史最佳之一，但梅西是历史最佳",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
