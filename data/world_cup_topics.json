@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-19 07:10:50",
+  "update_time": "2026-09-19 12:22:01",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "拉菲：没想到自己踢9号位这么舒服；我的金球奖得主是亚马尔",
+          "title": "老佛爷亲自造访休达想平息争端，但当地对姆巴佩等人仍不满",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔言论挖苦我？凯恩：我不知道他什么意思，他非常出色",
+          "title": "每体：MrBeast原计划与亚马尔一起拍视频，因私人事务未成行",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨往意面里加番茄酱，卡拉菲奥里录视频表达不满",
+          "title": "莱诺：乌尔比希会接班诺伊尔，但他需要先在拜仁站稳脚跟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "真是拉什福德的问题?",
+          "title": "有点味！来看看梅西儿子西罗和满身大汗的爸爸拥抱后的反应",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "【集锦】拜仁7-0柏林联合，凯恩双响，奥利塞3球1助",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "穆西亚拉：我现在在球场上非常开心，踢球的快乐仍然存在",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "沃尔特马德：被叫两米梅西很有趣，他是足球史上最伟大球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：马德里德比贝林厄姆预计回归首发，居莱尔将重回右路",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "再有德拜拿亚马尔世界杯一球拉踩的，建议直接拿这张图回怼。按照他们的逻辑，里贝里就不该拿金球奖。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔：我认为梅西是这届世界杯的最佳球员，39岁还能带队进决赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -52,45 +82,20 @@
           "title": "[流言板]拉菲：没想到自己踢9号位这么舒服；我的金球奖得主是亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "无视凯恩！亚马尔：哪怕英格兰世界杯夺冠，也是我和姆巴佩争金球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]亚马尔：我和姆巴佩是世界最佳2人，在冠军争夺中我都赢了他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]TA独家：姆巴佩和耐克终止合作，代言昂跑+获得该公司的股份",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 8,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "剑南春丨拜仁7-0柏林联合，奥利塞戴帽，凯恩德甲百球+双响",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "齐达内首期法国队名单：姆巴佩领衔，登贝莱、奥利塞在列，达库尼亚入围",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉菲尼亚：我和亚马尔会互让点球；儿子想让我庆祝模仿钢铁侠",
+          "title": "迈阿密主帅谈梅西：我们必须保护他、宠爱他，为他我啥都愿意",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
