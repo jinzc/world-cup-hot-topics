@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-22 03:15:17",
+  "update_time": "2026-09-22 07:09:44",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,58 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "姆巴佩：我必须要书写和昂跑的这段故事；不排除推出子品牌",
+          "title": "德拉富恩特：罗德里加盟巴萨让我意外；金球奖该给西班牙人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大家觉得姆巴佩拉师傅这种球员适合去什么样的球队？",
+          "title": "梅西晒国家队告别战球衣：最后一场，值得珍藏一生的球衣",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]英超官方向20队强调恩佐越位误判很严重，VAR相关判罚该改善",
+          "title": "上两张图，卡里克真想踢所谓的控球的话有没有可能芒特更适合b费那个位置？当然拉什福德是另外的一个大问题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德回归这几场，到底算不算即战力",
+          "title": "去年夏天伊尼戈马丁内斯离开之后为什么不买拉波尔特？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "现在知道维拉和巴萨为啥不买断拉什福德了吧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "窝囊的输掉同城德比同时让全员看清，姆巴佩就是皇马最大毒瘤，全队公开处刑！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]姆巴佩：我想金球奖之争娱乐了大众；拼这个是触动了好胜心",
+          "title": "巴萨主席拉波尔塔：我一点也不羡慕皇马签下姆巴佩，他来的话会破坏更衣室的安全，也会卖掉其他球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "继续为国出征，C罗晒前往国家队集训营报到照片",
+          "title": "阿根廷足协公布梅西国家队告别战票价：最低52欧元",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "球衣装备网：阿迪将为亚马尔推出第四款签名球鞋，预计10月10日发售",
+          "title": "法媒：以色列足协计划向欧足联投诉爱尔兰队主帅",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尔茨更新社媒：带着胜利进入国际比赛周",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
