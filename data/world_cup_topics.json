@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-24 17:51:34",
+  "update_time": "2026-09-24 22:51:36",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "中国vs日本乒乓球男团决赛对阵",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDvs%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5",
+          "title": "国足3比0马尔代夫",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B33%E6%AF%940%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB",
           "hot": 0,
           "label": ""
         }
@@ -29,44 +29,50 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "CFA友谊赛国足vs马尔代夫",
+          "url": "https://www.douyin.com/search/CFA%E5%8F%8B%E8%B0%8A%E8%B5%9B%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB",
+          "hot": "1044.8万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "罗德里：李刚仁不是故意的但够得上红牌，裁判偶尔会失误",
+          "title": "前队友：利雅得胜利欠薪期间，C罗要求球队先给队友结清薪水",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "差18岁！41岁C罗得知维加是03年出生，满脸难以置信",
+          "title": "国足胜马代FIFA积分增加2.33分，排名上升一位至第90名",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "备战澳大利亚！维尼修斯在国家队训练中加练跳步点球",
+          "title": "热议国足3-0马代：正常的保底比分，下半场打得比较自如一些",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "官方：维尼修斯纪录片《舞动吧，维尼》获国际艾美奖提名",
+          "title": "国足3-0马尔代夫数据：射门21-0，控球率67%-33%",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗：年轻孩子喜欢我、视我为榜样，对我来说这是最重要的",
+          "title": "四场热身赛最低？国足vs马尔代夫现场观众数：11680人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "戈登：仍对输给阿根廷耿耿于怀，亚马尔和凯恩是金球奖最大热门",
+          "title": "[流言板]世体：甘伯杯赛前罗德里获全场最热烈欢呼，德容遭遇嘘声",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "变天！齐祖正式改变姆巴佩在国家队的角色与定位",
+          "title": "姆巴佩和王楚钦，佩雷斯和刘国梁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -77,12 +83,12 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "阿斯：西班牙一球员将近100万欧世界杯冠军奖金赠予足协员工",
+          "title": "国足3-0马尔代夫，王子铭戴帽，赵松源首秀屡造险，王庚睿献助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：巴萨捧亚马尔会分罗德里选票，可能让姆巴佩拿到金球奖",
+          "title": "马卡：C罗得知利雅得胜利拖欠半年工资，要求先给队友发薪",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
