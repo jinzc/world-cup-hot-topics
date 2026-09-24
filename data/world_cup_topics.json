@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-25 02:59:17",
+  "update_time": "2026-09-25 06:16:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "CFA友谊赛国足vs马尔代夫",
           "url": "https://www.douyin.com/search/CFA%E5%8F%8B%E8%B0%8A%E8%B5%9B%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB",
-          "hot": "1032万"
+          "hot": "920.2万"
         }
       ],
       "count": 1,
@@ -35,42 +35,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "穆西亚拉大腿受伤退出对荷兰比赛，阿米里进入首发阵容",
+          "title": "热苏斯：换下C罗是要体能充沛球员，去压迫威尔士的后场出球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "蒙特拉：世界杯后没想过离开，我在土耳其的工作还没有结束",
+          "title": "克洛普：穆西亚拉&amp;哈弗茨将接受检查，希望他们尽快复出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "法比尼奥：拉菲尼亚不在候选名单里，那金球奖我选亚马尔",
+          "title": "坎塞洛：C罗已经是葡萄牙的象征，他留在队内对我们非常好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "图赫尔：凯恩应该赢得金球；他下届世界杯36岁了也还能再踢",
+          "title": "B费：葡萄牙创造了很多能进更多球的机会，但我们没能做到",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]法比尼奥：拉菲尼亚不在候选名单里，那金球奖我选亚马尔",
+          "title": "最近在别的平台看到亚马尔粉丝和梅西粉丝争论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "要是龟当初听梅西的去巴萨，隔壁现在会成什么样子？",
+          "title": "现在看来夏天把维尼修斯和楚阿梅尼出手了多好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "齐达内的拨乱反正：从登贝莱踢伪九，不迁就姆巴佩开始！",
+          "title": "拉菲尼亚等人公开支持亚马尔金球，修斯和贝林怎么提都不提姆总",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩和王楚钦，佩雷斯和刘国梁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
@@ -81,27 +86,32 @@
           "hot": ""
         },
         {
-          "title": "德天空：穆西亚拉因赛前热身大腿不适退出德国队首发",
+          "title": "荷兰1-1德国，加克波补时绝平，哈弗茨伤退，阿德耶米失空门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "罗杰斯：历史前三我选梅罗内马尔；帕尔默争不过我时会闹脾气",
+          "title": "葡萄牙1-0威尔士，菲利克斯破门，C罗进球被吹",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费尔明：金球奖我会毫不犹豫选亚马尔；我同样能踢九号位",
+          "title": "切马：最欣赏基米希；想走出自己的路而不是被叫下一个罗德里",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "费尔明：我确实需要控制情绪；我和亚马尔在场上有天然的默契",
+          "title": "曼奇尼：比利时实力强劲，他们在世界杯上也充分证明了这一点",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "热苏斯：换下C罗是临场决定，最后25分钟需要加强前场逼抢",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
