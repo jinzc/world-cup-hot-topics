@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-25 21:35:21",
+  "update_time": "2026-09-26 02:27:20",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,68 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "法国队球衣号码：姆巴佩10号，谢尔基9号，雅凯22号",
+          "title": "亚马尔父亲：他是世界最佳；记者不支持本国球员太糟糕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "球报：B席为主力加盟皇马，但如今在俱乐部+国家队都是替补",
+          "title": "鲁梅尼格：拜仁已超40年没金球先生了，凯恩今年理应获奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚足联举办精英俱乐部教练论坛，穆斯卡特、蒙哥马利等出席",
+          "title": "鲁梅尼格：姆巴佩和亚马尔当然伟大，但凯恩的内敛更有吸引力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "后C罗时代的葡萄牙，会变成什么样子呢？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]莫德里奇的13岁女儿在皇马青训注册，同样司职中场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]齐达内该介入姆巴佩登贝莱分歧？佩蒂特：一般球员自己解决",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "法国18年世界杯冠军姆巴佩是队内第一射手和格子一样进球4粒，高光表现获世界杯最佳年青球员，8分之1淘汰赛进2个关键球逆转阿队进入8强，决赛也打入一粒进球绝对的进攻核心，这是有些人说的蹭的冠军？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "现在看来夏天把维尼修斯和楚阿梅尼出手了多好",
+          "title": "[流言板]菲戈预测金球奖：梅西vs亚马尔二选一，最终选择亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "金球奖官方盘点各奖项入围老将：梅西领衔，沃齐尼亚、马内在列",
+          "title": "法国客战土耳其：姆巴佩、登贝莱领衔，居莱尔、谢尔基出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "就在教练席跟前呐，维尼修斯过人球不动，被断后无奈弯腰",
+          "title": "意大利vs比利时：德布劳内PK托纳利，巴雷拉、皮奥首发出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马尔基尼奥斯：这是一个新周期，我们对安帅的调整拭目以待",
+          "title": "很精神，印度1-1平世界杯参赛队巴拿马，接下来将战巴西乌拉圭",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "维持框架，齐达内首期法国队首发相较世界杯半决赛调整四人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
