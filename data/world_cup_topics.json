@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-26 02:27:20",
+  "update_time": "2026-09-26 06:11:03",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "亚马尔父亲：他是世界最佳；记者不支持本国球员太糟糕",
+          "title": "记者：姆巴佩遭遇肌腱损伤，将返回马德里接受治疗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "鲁梅尼格：拜仁已超40年没金球先生了，凯恩今年理应获奖",
+          "title": "零点电台：姆巴佩左膝受伤，将直接返回皇马并次日接受检查",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "鲁梅尼格：姆巴佩和亚马尔当然伟大，但凯恩的内敛更有吸引力",
+          "title": "齐达内：姆巴佩将离开法国队训练营，他的情况不太好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]菲戈预测金球奖：梅西vs亚马尔二选一，最终选择亚马尔",
+          "title": "FIFA病毒出现！姆巴佩、穆西亚拉、哈弗茨和布罗比先后受伤",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]金球奖？罗德里：你觉得我不想赢吗？这取决于表现不是靠说",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩又是左膝，皇马球迷最怕的画面在齐达内首秀这天重演",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：姆巴佩遭遇肌腱损伤，将返回马德里接受治疗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "法国客战土耳其：姆巴佩、登贝莱领衔，居莱尔、谢尔基出战",
+          "title": "法国1-0土耳其，姆巴佩制胜&amp;伤退，恰克尔染红",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "意大利vs比利时：德布劳内PK托纳利，巴雷拉、皮奥首发出战",
+          "title": "意大利0-2比利时，霍茨破门，卢克巴吉奥建功，德布劳内助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "很精神，印度1-1平世界杯参赛队巴拿马，接下来将战巴西乌拉圭",
+          "title": "马卡：C罗最贵座驾是布加迪，估值约1150万美元",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "维持框架，齐达内首期法国队首发相较世界杯半决赛调整四人",
+          "title": "法国队官方：姆巴佩肌腱损伤，将返回马德里接受治疗",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "齐达内：姆巴佩现在的情况看起来不太好，我想他得回马德里了",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
