@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-25 15:35:23",
+  "update_time": "2026-09-25 21:35:21",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "凯恩设想生涯末期兼具足球/橄榄球，各方对他的想法意见不一",
+          "title": "法国队球衣号码：姆巴佩10号，谢尔基9号，雅凯22号",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "🌍红魔国际比赛日战报：B费、多尔古、姆贝莫代表各自国家队首发，姆贝莫打进一球",
+          "title": "球报：B席为主力加盟皇马，但如今在俱乐部+国家队都是替补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "无聊时期，下个夏窗任务是找个替代b费的组织核心",
+          "title": "亚足联举办精英俱乐部教练论坛，穆斯卡特、蒙哥马利等出席",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "后C罗时代的葡萄牙，会变成什么样子呢？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]莫德里奇的13岁女儿在皇马青训注册，同样司职中场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]齐达内该介入姆巴佩登贝莱分歧？佩蒂特：一般球员自己解决",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -49,28 +64,33 @@
           "hot": ""
         },
         {
-          "title": "今晚看右边锋居莱尔vs左边锋姆巴佩，哈哈哈",
+          "title": "现在看来夏天把维尼修斯和楚阿梅尼出手了多好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "31岁为国足出场，杨明洋感言：为国首秀，倍感荣光",
+          "title": "金球奖官方盘点各奖项入围老将：梅西领衔，沃齐尼亚、马内在列",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "电讯报：有望接替凯恩的6名英格兰前锋，德拉普、马乔在列",
+          "title": "就在教练席跟前呐，维尼修斯过人球不动，被断后无奈弯腰",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马尔基尼奥斯：这是一个新周期，我们对安帅的调整拭目以待",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
