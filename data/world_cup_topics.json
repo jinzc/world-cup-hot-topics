@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-26 06:11:03",
+  "update_time": "2026-09-26 09:24:54",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "姆巴佩破门后伤退",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8%E5%90%8E%E4%BC%A4%E9%80%80",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -29,27 +35,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：姆巴佩遭遇肌腱损伤，将返回马德里接受治疗",
+          "title": "安东尼：滕哈格是我的恩师；C罗的亲和力和礼貌让我崇敬",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "零点电台：姆巴佩左膝受伤，将直接返回皇马并次日接受检查",
+          "title": "外网皇马球迷晒视频并发问：维尼修斯什么时候变这样了？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "齐达内：姆巴佩将离开法国队训练营，他的情况不太好",
+          "title": "贝克汉姆借助多项世界杯品牌合作，收获3800万英镑巨额收入",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA病毒出现！姆巴佩、穆西亚拉、哈弗茨和布罗比先后受伤",
+          "title": "安东尼评各项能力最佳：梅西定位球/C罗盘带/内马尔技术",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]金球奖？罗德里：你觉得我不想赢吗？这取决于表现不是靠说",
+          "title": "维尼修斯是真菜啊，菜到已经没眼看那种",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -59,7 +65,7 @@
           "hot": ""
         },
         {
-          "title": "[流言板]记者：姆巴佩遭遇肌腱损伤，将返回马德里接受治疗",
+          "title": "冯唐易老 神龟难封 姆巴佩其实是足坛李广",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -80,22 +86,17 @@
           "hot": ""
         },
         {
-          "title": "马卡：C罗最贵座驾是布加迪，估值约1150万美元",
+          "title": "埃唐-姆巴佩发文：感受",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国队官方：姆巴佩肌腱损伤，将返回马德里接受治疗",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "齐达内：姆巴佩现在的情况看起来不太好，我想他得回马德里了",
+          "title": "记者：梅西、苏亚雷斯、卡塞米罗正常训练，周日可出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
