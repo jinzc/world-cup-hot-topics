@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-26 20:57:12",
+  "update_time": "2026-09-27 01:03:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "三角洲烽火世界杯出征仪式",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E7%83%BD%E7%81%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%BE%81%E4%BB%AA%E5%BC%8F",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -32,7 +26,7 @@
         {
           "title": "中国男足亚运四强",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%BA%9A%E8%BF%90%E5%9B%9B%E5%BC%BA",
-          "hot": "921.2万"
+          "hot": "1210.8万"
         }
       ],
       "count": 1,
@@ -41,48 +35,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "邵佳一放瓜帅纪录片激励国足：看得出你们到底有没这种激情",
+          "title": "因伤退出法国队大名单的姆巴佩已抵达马德里，耐心为球迷签名",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看到国足打进第二球后，看台上的王玉栋激动庆祝",
+          "title": "罗马不会批准迪巴拉和莫利纳回阿根廷，两人无缘梅西告别赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔让他爸把那张照片藏了17年，我觉得他是对的",
+          "title": "今晚西班牙VS英格兰，虽然只是一场欧国联，但是刚好卡在金球奖投票截止的前一天，感觉还是能挣最后的印象分的，按亚马尔的作风应该会很认真踢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯这状态，是被摸透了还是真过劳了",
+          "title": "[流言板]萨维奥拉：初见梅西，我就跟家人说我们以后得指望这孩子了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯＆科贝：外界对姆巴佩伤势的评估非常不乐观，检查结果将在大约5小时后公布。",
+          "title": "[流言板]每体：弗里克尝试罗德里搭档贝尔纳尔，望借此增强中场控制",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]多家媒体：姆巴佩伤缺10-12天，等于一场皇马比赛都不会缺席",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]多家媒体：姆巴佩左膝后关节囊过度伸展，预计缺席两周",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这区都是贝林粉丝，姆巴佩和修斯就是呼吸也是错呗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国足3-0完胜泰国晋级亚运四强，彭啸造乌龙，胡荷韬、张玉宁建功",
+          "title": "热苏斯：B费的伤情有点棘手，我不想冒险用他；门德斯能出场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "安东尼奥：希望通过比赛，不断提升中国足球在亚洲的位置",
+          "title": "皇马官方：姆巴佩左膝后囊过度伸展，伤情有待进一步观察",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴媒：巴西战平澳大利亚暴露世界杯老问题，中场空间依旧过大",
+          "title": "运动康复专家：姆巴佩换鞋或增加膝伤风险，改变恐影响身体受力",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
