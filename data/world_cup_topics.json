@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-28 00:50:48",
+  "update_time": "2026-09-28 04:00:51",
   "sources": {
     "微博": {
       "topics": [
@@ -39,12 +39,12 @@
         {
           "title": "国足0:3不敌新西兰",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "hot": "925.1万"
+          "hot": "916.4万"
         },
         {
           "title": "金鹰节开幕式",
           "url": "https://www.douyin.com/search/%E9%87%91%E9%B9%B0%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "763.3万"
+          "hot": "765.5万"
         }
       ],
       "count": 2,
@@ -53,17 +53,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "泰晤士报：德国方面担心哈弗茨伤缺一个月，伤情出在左腿筋",
+          "title": "热苏斯谈C罗替补：他上场踢70分钟，我认为他无法连场首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "雷齐格：整个欧洲都在关注弗里克的巴萨；亚马尔配得上金球",
+          "title": "挪威vs葡萄牙首发：哈兰德、贡萨洛拉莫斯领衔，C罗替补",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪马利亚：赛前刷到梅西任意球，我想我不是梅西但可以试试",
+          "title": "帕雷德斯将和斯卡洛尼会面商谈未来，他禁赛或从10场减至5场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -73,12 +73,22 @@
           "hot": ""
         },
         {
-          "title": "现在我团队报还有罗马诺好像还没有放出来和姆巴佩续约的消息",
+          "title": "19岁75天就在温布利破纪录，亚马尔这履历够谈历史地位了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "菲利克斯去沙特踢球进化了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "个人看法：与其指望谁把姆巴佩斗走，他自己玩脱的可能性更大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
@@ -89,12 +99,22 @@
           "hot": ""
         },
         {
-          "title": "阿尔达-图兰支持亚马尔：你让足球变得美丽，值得拥有最好的",
+          "title": "达成西班牙国家队50场里程碑，佩德里收到纪念款球衣",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "半场：挪威0-1葡萄牙，佩德罗-内托助攻，菲利克斯破门",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼奇尼：以土耳其的实力，他们本来绝对不该在世界杯小组出局",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
