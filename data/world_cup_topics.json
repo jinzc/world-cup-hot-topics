@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-28 04:00:51",
+  "update_time": "2026-09-28 07:44:05",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "国足0比3新西兰",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "title": "C罗替补",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%9B%BF%E8%A1%A5",
           "hot": 0,
           "label": ""
         }
@@ -39,12 +39,12 @@
         {
           "title": "国足0:3不敌新西兰",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "hot": "916.4万"
+          "hot": "929.7万"
         },
         {
           "title": "金鹰节开幕式",
           "url": "https://www.douyin.com/search/%E9%87%91%E9%B9%B0%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "765.5万"
+          "hot": "765.4万"
         }
       ],
       "count": 2,
@@ -53,22 +53,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "热苏斯谈C罗替补：他上场踢70分钟，我认为他无法连场首发",
+          "title": "谢尔德鲁普：数据表明我们本该拿3分；C罗未出场让我惊讶",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "挪威vs葡萄牙首发：哈兰德、贡萨洛拉莫斯领衔，C罗替补",
+          "title": "莱奥：菲利克斯过去遭受很多批评，他在欧洲赛场同样能踢好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "帕雷德斯将和斯卡洛尼会面商谈未来，他禁赛或从10场减至5场",
+          "title": "小猪说德国队平庸？基米希：我们确实离顶级还差得远",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里根本都没碰到贝林厄姆也能给点。就当交学费了，国家德比注意点就行",
+          "title": "热苏斯：C罗未出场因为比赛当时战术选择，他身体状况没问题",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "厄德高完成出球后，B席发力踢向厄德高支撑腿被黄牌警告",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔给奥尔莫的那个脚后跟，梅西内马尔都踢不出来，",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -78,17 +88,17 @@
           "hot": ""
         },
         {
-          "title": "菲利克斯去沙特踢球进化了",
+          "title": "隔壁球迷觉得贝林厄姆好厉害",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "个人看法：与其指望谁把姆巴佩斗走，他自己玩脱的可能性更大",
+          "title": "姆巴佩和皇马难道也签了阴阳合同？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -99,22 +109,27 @@
           "hot": ""
         },
         {
-          "title": "达成西班牙国家队50场里程碑，佩德里收到纪念款球衣",
+          "title": "德国0-1希腊，库尔姆佩利斯制胜，基米希定位球造险",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "半场：挪威0-1葡萄牙，佩德罗-内托助攻，菲利克斯破门",
+          "title": "早报：看来我们离世界杯的水平依然很远",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "曼奇尼：以土耳其的实力，他们本来绝对不该在世界杯小组出局",
+          "title": "赫苏斯-纳瓦斯：亚马尔和法比安都配得上金球奖",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：姆巴佩和科纳特预计需10至15天恢复，有希望踢下轮联赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
