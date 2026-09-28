@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-28 21:38:23",
+  "update_time": "2026-09-29 04:29:05",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,59 +29,28 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：亚马尔在较量中战胜了凯恩，他认为自己配得上金球奖",
+          "title": "马前炮预测，亚马尔必拿金球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名帅：意大利曾荣誉不断，但连续三次缺席世界杯需深刻反思",
+          "title": "看过很多国内外的采访，凯恩的得票数绝对要比预想中低很多！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "麒麟杯：韩国1-4乌拉圭，努涅斯双响，李刚仁破门",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "赖斯儿子想和亚马尔合影！戈登帮叫来后，赖斯为他们拍照",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费加罗报：登贝莱的逼抢让姆巴佩进球，下场他是法国新队长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Footy Headlines独家爆料：39岁梅西正考虑2026赛季结束后退役！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林和亚马尔两人关系挺好的啊，哈哈哈，怎么和同俱乐部的巴佩季军赛互相看不见啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]费加罗报：登贝莱的逼抢让姆巴佩进球，下场他是法国新队长",
+          "title": "[流言板]菲利克斯：效力巴萨都是美好回忆；沙特并非前5联赛但被低估",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "两边都是队友，戈登赛后告诉亚马尔说赖斯儿子想和他合影",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
