@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-28 13:06:09",
+  "update_time": "2026-09-28 21:38:23",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,116 +22,65 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "国足0:3不敌新西兰",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "hot": "940万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "挪威球迷把球衣扔给C罗签名，他签完后递了回去",
+          "title": "记者：亚马尔在较量中战胜了凯恩，他认为自己配得上金球奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔：梅西毫无疑问是历史最佳，所有看球的人都知道",
+          "title": "名帅：意大利曾荣誉不断，但连续三次缺席世界杯需深刻反思",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B席踢倒厄德高，后者回应：脑子短路，不懂他在干嘛",
+          "title": "麒麟杯：韩国1-4乌拉圭，努涅斯双响，李刚仁破门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英格兰球员历史最高身价榜：贝林1.8亿第1，斯特林、凯恩前3",
+          "title": "赖斯儿子想和亚马尔合影！戈登帮叫来后，赖斯为他们拍照",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西班牙球员历史最高身价榜：亚马尔2.2亿欧第一，佩德里第二",
+          "title": "费加罗报：登贝莱的逼抢让姆巴佩进球，下场他是法国新队长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧国联德转最贵阵：哈兰德、亚马尔2.2亿欧领衔，总价14.9亿",
+          "title": "Footy Headlines独家爆料：39岁梅西正考虑2026赛季结束后退役！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗90分钟未登场，终场哨响后未与队友会合，径直返回更衣室",
+          "title": "贝林和亚马尔两人关系挺好的啊，哈哈哈，怎么和同俱乐部的巴佩季军赛互相看不见啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "RMC：齐达内想说服姆巴佩参与逼抢；他很欣赏登贝莱逼抢能力",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "内维尔：在后弗格森时代，曼联最糟糕的引援是迪马利亚和安东尼",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]每体：弗里克面临4大用人难题，孔德/加维/巴尔德/德容在列",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "2017年C罗任意球进球超过梅西，如今梅西已比C罗多11球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这场罗德里感觉很隐身啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "谁来讲讲，这个维尼为什么世界杯后断崖式下滑？像被废了一样！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "英格兰这场，贝林和罗德里、佩德里、亚马尔同在场上",
+          "title": "[流言板]费加罗报：登贝莱的逼抢让姆巴佩进球，下场他是法国新队长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "哥伦布机员2-1迈阿密国际，梅西小角度任意球破门，蒂阿雷补时绝杀",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "本坦库尔：孙兴慜是了不起的球员；访韩时球迷总是为我们加油",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "能否打破尴尬纪录？亚运会上国足对阵韩国队已经40年未能进球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "优势在握，法国在世界杯、欧洲杯、欧国联对比利时保持5连胜",
+          "title": "两边都是队友，戈登赛后告诉亚马尔说赖斯儿子想和他合影",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
