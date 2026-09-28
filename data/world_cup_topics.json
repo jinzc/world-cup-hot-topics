@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-09-28 07:44:05",
+  "update_time": "2026-09-28 13:06:09",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "C罗替补",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%9B%BF%E8%A1%A5",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -19,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "国足主场0-3新西兰",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%9C%BA0-3%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -39,97 +26,112 @@
         {
           "title": "国足0:3不敌新西兰",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "hot": "929.7万"
-        },
-        {
-          "title": "金鹰节开幕式",
-          "url": "https://www.douyin.com/search/%E9%87%91%E9%B9%B0%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "765.4万"
+          "hot": "940万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "谢尔德鲁普：数据表明我们本该拿3分；C罗未出场让我惊讶",
+          "title": "挪威球迷把球衣扔给C罗签名，他签完后递了回去",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莱奥：菲利克斯过去遭受很多批评，他在欧洲赛场同样能踢好",
+          "title": "亚马尔：梅西毫无疑问是历史最佳，所有看球的人都知道",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "小猪说德国队平庸？基米希：我们确实离顶级还差得远",
+          "title": "B席踢倒厄德高，后者回应：脑子短路，不懂他在干嘛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯：C罗未出场因为比赛当时战术选择，他身体状况没问题",
+          "title": "英格兰球员历史最高身价榜：贝林1.8亿第1，斯特林、凯恩前3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "厄德高完成出球后，B席发力踢向厄德高支撑腿被黄牌警告",
+          "title": "西班牙球员历史最高身价榜：亚马尔2.2亿欧第一，佩德里第二",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔给奥尔莫的那个脚后跟，梅西内马尔都踢不出来，",
+          "title": "欧国联德转最贵阵：哈兰德、亚马尔2.2亿欧领衔，总价14.9亿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "19岁75天就在温布利破纪录，亚马尔这履历够谈历史地位了",
+          "title": "C罗90分钟未登场，终场哨响后未与队友会合，径直返回更衣室",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁球迷觉得贝林厄姆好厉害",
+          "title": "RMC：齐达内想说服姆巴佩参与逼抢；他很欣赏登贝莱逼抢能力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩和皇马难道也签了阴阳合同？",
+          "title": "内维尔：在后弗格森时代，曼联最糟糕的引援是迪马利亚和安东尼",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]每体：弗里克面临4大用人难题，孔德/加维/巴尔德/德容在列",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2017年C罗任意球进球超过梅西，如今梅西已比C罗多11球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "这场罗德里感觉很隐身啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "谁来讲讲，这个维尼为什么世界杯后断崖式下滑？像被废了一样！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "英格兰这场，贝林和罗德里、佩德里、亚马尔同在场上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国足0-3新西兰，谢文能、王子铭造险，宾登、魏纳、帕克建功",
+          "title": "哥伦布机员2-1迈阿密国际，梅西小角度任意球破门，蒂阿雷补时绝杀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德国0-1希腊，库尔姆佩利斯制胜，基米希定位球造险",
+          "title": "本坦库尔：孙兴慜是了不起的球员；访韩时球迷总是为我们加油",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "早报：看来我们离世界杯的水平依然很远",
+          "title": "能否打破尴尬纪录？亚运会上国足对阵韩国队已经40年未能进球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "赫苏斯-纳瓦斯：亚马尔和法比安都配得上金球奖",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "科贝：姆巴佩和科纳特预计需10至15天恢复，有希望踢下轮联赛",
+          "title": "优势在握，法国在世界杯、欧洲杯、欧国联对比利时保持5连胜",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
