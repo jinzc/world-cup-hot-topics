@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-29 04:29:05",
+  "update_time": "2026-09-29 08:55:37",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马前炮预测，亚马尔必拿金球",
+          "title": "范戴克：生涯最难对付对手是梅西，C罗的成就也令人不可思议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看过很多国内外的采访，凯恩的得票数绝对要比预想中低很多！",
+          "title": "墨菲：佩德罗是哈兰德冲金靴的主要威胁，哈弗茨是另一黑马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]菲利克斯：效力巴萨都是美好回忆；沙特并非前5联赛但被低估",
+          "title": "一些人天天盼着穆里尼奥能拿下姆巴佩失败后，现在又臆想齐达内能拿下姆巴佩让姆巴佩替补，我真的笑丝。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -48,9 +48,25 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "达伦-本特：凯恩配得上金球奖",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "今晚报：失利后国足教练组查找原因，重点放在排兵布阵等方面",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴斯勒：基米希不是世界级，他就是一名普通的中场",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
