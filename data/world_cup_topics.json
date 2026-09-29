@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-29 21:56:33",
+  "update_time": "2026-09-30 03:17:18",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,73 +29,38 @@
     "虎扑": {
       "topics": [
         {
-          "title": "鲁梅尼格：拜仁现无意维尔茨，没争过红军因对方承诺10号位",
+          "title": "前教练：梅西差点成西班牙国脚，若真这样阿根廷人得骂死我",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安切洛蒂：知道维尼修斯很久没进球，所以让他罚点找回信心",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯：我几场没进球了，吉马良斯知道我需信心所以让点",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马的任意球还能练出来不，感觉现在bigname的任意球功底都挺差，姆巴佩哈兰德基本上没有任意球进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：拜仁计划出售金玟哉套现，冬窗目标引进孔德",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看隔壁的亚马尔和奥利塞，真有点替贝林难过",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "你要说姆巴佩有世界杯冠军，他们会说法国队跟皇马没关系，但是法国队欧国联比赛他们半夜起来也要看，然后刷屏齐达内要让姆巴佩替补边缘化姆巴佩，姆巴佩这场都没上，这时候他们就不会说法国队跟皇马没关系了！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西 内马尔粉丝是被巴萨逐出家门了吗？天天在皇马专区借着姆巴佩贬低皇马功勋。",
+          "title": "捷克vs英格兰首发：凯恩领衔；戈登 、阿诺德出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "巴西4-2澳大利亚，维尼修斯、拉菲尼亚点射，吉马良斯破门",
+          "title": "兵贵神速！亚马尔连续两场欧国联2分钟内闪击破门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "阿邦拉霍：萨卡的上限有限，他达不到亚马尔和奥利塞那种级别",
+          "title": "巨星范儿！亚马尔连续8场参与进球，新赛季10场10球6助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "记者：B席没有彻底解决中场问题，斯科特成为皇马重建新选择",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "龙赛罗：我恳切请求皮斯胡安球场为莫德里奇致以最热烈的掌声",
+          "title": "马卡：C罗缺席球队合练，他返回酒店后在健身房进行个人训练",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
