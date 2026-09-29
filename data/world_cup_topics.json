@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-29 14:45:38",
+  "update_time": "2026-09-29 21:56:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "天空突发：FIFA指责欧足联骚扰因凡蒂诺，并散播假新闻诋毁",
+          "title": "鲁梅尼格：拜仁现无意维尔茨，没争过红军因对方承诺10号位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "4场0球0助！莱奥遭意媒关注，本人留言：都离开了还不放过我",
+          "title": "安切洛蒂：知道维尼修斯很久没进球，所以让他罚点找回信心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "摩洛哥足协游说因凡蒂诺，想要取代西班牙主办30世界杯决赛",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这拉什福德就必须场场首发是吧？",
+          "title": "维尼修斯：我几场没进球了，吉马良斯知道我需信心所以让点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -54,28 +49,53 @@
           "hot": ""
         },
         {
-          "title": "亚马尔年龄也挺无敌的",
+          "title": "每体：拜仁计划出售金玟哉套现，冬窗目标引进孔德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "谁来讲讲，这个维尼为什么世界杯后断崖式下滑？像被废了一样！",
+          "title": "看隔壁的亚马尔和奥利塞，真有点替贝林难过",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "你要说姆巴佩有世界杯冠军，他们会说法国队跟皇马没关系，但是法国队欧国联比赛他们半夜起来也要看，然后刷屏齐达内要让姆巴佩替补边缘化姆巴佩，姆巴佩这场都没上，这时候他们就不会说法国队跟皇马没关系了！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西 内马尔粉丝是被巴萨逐出家门了吗？天天在皇马专区借着姆巴佩贬低皇马功勋。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "马卡：罗德里戈预计将于12月至明年1月复出",
+          "title": "巴西4-2澳大利亚，维尼修斯、拉菲尼亚点射，吉马良斯破门",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿邦拉霍：萨卡的上限有限，他达不到亚马尔和奥利塞那种级别",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "记者：B席没有彻底解决中场问题，斯科特成为皇马重建新选择",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "龙赛罗：我恳切请求皮斯胡安球场为莫德里奇致以最热烈的掌声",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
