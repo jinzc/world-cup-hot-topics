@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-10-01 02:21:18",
+  "update_time": "2026-10-01 06:54:46",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗与葡萄牙主帅各自承认错误",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%8E%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E5%90%84%E8%87%AA%E6%89%BF%E8%AE%A4%E9%94%99%E8%AF%AF",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,47 +36,57 @@
     "虎扑": {
       "topics": [
         {
-          "title": "挪威主帅：厄德高被B席铲抢后，仍不知道能否出战接下的比赛",
+          "title": "曾公开声称被热苏斯“背叛”，内马尔点赞C罗社媒声明",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "丹麦主帅：C罗在葡萄牙重要性被低估，很确定他该留在国家队",
+          "title": "再合作？摩根转发C罗社媒并配文：Wow..🔥",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TyC：阿根廷希望让帕雷德斯回归，力求将他禁赛从6场减至3场",
+          "title": "马卡报：发布会彻底引爆矛盾，或许C罗国家队生涯已经结束",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯：之前和C罗说过他不上；但赛中怕需要他就让他去热身",
+          "title": "球迷社媒称葡萄牙民众不配拥有C罗，C罗大姐转发表示赞同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪亚斯：C罗没谢场仅20秒沮丧，哪有球员从没和教练发生摩擦",
+          "title": "记者：布宜诺斯艾利斯大学将授予梅西博士学位，下周二颁发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "SIC：C罗在等待回马德里的飞机，此举也代表放弃国家队集训",
+          "title": "葡萄牙足协官方：C罗已离开本期国家队集训，其他人专注比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗私人航班显示将在今天飞往马德里；各方暂未更新具体细节",
+          "title": "C罗二姐：明明该说的却不拿事实，他们叭叭的其实啥也不知道",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "出了萨区才发现，亚马尔在区外风评真的差啊",
+          "title": "C罗姐姐点赞C罗亲自宣布退出本期葡萄牙国家队的Ins帖子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我服了，拜仁专区现在只有一个主题就是黑亚马尔和与他相关的所有事",
+          "title": "C罗：我决定离开国家队集训营，合适时候会向所有人说出真相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "记录报：葡足协未结清26世界杯奖金，教练组只发了三分之一",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥莱里  塞门约加上恩佐应该就够了，曼城如果真有问题这三个买来就解决问题了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -77,45 +94,45 @@
           "title": "罗德里的视野好厉害，19年转会曼城，26年转会巴萨，每一步都踩在点上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "C罗：我决定离开国家队集训营，合适时候会向所有人说出真相",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔传球那么厉害，为啥射术不行",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "萨默尔：默特萨克必须强硬担当德国足球领袖",
+          "title": "C罗：我决定离开训练营，将适时向葡萄牙人民讲述我离开的真相",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙足协：菲利克斯已恢复合练；C罗没有参加训练",
+          "title": "C罗争议时间线：始于踢挪威未登场，战丹麦发布会后离开训练场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马卡：C罗提前结束欧国联比赛，可能标志着其国家队生涯的终结",
+          "title": "葡萄牙足协官方：C罗离开训练营，全队将专注备战接下来的比赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "真性情？C罗曾称葡萄牙不需要他时会主动离开，如今提前离营",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡媒：C罗的私人飞机即将飞抵哥本哈根，并计划返回马德里",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗体：欧足联警告意足协，政治干预或危及2032欧洲杯",
+          "title": "葡媒：C罗已做出不可逆的决定，不会再代表葡萄牙国家队出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
