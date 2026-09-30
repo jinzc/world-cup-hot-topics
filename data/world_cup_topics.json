@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-30 20:23:17",
+  "update_time": "2026-10-01 02:21:18",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "亚运国足1-2韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E5%9B%BD%E8%B6%B31-2%E9%9F%A9%E5%9B%BD",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,33 +29,93 @@
     "虎扑": {
       "topics": [
         {
-          "title": "卡拉格：同情德布劳内，世人看待他的曼城生涯会用虚假一词",
+          "title": "挪威主帅：厄德高被B席铲抢后，仍不知道能否出战接下的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：德拉富恩特有意安排佩德里当替补，他尽职尽责地接受",
+          "title": "丹麦主帅：C罗在葡萄牙重要性被低估，很确定他该留在国家队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]阿斯：德拉富恩特有意安排佩德里当替补，他尽职尽责地接受",
+          "title": "TyC：阿根廷希望让帕雷德斯回归，力求将他禁赛从6场减至3场",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "热苏斯：之前和C罗说过他不上；但赛中怕需要他就让他去热身",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "迪亚斯：C罗没谢场仅20秒沮丧，哪有球员从没和教练发生摩擦",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "SIC：C罗在等待回马德里的飞机，此举也代表放弃国家队集训",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "C罗私人航班显示将在今天飞往马德里；各方暂未更新具体细节",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "出了萨区才发现，亚马尔在区外风评真的差啊",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我服了，拜仁专区现在只有一个主题就是黑亚马尔和与他相关的所有事",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗德里的视野好厉害，19年转会曼城，26年转会巴萨，每一步都踩在点上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "国足亚运队1-2遭韩国逆转无缘决赛，王钰栋建功，裴峻浩绝杀",
+          "title": "萨默尔：默特萨克必须强硬担当德国足球领袖",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙足协：菲利克斯已恢复合练；C罗没有参加训练",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：C罗提前结束欧国联比赛，可能标志着其国家队生涯的终结",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "真性情？C罗曾称葡萄牙不需要他时会主动离开，如今提前离营",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡媒：C罗的私人飞机即将飞抵哥本哈根，并计划返回马德里",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "罗体：欧足联警告意足协，政治干预或危及2032欧洲杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
