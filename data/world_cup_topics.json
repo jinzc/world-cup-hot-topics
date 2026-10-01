@@ -1,28 +1,22 @@
 {
-  "update_time": "2026-10-01 16:45:36",
+  "update_time": "2026-10-02 00:15:53",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗 国家队",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "title": "C罗退队惊动葡萄牙总理",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗说若不上场葡萄牙能赢就离开",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%AF%B4%E8%8B%A5%E4%B8%8D%E4%B8%8A%E5%9C%BA%E8%91%A1%E8%90%84%E7%89%99%E8%83%BD%E8%B5%A2%E5%B0%B1%E7%A6%BB%E5%BC%80",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗球迷集体取关葡萄牙",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%90%83%E8%BF%B7%E9%9B%86%E4%BD%93%E5%8F%96%E5%85%B3%E8%91%A1%E8%90%84%E7%89%99",
+          "title": "葡足协品牌将因C罗退出大幅贬值",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%93%81%E7%89%8C%E5%B0%86%E5%9B%A0C%E7%BD%97%E9%80%80%E5%87%BA%E5%A4%A7%E5%B9%85%E8%B4%AC%E5%80%BC",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -33,17 +27,22 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗为何要自宣离队",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
+          "title": "葡萄牙7号已由C罗更换为莱奥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%997%E5%8F%B7%E5%B7%B2%E7%94%B1C%E7%BD%97%E6%9B%B4%E6%8D%A2%E4%B8%BA%E8%8E%B1%E5%A5%A5",
           "hot": 0
         },
         {
-          "title": "热苏斯食言或致C罗离队",
-          "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E8%8B%8F%E6%96%AF%E9%A3%9F%E8%A8%80%E6%88%96%E8%87%B4C%E7%BD%97%E7%A6%BB%E9%98%9F",
+          "title": "解说C罗离队真实原因",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4C%E7%BD%97%E7%A6%BB%E9%98%9F%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0",
+          "hot": 0
+        },
+        {
+          "title": "C罗为何要自宣离队",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -56,7 +55,7 @@
         {
           "title": "C罗宣布离开国家队集训营",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5",
-          "hot": "812.9万"
+          "hot": "772.9万"
         }
       ],
       "count": 1,
@@ -65,27 +64,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "葡记者：葡萄牙主教练热苏斯今天对丹麦赛后将公开向C罗道歉",
+          "title": "C罗离队后，葡萄牙ins已掉粉70万以上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "土超球员身价榜：奥斯梅恩、莱奥和格林伍德排名前三",
+          "title": "穆里尼奥社媒发文辟谣评论C罗国家队风波：太多假新闻了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗7天前采访：我知道教练信任我，如果不是我立刻就走",
+          "title": "亚马尔就算今年拿不了金球，明年肯定能拿",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：维尼修斯承认表现糟糕并自责，皇马和巴西都在帮他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "一些人先是吹穆里尼奥能拿下姆巴佩的希望落空后，现在又来吹齐达内能让姆巴佩替补边缘化姆巴佩。",
+          "title": "[流言板]姆巴佩发布Instagram快拍，配图世界杯金靴+铜球奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -95,28 +89,24 @@
           "hot": ""
         },
         {
-          "title": "有葡萄牙的C罗和没葡萄牙的C罗，商业待遇不一样？梅西是否同理？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]法国安保负责人谈姆巴佩：等了一辈子的天选之子就在我身边",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]法国队安保负责人向15位足球人借钱，姆巴佩借他12万欧最多",
+          "title": "欧足联第4条能禁巴萨欧战，但西甲冠军它管不着",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "记录报副主编：C罗对儿子落选葡萄牙U16感到不满",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
