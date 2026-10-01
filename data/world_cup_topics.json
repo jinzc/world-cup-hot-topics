@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-02 00:15:53",
+  "update_time": "2026-10-02 05:43:49",
   "sources": {
     "微博": {
       "topics": [
@@ -8,15 +8,9 @@
           "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "葡足协品牌将因C罗退出大幅贬值",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%93%81%E7%89%8C%E5%B0%86%E5%9B%A0C%E7%BD%97%E9%80%80%E5%87%BA%E5%A4%A7%E5%B9%85%E8%B4%AC%E5%80%BC",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -32,17 +26,12 @@
           "hot": 0
         },
         {
-          "title": "解说C罗离队真实原因",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4C%E7%BD%97%E7%A6%BB%E9%98%9F%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0",
-          "hot": 0
-        },
-        {
           "title": "C罗为何要自宣离队",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
           "hot": 0
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -53,23 +42,33 @@
     "抖音": {
       "topics": [
         {
+          "title": "C罗莱奥同为葡萄牙队7号",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7",
+          "hot": "939万"
+        },
+        {
           "title": "C罗宣布离开国家队集训营",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5",
-          "hot": "772.9万"
+          "hot": "921.2万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "C罗离队后，葡萄牙ins已掉粉70万以上",
+          "title": "乌尔比希：赛前诺伊尔/乌尔赖希给我发短信，祝贺我首秀",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥社媒发文辟谣评论C罗国家队风波：太多假新闻了",
+          "title": "维尔茨：这场踢得太过瘾了，全队把所有细节都做对了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莱奥本场2关键传球2过人，对抗4胜3，2次夺回球权",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -79,33 +78,43 @@
           "hot": ""
         },
         {
-          "title": "[流言板]姆巴佩发布Instagram快拍，配图世界杯金靴+铜球奖",
+          "title": "感觉亚马尔金球稳了啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "O Jogo：C罗将从葡萄牙国家队退役，决定已做出。",
+          "title": "每体：26岁菲利克斯希望明夏自由身重返巴萨，门德斯已告知巴萨方",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧足联第4条能禁巴萨欧战，但西甲冠军它管不着",
+          "title": "[流言板]队报：姆巴佩和伴侣出现在巴黎夜店，引发皇马球迷严重不满",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "还是那句话，皇马永远是C罗的大本营。梅西巴萨未期还带崩了巴萨的财政，好几年才缓过来。但是C罗对于皇马来说，没有任何副作用，就算是18年C罗要求涨薪，也是因为（才得到了欧冠＋对标梅西薪资）也是合情合理的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记录报副主编：C罗对儿子落选葡萄牙U16感到不满",
+          "title": "葡萄牙4-2丹麦，霍伊伦破门+复刻C罗招牌庆祝动作，拉莫斯传射",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "德国2-0塞尔维亚迎来克洛普上任首胜，比朔夫、维尔茨建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
