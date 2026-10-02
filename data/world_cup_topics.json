@@ -1,41 +1,41 @@
 {
-  "update_time": "2026-10-02 23:40:05",
+  "update_time": "2026-10-03 04:36:20",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "董路谈国足0比5巴勒斯坦",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E8%B7%AF%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
+          "title": "国足0比5惨败却让小将接受采访",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "国足0比5巴勒斯坦",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
+          "title": "巴勒斯坦球员回应5比0国足",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%9B%9E%E5%BA%945%E6%AF%940%E5%9B%BD%E8%B6%B3",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "国足惨败后防集体梦游",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%83%A8%E8%B4%A5%E5%90%8E%E9%98%B2%E9%9B%86%E4%BD%93%E6%A2%A6%E6%B8%B8",
+          "title": "巴勒斯坦主帅说不评价国足防守",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%B8%BB%E5%B8%85%E8%AF%B4%E4%B8%8D%E8%AF%84%E4%BB%B7%E5%9B%BD%E8%B6%B3%E9%98%B2%E5%AE%88",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "巴勒斯坦回应5比0大胜国足",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%9E%E5%BA%945%E6%AF%940%E5%A4%A7%E8%83%9C%E5%9B%BD%E8%B6%B3",
+          "title": "国足首发身价不及巴勒斯坦一半",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%E8%BA%AB%E4%BB%B7%E4%B8%8D%E5%8F%8A%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%B8%80%E5%8D%8A",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "国足排名遭巴勒斯坦超越",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E6%8E%92%E5%90%8D%E9%81%AD%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%B6%85%E8%B6%8A",
+          "title": "赵松源回归国足大名单",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9D%BE%E6%BA%90%E5%9B%9E%E5%BD%92%E5%9B%BD%E8%B6%B3%E5%A4%A7%E5%90%8D%E5%8D%95",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "国足 惨败",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%20%E6%83%A8%E8%B4%A5",
+          "title": "国足连续两场被对手中路打穿",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E8%A2%AB%E5%AF%B9%E6%89%8B%E4%B8%AD%E8%B7%AF%E6%89%93%E7%A9%BF",
           "hot": 0,
           "label": ""
         }
@@ -54,9 +54,14 @@
           "title": "解说国足0-5巴勒斯坦",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E5%9B%BD%E8%B6%B30-5%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
           "hot": 0
+        },
+        {
+          "title": "C罗为何要自宣离队",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
+          "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -69,7 +74,7 @@
         {
           "title": "国足0:5不敌巴勒斯坦",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A5%E4%B8%8D%E6%95%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
-          "hot": "1214.6万"
+          "hot": "1146.9万"
         }
       ],
       "count": 1,
@@ -78,32 +83,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "里斯本C罗广告牌作者：这是个人行为，对热苏斯的批评过头了",
+          "title": "跟队：姆巴佩何时回来取决于自己，很多涉及他的事都是这样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "弗雷德：滕哈赫的更衣室管理很糟糕，他和C罗吵架，和所有人吵架",
+          "title": "比达尔力挺C罗：热苏斯不懂得如何照顾葡萄牙最伟大传奇球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大家可以看看这位up主发的关于亚马尔的视频",
+          "title": "德布劳内迎200球里程碑：曼城108球，比利时39球，狼堡20球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "剑指国家德比！世体：皇马谨慎对待姆巴佩，希望他满状态出战巴萨",
+          "title": "半场：比利时1-0土耳其，德布劳内闪击破门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西甲身价即将更新！德转预热维尼修斯新身价，最低仅1.2亿欧",
+          "title": "曼城如果自己搞一个联赛，搜集一些诸如罗哥啊，姆巴佩啊，博格巴啊，鸟子哥啊，滕哈格啊之类的流量巨星，能不能跟沙超一样挤进五大联赛？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔现在算是西甲头牌了吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔就算今年拿不了金球，明年肯定能拿",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "O Jogo：C罗将从葡萄牙国家队退役，决定已做出。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]跟队：姆巴佩何时回来取决于自己，很多涉及他的事都是这样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
@@ -114,37 +139,17 @@
           "hot": ""
         },
         {
-          "title": "国足历史上首次不敌巴勒斯坦，此前5胜2平保持不败",
+          "title": "穆勒：梅西是历史最佳，不仅数据出色而且看他踢球也很享受",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "球迷态度：0-5耻辱性惨败巴勒斯坦，如何看待这支国足的未来？",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "国足0-5不敌巴勒斯坦热议：彻底洗牌吧，根本没有必要再试了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "做好心理准备吧，国足对下个对手塔吉克斯坦历史4胜2平只丢1球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "球报：葡萄牙足协积极推动双方达成共识，避免C罗退出国家队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "其他人呢？国足0-5惨败后让17岁小将赵松源参加瞬采",
+          "title": "德拉富恩特：C罗离营？我不了解相关信息，无法评价",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
