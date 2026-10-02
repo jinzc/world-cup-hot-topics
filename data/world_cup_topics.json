@@ -1,34 +1,16 @@
 {
-  "update_time": "2026-10-02 09:31:02",
+  "update_time": "2026-10-02 16:19:54",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "葡萄牙首次在无C罗情况下打进4球",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%97%A0C%E7%BD%97%E6%83%85%E5%86%B5%E4%B8%8B%E6%89%93%E8%BF%9B4%E7%90%83",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "霍伊伦说C罗可能结束了国家队生涯",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E4%BC%8A%E4%BC%A6%E8%AF%B4C%E7%BD%97%E5%8F%AF%E8%83%BD%E7%BB%93%E6%9D%9F%E4%BA%86%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗回应霍伊伦模仿",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E9%9C%8D%E4%BC%8A%E4%BC%A6%E6%A8%A1%E4%BB%BF",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "葡萄牙民众谈C罗退出集训",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E6%B0%91%E4%BC%97%E8%B0%88C%E7%BD%97%E9%80%80%E5%87%BA%E9%9B%86%E8%AE%AD",
+          "title": "曝C罗退队与迷你罗落选有关",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -37,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗为何要自宣离队",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -47,116 +35,55 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "C罗莱奥同为葡萄牙队7号",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7",
-          "hot": "916.9万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "丹麦主帅谈C罗：教练不可能做到让所有人满意，最重要是公平",
+          "title": "新历史！中国女足亚运会史上首次成绩无法超越中国男足",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费利马卢克肖马奎尔本季合同到期，曼联要决定是否续约他们",
+          "title": "葡媒盘点C罗离队网络谣言：国家队掉粉800万，彪马撤赞助等",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莱奥社媒晒全队合照，以及“肩负使命”海报，配文： 3/4✅",
+          "title": "阿利松迎来34岁生日，利物浦俱乐部官方社媒送祝福",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费更新社媒庆胜，晒佩戴队长袖标比赛照，以及和球迷相拥照",
+          "title": "马尔基尼奥斯：巴西尊重印度；安切洛蒂他正在开启新的周期",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯麾下迎来爆发！菲利克斯生涯首次连续3场为葡萄牙进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亨利：一次争议不能定义传奇生涯，我对C罗的尊重和梅西一样",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "霍伊伦：做SIU庆祝是想致敬C罗，他很可能已结束国家队生涯",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费迪南德声援C罗：他出现之前葡萄牙足球算什么水平？请尊重他！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗生涯暮年为什么这么不体面？ C罗极端的性格是一把双刃剑",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：26岁菲利克斯希望明夏自由身重返巴萨，门德斯已告知巴萨方",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩可以盖棺定论了",
+          "title": "唉，葡萄牙真可惜啊，罗早爆些，世界杯估计有说法",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "葡萄牙4-2丹麦，霍伊伦破门+复刻C罗招牌庆祝动作，拉莫斯传射",
+          "title": "国米门将马丁内斯：犯错后要向前看，我很平静地看待一切",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德国2-0塞尔维亚迎来克洛普上任首胜，比朔夫、维尔茨建功",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗驾车离开马德里下榻酒店，周围众人围观+拍照",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "帕斯传射建功后社媒晒照，大马丁评论：新10号？",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "奥莱报：梅西旗下已坐拥西乙、乌拉圭、阿根廷联赛的五支球队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "霍伊伦两年前采访：C罗一直是我的偶像，我会关注他所在的球队",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "霍伊伦：SIU是为了致敬C罗不是冒犯，他是我的偶像",
+          "title": "霍伊伦：我想告诉葡萄牙队，世界上还有很多人依然仰慕C罗",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
