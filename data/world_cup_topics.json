@@ -1,16 +1,34 @@
 {
-  "update_time": "2026-10-02 05:43:49",
+  "update_time": "2026-10-02 09:31:02",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗退队惊动葡萄牙总理",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86",
+          "title": "葡萄牙首次在无C罗情况下打进4球",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%97%A0C%E7%BD%97%E6%83%85%E5%86%B5%E4%B8%8B%E6%89%93%E8%BF%9B4%E7%90%83",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "霍伊伦说C罗可能结束了国家队生涯",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E4%BC%8A%E4%BC%A6%E8%AF%B4C%E7%BD%97%E5%8F%AF%E8%83%BD%E7%BB%93%E6%9D%9F%E4%BA%86%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗回应霍伊伦模仿",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E9%9C%8D%E4%BC%8A%E4%BC%A6%E6%A8%A1%E4%BB%BF",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "葡萄牙民众谈C罗退出集训",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E6%B0%91%E4%BC%97%E8%B0%88C%E7%BD%97%E9%80%80%E5%87%BA%E9%9B%86%E8%AE%AD",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 1,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -19,20 +37,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "葡萄牙7号已由C罗更换为莱奥",
-          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%997%E5%8F%B7%E5%B7%B2%E7%94%B1C%E7%BD%97%E6%9B%B4%E6%8D%A2%E4%B8%BA%E8%8E%B1%E5%A5%A5",
-          "hot": 0
-        },
-        {
-          "title": "C罗为何要自宣离队",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -44,41 +51,56 @@
         {
           "title": "C罗莱奥同为葡萄牙队7号",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7",
-          "hot": "939万"
-        },
-        {
-          "title": "C罗宣布离开国家队集训营",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5",
-          "hot": "921.2万"
+          "hot": "916.9万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "乌尔比希：赛前诺伊尔/乌尔赖希给我发短信，祝贺我首秀",
+          "title": "丹麦主帅谈C罗：教练不可能做到让所有人满意，最重要是公平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尔茨：这场踢得太过瘾了，全队把所有细节都做对了",
+          "title": "B费利马卢克肖马奎尔本季合同到期，曼联要决定是否续约他们",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "莱奥本场2关键传球2过人，对抗4胜3，2次夺回球权",
+          "title": "莱奥社媒晒全队合照，以及“肩负使命”海报，配文： 3/4✅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔就算今年拿不了金球，明年肯定能拿",
+          "title": "B费更新社媒庆胜，晒佩戴队长袖标比赛照，以及和球迷相拥照",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "感觉亚马尔金球稳了啊",
+          "title": "热苏斯麾下迎来爆发！菲利克斯生涯首次连续3场为葡萄牙进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亨利：一次争议不能定义传奇生涯，我对C罗的尊重和梅西一样",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "霍伊伦：做SIU庆祝是想致敬C罗，他很可能已结束国家队生涯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "费迪南德声援C罗：他出现之前葡萄牙足球算什么水平？请尊重他！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "C罗生涯暮年为什么这么不体面？ C罗极端的性格是一把双刃剑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -88,17 +110,12 @@
           "hot": ""
         },
         {
-          "title": "[流言板]队报：姆巴佩和伴侣出现在巴黎夜店，引发皇马球迷严重不满",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "还是那句话，皇马永远是C罗的大本营。梅西巴萨未期还带崩了巴萨的财政，好几年才缓过来。但是C罗对于皇马来说，没有任何副作用，就算是18年C罗要求涨薪，也是因为（才得到了欧冠＋对标梅西薪资）也是合情合理的",
+          "title": "姆巴佩可以盖棺定论了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
@@ -112,9 +129,34 @@
           "title": "德国2-0塞尔维亚迎来克洛普上任首胜，比朔夫、维尔茨建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
+        },
+        {
+          "title": "C罗驾车离开马德里下榻酒店，周围众人围观+拍照",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "帕斯传射建功后社媒晒照，大马丁评论：新10号？",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥莱报：梅西旗下已坐拥西乙、乌拉圭、阿根廷联赛的五支球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "霍伊伦两年前采访：C罗一直是我的偶像，我会关注他所在的球队",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "霍伊伦：SIU是为了致敬C罗不是冒犯，他是我的偶像",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "小红书": {
