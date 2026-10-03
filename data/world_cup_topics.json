@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-10-04 04:56:33",
+  "update_time": "2026-10-04 07:43:23",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "凯恩破门英格兰1比0领先克罗地亚",
-          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8%E8%8B%B1%E6%A0%BC%E5%85%B01%E6%AF%940%E9%A2%86%E5%85%88%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+          "title": "中国男足登上新闻联播",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E7%99%BB%E4%B8%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD",
           "hot": 0,
           "label": ""
         },
@@ -16,19 +16,13 @@
           "label": ""
         },
         {
-          "title": "中国男足登上新闻联播",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E7%99%BB%E4%B8%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD",
-          "hot": 0,
-          "label": ""
-        },
-        {
           "title": "巴勒斯坦球员向国足道歉",
           "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -49,94 +43,94 @@
     "抖音": {
       "topics": [
         {
-          "title": "巴勒斯坦球员向国足道歉",
-          "url": "https://www.douyin.com/search/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
-          "hot": "885.9万"
-        },
-        {
           "title": "中国男足获亚运铜牌",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
-          "hot": "882.4万"
+          "hot": "771.9万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "罗德里时隔两年再次为西班牙队进球，国家队生涯已打入5球",
+          "title": "致敬偶像！亚马尔复刻内马尔经典插花脚停球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "扩大比分！罗德里中路跟进射门得分，西班牙2-0",
+          "title": "阿根廷vs布基纳法索首发：罗梅罗领衔，小蜘蛛、劳塔罗出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "闪击高手！亚马尔国家队11球有5球来自前10分钟",
+          "title": "亚马尔开场轰世界波，德拉富恩特双手抱头难以置信",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔连续3场开场闪击，此前两战分别仅用104秒和70秒",
+          "title": "亚马尔赛后把球衣送给球童，孩子拿到后激动落泪",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩晒照庆祝胜利：从第一分钟就占据主导，为小伙子们骄傲",
+          "title": "莫德里奇谈0-7英格兰：我在克罗地亚待了20年，首次感到羞耻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗姐姐在乔治娜发帖后点赞炮制的弗格森假发言，目前未撤回",
+          "title": "贝林厄姆世界杯以来11场国家队比赛8球5助，直接参与13球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "斯科特：早知道凯恩强得离谱，但近距离才更好感受他的高度",
+          "title": "1球3助！官方：贝林厄姆当选英格兰本场最佳，球迷为其颁奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德声援C罗：他出现之前葡萄牙足球算什么水平？请尊重他！",
+          "title": "德拉富恩特：亚马尔从未停止带来惊喜，最好的他还尚未到来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "关于C罗退队风波，今天看到一个特别有意思的神评，“二进制球”，真是笑死了。哈哈哈",
+          "title": "罗德里：已经有段时间没进球了，希望能重新找回进球的感觉",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔最近脚感真无敌的好",
+          "title": "太阳报：曼联商店最畅销的球衣是芒特的7号，拉什福德第二",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2028年前，姆巴佩必暴雷",
+          "title": "世界杯那个客场球衣还有机会穿吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "踢印度都各项挂0，维尼修斯这状态到底跌到哪一步了",
+          "title": "国家队应该没有姆巴佩吧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林和姆巴佩，不是能力问题，是不搭",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆太猛了，皇马是不是该考虑围绕贝林建队啊？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
           "title": "国足亚运队6-5点杀乌兹夺得铜牌！李昊两次扑点，王钰栋世界波",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "国足点杀乌兹夺得亚运铜牌，创近28年来亚运最佳战绩",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
@@ -149,9 +143,24 @@
           "title": "西班牙3-1十人捷克，亚马尔连续3场闪击，罗德里、梅里诺建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
+        },
+        {
+          "title": "国足惨败后让17岁小将接受采访，浙媒：折射内部责任文化缺失",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "皮亚尼奇：罗马能夺意甲冠军；梅西能弥补我们犯的错",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "皮亚尼奇：之前我和迪巴拉竞争尤文任意球，C罗来了都交给他",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
