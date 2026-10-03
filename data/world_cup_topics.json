@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-03 04:36:20",
+  "update_time": "2026-10-03 08:21:07",
   "sources": {
     "微博": {
       "topics": [
@@ -10,8 +10,8 @@
           "label": ""
         },
         {
-          "title": "巴勒斯坦球员回应5比0国足",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%9B%9E%E5%BA%945%E6%AF%940%E5%9B%BD%E8%B6%B3",
+          "title": "葡足协主席希望C罗能体面谢幕",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%B8%8C%E6%9C%9BC%E7%BD%97%E8%83%BD%E4%BD%93%E9%9D%A2%E8%B0%A2%E5%B9%95",
           "hot": 0,
           "label": ""
         },
@@ -26,21 +26,9 @@
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%E8%BA%AB%E4%BB%B7%E4%B8%8D%E5%8F%8A%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%B8%80%E5%8D%8A",
           "hot": 0,
           "label": ""
-        },
-        {
-          "title": "赵松源回归国足大名单",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9D%BE%E6%BA%90%E5%9B%9E%E5%BD%92%E5%9B%BD%E8%B6%B3%E5%A4%A7%E5%90%8D%E5%8D%95",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "国足连续两场被对手中路打穿",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E8%A2%AB%E5%AF%B9%E6%89%8B%E4%B8%AD%E8%B7%AF%E6%89%93%E7%A9%BF",
-          "hot": 0,
-          "label": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -51,17 +39,12 @@
     "B站": {
       "topics": [
         {
-          "title": "解说国足0-5巴勒斯坦",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E5%9B%BD%E8%B6%B30-5%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
-          "hot": 0
-        },
-        {
           "title": "C罗为何要自宣离队",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E4%B8%BA%E4%BD%95%E8%A6%81%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F",
           "hot": 0
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "知乎": {
@@ -70,65 +53,64 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "国足0:5不敌巴勒斯坦",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A5%E4%B8%8D%E6%95%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6",
-          "hot": "1146.9万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "跟队：姆巴佩何时回来取决于自己，很多涉及他的事都是这样",
+          "title": "苏比门迪：我身前是世界第一后腰；亚马尔像来自另一个星球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "比达尔力挺C罗：热苏斯不懂得如何照顾葡萄牙最伟大传奇球员",
+          "title": "赵松源：国足大家都很有拼劲，细节没有做好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德布劳内迎200球里程碑：曼城108球，比利时39球，狼堡20球",
+          "title": "德布劳内：我的身体状态比去年好；不在乎去年的批评声",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "半场：比利时1-0土耳其，德布劳内闪击破门",
+          "title": "怎么评？国足效仿大巴黎开球方式，结果刘洋没踢远开给对手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼城如果自己搞一个联赛，搜集一些诸如罗哥啊，姆巴佩啊，博格巴啊，鸟子哥啊，滕哈格啊之类的流量巨星，能不能跟沙超一样挤进五大联赛？",
+          "title": "齐达内：登贝莱创造了机会；若姆巴佩在远射可能是有力武器",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔现在算是西甲头牌了吗？",
+          "title": "[流言板]前西甲裁判：欧足联仅确认皇马补交材料，不会改变案件进程",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔就算今年拿不了金球，明年肯定能拿",
+          "title": "[流言板]前西甲裁判：欧足联仅确认皇马补交材料，不会改变案件进程",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "O Jogo：C罗将从葡萄牙国家队退役，决定已做出。",
+          "title": "[流言板]姆巴佩发布Instagram快拍，配图世界杯金靴+铜球奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]跟队：姆巴佩何时回来取决于自己，很多涉及他的事都是这样",
+          "title": "这个人真敬业，半夜看法国队比赛也要发帖喷没上场的姆巴佩，这是什么人类？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "原来姆巴佩2024年带队法国队主场输给了意大利",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
@@ -139,17 +121,12 @@
           "hot": ""
         },
         {
-          "title": "穆勒：梅西是历史最佳，不仅数据出色而且看他踢球也很享受",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "德拉富恩特：C罗离营？我不了解相关信息，无法评价",
+          "title": "贝宁前锋穆涅：能够参加梅西的国家队告别战是极其难得的机会",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
