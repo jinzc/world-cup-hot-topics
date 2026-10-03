@@ -1,11 +1,17 @@
 {
-  "update_time": "2026-10-04 01:09:19",
+  "update_time": "2026-10-04 04:56:33",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "巴勒斯坦球员向国足道歉",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+          "title": "凯恩破门英格兰1比0领先克罗地亚",
+          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8%E8%8B%B1%E6%A0%BC%E5%85%B01%E6%AF%940%E9%A2%86%E5%85%88%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "中国足球",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83",
           "hot": 0,
           "label": ""
         },
@@ -14,9 +20,15 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E7%99%BB%E4%B8%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "巴勒斯坦球员向国足道歉",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -37,48 +49,83 @@
     "抖音": {
       "topics": [
         {
+          "title": "巴勒斯坦球员向国足道歉",
+          "url": "https://www.douyin.com/search/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+          "hot": "885.9万"
+        },
+        {
           "title": "中国男足获亚运铜牌",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
-          "hot": "1178.8万"
+          "hot": "882.4万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "是否可能和C罗和解？热苏斯：重点必须放葡萄牙，不是无视他",
+          "title": "罗德里时隔两年再次为西班牙队进球，国家队生涯已打入5球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林再送助攻，萨卡跟进破门，英格兰4-0",
+          "title": "扩大比分！罗德里中路跟进射门得分，西班牙2-0",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗母亲Instagram点赞帖子：母亲永远会心疼她被谩骂的儿子",
+          "title": "闪击高手！亚马尔国家队11球有5球来自前10分钟",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯vs印度数据：0球0助，0过人0关键传球0传中0对抗",
+          "title": "亚马尔连续3场开场闪击，此前两战分别仅用104秒和70秒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "人怕出名猪怕壮，世界杯到现在，贝林一拿球，真的就框框一顿伸脚干他",
+          "title": "凯恩晒照庆祝胜利：从第一分钟就占据主导，为小伙子们骄傲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆太猛了，皇马是不是该考虑围绕贝林建队啊？",
+          "title": "C罗姐姐在乔治娜发帖后点赞炮制的弗格森假发言，目前未撤回",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "斯科特：早知道凯恩强得离谱，但近距离才更好感受他的高度",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "费迪南德声援C罗：他出现之前葡萄牙足球算什么水平？请尊重他！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "关于C罗退队风波，今天看到一个特别有意思的神评，“二进制球”，真是笑死了。哈哈哈",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔最近脚感真无敌的好",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2028年前，姆巴佩必暴雷",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "踢印度都各项挂0，维尼修斯这状态到底跌到哪一步了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
@@ -94,22 +141,17 @@
           "hot": ""
         },
         {
-          "title": "半场：英格兰4-0克罗地亚，贝林2传1射，戈登传射，凯恩破门",
+          "title": "英格兰客场7-0狂胜克罗地亚，贝林1射3传，凯恩2射1传，萨卡双响",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "孙兴慜：我理解金玟哉，足球是团队运动需要大家一起努力",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "无缘闭幕式旗手？国足亚运队将于10月4日下午抵达北京",
+          "title": "西班牙3-1十人捷克，亚马尔连续3场闪击，罗德里、梅里诺建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
