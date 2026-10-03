@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-03 20:24:59",
+  "update_time": "2026-10-04 01:09:19",
   "sources": {
     "微博": {
       "topics": [
@@ -10,8 +10,8 @@
           "label": ""
         },
         {
-          "title": "U23国足铜牌",
-          "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3%E9%93%9C%E7%89%8C",
+          "title": "中国男足登上新闻联播",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E7%99%BB%E4%B8%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD",
           "hot": 0,
           "label": ""
         }
@@ -25,15 +25,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "亚运会国足夺铜牌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -45,7 +39,7 @@
         {
           "title": "中国男足获亚运铜牌",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C",
-          "hot": "1200万"
+          "hot": "1178.8万"
         }
       ],
       "count": 1,
@@ -54,47 +48,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "挪威中场：难说有无C罗的哪个葡萄牙更强，但我对他充满敬意",
+          "title": "是否可能和C罗和解？热苏斯：重点必须放葡萄牙，不是无视他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "人气高！维尼修斯刚现身印度就被当地球迷包围",
+          "title": "贝林再送助攻，萨卡跟进破门，英格兰4-0",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世体：巴萨18岁中场佩德罗-罗德里格斯已和球队续约至2030年",
+          "title": "C罗母亲Instagram点赞帖子：母亲永远会心疼她被谩骂的儿子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "刘建宏谈国足摘铜：这波像过年，李昊门前表现真的太稳",
+          "title": "维尼修斯vs印度数据：0球0助，0过人0关键传球0传中0对抗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：26岁菲利克斯希望明夏自由身重返巴萨，门德斯已告知巴萨方",
+          "title": "人怕出名猪怕壮，世界杯到现在，贝林一拿球，真的就框框一顿伸脚干他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]AI专家：未来会更早发现新亚马尔，但比赛最终仍由天赋决定",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]小安：维尼修斯不骗你也不退缩；皇马失去了克罗斯就是失去",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "西甲身价即将更新！德转预热维尼修斯新身价，最低仅1.2亿欧",
+          "title": "贝林厄姆太猛了，皇马是不是该考虑围绕贝林建队啊？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
@@ -110,17 +94,17 @@
           "hot": ""
         },
         {
-          "title": "索尔巴肯：C罗缺阵让我们更明确如何准备，葡萄牙实力欧洲前三",
+          "title": "半场：英格兰4-0克罗地亚，贝林2传1射，戈登传射，凯恩破门",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "国足亚运队获铜牌，毛伟杰：太狠了兄弟们，我会尽快回到赛场",
+          "title": "孙兴慜：我理解金玟哉，足球是团队运动需要大家一起努力",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "安东尼奥说“难以想象国足0-5巴勒斯坦”？原话其实是这样的",
+          "title": "无缘闭幕式旗手？国足亚运队将于10月4日下午抵达北京",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
