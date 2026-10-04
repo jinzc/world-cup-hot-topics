@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-05 01:25:19",
+  "update_time": "2026-10-05 05:12:12",
   "sources": {
     "微博": {
       "topics": [
@@ -39,7 +39,7 @@
         {
           "title": "B费谈C罗离队",
           "url": "https://www.douyin.com/search/B%E8%B4%B9%E8%B0%88C%E7%BD%97%E7%A6%BB%E9%98%9F",
-          "hot": "769.4万"
+          "hot": "934.1万"
         }
       ],
       "count": 1,
@@ -48,32 +48,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "凯恩对阵柏林联合球衣以5.5万欧元拍卖，部分收入将用于慈善",
+          "title": "姆巴佩晒骑车视频配意味深长歌曲，疑似回应近期场外争议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧足联官方允许以色列今晚佩戴黑纱，可能引发进一步的冲突",
+          "title": "记者：德保罗在国家队重要性下降，去美国不是好的竞技决定",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "医美专家：维尼修斯到底做了什么看不出；C罗的关键还是自律",
+          "title": "菲利克斯做球，贡萨洛-拉莫斯吃饼破门，葡萄牙2-1挪威",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：B费将是葡萄牙曼联双料队长；卡里克想他下周出战热刺",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "弗雷德：滕哈赫的更衣室管理很糟糕，他和C罗吵架，和所有人吵架",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费迪南德声援C罗：他出现之前葡萄牙足球算什么水平？请尊重他！",
+          "title": "B费的传球真舒服啊看着",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -83,12 +73,12 @@
           "hot": ""
         },
         {
-          "title": "今年如果亚马尔拿到金球奖，谁去颁奖？",
+          "title": "菲利克斯感觉真的不错现在",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯身上那种让你们烦躁的激情和紧张，正是他成功的原因，也是皇马近几年成功的原因",
+          "title": "今天想起了夏天某网友对罗德里的评价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -96,25 +86,30 @@
           "title": "姆巴佩已经在跳脸挑衅俱乐部国家队和球迷了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "[流言板]姆巴佩晒骑车视频配意味深长歌曲，疑似回应近期场外争议",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "记录报：C罗在葡萄牙队的去留未定，尚未商谈告别赛",
+          "title": "努诺-门德斯：我们是一个团结的集体，会张开双臂欢迎C罗回归",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "德媒：德国对阵希腊维尔茨可能首次佩戴队长袖标",
+          "title": "葡萄牙老帅：C罗掉进了热苏斯的陷阱，一切都是事先安排好的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "埃芬博格：德国队长就该是主力，这两场弃用基米希太荒唐了",
+          "title": "球报：热苏斯希望化解和C罗的分歧，11月再征召他",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
