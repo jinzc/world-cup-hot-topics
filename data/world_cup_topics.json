@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-05 23:49:55",
+  "update_time": "2026-10-06 06:29:31",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,58 +35,63 @@
     "虎扑": {
       "topics": [
         {
-          "title": "卡恩：德国足球换帅无法解决根本问题，年轻球员被过度培养",
+          "title": "龙赛罗：姆巴佩还没理解皇马文化，不懂球队为何允许他这样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "笑容满面！利雅得胜利官方晒C罗回归照：GOAT，回到了利雅得",
+          "title": "塞尔：姆巴佩获准离队，皇马对他并无不满也不解外界争议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡电台称姆巴佩不满皇马，姆巴佩回应：我还和姑婆吵架了",
+          "title": "费迪南德：热苏斯必须向C罗道歉，否则他最后可能会被解雇",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪巴拉莫利纳缺席梅西告别，加斯佩里尼：距周日比赛太近了",
+          "title": "TyC：梅西参加阿根廷队最后一练，对阵贝宁迎国家队告别战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "维尼修斯/小蜘蛛身价均降1000万，今夏都曾是阿森纳转会目标",
+          "title": "齐达内这是拿登贝莱当梅西用了啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "身价更新亚马尔以2亿2千万欧位列榜首",
+          "title": "[流言板]马卡：姆巴佩单独完成训练，目标出战比利亚雷亚尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西告别战哪里能看啊",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "德转10月5日皇马球员身价更新：姆巴佩2亿居首，贝林1.6亿第二，维尼修斯1.3亿第三。",
+          "title": "[流言板]塞尔：姆巴佩获准离队，皇马对他并无不满也不解外界争议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "C罗换新发型亮相，利雅得胜利官方晒照：GOAT在这里",
+          "title": "皮尔斯-摩根：C罗没觉得必须踢满所有比赛，他只是不满被羞辱",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "皮尔斯-摩根：热苏斯的做法就像滕哈格，他企图贬低和羞辱C罗",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "沙特媒体：利雅得胜利新主席面临财务危机及菲利克斯去留难题",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
