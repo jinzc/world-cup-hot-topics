@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-05 05:12:12",
+  "update_time": "2026-10-05 08:41:10",
   "sources": {
     "微博": {
       "topics": [
@@ -39,36 +39,46 @@
         {
           "title": "B费谈C罗离队",
           "url": "https://www.douyin.com/search/B%E8%B4%B9%E8%B0%88C%E7%BD%97%E7%A6%BB%E9%98%9F",
-          "hot": "934.1万"
+          "hot": "771.2万"
+        },
+        {
+          "title": "U23国足载誉回国球迷接机",
+          "url": "https://www.douyin.com/search/U23%E5%9B%BD%E8%B6%B3%E8%BD%BD%E8%AA%89%E5%9B%9E%E5%9B%BD%E7%90%83%E8%BF%B7%E6%8E%A5%E6%9C%BA",
+          "hot": "762万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "姆巴佩晒骑车视频配意味深长歌曲，疑似回应近期场外争议",
+          "title": "邀请赛上，U17国足0-3不敌墨西哥U17",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：德保罗在国家队重要性下降，去美国不是好的竞技决定",
+          "title": "谢尔德鲁普：C罗事件？会看新闻社媒，但不了解情况不去评价",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "菲利克斯做球，贡萨洛-拉莫斯吃饼破门，葡萄牙2-1挪威",
+          "title": "范博梅尔：很幸运曾和梅西做队友，记得欧冠决赛他在看台",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费的传球真舒服啊看着",
+          "title": "热苏斯：向C罗道歉？为什么我需要道歉，道歉的主题是什么",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为什么现在亚马尔没有内马尔的热度？",
+          "title": "霍伊伦siu庆祝，B费：他是C罗迷弟 这动作未来几十年还会不断看到",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "理性讨论，19岁的亚马尔哪些技术比19岁的梅西强？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -78,43 +88,33 @@
           "hot": ""
         },
         {
-          "title": "今天想起了夏天某网友对罗德里的评价",
+          "title": "为什么现在亚马尔没有内马尔的热度？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩已经在跳脸挑衅俱乐部国家队和球迷了",
+          "title": "姆巴佩世界杯帽子戏法被高估了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]姆巴佩晒骑车视频配意味深长歌曲，疑似回应近期场外争议",
+          "title": "国家队批准，俱乐部批准姆巴佩休息养伤，姆巴佩骑个车锻炼一下不行？有些人扣什么帽子呢？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "努诺-门德斯：我们是一个团结的集体，会张开双臂欢迎C罗回归",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙老帅：C罗掉进了热苏斯的陷阱，一切都是事先安排好的",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "球报：热苏斯希望化解和C罗的分歧，11月再征召他",
+          "title": "利扎拉祖：自我意识曾成就C罗，如今却成了他最大的敌人",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
