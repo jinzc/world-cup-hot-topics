@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-07 01:07:32",
+  "update_time": "2026-10-07 06:34:47",
   "sources": {
     "微博": {
       "topics": [
@@ -8,9 +8,21 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B4%BA%E7%82%9C%E8%AF%84%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "国足丢球又丢人",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E4%B8%A2%E7%90%83%E5%8F%88%E4%B8%A2%E4%BA%BA",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "卫报谈C罗离开国家队集训营事件",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%AB%E6%8A%A5%E8%B0%88C%E7%BD%97%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5%E4%BA%8B%E4%BB%B6",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "百度": {
@@ -36,27 +48,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "【冠军经理】国家队卡包登场，梅西最后一舞典藏卡同步上线",
+          "title": "欧国联第4轮最佳候选：凯恩/梅里诺/奥利塞/马夫罗帕诺斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亲吻阿根廷队徽，梅西个人社媒发布国家队告别战海报",
+          "title": "告别梅西，直升机挂着巨型梅西球衣飞翔在罗萨里奥的上空",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费加罗报：姆巴佩缺阵，但登贝莱搞砸了本属于他自己的比赛",
+          "title": "【视频】梅西在大巴上用纸巾擦拭泪水，并向球迷致意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿根廷队官方发布视频，预热梅西国家队告别战",
+          "title": "看到球迷们的热情，梅西在大巴上落泪并用纸巾擦拭眼眶",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝宁主帅：成梅西最后对手是莫大荣誉，这次要请他为我签名",
+          "title": "葡媒对照C罗声明与热苏斯发布会表态，多处内容并未完全对应",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "球报：C罗因擅自离开国家队集训，或面临1至6个月禁赛及罚款",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "热苏斯回应C罗声明：还没来得及看，现在回去读，没啥要说的",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙前国脚：C罗有时候非常自我，他缺席对葡萄牙没影响",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "胜利保障，亚马尔近22次俱乐部+国家队首发球队全胜",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "官方：C罗道歉：C罗通过葡媒SIC发布第一人称视角声明。就此前的国家队风波做出说明，其中，他向葡萄牙队友、葡萄牙民众表达了歉意。C罗：在将近25年的职业生涯里，我从未在任何时候干涉过任何一位俱乐部教练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -66,63 +103,88 @@
           "hot": ""
         },
         {
-          "title": "[流言板]曼联伤情汇总：巴莱巴、梅努、拉什福德有望本周战热刺复出",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我觉得现在促成菲利克斯能不能回归的原因就是看拉菲尼亚和亚马尔的伤病",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "姆巴佩：皇马是一家不严肃的俱乐部",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩应该很难回国家队了",
+          "title": "穆帅说不能骑车，姆巴佩转头就发了骑车视频",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：皇马预计姆巴佩能按时完成康复，可首发出战黄潜",
+          "title": "贝林世界杯的时候不是跟姆巴佩隐隐有闹掰的趋势吗？怎么最近一直没动静？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "十人国足0-1历史首败塔吉克斯坦，韦世豪染红，刘殿座脱手丢球",
+          "title": "C罗长文回应退出训练：主教练两度食言；向葡萄牙人民道歉",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "连续两场创造历史！国足历史首次不敌塔吉克斯坦",
+          "title": "西班牙2-1十人克罗地亚，梅里诺替补双响+绝杀，亚马尔失单刀",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "国足友谊赛三连败积分被扣15.23分，世界排名跌至第95位",
+          "title": "英格兰3-0捷克，凯恩梅开二度，曹法尔乌龙",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "三连败进0球！本期国足友谊赛成绩为1胜3负，总计进3球丢9球",
+          "title": "小罗致敬梅西：很荣幸见证你从第一天走到现在，享受生活吧兄弟",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "天空：英超纪律程序结束后，欧足联再决定是否对曼城采取行动",
+          "title": "梅西：能够说自己是一名荣誉博士了，真的是莫大的骄傲",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "被拦车问及C罗声明，热苏斯：我当时在看U21比赛，没什么可说的",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西即将迎来国家队告别战，有直升机拉着梅西巨幅球衣飞过",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "奥莱报：梅西告别赛前德保罗帕雷德斯向观众致意",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "摩根-罗杰斯：凯恩应该赢得金球奖，很遗憾我没有投票权",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "图赫尔：有时候外界的氛围让人觉得我们在世界杯小组赛出局了",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西将迎来国家队告别战，安东内拉携三子现身球场",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "凯恩拿金球奖？贝林厄姆：谁知道呢？这完全是有可能的",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 12,
       "status": "success"
     },
     "小红书": {
