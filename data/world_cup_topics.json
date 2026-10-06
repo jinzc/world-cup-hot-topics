@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-10-06 18:02:36",
+  "update_time": "2026-10-07 01:07:32",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "贺炜评国足不敌塔吉克斯坦",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%BA%E7%82%9C%E8%AF%84%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,15 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "毕焜亚运会闭幕式旗手",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E7%84%9C%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -28,81 +29,100 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "国足vs塔吉克斯坦",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
-          "hot": "1187.3万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "解锁新角色！巴萨官方晒高桥阳一为亚马尔作画的全过程",
+          "title": "【冠军经理】国家队卡包登场，梅西最后一舞典藏卡同步上线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因因凡蒂诺需要刚果足协支持，FIFA默许其违规并杀入世界杯",
+          "title": "亲吻阿根廷队徽，梅西个人社媒发布国家队告别战海报",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝宁后卫：我们不需要盯防梅西，只需要享受这场比赛",
+          "title": "费加罗报：姆巴佩缺阵，但登贝莱搞砸了本属于他自己的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "球报记者：葡足协虽在推锅，但C罗自我意识作祟使得关系破裂",
+          "title": "阿根廷队官方发布视频，预热梅西国家队告别战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报致敬梅西：他抚慰了整整一代人，对马拉多纳离世的伤痛",
+          "title": "贝宁主帅：成梅西最后对手是莫大荣誉，这次要请他为我签名",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]解锁新角色！巴萨官方晒高桥阳一为亚马尔作画的全过程",
+          "title": "谢林汉姆：本赛季拉什福德尽力了，他不是曼联的问题所在",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "大家可以看看这位up主发的关于亚马尔的视频",
+          "title": "[流言板]曼联伤情汇总：巴莱巴、梅努、拉什福德有望本周战热刺复出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]TA：穆帅放弃卢宁/阿森西奥；维尼修斯/B席/迪奥曼德待提高",
+          "title": "我觉得现在促成菲利克斯能不能回归的原因就是看拉菲尼亚和亚马尔的伤病",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马敢卖大罗、敢卖C罗，阿扎尔、贝尔说放替补就放替补，就是不敢拿下姆巴佩！",
+          "title": "姆巴佩：皇马是一家不严肃的俱乐部",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩应该很难回国家队了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：皇马预计姆巴佩能按时完成康复，可首发出战黄潜",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "六台：维尼修斯于当地时间今日8时58分抵达皇马训练基地",
+          "title": "十人国足0-1历史首败塔吉克斯坦，韦世豪染红，刘殿座脱手丢球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "球报：C罗被逼到墙角，葡萄牙足协甩锅队长",
+          "title": "连续两场创造历史！国足历史首次不敌塔吉克斯坦",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "国足友谊赛三连败积分被扣15.23分，世界排名跌至第95位",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "三连败进0球！本期国足友谊赛成绩为1胜3负，总计进3球丢9球",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "天空：英超纪律程序结束后，欧足联再决定是否对曼城采取行动",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "小红书": {
