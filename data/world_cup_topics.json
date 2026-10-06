@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-06 06:29:31",
+  "update_time": "2026-10-06 10:51:20",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,63 +35,73 @@
     "虎扑": {
       "topics": [
         {
-          "title": "龙赛罗：姆巴佩还没理解皇马文化，不懂球队为何允许他这样",
+          "title": "罗马诺：凯恩接近和拜仁续约，在谈是否要加回英超的违约金",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：姆巴佩获准离队，皇马对他并无不满也不解外界争议",
+          "title": "英格兰海外球员身价榜：贝林厄姆1.6亿欧第1，戈登8000万第2",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "费迪南德：热苏斯必须向C罗道歉，否则他最后可能会被解雇",
+          "title": "洛赛尔索晒照：落日下与梅西并肩而行；配文：享受每一刻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TyC：梅西参加阿根廷队最后一练，对阵贝宁迎国家队告别战",
+          "title": "塔皮亚晒梅西最后一练全员合影：最后一次，但永远铭记于心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "齐达内这是拿登贝莱当梅西用了啊",
+          "title": "马特乌斯：基米希对拜仁和德国队不可或缺，不理解外界批评",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：姆巴佩单独完成训练，目标出战比利亚雷亚尔",
+          "title": "21年125球！南美足联官方回顾梅西国家队进球历程",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]塞尔：姆巴佩获准离队，皇马对他并无不满也不解外界争议",
+          "title": "索帅：公开质疑我没让C罗首发后，弗格森打电话向我道了歉",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "爆了，你魔官方发推黑C罗。。活久见",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：亚马尔尚有加薪条款待执行，巴萨曾约定2027年涨薪",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "“登贝莱有金球历史地位也不如姆巴佩”，秘书真是闹麻了，没花这么多钱营销，试衣人不就是个大号克洛泽吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：皇马内部有人认为姆巴佩无可救药，把球队当个人跳板",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "皮尔斯-摩根：C罗没觉得必须踢满所有比赛，他只是不满被羞辱",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "皮尔斯-摩根：热苏斯的做法就像滕哈格，他企图贬低和羞辱C罗",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙特媒体：利雅得胜利新主席面临财务危机及菲利克斯去留难题",
+          "title": "阿斯：梅西告别战经济影响超越球场，离开国家队无损商业价值",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
