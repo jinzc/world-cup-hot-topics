@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-10-07 06:34:47",
+  "update_time": "2026-10-07 10:12:47",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "贺炜评国足不敌塔吉克斯坦",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%BA%E7%82%9C%E8%AF%84%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+          "title": "C罗公开离开国家队真相",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%AC%E5%BC%80%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%9C%9F%E7%9B%B8",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "国足丢球又丢人",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E4%B8%A2%E7%90%83%E5%8F%88%E4%B8%A2%E4%BA%BA",
+          "title": "C罗自请重罚再归队",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%87%AA%E8%AF%B7%E9%87%8D%E7%BD%9A%E5%86%8D%E5%BD%92%E9%98%9F",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "卫报谈C罗离开国家队集训营事件",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%AB%E6%8A%A5%E8%B0%88C%E7%BD%97%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5%E4%BA%8B%E4%BB%B6",
+          "title": "莫德里奇回应C罗声明",
+          "url": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%A3%B0%E6%98%8E",
           "hot": 0,
           "label": ""
         }
@@ -31,9 +31,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗发长文回应离队风波",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E9%98%9F%E9%A3%8E%E6%B3%A2",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -41,54 +47,70 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗长文回应退出训练风波",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E8%AE%AD%E7%BB%83%E9%A3%8E%E6%B3%A2",
+          "hot": "829.4万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "欧国联第4轮最佳候选：凯恩/梅里诺/奥利塞/马夫罗帕诺斯",
+          "title": "梅西告别国家队：太多情绪涌上心头，我首先想到的是父亲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "告别梅西，直升机挂着巨型梅西球衣飞翔在罗萨里奥的上空",
+          "title": "与贝宁的比赛结束后，主裁判把红黄牌送给梅西做纪念礼物",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【视频】梅西在大巴上用纸巾擦拭泪水，并向球迷致意",
+          "title": "六台：姆巴佩周二训练后乘私人飞机赴巴黎，当晚返回马德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看到球迷们的热情，梅西在大巴上落泪并用纸巾擦拭眼眶",
+          "title": "C罗妻子乔治娜晒健身动态，展示自己的曼妙身材",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡媒对照C罗声明与热苏斯发布会表态，多处内容并未完全对应",
+          "title": "巴萨社媒祝福梅西：你一直在让阿根廷的这件球衣变得更伟大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "球报：C罗因擅自离开国家队集训，或面临1至6个月禁赛及罚款",
+          "title": "So Foot：雅凯在法国新人中最亮眼；姆巴佩依然不可或缺",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯回应C罗声明：还没来得及看，现在回去读，没啥要说的",
+          "title": "赖特盛赞凯恩：英格兰历史最好的射手，把旧纪录远远甩身后",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "葡萄牙前国脚：C罗有时候非常自我，他缺席对葡萄牙没影响",
+          "title": "无人机秀，天空中亮起梅西捧杯的画面",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "胜利保障，亚马尔近22次俱乐部+国家队首发球队全胜",
+          "title": "梅西最后一舞落幕！沃齐尼亚晒与梅西同场照：荣幸，传奇",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西国家队生涯谢幕战数据：1进球，2助攻，4次关键传球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "热苏斯前一年在利雅得胜利舔狗舔了一年c罗获取了c罗信任。如愿当上葡萄牙主帅后，发生了客场挪威这件事，要求主帅发布会上道歉，还要罗哥审定发言内容。。。热苏斯突然觉得太卑微了，不想舔了。硬气一回，就这样了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -98,27 +120,37 @@
           "hot": ""
         },
         {
-          "title": "谢林汉姆：本赛季拉什福德尽力了，他不是曼联的问题所在",
+          "title": "我螺依旧赶在梅西比赛开始前才发新闻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩：皇马是一家不严肃的俱乐部",
+          "title": "有的时候真不知道C罗怎么想的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆帅说不能骑车，姆巴佩转头就发了骑车视频",
+          "title": "【白衣军团】贝林厄姆VS捷克 个人集锦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林世界杯的时候不是跟姆巴佩隐隐有闹掰的趋势吗？怎么最近一直没动静？",
+          "title": "[流言板]So Foot：雅凯在法国新人中最亮眼；姆巴佩依然不可或缺",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莫德里奇：皇马是我生命中的俱乐部，我当然乐意回归。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：姆巴佩被允许在瓦尔德贝巴斯之外灵活管理他的伤病",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 14,
+      "count": 18,
       "status": "success"
     },
     "懂球帝": {
@@ -129,62 +161,47 @@
           "hot": ""
         },
         {
-          "title": "西班牙2-1十人克罗地亚，梅里诺替补双响+绝杀，亚马尔失单刀",
+          "title": "阿根廷3-0贝宁，梅西谢幕战1射2传，结束21年国家队生涯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "英格兰3-0捷克，凯恩梅开二度，曹法尔乌龙",
+          "title": "懂球帝海报：谢谢你梅西，再见",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "小罗致敬梅西：很荣幸见证你从第一天走到现在，享受生活吧兄弟",
+          "title": "梅西赛后演讲：我想到了我的父亲；为阿根廷效力是最美好的事",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西：能够说自己是一名荣誉博士了，真的是莫大的骄傲",
+          "title": "梅西国家队生涯告别战结束后演讲，恩佐泪流满面痛哭不止",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "被拦车问及C罗声明，热苏斯：我当时在看U21比赛，没什么可说的",
+          "title": "里沙利松晒与梅西对抗照：传奇",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "梅西即将迎来国家队告别战，有直升机拉着梅西巨幅球衣飞过",
+          "title": "阿根廷官方回顾梅西的国家队生涯：身披蓝白球员拿到6座冠军",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "奥莱报：梅西告别赛前德保罗帕雷德斯向观众致意",
+          "title": "梅西：今天很难说些什么，我首先想到的是我的父亲",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "摩根-罗杰斯：凯恩应该赢得金球奖，很遗憾我没有投票权",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "图赫尔：有时候外界的氛围让人觉得我们在世界杯小组赛出局了",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西将迎来国家队告别战，安东内拉携三子现身球场",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "凯恩拿金球奖？贝林厄姆：谁知道呢？这完全是有可能的",
+          "title": "钟爱之歌，女歌手索莱达再次在梅西面前深情演唱《Brindis》",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 9,
       "status": "success"
     },
     "小红书": {
