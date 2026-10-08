@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-10-08 06:59:07",
+  "update_time": "2026-10-08 10:39:10",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗回应阿根廷队长告别国家队",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -32,7 +39,7 @@
         {
           "title": "U17国足0:3不敌阿根廷",
           "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "hot": "1048.7万"
+          "hot": "854.9万"
         }
       ],
       "count": 1,
@@ -41,27 +48,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "HOA：哈弗茨不会长期伤停；阿森纳开始评估坎比亚索",
+          "title": "德保罗深情告别梅西：这片土地的神，能陪你征战是我的荣幸",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "为C罗发声！费迪南德回击镜报记者长文：摇摇头清醒一下吧",
+          "title": "《球报》2.5万人投票：超70%认为C罗已不具备重返国家队条件",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "镜报记者长文批评C罗：两千字尽显任性，他已被自我幻想吞噬",
+          "title": "队报：皇马内部批评姆巴佩不够低调，且其公关运作极为糟糕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：梅西回巴萨办告别赛主要障碍是拉波尔塔，双方仍未和解",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "今天想起了夏天某网友对罗德里的评价",
+          "title": "佩德罗退役，2011年欧冠决赛巴萨首发仅剩梅西仍在职业足坛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -71,7 +73,12 @@
           "hot": ""
         },
         {
-          "title": "皇马向姆巴佩发出最后通牒，与此同时，关于他以2.5亿欧元转会利物浦的惊人",
+          "title": "队报：姆巴佩争金球高调造势，皇马内部不满他将个人置于球队之上",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "RMC：不排除姆巴佩在赛季末离开皇马的可能性。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -82,27 +89,37 @@
     "懂球帝": {
       "topics": [
         {
-          "title": "阿根廷3-0贝宁，梅西谢幕战1射2传，结束21年国家队生涯",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
           "title": "梅西告别国家队：已开始想念蓝白战袍，这一路每一步都值得",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：伊普斯维奇前主帅麦肯纳出任欧足联技术观察员",
+          "title": "德保罗致敬梅西：你愿投身的每一场战斗，我都很荣幸与你并肩作战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "法国足球前总监费雷：姆巴佩配不上今年的金球奖",
+          "title": "贝林厄姆：凯恩是英格兰历史最佳，他获得的一切都是应得的",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "中足联各赛区开展“文明行动月”，中超社媒呼吁践行“五个尊重”",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "津媒：国足队长韦世豪主动申请红牌下场，体现更衣室焦躁情绪",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "帕雷德斯发文告别梅西：很荣幸成为你的战士，忠诚永不褪色！",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "小红书": {
