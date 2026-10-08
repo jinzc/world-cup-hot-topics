@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-08 18:21:20",
+  "update_time": "2026-10-09 01:48:43",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "从U23开始重新看中国男足",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EU23%E5%BC%80%E5%A7%8B%E9%87%8D%E6%96%B0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -29,78 +35,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "葡萄牙名宿：贝利马拉多纳都没这样，C罗必须要有特殊待遇？",
+          "title": "MLS总裁：梅西带来的改变是颠覆性的，对足球运动也同样如此",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "特略：我们那时进巴萨一队更难，亚马尔在2012年也难踢主力",
+          "title": "看到一段评价福登和维尔茨的话，感觉可以无缝套用在居莱尔身上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "特略：瓜帅对我意味着一切；训练中大家面对梅西会更小心些",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "沙特和罗伯托-马丁内斯谈妥，结果现任主帅率队夺冠直接尴尬",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "美职联总裁：梅西让美职联风靡全球，盼望凯恩也能赴美踢球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]加泰电台：曼城曾考虑德容接替罗德里，查看医疗报告后放弃",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这个视频很清晰的讲解了没什么突出数据的罗德里在防守端的中流砥柱作用",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "专区最喜欢拉踩姆巴佩的前锋之一登贝莱，就这战犯表现",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩：皇马是一家不严肃的俱乐部",
+          "title": "罗马诺：皇马计划在下赛季签下一名顶级后卫，俱乐部还将战略性地签下一名中场，以免再次出现像罗德里那样的情况。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "梅西国家队退役社媒获2000万点赞，C罗评论获500万点赞",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "埃芬博格：C罗需明白告别国家队的正确时机，梅西做得更好",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "外媒：马丁内斯已与沙特国家队达成协议，但沙特足协可能反悔",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "记者：蒋光太由于在国足比赛期间出现伤情，未随队前往杭州",
+          "title": "梅西再次告别：一切都已言尽，我心底只剩一句“谢谢你，阿根廷”",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
