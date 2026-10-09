@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-09 13:51:07",
+  "update_time": "2026-10-09 21:02:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,20 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "从U23开始重新看中国男足",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EU23%E5%BC%80%E5%A7%8B%E9%87%8D%E6%96%B0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3",
-          "hot": 0
-        },
-        {
-          "title": "王钰栋 有信心进世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%92%B0%E6%A0%8B%20%E6%9C%89%E4%BF%A1%E5%BF%83%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -33,91 +22,51 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗被临时暂停葡萄牙国家队资格",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%9A%82%E5%81%9C%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B5%84%E6%A0%BC",
+          "hot": "1110.3万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "记者：赵松源受访前，国足方面表示“小将难承受过多曝光”",
+          "title": "弗里克：拉菲将缺席未来2场比赛；亚马尔100%会成为世界最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈兰德：世界杯战胜巴西消化了很久，类似经历不会再有了",
+          "title": "前阿根廷助教：梅西曾一次买20辆摩托车给足协工作人员抽奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：皇马BMV仅剩贝林厄姆在线，穆帅让其踢前腰释放大能量",
+          "title": "西蒙尼：不会在梅西和马拉多纳间2选1，很庆幸阿根廷有这2人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "蒂勒曼斯：曼联和皇马巴萨一个级别；希望本赛季再现最佳B费",
+          "title": "[流言板]弗里克：拉菲将缺席未来2场比赛；亚马尔100%会成为世界最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：穆帅计划重启系统，给维尼修斯减负并找出中场最优解",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方：重磅发声！C罗：主帅两次食言 欠球迷道歉 仍随时准备好为国出战C罗通过SIC、记录报等多家葡媒发布落款为自己的第一人称视角声明，回顾自己退出本期国家队的风波。C罗：正如我承诺的那样，我决定以第一",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西的这次退役，体现了他的牺牲和奉献精神，真的是好人，大格局。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "版主麻烦把这个拉波头像的梅西黑子给封禁了，多封几个月",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅西的十大一条龙进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【数据辟谣贴】姆巴佩所谓“弱队刷子”在强强对话中的表现",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩的问题先不谈，先赶紧拿下居莱尔！三无球员推到前场去打核心，也不知道穆鸟到底是怎么想的！",
+          "title": "[流言板]热苏斯：亚马尔拥有内马尔的一些特质，他是金球奖最大热门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "马德兴：亚国联将绑定亚洲杯和世界杯的预选赛，计划2年1届",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "马卡报：李刚仁正常参加训练，可出战下轮联赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "中国足球史话：18年亚少赛国少预选赛出局连续两届无缘正赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 3,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
