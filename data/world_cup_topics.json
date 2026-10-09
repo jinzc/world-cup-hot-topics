@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-09 07:13:35",
+  "update_time": "2026-10-09 13:51:07",
   "sources": {
     "微博": {
       "topics": [],
@@ -17,9 +17,14 @@
           "title": "从U23开始重新看中国男足",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EU23%E5%BC%80%E5%A7%8B%E9%87%8D%E6%96%B0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3",
           "hot": 0
+        },
+        {
+          "title": "王钰栋 有信心进世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%92%B0%E6%A0%8B%20%E6%9C%89%E4%BF%A1%E5%BF%83%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -35,68 +40,83 @@
     "虎扑": {
       "topics": [
         {
-          "title": "梅西：希望能为阿根廷踢一辈子；我知道自己做了正确的决定",
+          "title": "记者：赵松源受访前，国足方面表示“小将难承受过多曝光”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "RMC记者：若姆巴佩得不到想要的球队，他明夏有可能离开皇马",
+          "title": "哈兰德：世界杯战胜巴西消化了很久，类似经历不会再有了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗母亲：得知儿子退出集训后我哭了，人们没给予他应有重视",
+          "title": "马卡：皇马BMV仅剩贝林厄姆在线，穆帅让其踢前腰释放大能量",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英超4连冠和西甲4连冠难度哪个高？亚马尔能否达成西甲4连冠？",
+          "title": "蒂勒曼斯：曼联和皇马巴萨一个级别；希望本赛季再现最佳B费",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]RMC记者：若姆巴佩得不到想要的球队，他明夏有可能离开皇马",
+          "title": "阿斯：穆帅计划重启系统，给维尼修斯减负并找出中场最优解",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]科贝：贝林/库库/阿诺德单练；姆巴佩正常训练可出战黄潜",
+          "title": "官方：重磅发声！C罗：主帅两次食言 欠球迷道歉 仍随时准备好为国出战C罗通过SIC、记录报等多家葡媒发布落款为自己的第一人称视角声明，回顾自己退出本期国家队的风波。C罗：正如我承诺的那样，我决定以第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "RMC：不排除姆巴佩在赛季末离开皇马的可能性。",
+          "title": "梅西的这次退役，体现了他的牺牲和奉献精神，真的是好人，大格局。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "版主麻烦把这个拉波头像的梅西黑子给封禁了，多封几个月",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "梅西的十大一条龙进球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "【数据辟谣贴】姆巴佩所谓“弱队刷子”在强强对话中的表现",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩的问题先不谈，先赶紧拿下居莱尔！三无球员推到前场去打核心，也不知道穆鸟到底是怎么想的！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "ESPN：葡萄牙足协将开会研究对C罗的禁赛时间，考虑从轻处罚",
+          "title": "马德兴：亚国联将绑定亚洲杯和世界杯的预选赛，计划2年1届",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "津媒：国足“热身赛之王”成为过去，可见实力下滑到何种程度",
+          "title": "马卡报：李刚仁正常参加训练，可出战下轮联赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "RMC记者：球队若不合姆巴佩心意，他明夏可能离开皇马",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "加比亚：很高兴莫德里奇留下；我们需要希拉这样的球员",
+          "title": "中国足球史话：18年亚少赛国少预选赛出局连续两届无缘正赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 3,
       "status": "success"
     },
     "小红书": {
