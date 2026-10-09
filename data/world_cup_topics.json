@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-09 21:02:40",
+  "update_time": "2026-10-10 03:24:14",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "韩媒曝韩国队后辈不满孙兴慜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%AA%92%E6%9B%9D%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%90%8E%E8%BE%88%E4%B8%8D%E6%BB%A1%E5%AD%99%E5%85%B4%E6%85%9C",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -22,30 +28,34 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "C罗被临时暂停葡萄牙国家队资格",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%9A%82%E5%81%9C%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B5%84%E6%A0%BC",
-          "hot": "1110.3万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "弗里克：拉菲将缺席未来2场比赛；亚马尔100%会成为世界最佳",
+          "title": "半场：胜利2-0迪里耶，C罗补射首开记录，菲利克斯助攻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前阿根廷助教：梅西曾一次买20辆摩托车给足协工作人员抽奖",
+          "title": "菲利克斯助攻，萨穆-科斯塔头球破门，胜利2-0迪里耶",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西蒙尼：不会在梅西和马拉多纳间2选1，很庆幸阿根廷有这2人",
+          "title": "科曼内切抽射被扑，C罗插上补射破门，胜利1-0迪里耶",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "利雅得胜利vs迪里耶首发：C罗领衔，菲利克斯/马内/科曼出战",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "厄德高：夺英超+踢世界杯，这些曾经遥不可及目标我都实现了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -55,18 +65,34 @@
           "hot": ""
         },
         {
-          "title": "[流言板]热苏斯：亚马尔拥有内马尔的一些特质，他是金球奖最大热门",
+          "title": "姆巴佩的核心问题是什么，并不是什么左边锋中锋，我预测他职业生涯很可能拿不到什么重要冠军了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩和王楚钦是不是一种人？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "聊啥呢？C罗和努涅斯在下半场开球前窃窃私语，后者难掩笑意",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "队报：欧足联有人提议女性参选FIFA主席，里昂老板已拒绝邀约",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
