@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-10 13:38:40",
+  "update_time": "2026-10-10 20:19:16",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,68 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "王钰栋：年轻一代有信心进世界杯，更多的年轻球员要走出去",
+          "title": "谢林汉姆：拉什福德适合当副手，而曼联都是跟随者&amp;缺乏领袖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迈阿密主帅：梅西国家队生涯落幕，请珍惜他在迈阿密的时光",
+          "title": "区里大伙觉得姆巴佩真实实力什么水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "澳波：C罗帮助胜利在防守端做出贡献，能够零封对手我很满意",
+          "title": "姆总属超级进攻手，非凯恩哈兰德可比",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：因加克波/伊萨克伤缺，利物浦可能用巴尔科拉/维尔茨伪9",
+          "title": "【数据辟谣贴】姆巴佩所谓“弱队刷子”在强强对话中的表现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "主裁判看完VAR后表示没有点球，一旁的C罗有点不满",
+          "title": "穆里尼奥：姆巴佩会上场比赛，他绝不会沦为替补。我确信，他没有辜负自己对皇马应尽的义务。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西的十大一条龙进球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]TA：皇马教练组成员匿名说维尼修斯/姆巴佩不走一个解决不了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看到一段评价福登和维尔茨的话，感觉可以无缝套用在居莱尔身上",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "为什么C罗一来就能让皇马总进球大幅增加，而姆总却不行呢？",
+          "title": "把小熊和82、楚阿拿下，给个巅峰本泽马和莫德里奇、卡塞米罗，皇马这套阵容照样有戏",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "波登斯：C罗训练时总问我进了几个球，我还以为没人注意我",
+          "title": "葡萄牙足协：已对C罗启动纪律调查，并将对其实施停赛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "墨西哥老虎3-2托卢卡体育，布鲁内塔双响，马丁内斯建功",
+          "title": "半场战报：阿森纳0-0利兹联，哈弗茨、奥卡福尔分别造险",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "内部人士：维尼修斯和姆巴佩暗自比较，一个不防另一个就跟着",
+          "title": "热那亚vs佛罗伦萨：沙拉维、儒尼奥尔-梅西亚斯首发，德赫亚、马斯坦托诺出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
