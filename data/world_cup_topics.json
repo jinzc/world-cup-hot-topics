@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-11 01:44:50",
+  "update_time": "2026-10-11 05:30:16",
   "sources": {
     "微博": {
       "topics": [
@@ -36,33 +36,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "诺伊尔：这是我一次愚蠢的失误，本应该作出不同的选择",
+          "title": "姆巴佩本场数据：3次射门2次射正1次中框，2次错失绝佳机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆今晚首发不， 怎么没他的新闻了",
+          "title": "维尼修斯本场数据：替补出场20分钟染红，1次射门，2次过人",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "意甲官方：德布劳内当选为那不勒斯vs弗罗西诺内全场最佳",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "自西甲引进VAR后，维尼修斯成首位进球被吹+染红的球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "阿斯：维尼修斯被直红罚下或被停赛2-3场，他恐缺席国家德比",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "裁判专家：按规则维尼修斯的动作就是红牌，但我觉得很荒谬",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "那不勒斯3-0弗洛西诺内，德布劳内双响，诺阿-朗破门",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "首发发挥最好应该是罗德里埃斯帕特戈登了，埃斯帕特咋踢得这么好呢，又是客串左后卫，啧啧",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]姆巴佩本场数据：3次射门2次射正1次中框，2次错失绝佳机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "剑南春丨拜仁2-2奥格斯堡，诺伊尔超巨失误，凯恩助攻双响",
+          "title": "剑南春｜十人皇马1-0黄潜，维尼修斯扯头发染红，迪奥曼德处子球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "里程碑，与赫塔费一役罗德里迎生涯第300场顶级联赛",
+          "title": "弗里克：我问过亚马尔要不要换人，他说不用",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "B费花了23分钟才完成第一脚成功传球，创造其英超生涯新纪录",
+          "title": "德布劳内意甲首次梅开二度，上一次联赛双响是在2024年4月",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
