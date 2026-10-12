@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-12 06:45:47",
+  "update_time": "2026-10-12 10:13:52",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,28 +29,48 @@
     "虎扑": {
       "topics": [
         {
-          "title": "卡拉格：库马斯&amp;穆尼奥斯表现比亿元先生好，维尔茨远未达标",
+          "title": "自加盟巴萨罗德里已完成600次传球，分布几乎遍及整个球场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基恩：之前还担心瓜帅和罗德里离开，现在这些事都没人提了",
+          "title": "彭南特：维尔茨正走上努涅斯老路，死忠粉都难以为他辩解",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "京多安：巴萨目前是欧洲最好球队；罗德里在哪都是中流砥柱",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加斯帕特：无论谁当主席，梅西应该回到巴萨正式告别球迷",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨西甲前8轮唯一全勤首发的，是19岁的亚马尔",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "82打右前，B席和琼阿搭配，这样总行了吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "京多安：罗德里是世界最全面的后腰，在任何球队都是定海神针",
+          "title": "孙继海：归化只是点；进2030世界杯不代表重新振作",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "皮萨卡内：尤文配得上平局；我和斯帕莱蒂本该拥抱收场",
+          "title": "利雅得胜利社媒晒出C罗更衣室讲话视频，并配上Goat表情",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
