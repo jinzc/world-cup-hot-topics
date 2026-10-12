@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-12 10:13:52",
+  "update_time": "2026-10-12 18:35:29",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "自加盟巴萨罗德里已完成600次传球，分布几乎遍及整个球场",
+          "title": "逼迫诺伊尔超巨失误！奥格斯堡球员：我们赛前专门部署过",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "彭南特：维尔茨正走上努涅斯老路，死忠粉都难以为他辩解",
+          "title": "不知道区里为什么这么不看好罗德里",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "京多安：巴萨目前是欧洲最好球队；罗德里在哪都是中流砥柱",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "加斯帕特：无论谁当主席，梅西应该回到巴萨正式告别球迷",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "巴萨西甲前8轮唯一全勤首发的，是19岁的亚马尔",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "82打右前，B席和琼阿搭配，这样总行了吧",
+          "title": "罗德里全队最高评分，9分！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "孙继海：归化只是点；进2030世界杯不代表重新振作",
+          "title": "C罗新采访称自己为历史最佳？实则为葡媒挖坟去年2月专访",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "利雅得胜利社媒晒出C罗更衣室讲话视频，并配上Goat表情",
+          "title": "廷贝尔：错过世界杯很难受；吉马良斯的加盟活跃了球队气氛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
