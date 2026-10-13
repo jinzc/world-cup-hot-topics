@@ -1,10 +1,23 @@
 {
-  "update_time": "2026-10-13 04:12:51",
+  "update_time": "2026-10-13 10:30:27",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗和马宁交涉",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%92%8C%E9%A9%AC%E5%AE%81%E4%BA%A4%E6%B6%89",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗进球 利雅得胜利迎亚冠首胜",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%BF%9B%E7%90%83%20%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9%E8%BF%8E%E4%BA%9A%E5%86%A0%E9%A6%96%E8%83%9C",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -14,12 +27,17 @@
     "B站": {
       "topics": [
         {
+          "title": "C罗半转身凌空爆射破门",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%8D%8A%E8%BD%AC%E8%BA%AB%E5%87%8C%E7%A9%BA%E7%88%86%E5%B0%84%E7%A0%B4%E9%97%A8",
+          "hot": 0
+        },
+        {
           "title": "维尔茨身价暴跌反映哪些问题",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E5%B0%94%E8%8C%A8%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8F%8D%E6%98%A0%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -28,70 +46,106 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗凌空抽射斩获生涯第981球",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%87%8C%E7%A9%BA%E6%8A%BD%E5%B0%84%E6%96%A9%E8%8E%B7%E7%94%9F%E6%B6%AF%E7%AC%AC981%E7%90%83",
+          "hot": "780.3万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "罗马诺：C罗愿重返葡萄牙国家队，双方推动沟通寻找解决方案",
+          "title": "罗马诺：C罗已准备好回归葡萄牙国家队，预计11月归队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩在热刺时差点租借加盟维京，如今将随拜仁客场对阵维京",
+          "title": "内马尔穿裆帕奎塔后，又被对方给铲倒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "勒米纳：亚马尔是谁？我认识萨内，但不认识亚马尔",
+          "title": "詹俊：维尔茨欠缺创造串联和得分能力，谢尔基更像亿元先生",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "Okaz：亚足联修改规则，PIF拥有的胜利等三队无法同时踢亚冠",
+          "title": "表达支持！赛后谢场时，C罗将沙特元素的围巾戴在脖子上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "胜利vs费尔干纳石油工人首发：C罗领衔，马内、菲利克斯出战",
+          "title": "C罗先是观察队友跑位，左脚停球后右脚送出直塞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "抖上有人把b费历史地位评价成历史前十？",
+          "title": "佩蒂特：曼联球员已不再关心卡里克，多年乱局让B费身心俱疲",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔没有头像框吗？",
+          "title": "马卡：B席近期沦为边缘球员，穆帅仍信任他&amp;希望他找回状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "希望穆帅学聪明，不要跟姆巴佩硬刚，就是捧杀他",
+          "title": "卡萨诺：C罗七八年来只考虑自己，葡萄牙没他反而踢得更好",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]卡里克：没人能保证永远首发，这话不针对B费，别用来做文章",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B费这个赛季显然是有问题",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：B席近期沦为边缘球员，穆帅仍信任他&amp;希望他找回状态",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "一个每年花皇马七千万的“中锋”，其粉丝天天比较进球的对象：维尼（边锋），亚马尔（边锋），贝林（中场），费兰托雷斯（隔壁的轮换），贡萨洛加西亚（自家青训），别说哈兰德了，都不敢跟老年莱万比",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我记得之前很多人说阿韦洛亚比阿隆索出色，贡萨洛比姆巴佩优秀。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "法国和皇马的羁绊，会不会到姆巴佩这就断了呀。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 14,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "半场战报：利雅得胜利2-0费尔干纳石油工人，C罗、博尔热斯破门",
+          "title": "利雅得胜利连伤两人3-1十人费尔干纳石油工人，C罗、博尔热斯建功",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "温格：我们希望看到非洲球队夺得世界杯，数据表明这可以实现",
+          "title": "记者：国足11月将在广州天河体育中心与马来西亚和巴林过招",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "半场：莱万特0-1塞维利亚，罗比-尤尔破门",
+          "title": "经纪公司：有关李刚仁的谣言正在网上传播，我方正在收集证据",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
