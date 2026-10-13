@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-13 18:23:26",
+  "update_time": "2026-10-14 02:05:26",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,68 @@
     "虎扑": {
       "topics": [
         {
-          "title": "凯恩：在拜仁真实发展比我预想得好；拿欧冠是我的终极梦想",
+          "title": "加拉塔萨雷vs巴萨首发：亚马尔PK莱奥，奥斯梅恩出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联下一个重磅引援就算买也不可能买前腰，肯定买左边锋，左边锋够强前腰队里很多人都能踢，齐尔克泽，芒特，库尼亚，蒂勒曼斯。。参考亚马尔奥丽赛的身边前腰也仅仅是辅助。",
+          "title": "穆帅：维尼修斯如今处境我很难受，他刻苦训练却没恢复状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]拉波尔塔：巴萨目前踢着世界上最好的足球，亚马尔该得金球",
+          "title": "楚阿梅尼：姆巴佩若拿金球将是实至名归；穆帅要我攻守平衡",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2025-26赛季，姆巴佩在三项赛事射手榜上均排名第一",
+          "title": "塞尔：波罗首选去巴萨，但皇马将其视为罗德里事件复仇机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "宿命反噬：银河战舰种下的因，终究落到姆巴佩身上",
+          "title": "伊劳拉：维尔茨可能没在最佳状态，但本赛季他有过好的表现",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "终于找到了区里说的佩德里的这个片段了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果今年仍然四大皆空，皇马还会和姆巴佩续约吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "马泰奥-拉韦利：小时候我的偶像是C罗，最爱米利托",
+          "title": "马竞vs曼联：阿尔瓦雷斯PK拉什福德，B费、李刚仁出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "米体：尤文就C罗赔偿案上诉至最高法院",
+          "title": "巴萨客战加拉塔萨雷：亚马尔、戈登首发，罗德里、佩德里出战",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "马卡：米利唐和门迪参加了合练，但预计无缘战罗马",
+          "title": "拜仁客战维京：凯恩、奥利塞首发，路易斯-迪亚斯出战",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "凯恩已连续8场欧冠进球，距离C罗保持的纪录还差3场",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "小红书": {
