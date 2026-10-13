@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-14 02:05:26",
+  "update_time": "2026-10-14 07:14:08",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,53 @@
     "虎扑": {
       "topics": [
         {
-          "title": "加拉塔萨雷vs巴萨首发：亚马尔PK莱奥，奥斯梅恩出战",
+          "title": "费尔明：和亚马尔之间很有默契；和奥尔默完全可以一起出场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆帅：维尼修斯如今处境我很难受，他刻苦训练却没恢复状态",
+          "title": "[流言板]马卡：罗德里已成巴萨更衣室领袖，年轻球员视他为老师",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "楚阿梅尼：姆巴佩若拿金球将是实至名归；穆帅要我攻守平衡",
+          "title": "看湿，回味下亚马尔的底线插花脚助攻",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "塞尔：波罗首选去巴萨，但皇马将其视为罗德里事件复仇机会",
+          "title": "我又看了下回放，这球纯莱奥的锅，这他么你能不去协防的，还在那慢跑看着亚马尔1对1",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊劳拉：维尔茨可能没在最佳状态，但本赛季他有过好的表现",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "终于找到了区里说的佩德里的这个片段了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果今年仍然四大皆空，皇马还会和姆巴佩续约吗？",
+          "title": "2025-26赛季，姆巴佩在三项赛事射手榜上均排名第一",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "马竞vs曼联：阿尔瓦雷斯PK拉什福德，B费、李刚仁出战",
+          "title": "巴萨4-1逆转加拉塔萨雷，戈登、阿德耶米破门，亚马尔两助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "巴萨客战加拉塔萨雷：亚马尔、戈登首发，罗德里、佩德里出战",
+          "title": "十人拜仁客场3-3遭维京绝平，凯恩梅开二度，奥利塞染红",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "拜仁客战维京：凯恩、奥利塞首发，路易斯-迪亚斯出战",
+          "title": "凯恩：我们上半场表现糟糕；奥利塞必须为红牌负责并吸取教训",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "凯恩已连续8场欧冠进球，距离C罗保持的纪录还差3场",
+          "title": "拉什福德对阵马竞表现遭批评，鲁尼：他防守失误导致了任意球",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
