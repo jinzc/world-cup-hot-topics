@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-15 04:07:17",
+  "update_time": "2026-10-15 07:49:43",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,23 +29,43 @@
     "虎扑": {
       "topics": [
         {
-          "title": "姆巴佩收获个人欧冠第72球，超越劳尔跻身欧冠历史前五位置",
+          "title": "C罗姐姐：C罗回国家队可能性不大了，他和热苏斯都存有芥蒂",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "沃诺克：战小蜜蜂比欧冠严峻，搞不懂为何踢林茨要上阿利松",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "法布雷加斯：欧冠比世界杯水平高；输球责任我来担&amp;不怪球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "维尼修斯被出示红牌后，愤怒冲向裁判抗议判罚",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "利桑德罗・马丁内斯 (Lisandro Martínez) 在昨天赛后言论后，于 Instagram 发布声明：",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "半场：罗马1-1皇马，德容恩破门，姆巴佩世界波，科内伤退",
+          "title": "皇马4-3大逆转罗马，吕迪格制胜，姆巴佩、恩德里克破门，居莱尔两助攻",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "半场战报：顿涅茨克矿工1-1雅典AEK，马耶尔破门，佩德里尼奥点射",
+          "title": "帕加宁：何塞普-马丁内斯和索默隔空较劲，有些用力过猛",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
