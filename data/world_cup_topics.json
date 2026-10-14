@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-14 12:37:19",
+  "update_time": "2026-10-14 18:01:40",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,38 +29,79 @@
     "虎扑": {
       "topics": [
         {
-          "title": "DO：阿森纳现在哈弗茨/哲凯情况未定，冬窗仍然会关注锋线",
+          "title": "被指排挤孙兴慜之后遭网暴，李刚仁与女友点赞多条负面评论",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴特：若红军能收回大量转会成本，它们会毫不犹豫卖维尔茨",
+          "title": "罗德里：对手进球后我们一度失控，但最终表现配得上胜利",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这表现就该金球奖，亚马尔在向中路走，无球移动进步大",
+          "title": "巴黎人报：巴黎教练组认为杜埃像C罗内马尔结合，针对他特训",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这个上半场佩德里有点太牛逼了，有点可惜了。奥尔默和戈登都接到了佩德里的直塞，两个都没打进。担心下半场佩德里的体力会下滑，拉菲还是太关键了",
+          "title": "罗德里：很难有场面能让我震惊，加拉塔萨雷球迷太不可思议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗德里到底强在哪，没看出啥作用。要是姆巴佩踢成这样，估计要被喷退役了",
+          "title": "穆帅制定维尼修斯恢复计划，要求他增加休息、调整日常习惯",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：数据显示萨卡射门数量/质量都在提升；将其和奥利塞对比",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "关于B费以及曼联队长的一些想法",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "莱奥3800万转会加拉塔萨雷，这个价格对巴萨也挺合适。结果巴萨买了阿德耶米。阿德耶米积极性比莱奥好吧?当初米兰对巴萨要价8000万?",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "事实上，皇马的问题是姆巴佩这样的球员太少了，如果能有三个姆巴佩，什么冠军都能拿下来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "莱奥：希望亚马尔拿金球奖，和巴萨一起拿到很多冠军",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "马特乌斯：欧足联调整国际比赛日间歇是在照顾俱乐部",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "太阳报：曼联欧冠失利后球员凌晨3点抵机场，B费、约罗躲闪镜头",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "利马正面刚曼联高层被赞，摩根：C罗2022年这么做你可不是这么说的",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
