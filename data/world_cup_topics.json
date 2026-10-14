@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-14 07:14:08",
+  "update_time": "2026-10-14 12:37:19",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "费尔明：和亚马尔之间很有默契；和奥尔默完全可以一起出场",
+          "title": "DO：阿森纳现在哈弗茨/哲凯情况未定，冬窗仍然会关注锋线",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]马卡：罗德里已成巴萨更衣室领袖，年轻球员视他为老师",
+          "title": "巴特：若红军能收回大量转会成本，它们会毫不犹豫卖维尔茨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "看湿，回味下亚马尔的底线插花脚助攻",
+          "title": "这表现就该金球奖，亚马尔在向中路走，无球移动进步大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我又看了下回放，这球纯莱奥的锅，这他么你能不去协防的，还在那慢跑看着亚马尔1对1",
+          "title": "这个上半场佩德里有点太牛逼了，有点可惜了。奥尔默和戈登都接到了佩德里的直塞，两个都没打进。担心下半场佩德里的体力会下滑，拉菲还是太关键了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "2025-26赛季，姆巴佩在三项赛事射手榜上均排名第一",
+          "title": "罗德里到底强在哪，没看出啥作用。要是姆巴佩踢成这样，估计要被喷退役了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -58,30 +58,9 @@
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "巴萨4-1逆转加拉塔萨雷，戈登、阿德耶米破门，亚马尔两助攻",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "十人拜仁客场3-3遭维京绝平，凯恩梅开二度，奥利塞染红",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "凯恩：我们上半场表现糟糕；奥利塞必须为红牌负责并吸取教训",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "拉什福德对阵马竞表现遭批评，鲁尼：他防守失误导致了任意球",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 4,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
