@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-14 23:46:27",
+  "update_time": "2026-10-15 04:07:17",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,53 +29,28 @@
     "虎扑": {
       "topics": [
         {
-          "title": "米体：阿莱格里比赛中要德布劳内位置更靠后，但后者不听",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "韩国足协回应孙兴慜遭孤立传闻：停止造谣，将严肃处理",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "国际足联提出修正案，直接要求取消吃红牌之后自动禁赛一场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗德里到底强在哪，没看出啥作用。要是姆巴佩踢成这样，估计要被喷退役了",
+          "title": "姆巴佩收获个人欧冠第72球，超越劳尔跻身欧冠历史前五位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "利物浦客战林茨：维尔茨首发，恩古莫哈、库马斯、尼奥尼出战",
+          "title": "半场：罗马1-1皇马，德容恩破门，姆巴佩世界波，科内伤退",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "侯煜：选择没有对错，努力把选择变对；希望30岁前进国足",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "队报：法国队前安保主管腐败案调查扩大，姆巴佩母子均被讯问",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "TA：国际足联计划2027-2030年为全球足球发展投超60亿美元",
+          "title": "半场战报：顿涅茨克矿工1-1雅典AEK，马耶尔破门，佩德里尼奥点射",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
