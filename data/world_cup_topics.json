@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-15 22:48:56",
+  "update_time": "2026-10-16 03:00:05",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,28 +29,38 @@
     "虎扑": {
       "topics": [
         {
-          "title": "因凡蒂诺就巴洛贡/卖世界杯道歉，但各国足协仍然希望他下台",
+          "title": "埃雷拉：梅西是我们再也看不到的球员；姆巴佩像超级英雄",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "进修失败！拉什福德在巴萨49场14球12助，回归8场0球0助周薪30万",
+          "title": "埃雷拉：穆里尼奥说过曼城不正常；希望能和B费并肩作战",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "Here we go！罗马诺：凯恩与拜仁完成续约，新合同至2029年",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "球员欧冠百场年龄榜：姆巴佩、梅西和劳尔排名前三",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "梅里诺亲笔信：遭遇爆炸与死神擦肩；医生说我肯定无缘世界杯",
+          "title": "Here we go！罗马诺：拜仁与凯恩就续约至2029年6月达成协议",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "欧足联副主席：必须要有挑战者对抗因凡蒂诺，我们在为此努力",
+          "title": "梅里诺亲笔信：遭遇爆炸与死神擦肩；医生说我肯定无缘世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
