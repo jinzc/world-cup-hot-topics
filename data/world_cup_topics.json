@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-15 17:44:12",
+  "update_time": "2026-10-15 22:48:56",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,63 +29,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "欧足联在秘密运作和因凡蒂诺打擂台的人，非纳赛尔/温格等人",
+          "title": "因凡蒂诺就巴洛贡/卖世界杯道歉，但各国足协仍然希望他下台",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥洞察罗马的软肋，姆巴佩成搏命战术局外人",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯处分时间符合规定，周三是常规时间&amp;假期延误数小时",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼晚：利马不会被逐出一线队，他的情况与当年的C罗不同",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我是姆巴佩蜜，各位请进",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]德塞利：皇马当初该放维尼离开，他和姆巴佩未打出理想效果",
+          "title": "进修失败！拉什福德在巴萨49场14球12助，回归8场0球0助周薪30万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "懂球译站 | 维尼修斯真被外星人绑架了？",
+          "title": "梅里诺亲笔信：遭遇爆炸与死神擦肩；医生说我肯定无缘世界杯",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：恩佐撞倒裁判未受处罚，球迷质疑应出示红牌",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "铃木彩艳：想成为像埃德森那样的门将；希望直接晋级欧冠16强",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "韩国歌手李泰民造访洛杉矶主场，并与孙兴慜寒暄",
+          "title": "欧足联副主席：必须要有挑战者对抗因凡蒂诺，我们在为此努力",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "小红书": {
