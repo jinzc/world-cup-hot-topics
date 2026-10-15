@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-16 03:00:05",
+  "update_time": "2026-10-16 06:10:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,43 +29,23 @@
     "虎扑": {
       "topics": [
         {
-          "title": "埃雷拉：梅西是我们再也看不到的球员；姆巴佩像超级英雄",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "埃雷拉：穆里尼奥说过曼城不正常；希望能和B费并肩作战",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Here we go！罗马诺：凯恩与拜仁完成续约，新合同至2029年",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "球员欧冠百场年龄榜：姆巴佩、梅西和劳尔排名前三",
+          "title": "[流言板]埃雷拉：穆里尼奥说过曼城不正常；希望能和B费并肩作战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 1,
       "status": "success"
     },
     "懂球帝": {
       "topics": [
         {
-          "title": "Here we go！罗马诺：拜仁与凯恩就续约至2029年6月达成协议",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "梅里诺亲笔信：遭遇爆炸与死神擦肩；医生说我肯定无缘世界杯",
+          "title": "单场创造9次机会，格罗斯和亚马尔创造机会并列五大联赛首位",
           "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "小红书": {
