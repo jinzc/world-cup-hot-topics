@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-16 09:08:28",
+  "update_time": "2026-10-16 14:59:54",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,28 +29,49 @@
     "虎扑": {
       "topics": [
         {
-          "title": "西甲联盟报告皇社球迷辱骂维尼修斯：维尼修斯是个蠢货",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "尴尬纪录，ESPN：B费是首位欧冠输球比赢球多的曼联队长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "[流言板]前巴萨理疗师：弗帅不该问亚马尔愿不愿下场，应提前安排好",
           "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "小弟刚看球请老哥们说现在的亚马尔和内马尔哪个更强一些",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩在为国建功，而且差点成功了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我真服了，现在又有一帮人到处说贝林厄姆不给姆巴佩传球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
+    },
+    "懂球帝": {
+      "topics": [
+        {
+          "title": "中超各队拼命争取的亚足联技术分，到底是啥？怎么算？",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "四大AI预测拉科鲁尼亚vs莱万特：两家看好主胜，两家猜平局",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "彩经前瞻：拉科鲁尼亚四轮不胜盼反弹，莱万特难以攻克里亚索",
+          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 3,
       "status": "success"
-    },
-    "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
     },
     "小红书": {
       "topics": [],
