@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-17 01:18:07",
+  "update_time": "2026-10-17 04:53:05",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "CBA新赛季揭幕战上海大胜深圳",
           "url": "https://www.douyin.com/search/CBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%8F%AD%E5%B9%95%E6%88%98%E4%B8%8A%E6%B5%B7%E5%A4%A7%E8%83%9C%E6%B7%B1%E5%9C%B3",
-          "hot": "1032.9万"
+          "hot": "1044.2万"
         }
       ],
       "count": 1,
@@ -35,34 +35,33 @@
     "虎扑": {
       "topics": [
         {
-          "title": "巴萨客战贝蒂斯大名单：拉菲尼亚、德容回归；亚马尔在列",
+          "title": "实际上引援只是小问题，更大的问题是b费和蒂勒曼斯的不兼容，而且两个人防守都弱。。但是赛季初缺中场，你不可能不用蒂勒曼斯。。。蒂勒曼斯和b费完全两种踢球节奏。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "夏天隔壁凑成罗德里恩佐贝林真典礼中场了",
+          "title": "拉什福德踢中锋 让库尼亚回左边 老詹回右边 会不会比现在这样好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "这次续约充分证明了贝林厄姆对姆巴佩的信任，在伟大的球员身边踢球是通往成功的捷径",
+          "title": "贝林厄姆不打抬价牌就续约，3000万顶薪未必补偿得了他的忠诚成本",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "专区最喜欢拉踩姆巴佩的前锋之一登贝莱，就这战犯表现",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "击败巴西战队FUR，MVK打野：我只能说C罗就是比罗纳尔多伟大",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
