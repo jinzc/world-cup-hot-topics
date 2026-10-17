@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-10-18 00:58:01",
+  "update_time": "2026-10-18 03:14:54",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "大马丁受伤",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%E5%8F%97%E4%BC%A4",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "相撞瞬间大马丁头颈错位",
-          "url": "https://s.weibo.com/weibo?q=%E7%9B%B8%E6%92%9E%E7%9E%AC%E9%97%B4%E5%A4%A7%E9%A9%AC%E4%B8%81%E5%A4%B4%E9%A2%88%E9%94%99%E4%BD%8D",
+          "title": "内马尔晒与亚马尔数据对比",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E4%B8%8E%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%95%B0%E6%8D%AE%E5%AF%B9%E6%AF%94",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -39,7 +33,7 @@
         {
           "title": "大马丁与布伦斯韦特相撞伤退",
           "url": "https://www.douyin.com/search/%E5%A4%A7%E9%A9%AC%E4%B8%81%E4%B8%8E%E5%B8%83%E4%BC%A6%E6%96%AF%E9%9F%A6%E7%89%B9%E7%9B%B8%E6%92%9E%E4%BC%A4%E9%80%80",
-          "hot": "842.5万"
+          "hot": "920.1万"
         }
       ],
       "count": 1,
@@ -48,37 +42,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "前99场狂轰101球！德甲官方发布凯恩德甲联赛百场纪念海报",
+          "title": "罗德里：巴黎可能是欧洲最佳球队，交手将检验我们的水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "超本赛季创造机会榜：维尔茨20次居首，格罗斯第2伊沃比第3",
+          "title": "跟队：大马丁情况稳定+意识清醒，他颌骨损伤因此需留院观察",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "世界波！亚马尔扣开防守左脚兜射破门，巴萨取得领先！",
+          "title": "罗德里：亚马尔能改变比赛，但我们让对手创造了太多机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]亚马尔西甲前9轮进8球，21世纪西班牙球员同期仅次于比利亚",
+          "title": "贝林厄姆与皇马续约至2031年",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔进球庆祝有好多人影子",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]穆帅：若我是维尼修斯可能早已离队，他仍保持笑容令人敬佩",
+          "title": "他最好离开！”——皇马被敦促出售维尼修斯，因为他与姆巴佩的搭档关系并不融洽。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
