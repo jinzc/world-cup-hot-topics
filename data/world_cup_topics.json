@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-17 12:05:41",
+  "update_time": "2026-10-17 17:09:15",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "沃齐尼亚世界杯后状态暴跌",
           "url": "https://www.douyin.com/search/%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E7%8A%B6%E6%80%81%E6%9A%B4%E8%B7%8C",
-          "hot": "930.6万"
+          "hot": "859.1万"
         }
       ],
       "count": 1,
@@ -35,28 +35,49 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：皇马双后腰失灵但穆帅拒绝改变，不承诺B席居莱尔首发",
+          "title": "孔塞桑：我儿子得听斯帕莱蒂；C罗热苏斯事件？不太好选边站",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "更衣室炸了利马冲在前面，队长袖标却在B费手上",
+          "title": "麦迪逊：我心中上赛季英超最佳是B费，我的跑位是向他学习的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "英超阿根廷人，从罗梅罗，恩佐，再到利马～",
+          "title": "小弟刚看球请老哥们说现在的亚马尔和内马尔哪个更强一些",
           "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩这个球员太戏剧性了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        }
+      ],
+      "count": 4,
+      "status": "success"
+    },
+    "懂球帝": {
+      "topics": [
+        {
+          "title": "博格巴对拉扬-梅西这粒进球的反应总是让人觉得好笑。",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "有史以来最激烈的金球奖争夺？内马尔对此有话要说。",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "如果维尼修斯在西甲这么做，他会被禁赛10场",
+          "url": "https://www.dongqiudi.com/",
           "hot": ""
         }
       ],
       "count": 3,
       "status": "success"
-    },
-    "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
     },
     "小红书": {
       "topics": [],
