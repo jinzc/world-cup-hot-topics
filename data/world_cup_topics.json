@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-17 21:34:59",
+  "update_time": "2026-10-18 00:58:01",
   "sources": {
     "微博": {
       "topics": [
@@ -8,9 +8,15 @@
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%E5%8F%97%E4%BC%A4",
           "hot": 0,
           "label": ""
+        },
+        {
+          "title": "相撞瞬间大马丁头颈错位",
+          "url": "https://s.weibo.com/weibo?q=%E7%9B%B8%E6%92%9E%E7%9E%AC%E9%97%B4%E5%A4%A7%E9%A9%AC%E4%B8%81%E5%A4%B4%E9%A2%88%E9%94%99%E4%BD%8D",
+          "hot": 0,
+          "label": ""
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -29,49 +35,50 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "大马丁与布伦斯韦特相撞伤退",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E9%A9%AC%E4%B8%81%E4%B8%8E%E5%B8%83%E4%BC%A6%E6%96%AF%E9%9F%A6%E7%89%B9%E7%9B%B8%E6%92%9E%E4%BC%A4%E9%80%80",
+          "hot": "842.5万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "大马丁出击被撞翻久久不能起身，彭德斯场边热身",
+          "title": "前99场狂轰101球！德甲官方发布凯恩德甲联赛百场纪念海报",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "皇马对阵塞维利亚大名单：姆巴佩领衔，维尼修斯停赛缺席",
+          "title": "超本赛季创造机会榜：维尔茨20次居首，格罗斯第2伊沃比第3",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "海纳：替维尔茨感到惋惜，但拜仁目前无意得到他",
+          "title": "世界波！亚马尔扣开防守左脚兜射破门，巴萨取得领先！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德踢中锋 让库尼亚回左边 老詹回右边 会不会比现在这样好",
+          "title": "[流言板]亚马尔西甲前9轮进8球，21世纪西班牙球员同期仅次于比利亚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "小弟刚看球请老哥们说现在的亚马尔和内马尔哪个更强一些",
+          "title": "亚马尔进球庆祝有好多人影子",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔身高已经183了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]皇马对阵塞维利亚大名单：姆巴佩领衔，维尼修斯停赛缺席",
+          "title": "[流言板]穆帅：若我是维尼修斯可能早已离队，他仍保持笑容令人敬佩",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
