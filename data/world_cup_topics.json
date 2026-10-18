@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-19 04:32:46",
+  "update_time": "2026-10-19 06:57:31",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,12 +29,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "B费连续两场被安排踢边锋，这用人你能看懂吗",
+          "title": "穆帅：巴尔韦德踢右后卫不需要被说服；维尼修斯欧冠将首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "杨迪摆脱直塞  姆巴佩跑位创造点球自己罚进",
+          "title": "还有个罗德里戈在摩拳擦掌等待回归！很是期待李哥左+迪奥右。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
@@ -58,9 +58,60 @@
       "status": "empty"
     },
     "网易": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "世界杯-西班牙加时1-0阿根廷夺冠 费兰绝杀恩佐染红",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯奖项汇总：西班牙获4大奖！罗德里获金球，19岁中卫获金童奖",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "众生相！西班牙绝杀阿根廷夺冠：费兰狂欢，亚马尔淡定，梅西苦笑",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "西班牙1-0阿根廷，世界杯奖金分配出炉：总额49亿破纪录 冠军3.4亿",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "梅西祝贺西班牙夺冠 回应卫冕梦碎：伤口难愈合",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "FIFA官宣：将调查世界杯决赛赛后冲突！阿根廷队或遭罚 2将难逃禁赛",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "41岁C罗点赞西媒炮轰：FIFA想把世界杯送给阿根廷，早该被淘汰",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "阿根廷本届世界杯多次绝处逢生，但今天未能再次创造奇迹",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "梅西世界杯谢幕！20年6届1冠2亚，39岁独造12球已成传奇",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        },
+        {
+          "title": "世界杯 | 阿根廷主帅泪洒发布会：失利让人心如刀割",
+          "url": "https://sports.163.com/worldcup2026/",
+          "hot": ""
+        }
+      ],
+      "count": 10,
+      "status": "success"
     },
     "腾讯": {
       "topics": [],
