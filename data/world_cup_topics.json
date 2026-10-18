@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-10-18 06:09:31",
+  "update_time": "2026-10-18 08:49:01",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "内马尔晒与亚马尔数据对比",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E4%B8%8E%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%95%B0%E6%8D%AE%E5%AF%B9%E6%AF%94",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "大马丁受伤",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%E5%8F%97%E4%BC%A4",
+          "title": "亚马尔世界波破门",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%B3%A2%E7%A0%B4%E9%97%A8",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -39,7 +33,7 @@
         {
           "title": "大马丁与布伦斯韦特相撞伤退",
           "url": "https://www.douyin.com/search/%E5%A4%A7%E9%A9%AC%E4%B8%81%E4%B8%8E%E5%B8%83%E4%BC%A6%E6%96%AF%E9%9F%A6%E7%89%B9%E7%9B%B8%E6%92%9E%E4%BC%A4%E9%80%80",
-          "hot": "1130.6万"
+          "hot": "1142.7万"
         }
       ],
       "count": 1,
@@ -48,22 +42,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "亚马尔造红牌过程：为保护费尔明与对手冲突，后被撞头倒地",
+          "title": "阿尔特塔：哈弗茨有潜力单赛季打进25-30球，他具备这个能力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉什福德踢中锋 让库尼亚回左边 老詹回右边 会不会比现在这样好",
+          "title": "【集锦】拜仁6-1莱比锡，迪亚斯戴帽+助攻，凯恩1射2传",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "来了一个罗德里，走了拉师傅和费兰，巴萨变化就这么大。所有的大坑都填上了。德科这也是瞎蒙的吧，答案全对。",
+          "title": "迈阿密主帅：不喜欢梅西回撤太深接球，队友要为他创造条件",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "拉什福德一直在处理他世界杯上受的臀部伤病",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不得不说在人品上皇马球迷和c罗真是双向奔赴。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "出乎意料！姆巴佩浪费机会次数冠决五大联赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
