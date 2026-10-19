@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-19 06:57:31",
+  "update_time": "2026-10-19 09:04:49",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "穆帅：巴尔韦德踢右后卫不需要被说服；维尼修斯欧冠将首发",
+          "title": "阿斯：姆巴佩前5个西甲主场打进8球，皇马12年来首人比肩C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "还有个罗德里戈在摩拳擦掌等待回归！很是期待李哥左+迪奥右。",
+          "title": "巴黎骚乱期间一球迷商店被洗劫一空，有人拿到梅西亲签球衣",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我是你们口中专区出名的“b黑”，说实话我是真的想曼联好起来，早就提出高位套现b费。因为他不走曼联复兴不了。说b费缺点被当成黑子串子。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "昨天3421。。卡里克用B费蒂勒曼斯双前腰。    而之前阿莫林是芒特+库尼亚，关键库尼亚芒特也没伤啊。。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "最新訊息：Hansi Flick已将斯图加特中后卫Finn Jeltsch确定为巴萨的优先目标。[@Alfremartinezz] #fcblive",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
