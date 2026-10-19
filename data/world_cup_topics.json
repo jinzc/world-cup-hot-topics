@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-19 23:29:31",
+  "update_time": "2026-10-20 04:58:20",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "伊劳拉：你们每天都问我维尔茨，我觉得大家过度审判他了",
+          "title": "亚马尔让费尔明当众认爹，后者：玩马里奥赛车，他就是我爹",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费拒了1亿英镑和双倍薪资留在曼联，续约没突破还被从前腰挪走",
+          "title": "摩根回应C罗遭葡足协禁赛罚款：这255欧元罚款我可以帮忙出",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔丢失球权最多=球队副作用",
+          "title": "C罗被罚255欧，而他年收入超2亿欧只需要39秒就能交完罚款",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]亚马尔让费尔明当众认爹，后者：玩马里奥赛车，他就是我爹",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -47,9 +52,14 @@
           "title": "维尼修斯黑子始终没搞明白的一件事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "你们希望维尼修斯找回状态吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
