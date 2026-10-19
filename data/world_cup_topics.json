@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-19 15:37:57",
+  "update_time": "2026-10-19 23:29:31",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,42 +29,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "北青：朱辰杰无缘国足热身赛，后防线搭配考验国足教练组",
+          "title": "伊劳拉：你们每天都问我维尔茨，我觉得大家过度审判他了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：巴黎轮休的还不够，门德斯受伤后只能迪涅去防亚马尔",
+          "title": "B费拒了1亿英镑和双倍薪资留在曼联，续约没突破还被从前腰挪走",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "邮报跟队暗示：曼联续约谈判未有突破，B费是不是该离开了？",
+          "title": "亚马尔丢失球权最多=球队副作用",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "董路：未来在亚洲也就三四队对国足有威胁：日韩乌兹和沙特",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "b费那么喜欢去抢守门员是为什么",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]记者：B费厌倦了曼联做出的引援承诺，他已停止接受采访",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林真的不给姆巴佩传球吗？",
+          "title": "维尼修斯黑子始终没搞明白的一件事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
