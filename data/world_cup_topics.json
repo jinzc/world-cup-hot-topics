@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-21 00:46:00",
+  "update_time": "2026-10-21 04:24:59",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,35 +22,29 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "C罗被禁赛30天",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%A2%AB%E7%A6%81%E8%B5%9B30%E5%A4%A9",
-          "hot": "887.3万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "TA跟队：滕哈格是真的认为C罗带了坏头，且曼联高层迂腐愚昧",
+          "title": "打破174天球荒，阿尔瓦雷斯攻入本赛季俱乐部赛事首球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：拉菲尼亚确认将首发战巴黎，罗德里可能轮休备战皇马",
+          "title": "卢克曼助攻，阿尔瓦雷斯抽射破门！斯图加特1-1马竞！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科莫总监：曾和瓦拉内打趣想签下B费，但他是曼联队长没机会",
+          "title": "沙特联：胜利1-0新未来城体育，C罗失点，菲利克斯破门",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨：凯恩是我学习榜样；我在压力下反而能拿出更好状态",
+          "title": "亚马尔上半场12次丢失球权+0过人尝试，且失误导致丢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -60,12 +54,17 @@
           "hot": ""
         },
         {
-          "title": "维尼修斯黑子始终没搞明白的一件事",
+          "title": "大爆料！滕哈赫：C罗曾退出训练参训也不达标，在场上又跑不动",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我去，这亚马尔略显衰老啊。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
