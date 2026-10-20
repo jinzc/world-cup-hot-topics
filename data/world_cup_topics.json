@@ -1,10 +1,29 @@
 {
-  "update_time": "2026-10-20 04:58:20",
+  "update_time": "2026-10-20 08:14:17",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗遭葡萄牙足协处罚",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%81%AD%E8%91%A1%E8%90%84%E7%89%99%E8%B6%B3%E5%8D%8F%E5%A4%84%E7%BD%9A",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗致电葡足协主席告知要退出集训营",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%87%B4%E7%94%B5%E8%91%A1%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%91%8A%E7%9F%A5%E8%A6%81%E9%80%80%E5%87%BA%E9%9B%86%E8%AE%AD%E8%90%A5",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗禁赛30天",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%A6%81%E8%B5%9B30%E5%A4%A9",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,32 +48,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "亚马尔让费尔明当众认爹，后者：玩马里奥赛车，他就是我爹",
+          "title": "对阵阿根廷赛后发表争议言论，埃及多人遭国际足联处罚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "摩根回应C罗遭葡足协禁赛罚款：这255欧元罚款我可以帮忙出",
+          "title": "现在曼联最大的问题是B费的创造力没了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗被罚255欧，而他年收入超2亿欧只需要39秒就能交完罚款",
+          "title": "努诺门德斯上不了了，按现在的状态巴黎应该没人能限制住亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]亚马尔让费尔明当众认爹，后者：玩马里奥赛车，他就是我爹",
+          "title": "居莱尔是要往莫德里奇方向发展吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA：某皇马教练匿名称维尼修斯不在防守更好、战术更严密了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
           "title": "维尼修斯黑子始终没搞明白的一件事",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "你们希望维尼修斯找回状态吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
