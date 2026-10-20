@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-20 19:21:13",
+  "update_time": "2026-10-21 00:46:00",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,39 +22,45 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗被禁赛30天",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%A2%AB%E7%A6%81%E8%B5%9B30%E5%A4%A9",
+          "hot": "887.3万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "杰拉德力挺维尔茨：应该思考如何帮助他，而不是怎么卖掉他",
+          "title": "TA跟队：滕哈格是真的认为C罗带了坏头，且曼联高层迂腐愚昧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：梅努、卢克-肖、利马和拉什福德缺席曼联欧冠赛前训练",
+          "title": "每体：拉菲尼亚确认将首发战巴黎，罗德里可能轮休备战皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "队报：巴黎更衣室认为恩里克会出奇招，用埃梅里防守亚马尔",
+          "title": "科莫总监：曾和瓦拉内打趣想签下B费，但他是曼联队长没机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德米凯利斯：能和梅西身处同一个时代，我心怀感激",
+          "title": "哈弗茨：凯恩是我学习榜样；我在压力下反而能拿出更好状态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "突发：梅努、肖、利马、拉什福德、多尔古、谢什科缺席今日训练",
+          "title": "有人列数据了，这赛季b费就是完全的躲对抗。而且几乎不防守。哎作为一个队长带头没纪律性，你指望其他队员怎么想。你顶薪，这么开摆对得起曼联？还有教练安排永远是第一位的。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩马赛回旋式过人进球太丝滑了！",
+          "title": "维尼修斯黑子始终没搞明白的一件事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
