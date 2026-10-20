@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-20 13:51:16",
+  "update_time": "2026-10-20 19:21:13",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,40 +22,44 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "C罗被禁赛30天",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E8%A2%AB%E7%A6%81%E8%B5%9B30%E5%A4%A9",
-          "hot": "844.6万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "队报：葡足协高层苦苦求C罗三周，热苏斯不得不放下身段召他",
+          "title": "杰拉德力挺维尔茨：应该思考如何帮助他，而不是怎么卖掉他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "恩里克：不要拿亚马尔和梅西比，他追求成为更好的自己",
+          "title": "跟队：梅努、卢克-肖、利马和拉什福德缺席曼联欧冠赛前训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "好现象：最近虎扑专区喷姆巴佩的喷子少了很多",
+          "title": "队报：巴黎更衣室认为恩里克会出奇招，用埃梅里防守亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]卡尼萨雷斯：维尼修斯一直在吃老本，靠往日高光发挥过日子",
+          "title": "德米凯利斯：能和梅西身处同一个时代，我心怀感激",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "突发：梅努、肖、利马、拉什福德、多尔古、谢什科缺席今日训练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩马赛回旋式过人进球太丝滑了！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
