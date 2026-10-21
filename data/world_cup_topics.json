@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-21 12:25:17",
+  "update_time": "2026-10-21 17:59:18",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "NBA揭幕战76人击败尼克斯",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -30,14 +24,14 @@
     "抖音": {
       "topics": [
         {
-          "title": "NBA揭幕战76人击败尼克斯",
-          "url": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF",
-          "hot": "1192.6万"
-        },
-        {
           "title": "NBA揭幕战马刺雷霆爆发冲突",
           "url": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%98%E9%A9%AC%E5%88%BA%E9%9B%B7%E9%9C%86%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-          "hot": "892.4万"
+          "hot": "912.4万"
+        },
+        {
+          "title": "NBA揭幕战76人击败尼克斯",
+          "url": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF",
+          "hot": "903.8万"
         }
       ],
       "count": 2,
@@ -46,37 +40,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "ESPN：巴萨向欧足联投诉巴黎球迷展示“具有攻击性”的tifo",
+          "title": "凯恩已连续9场欧冠取得进球，仅少于C罗的11场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拜仁认为全欧门将也没谁比乌尔比希强，明夏正式接班诺伊尔",
+          "title": "队报：巴黎队长马尔基尼奥斯右侧腘绳肌拉伤，预计很快恢复",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴黎人报：地球上少有人能防亚马尔，巴黎后卫卢卡斯做到了",
+          "title": "ROC团队：阿森纳今夏真的认真接触，维尼修斯也认真考虑过去",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加盟利物浦以来，维尔茨首次连续三次出场参与进球",
+          "title": "名宿：巴黎比巴萨和曼城更想赢；亚马尔没发挥出正常水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "居莱尔是要往莫德里奇方向发展吗？",
+          "title": "科莫总监：欧冠碰曼联不可思议；B费是我一生遇过最好的人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "好现象：最近虎扑专区喷姆巴佩的喷子少了很多",
+          "title": "巴黎人报：卢卡斯让亚马尔隐形，他也让外界质疑声彻底闭嘴",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不只是后防，边锋感觉还得补个大的，现在的几个边锋本质上还是吃亚马尔发挥",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "开场16分钟，杜埃就跳水让巴萨后防坎塞洛拿一张黄牌，纯跳水动作，竟然给坎塞洛一张黄牌，也不是单刀，也不是反击，开局16分钟啊，就是告诉坎塞洛这一整场你别防守了。第二个是开局巴黎直接把佩德里踢倒了抢到球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "实话讲，没有姆巴佩托底的巴黎，球员伤病隐患太大",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
