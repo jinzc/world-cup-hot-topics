@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-23 03:56:05",
+  "update_time": "2026-10-23 07:12:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -35,17 +35,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "梅西：冠军只有一个，对阵西班牙的决赛说明要重视过程",
+          "title": "邓肯-弗格森：B费公开质疑卡里克太过分，应该将他踢出阵容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：梅西亮相奥维耶多，获数千名儿童起立鼓掌长达2分钟",
+          "title": "鲁尼怒斥B费和利马：自私得像婴儿，只会把责任推给别人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伯恩茅斯vs米兰首发：克鲁伊维特PK西塞，莫德里奇替补",
+          "title": "卡拉格：B费采访太丢人了！他逼抢像孩子乱跑 看似努力却在坑队友",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -55,27 +55,47 @@
           "hot": ""
         },
         {
-          "title": "曼联不会因 B费的言论而剥夺他的队长袖标",
+          "title": "[流言板]天体：卡里克将带队出战伯恩茅斯；曼联内部理解B费赛后怒火",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "无人在意的另一边，莱万也融入了美职联分段了",
+          "title": "问个问题，如果你是曼联管理层，会怎么处理B费赛后质疑教练的行为？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]TA金球奖业内民调：百名足坛人士评金球奖，凯恩大幅领先",
+          "title": "B费可惜了，要是早生十年在弗爵爷麾下，组成ncb三叉戟，或许曼联荣誉上能再加一两座欧冠冠军",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【白衣军团】维尼修斯 VS RB莱比锡 个人集锦",
+          "title": "贝林厄姆适合你萨或者巴黎吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不懂就问，维尼修斯现在一秒钟都不上场，耗完整个合同期，皇马也是赚的吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆在英格兰踢成这样，在皇马怎么还要争首发",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "Opta：维尼修斯职业生涯中首次连续两场首发未尝试盘带。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "好奇请教老团迷，为什么维尼修斯会被主场嘘呀？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 12,
       "status": "success"
     },
     "懂球帝": {
