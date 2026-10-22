@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-22 17:59:20",
+  "update_time": "2026-10-22 23:08:19",
   "sources": {
     "微博": {
       "topics": [],
@@ -14,8 +14,8 @@
     "B站": {
       "topics": [
         {
-          "title": "杜兰特揭幕战砍30分",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E6%8F%AD%E5%B9%95%E6%88%98%E7%A0%8D30%E5%88%86",
+          "title": "爱德华兹揭幕战45分比肩乔丹",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B9%E6%8F%AD%E5%B9%95%E6%88%9845%E5%88%86%E6%AF%94%E8%82%A9%E4%B9%94%E4%B8%B9",
           "hot": 0
         }
       ],
@@ -35,32 +35,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "古蒂：维尼修斯仍对皇马很重要；国家德比预测巴萨2-4皇马",
+          "title": "欧冠第三轮创造机会榜：德布劳内7次居首，内维斯6次随后",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：亚马尔定好飞机参加金球典礼；提前准备派对庆祝获奖",
+          "title": "欧冠第三轮制造犯规榜：亚马尔6次居首，卡马文加并列4次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：皇马已不再保护维尼修斯，连队友都不信任他&amp;不传给他",
+          "title": "卡西前妻：2010世界杯我遭严重性别歧视，只有两人替我说话",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：亚马尔已包机+将带亲友团去金球颁奖，巴萨其他人另乘专机",
+          "title": "B费点赞；特谢拉晒和费德勒合影：对我来说他是GOAT",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆帅一直不怎么用B席，不能理解。后腰和右边前卫，他都可以踢啊",
+          "title": "卡拉格：B费采访太丢人了！他逼抢像孩子乱跑 看似努力却在坑队友",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "直接挖埃梅里吧，然后B费也可以走人了，队内不允许有这种球员凌驾主教练的存在出现",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "下一场是让B费进替补的好时机",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]记者：罗德里是巴萨隐形队长，像是第二教练&amp;与亚马尔很亲密",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
