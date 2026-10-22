@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-10-22 07:57:42",
+  "update_time": "2026-10-22 12:29:36",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "凯恩点球命中拜仁反超",
-          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E7%82%B9%E7%90%83%E5%91%BD%E4%B8%AD%E6%8B%9C%E4%BB%81%E5%8F%8D%E8%B6%85",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -19,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "杜兰特揭幕战砍30分",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E6%8F%AD%E5%B9%95%E6%88%98%E7%A0%8D30%E5%88%86",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -36,72 +35,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "希望没大事！同拜仁的欧冠赛后，萨卡一瘸一拐离开球场",
+          "title": "诺伊尔：防守端不稳？我们更多改进了定位球，今天没给机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费的质疑？卡里克：不管踢什么体系、战术，不跑就赢不了",
+          "title": "凯恩：欧冠连10场进球仅次于C罗？这纪录很棒，希望延续下去",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "孔帕尼：迪亚斯/金玟哉伤势可能不到一周恢复；能接受这平局",
+          "title": "凯恩：我似乎总能在对阵阿森纳时获点，能罚进并保持很好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿尔特塔：平局能接受但我们是为赢而来，萨卡股四头肌受伤",
+          "title": "哈弗茨：今天展现了我们近年的成长，落后想逆转的坚韧心态",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "何-马丁内斯：这场胜利很有价值，不是所有球队少一人都能赢",
+          "title": "只能说B费这种级别的真的生不逢时，要是早生10年在弗格森麾下，也会是金球级别的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "居莱尔：我”抢“了姆巴佩的进球，因为我知道他还会进一个",
+          "title": "卡里克回应B费：不管踢什么体系、战术，你不跑、不回防就赢不了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "其实季前赛齐尔克泽姆贝乌莫是踢出过内容的，俩人搭档效果很好，特点也很互补，一切从b费回来就变了。别说季前赛没参考价值，季前赛踢米兰出现的问题也一直存在。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "大爆料！滕哈赫：C罗曾退出训练参训也不达标，在场上又跑不动",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "说句你们不爱听的话，曼联这么多年成绩不好，b费要负很大责任吧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "开场16分钟，杜埃就跳水让巴萨后防坎塞洛拿一张黄牌，纯跳水动作，竟然给坎塞洛一张黄牌，也不是单刀，也不是反击，开局16分钟啊，就是告诉坎塞洛这一整场你别防守了。第二个是开局巴黎直接把佩德里踢倒了抢到球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "其实弗也就运气好，遇到了莱万",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "加维是否可以盖棺定论，大伤后啥也没了？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "迪奥曼德不占球，姆巴佩禁区触球涨了32%",
+          "title": "这一战之后，戈登，阿德耶米，拉菲尼亚，贝尔纳尔，加维在区里又都成了废物了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 13,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
