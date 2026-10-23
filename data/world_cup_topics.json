@@ -1,14 +1,8 @@
 {
-  "update_time": "2026-10-24 03:02:34",
+  "update_time": "2026-10-24 07:01:13",
   "sources": {
     "微博": {
       "topics": [
-        {
-          "title": "C罗进球因哈姆丹越位被吹",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%BF%9B%E7%90%83%E5%9B%A0%E5%93%88%E5%A7%86%E4%B8%B9%E8%B6%8A%E4%BD%8D%E8%A2%AB%E5%90%B9",
-          "hot": 0,
-          "label": ""
-        },
         {
           "title": "C罗第982球",
           "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%AC%AC982%E7%90%83",
@@ -16,7 +10,7 @@
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -42,47 +36,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "第982球被取消？Opta数据更新：C罗头球破门被改记对手乌龙",
+          "title": "太阳报：B费豪宅遭盗窃，窃贼或通过装修工晒出的照片踩点",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨官方祝贺梅西获奖：实至名归的荣誉，俱乐部永远的骄傲",
+          "title": "拉波尔塔祝贺梅西获奖：巴萨与你共同书写辉煌，愿故事永恒",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅西获阿斯图里亚斯公主奖徽章颁奖词：凭谦逊赢得世界尊重",
+          "title": "库巴西：希望梅西能永远踢下去，这样就能一直欣赏他的比赛",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "知名街头涂鸦大师创作姆巴佩和亚马尔壁画，但已经被破坏",
+          "title": "这支曼联除了B费，还有哪个球员能在巴萨踢上主力的？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西班牙王储盛赞梅西：独一无二的职业生涯，让非凡成为日常",
+          "title": "b费为啥这赛季表现跟上赛季比差这么多？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里：梅西是历史最佳，希望他能在巴萨得到应有的告别",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "赫内斯：若维尔茨来拜仁会比在利物浦好得多，拜仁不会签他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "伊劳拉：维尔茨在欧冠明显更好，英超对抗强度高他还在适应",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "继续冲击千球！C罗更新社媒，晒照庆祝胜利：继续前进",
+          "title": "巴萨应该是大半只西班牙，怎么就不像世界杯溜法国队一样溜巴黎呢?难道是法国队没有像巴黎一样疯狗跑?",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -92,17 +71,17 @@
           "hot": ""
         },
         {
-          "title": "ESPN跟队Rodra：皇马现在对姆巴佩赢得金球奖感到乐观。",
+          "title": "姆巴佩这个双料金靴，真的就这么被你们调侃成球队副作用  球队毒瘤吗？真的假的?有没有看球高手说一下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "突发：阿森纳重新关注维尼修斯",
+          "title": "为什么熊秘书就不能正视维尼修斯现在的状态就是一坨呢？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
