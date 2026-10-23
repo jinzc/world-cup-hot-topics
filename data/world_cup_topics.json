@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-23 07:12:33",
+  "update_time": "2026-10-23 12:29:00",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "爱德华兹揭幕战45分比肩乔丹",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B9%E6%8F%AD%E5%B9%95%E6%88%9845%E5%88%86%E6%AF%94%E8%82%A9%E4%B9%94%E4%B8%B9",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,67 +29,47 @@
     "虎扑": {
       "topics": [
         {
-          "title": "邓肯-弗格森：B费公开质疑卡里克太过分，应该将他踢出阵容",
+          "title": "沃克：我认可拉什福德在左路发挥，但若改踢中路会更有威胁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "鲁尼怒斥B费和利马：自私得像婴儿，只会把责任推给别人",
+          "title": "沃诺克：卡里克要找B费谈谈，两人若同战线他就不会公开发难",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡拉格：B费采访太丢人了！他逼抢像孩子乱跑 看似努力却在坑队友",
+          "title": "迪尼：卡里克没对利马实施禁赛，这为B费效仿发声埋下了隐患",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]跟队：B费留队却未获顶薪使他心生不满，其如今越来越像C罗",
+          "title": "前巴西国脚：内马尔每天资助两千人吃饭，这不是谁都能做到",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]天体：卡里克将带队出战伯恩茅斯；曼联内部理解B费赛后怒火",
+          "title": "卫报：FIFA将女足世界杯备战经费翻倍，与男足为同一水平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "问个问题，如果你是曼联管理层，会怎么处理B费赛后质疑教练的行为？",
+          "title": "理性分析卡里克与B费互喷之《逼抢与不逼抢》。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费可惜了，要是早生十年在弗爵爷麾下，组成ncb三叉戟，或许曼联荣誉上能再加一两座欧冠冠军",
+          "title": "姆巴佩这个双料金靴，真的就这么被你们调侃成球队副作用  球队毒瘤吗？真的假的?有没有看球高手说一下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆适合你萨或者巴黎吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "不懂就问，维尼修斯现在一秒钟都不上场，耗完整个合同期，皇马也是赚的吗？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "贝林厄姆在英格兰踢成这样，在皇马怎么还要争首发",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Opta：维尼修斯职业生涯中首次连续两场首发未尝试盘带。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "好奇请教老团迷，为什么维尼修斯会被主场嘘呀？",
+          "title": "这种防守动作，哪个职业防不住亚马尔，6次对亚马尔犯规叫锁死， 亚马尔刚想变速 他就直接背后肘击推人，搞了半天就这样防的，全是犯规动作。巴黎这场就是坚决背后撞人策略，撞伤奥尔莫和埃斯帕特也",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
