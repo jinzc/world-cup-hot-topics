@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-25 01:20:04",
+  "update_time": "2026-10-25 04:35:17",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,7 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "大马丁下颌手术后现身斯坦福桥，现场观看切尔西vs热刺",
+          "title": "首开记录！阿尔瓦雷斯抢点破门，马竞1-0",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "詹俊谈伦敦德比：切尔西中场失控；M费踢出罗德里风范",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "太阳报：巴萨球迷呼吁拉什福德回归",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼联老队长罗伊基恩狂喷B费，大家怎么看？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -37,14 +52,9 @@
           "title": "这种防守动作，哪个职业防不住亚马尔，6次对亚马尔犯规叫锁死， 亚马尔刚想变速 他就直接背后肘击推人，搞了半天就这样防的，全是犯规动作。巴黎这场就是坚决背后撞人策略，撞伤奥尔莫和埃斯帕特也",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "经典回顾：20/21赛季欧冠姆巴佩单核带队逆转巴萨，上演帽子戏法！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
