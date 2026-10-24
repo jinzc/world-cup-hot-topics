@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-25 04:35:17",
+  "update_time": "2026-10-25 07:03:27",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,21 +29,6 @@
     "虎扑": {
       "topics": [
         {
-          "title": "首开记录！阿尔瓦雷斯抢点破门，马竞1-0",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "詹俊谈伦敦德比：切尔西中场失控；M费踢出罗德里风范",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "太阳报：巴萨球迷呼吁拉什福德回归",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
           "title": "曼联老队长罗伊基恩狂喷B费，大家怎么看？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
@@ -52,9 +37,19 @@
           "title": "这种防守动作，哪个职业防不住亚马尔，6次对亚马尔犯规叫锁死， 亚马尔刚想变速 他就直接背后肘击推人，搞了半天就这样防的，全是犯规动作。巴黎这场就是坚决背后撞人策略，撞伤奥尔莫和埃斯帕特也",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "姆巴佩如果现在开始改变，帮助杨迪稳住首发，然后成功拿到欧冠，以后是不是就能用“与维尼修斯不搭”这种话术来洗刷前两个赛季的惨淡成绩了？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼城区刚发的，别再说恩佐了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
