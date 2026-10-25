@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-10-25 22:13:37",
+  "update_time": "2026-10-26 02:19:14",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "卡里克 B费",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%A1%E9%87%8C%E5%85%8B%20B%E8%B4%B9",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -29,42 +36,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "卡里克：让B费替补纯粹是足球层面的原因，只和竞技有关",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "内维尔：为维护威信，卡里克得做出处罚&amp;今天不能让B费首发",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "卡里克执教曼联后B费首次在英超替补，个人生涯第6次",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "接替B费，马奎尔自23年5月以来首次在英超中担任曼联队长",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]RMC：除非国家德比重伤，否则亚马尔一定会出席本届金球典礼",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]费尔明曾与加维发生冲突，陷入转会传言时获亚马尔保护",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]马卡：凯恩疑似压倒姆巴佩获金球，穆帅加强中场以对抗巴萨",
+          "title": "有人下重注在排名 但我觉得还是亚马尔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 1,
       "status": "success"
     },
     "懂球帝": {
