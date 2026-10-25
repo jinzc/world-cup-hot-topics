@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-26 02:19:14",
+  "update_time": "2026-10-26 05:37:18",
   "sources": {
     "微博": {
       "topics": [
@@ -36,12 +36,62 @@
     "虎扑": {
       "topics": [
         {
-          "title": "有人下重注在排名 但我觉得还是亚马尔",
+          "title": "精妙配合！佩德里助攻拉菲尼亚破门，巴萨1-1皇马",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "龙争虎斗！亚马尔、贝林上脚阿迪达斯Y-3联名战靴亮相德比",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "皇马二打一反击，贝林厄姆未能找到分球线路被破坏",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "13/14赛季以来皇马客战巴萨进球榜：姆巴佩、C罗4球并列第一",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩成为1951年以来，首位前7场国家德比打进7球的球员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "半场：巴萨0-1皇马，姆巴佩破门，亚马尔失良机",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩已攻破巴萨球门13次，生涯对手中仅蒙彼利埃丢球更多",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩加盟皇马后国家德比已进7球，与拉菲尼亚并列同期第一",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "对抗拉满！库库雷利亚对位亚马尔，半场不到已犯规4次",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩德里咱就是能不能来脚远射吗？就这么不想射门吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔迷一样的状态。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 1,
+      "count": 11,
       "status": "success"
     },
     "懂球帝": {
