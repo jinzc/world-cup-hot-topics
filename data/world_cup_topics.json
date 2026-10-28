@@ -1,58 +1,52 @@
 {
-  "update_time": "2026-10-28 09:06:40",
+  "update_time": "2026-10-28 16:14:29",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "皇马称姆巴佩仅代表个人",
-          "url": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%85%E4%BB%A3%E8%A1%A8%E4%B8%AA%E4%BA%BA",
+          "title": "中方重视姆巴佩作出的道歉",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%B9%E9%87%8D%E8%A7%86%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BD%9C%E5%87%BA%E7%9A%84%E9%81%93%E6%AD%89",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "法国访谈节目就姆巴佩事件道歉",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%AE%BF%E8%B0%88%E8%8A%82%E7%9B%AE%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89",
+          "title": "海信称与姆巴佩无商业合作",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%B7%E4%BF%A1%E7%A7%B0%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%97%A0%E5%95%86%E4%B8%9A%E5%90%88%E4%BD%9C",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "事后道歉救不了姆巴佩",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%8B%E5%90%8E%E9%81%93%E6%AD%89%E6%95%91%E4%B8%8D%E4%BA%86%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "title": "姆巴佩事件皇马休想蒙混过关",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%8B%E4%BB%B6%E7%9A%87%E9%A9%AC%E4%BC%91%E6%83%B3%E8%92%99%E6%B7%B7%E8%BF%87%E5%85%B3",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "浙江宣传批姆巴佩",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E6%89%B9%E5%A7%86%E5%B7%B4%E4%BD%A9",
+          "title": "法国媒体批姆巴佩团队极度短视",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%AA%92%E4%BD%93%E6%89%B9%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%A2%E9%98%9F%E6%9E%81%E5%BA%A6%E7%9F%AD%E8%A7%86",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "中国足协与皇马俱乐部严正交涉",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "title": "外交部回应姆巴佩道歉",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "人民日报锐评姆巴佩翻车",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6",
+          "title": "皇马没道歉还发布了姆巴佩集锦",
+          "url": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC%E6%B2%A1%E9%81%93%E6%AD%89%E8%BF%98%E5%8F%91%E5%B8%83%E4%BA%86%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%9B%86%E9%94%A6",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "姆巴佩们别想从中国市场挣走一分钱",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%AC%E5%88%AB%E6%83%B3%E4%BB%8E%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%8C%A3%E8%B5%B0%E4%B8%80%E5%88%86%E9%92%B1",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "外交部回应姆巴佩涉华不当言论",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA",
+          "title": "姆巴佩中国代言收入占商业总收入38%",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A8%80%E6%94%B6%E5%85%A5%E5%8D%A0%E5%95%86%E4%B8%9A%E6%80%BB%E6%94%B6%E5%85%A538%25",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 8,
+      "count": 7,
       "status": "success"
     },
     "百度": {
@@ -61,20 +55,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "西甲就姆巴佩不当言论道歉",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%94%B2%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
-          "hot": 0
-        },
-        {
-          "title": "凯恩获金球奖是否实至名归",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E6%81%A9%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96%E6%98%AF%E5%90%A6%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -84,24 +67,24 @@
     "抖音": {
       "topics": [
         {
+          "title": "国足出征U17世界杯名单公布",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%87%BA%E5%BE%81U17%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+          "hot": "878.7万"
+        },
+        {
+          "title": "凯恩获金球奖给中国足球的启示",
+          "url": "https://www.douyin.com/search/%E5%87%AF%E6%81%A9%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E5%90%AF%E7%A4%BA",
+          "hot": "771.5万"
+        },
+        {
           "title": "外交部回应姆巴佩发表不当言论",
           "url": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA",
-          "hot": "1215.4万"
+          "hot": "770.9万"
         },
         {
-          "title": "皇马官方：姆巴佩仅代表个人",
-          "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E5%AE%98%E6%96%B9%EF%BC%9A%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BB%85%E4%BB%A3%E8%A1%A8%E4%B8%AA%E4%BA%BA",
-          "hot": "830.4万"
-        },
-        {
-          "title": "央视叫停涉姆巴佩赛事和广告播出",
-          "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E5%8F%AB%E5%81%9C%E6%B6%89%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B5%9B%E4%BA%8B%E5%92%8C%E5%B9%BF%E5%91%8A%E6%92%AD%E5%87%BA",
-          "hot": "767.8万"
-        },
-        {
-          "title": "西甲官方：为姆巴佩言论感到遗憾",
-          "url": "https://www.douyin.com/search/%E8%A5%BF%E7%94%B2%E5%AE%98%E6%96%B9%EF%BC%9A%E4%B8%BA%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%81%97%E6%86%BE",
-          "hot": "767.8万"
+          "title": "皇马称姆巴佩言论仅代表个人",
+          "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A8%80%E8%AE%BA%E4%BB%85%E4%BB%A3%E8%A1%A8%E4%B8%AA%E4%BA%BA",
+          "hot": "767.1万"
         }
       ],
       "count": 4,
@@ -110,52 +93,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "奥利塞拥抱祝贺凯恩拿金球，露出非常稀有的开心笑容",
+          "title": "卡瓦哈尔：C罗肯定会达到千球里程碑；凯恩最重要的是帮队友",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴斯勒罕见温情：向基米希致哀，足球输赢远不如家人重要",
+          "title": "巴黎人报：恩里克让巴黎替补闪光，比如防住亚马尔的卢卡斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "德甲时隔30年再出金球！药厂主帅：凯恩的金球提振了德甲",
+          "title": "TA社论：从贝尔魔笛孙兴慜凯恩，热刺终于找回金球级眼光",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "安德鲁斯：凯恩是年轻球员学习的榜样，他无数次克服逆境",
+          "title": "TA：曼联缺钱；卡里克召开队内恳谈会；B费踢切尔西预计首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "凯恩回到慕尼黑后立即投入训练，备战德国杯",
+          "title": "[流言板]TA：曼联缺钱；卡里克召开队内恳谈会；B费踢切尔西预计首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "洛里：凯恩足球层面变化很大但人品绝对好，金球是实至名归",
+          "title": "骆明评亚马尔&quot;牵制明显但不高光&quot;，这个区分我有点在意",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "萨卡未婚妻身着精心挑选的礼服亮相颁奖典礼，十分引人注目",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩这言论怎么敢的？比后场那个私人还要夸张十倍",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "卡里克说弃用B费是纯足球决定，但0比3的结果摆在那",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "说句真实的，本质是亚马尔还不够强",
+          "title": "[流言板]巴黎人报：恩里克让巴黎替补闪光，比如防住亚马尔的卢卡斯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -165,7 +133,7 @@
           "hot": ""
         }
       ],
-      "count": 11,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
