@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-30 14:57:47",
+  "update_time": "2026-10-30 22:00:11",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "中国U17女足首进世界杯8强",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA",
-          "hot": "1024.8万"
+          "hot": "931.5万"
         }
       ],
       "count": 1,
@@ -35,22 +35,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "TA：曼联至今未给B费开出续约合同；有+1条款但如何处理未定",
+          "title": "球员本世纪正式比赛戴帽次数榜：C罗梅西断层领先第三的莱万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "U17女足世界杯1/4决赛开球时间：中国vs巴西11月2日2点进行",
+          "title": "弗里克：为亚马尔落选金球奖后的反应骄傲，他专注于球队",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：罗梅罗希望马竞签下利马，巴萨希望低价甚至免签",
+          "title": "卡里克和管理层最大的错误就是过河拆桥，卖命拼来欧冠资格的球员莫名其妙就丢了位置，b费 库尼亚 利马，抢掉首发的是寸功未立的地雷和拉师傅，以及年轻的海文，为省一点续约周薪而丢失欧冠上亿的收入",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "至少还能看2年！罗马诺：梅西希望在迈阿密踢到28年底，可能更久",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "感觉现在最强阵容打巴黎应该是四中场德荣佩德里罗德里奥尔莫",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2020年2月姆巴佩ins：中国加油！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "2020年2月大巴黎都穿了：中国加油！只有姆巴佩一直拿来营销！想洗一次就对冲开一次",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
