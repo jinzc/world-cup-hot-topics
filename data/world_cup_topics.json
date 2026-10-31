@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-01 01:36:46",
+  "update_time": "2026-11-01 05:21:10",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,7 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "金球配金靴！凯恩将穿24K金箔定制战靴出战国家德比",
+          "title": "半场：巴萨4-0阿拉维斯，亚马尔传射，拉菲尼亚双响",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔一记贴地斩，皮球直钻死角，巴萨4-0",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔助攻，费尔明爆射破门，巴萨2-0",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "利桑德罗马丁内斯红牌被罚下，你怎么看？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -37,9 +52,19 @@
           "title": "开天眼而论，如果当初苏牙，本泽马，莱万买哪一个更好？前提本泽马当时没去皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "亚马尔真的需要调整心态和提高射术，这么好的球也打不进。。。。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "哈里·凯恩：何塞（穆里尼奥）太棒了。他用一种不同的方式提升了我的球技！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
