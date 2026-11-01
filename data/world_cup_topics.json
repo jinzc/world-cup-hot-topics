@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-02 03:29:21",
+  "update_time": "2026-11-02 07:28:24",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,24 +22,25 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "佩德里祝贺无锡夺苏超冠军",
+          "url": "https://www.douyin.com/search/%E4%BD%A9%E5%BE%B7%E9%87%8C%E7%A5%9D%E8%B4%BA%E6%97%A0%E9%94%A1%E5%A4%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B",
+          "hot": "914.4万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "海湾杯：中国男足U16 0-4 埃及U17，刘靖磊送点，贾迈勒双响",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈弗茨：我的进球90%功劳归于赖斯，他的传中质量无可挑剔",
+          "title": "维尔茨：我不是很看重个人状态好坏，利物浦赢才是唯一目标",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "懂球帝": {
