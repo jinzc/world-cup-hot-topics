@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-01 05:21:10",
+  "update_time": "2026-11-01 08:55:04",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,42 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "半场：巴萨4-0阿拉维斯，亚马尔传射，拉菲尼亚双响",
+          "title": "还能更倒霉吗？拜仁vs多特4次中框&amp;凯恩失点&amp;3人伤退&amp;被绝平",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔一记贴地斩，皮球直钻死角，巴萨4-0",
+          "title": "名宿：曼联在行事方针上没有上下一心，B费已不适合再当队长",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔助攻，费尔明爆射破门，巴萨2-0",
+          "title": "利马是世界杯冠军，为啥到了我抬就这样了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "利桑德罗马丁内斯红牌被罚下，你怎么看？",
+          "title": "[流言板]世界报：米利唐出征巴塞罗那期间家中被洗劫，损失超35万欧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "开天眼而论，如果当初苏牙，本泽马，莱万买哪一个更好？前提本泽马当时没去皇马",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔真的需要调整心态和提高射术，这么好的球也打不进。。。。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "哈里·凯恩：何塞（穆里尼奥）太棒了。他用一种不同的方式提升了我的球技！",
+          "title": "那为什么现在还是有很多人喜欢看NBA、喜欢梅西？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
