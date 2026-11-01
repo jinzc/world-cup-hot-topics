@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-01 08:55:04",
+  "update_time": "2026-11-01 15:19:27",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,12 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "还能更倒霉吗？拜仁vs多特4次中框&amp;凯恩失点&amp;3人伤退&amp;被绝平",
+          "title": "从英超到世界杯再到MLB，樊振东的跨界解说之路",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "名宿：曼联在行事方针上没有上下一心，B费已不适合再当队长",
+          "title": "因丧父多特主帅科瓦奇安慰基米希；基米希：我简单感谢了他",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "跟队：B费曼联生涯或到尾声；至于利马，他的行为愚蠢又自私",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -44,12 +49,7 @@
           "hot": ""
         },
         {
-          "title": "[流言板]世界报：米利唐出征巴塞罗那期间家中被洗劫，损失超35万欧",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "那为什么现在还是有很多人喜欢看NBA、喜欢梅西？",
+          "title": "[流言板]穆帅：巴尔韦德明天不会首发，我需要维尼修斯但不保证首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
