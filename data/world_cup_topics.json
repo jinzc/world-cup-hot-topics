@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-03 22:58:03",
+  "update_time": "2026-11-04 04:54:32",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,37 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "记者：新月之前追求B费未果后，不会再次考虑从曼联引进他",
+          "title": "B费和苏莱发生冲突，裁判对两人均出示黄牌警告",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "泰国足球史上首次有球队面对中国球队单场入7球，此前为5球",
+          "title": "刚才巴莱巴传给b费拿球，b费打飞后在抱怨什么啊？感觉意见挺大的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "每体：加维对现状不安但无意离队，巴萨也依然视其为非卖品",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿莫林不用的隔离班：拉什福德、安东尼、桑乔、加纳乔，本赛季都是零蛋，阿莫林眼光独到呀",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "okdiario：维尼修斯将在本周三对阵雅典AEK的比赛中首发。他需要回应扬·迪奥曼德在最近几场比赛中的出色表现",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "对维尼修斯与萨迪辛克的造谣最初来自于一个土耳其自媒体账号",
+          "title": "要是有机会，亚马尔这场自己开火吧。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
