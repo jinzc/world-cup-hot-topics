@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-11-05 01:02:11",
+  "update_time": "2026-11-05 07:30:50",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "中国男篮公布世预赛集训名单",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%85%AC%E5%B8%83%E4%B8%96%E9%A2%84%E8%B5%9B%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -36,37 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "巴尔科：若让我推荐想切尔西签罗梅罗；梅西仍是我心中最佳",
+          "title": "看到B费罚丢点球，阿玛德-迪亚洛的反应是这样的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "欧足联官方：不会对库尼亚被罚下后回场调查，也不会再处罚",
+          "title": "我们能幻想摸一下贝林厄姆吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁问罗德里买来是踢高端局的，还是增强虐菜属性的",
+          "title": "拉什福德是真的受伤，还是诈伤不出战？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "弗里克4-0领先换下佩德里亚马尔却不换罗德里，下一场欧冠人就伤了",
+          "title": "维尼修斯过人间隔从9.5分钟涨到21.6分钟，不是过不了，是不想过了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴萨官方:罗德里右腿肌肉拉伤，可能要一个月",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "卖掉姆巴佩，买进哈兰德！",
+          "title": "我本可以忍受维尼修斯，如果我不曾见过迪奥曼德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
