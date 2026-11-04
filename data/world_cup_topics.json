@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-04 04:54:32",
+  "update_time": "2026-11-04 09:11:23",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,22 +29,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "B费和苏莱发生冲突，裁判对两人均出示黄牌警告",
+          "title": "梅迪纳：阿根廷媒体甚至会针对梅西；世界杯决赛前少1天休息",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "刚才巴莱巴传给b费拿球，b费打飞后在抱怨什么啊？感觉意见挺大的",
+          "title": "B费：我们无需保住任何人工作，教练让我替补是我踢得不好",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "要是有机会，亚马尔这场自己开火吧。",
+          "title": "凯恩本场未能进球，无缘追平C罗连续11场欧冠进球的纪录",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "多用多买一些狼王这样有血性的男人，提拔一些纯正的dna，什么鸡巴拉什福德赶紧爬！还有巴莱巴这种黑又软 真服了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "居莱尔 楚阿梅尼没进大名单 马丁内斯递补能不能迎来首秀  有谁知道这个球员什么风格的吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "隔壁罗德里伤了?，，，，",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
