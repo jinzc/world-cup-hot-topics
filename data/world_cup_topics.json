@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-05 23:19:39",
+  "update_time": "2026-11-06 05:53:30",
   "sources": {
     "微博": {
       "topics": [
@@ -10,37 +10,31 @@
           "label": ""
         },
         {
-          "title": "葡萄牙国家队回应C罗退役",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9",
+          "title": "C罗回应退出葡萄牙国家队",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "C罗国家队最后一战",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9C%80%E5%90%8E%E4%B8%80%E6%88%98",
+          "title": "接班人回应C罗退役",
+          "url": "https://s.weibo.com/weibo?q=%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "葡萄牙主帅称退役是C罗个人的决定",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E7%A7%B0%E9%80%80%E5%BD%B9%E6%98%AFC%E7%BD%97%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%86%B3%E5%AE%9A",
+          "title": "葡萄牙总理说C罗继续代表葡萄牙",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86%E8%AF%B4C%E7%BD%97%E7%BB%A7%E7%BB%AD%E4%BB%A3%E8%A1%A8%E8%91%A1%E8%90%84%E7%89%99",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "葡媒曝C罗退役后足协损失惨重",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%9B%9DC%E7%BD%97%E9%80%80%E5%BD%B9%E5%90%8E%E8%B6%B3%E5%8D%8F%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗从国家队退役",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "title": "C罗告别六届世界杯",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%91%8A%E5%88%AB%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 6,
+      "count": 5,
       "status": "success"
     },
     "百度": {
@@ -51,12 +45,22 @@
     "B站": {
       "topics": [
         {
+          "title": "C罗宣布从葡萄牙国家队退役",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "hot": 0
+        },
+        {
           "title": "C罗说后会有7告别国家队",
           "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%AF%B4%E5%90%8E%E4%BC%9A%E6%9C%897%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
           "hot": 0
+        },
+        {
+          "title": "如何评价C罗国家队生涯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+          "hot": 0
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "知乎": {
@@ -69,12 +73,12 @@
         {
           "title": "C罗宣布从葡萄牙国家队退役",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": "912.6万"
+          "hot": "915.6万"
         },
         {
           "title": "C罗告别信：交还7号的时候到了",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E4%BA%A4%E8%BF%987%E5%8F%B7%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86",
-          "hot": "837.9万"
+          "hot": "820.1万"
         }
       ],
       "count": 2,
@@ -83,42 +87,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "向余望致敬C罗：你教会了我很多，不仅仅是足球这么简单",
+          "title": "B席致敬C罗：你是我们所有人的榜样，谢谢你为葡萄牙的一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前主管：C罗认为这是最适合离开方式，但本能以不同方式收尾",
+          "title": "C罗宣布从国家队退役",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "龙赛罗：黑粉总忘了，C罗崛起打破外界设想梅西独占辉煌时代",
+          "title": "C罗官方宣布从国家队退役",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【中文字幕】C罗国家队告别信：我为葡萄牙付出了一切",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "乌姆蒂蒂：维尼修斯丢金球后还没缓过来，他的沉沦令人痛心",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "C罗姐姐发文：如果还有什么需要答案，也许明天会看得更清楚",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "SPORT1：凯恩与拜仁续约后年薪超3200万，超哈兰德欧洲最高",
+          "title": "隔壁问罗德里买来是踢高端局的，还是增强虐菜属性的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
