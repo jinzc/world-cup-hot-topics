@@ -1,10 +1,47 @@
 {
-  "update_time": "2026-11-05 14:21:17",
+  "update_time": "2026-11-05 23:19:39",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "众球星致敬C罗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E7%90%83%E6%98%9F%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "葡萄牙国家队回应C罗退役",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗国家队最后一战",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9C%80%E5%90%8E%E4%B8%80%E6%88%98",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "葡萄牙主帅称退役是C罗个人的决定",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E7%A7%B0%E9%80%80%E5%BD%B9%E6%98%AFC%E7%BD%97%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%86%B3%E5%AE%9A",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "葡媒曝C罗退役后足协损失惨重",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E5%AA%92%E6%9B%9DC%E7%BD%97%E9%80%80%E5%BD%B9%E5%90%8E%E8%B6%B3%E5%8D%8F%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "C罗从国家队退役",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 6,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,9 +49,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗说后会有7告别国家队",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%AF%B4%E5%90%8E%E4%BC%9A%E6%9C%897%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -22,44 +65,55 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗宣布从葡萄牙国家队退役",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "hot": "912.6万"
+        },
+        {
+          "title": "C罗告别信：交还7号的时候到了",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E4%BA%A4%E8%BF%987%E5%8F%B7%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86",
+          "hot": "837.9万"
+        }
+      ],
+      "count": 2,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "纽卡新引援主管曾主导本菲卡签恩佐，纽卡希望他有类似贡献",
+          "title": "向余望致敬C罗：你教会了我很多，不仅仅是足球这么简单",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维经纪人：我没和任何俱乐部谈过转会，他会留在巴萨",
+          "title": "前主管：C罗认为这是最适合离开方式，但本能以不同方式收尾",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内讧？德布劳内质疑卢卡跑位挥手表达不满，后者回怼：滚蛋",
+          "title": "龙赛罗：黑粉总忘了，C罗崛起打破外界设想梅西独占辉煌时代",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "外网热议片段：B费传球被对手破坏，随后却在责怪阿马德",
+          "title": "【中文字幕】C罗国家队告别信：我为葡萄牙付出了一切",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "买皇马的居莱尔或者科莫的帕斯替换b费怎么样",
+          "title": "乌姆蒂蒂：维尼修斯丢金球后还没缓过来，他的沉沦令人痛心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "弗里克把罗德里用伤，我开始期待新教练了",
+          "title": "C罗姐姐发文：如果还有什么需要答案，也许明天会看得更清楚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆里尼奥：我非常幸运拥有贝林厄姆！他总是充满干劲、领导力、雄心，技术、进球一流",
+          "title": "SPORT1：凯恩与拜仁续约后年薪超3200万，超哈兰德欧洲最高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
