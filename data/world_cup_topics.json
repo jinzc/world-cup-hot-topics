@@ -1,41 +1,10 @@
 {
-  "update_time": "2026-11-06 05:53:30",
+  "update_time": "2026-11-06 10:10:45",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "众球星致敬C罗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%97%E7%90%83%E6%98%9F%E8%87%B4%E6%95%ACC%E7%BD%97",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗回应退出葡萄牙国家队",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "接班人回应C罗退役",
-          "url": "https://s.weibo.com/weibo?q=%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "葡萄牙总理说C罗继续代表葡萄牙",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86%E8%AF%B4C%E7%BD%97%E7%BB%A7%E7%BB%AD%E4%BB%A3%E8%A1%A8%E8%91%A1%E8%90%84%E7%89%99",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗告别六届世界杯",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%91%8A%E5%88%AB%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 5,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -45,18 +14,18 @@
     "B站": {
       "topics": [
         {
-          "title": "C罗宣布从葡萄牙国家队退役",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": 0
-        },
-        {
-          "title": "C罗说后会有7告别国家队",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E8%AF%B4%E5%90%8E%E4%BC%9A%E6%9C%897%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "title": "如何理解C罗选择从国家队退役",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3C%E7%BD%97%E9%80%89%E6%8B%A9%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
           "hot": 0
         },
         {
           "title": "如何评价C罗国家队生涯",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+          "hot": 0
+        },
+        {
+          "title": "OSAKA MAJOR",
+          "url": "https://search.bilibili.com/all?keyword=OSAKA%20MAJOR",
           "hot": 0
         }
       ],
@@ -73,41 +42,61 @@
         {
           "title": "C罗宣布从葡萄牙国家队退役",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": "915.6万"
-        },
-        {
-          "title": "C罗告别信：交还7号的时候到了",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E4%BA%A4%E8%BF%987%E5%8F%B7%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86",
-          "hot": "820.1万"
+          "hot": "774.7万"
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "B席致敬C罗：你是我们所有人的榜样，谢谢你为葡萄牙的一切",
+          "title": "法尔克：凯恩新合同没有热刺回购条款，他无意回英超破纪录",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗宣布从国家队退役",
+          "title": "得知C罗退出葡萄牙队后，Speed穿罗哥球衣哭着弹琴",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗官方宣布从国家队退役",
+          "title": "天足回顾C罗国家队生涯最动人瞬间：16年欧洲杯化茧成蝶",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "隔壁问罗德里买来是踢高端局的，还是增强虐菜属性的",
+          "title": "致敬偶像！拉扬进球后做出C罗标志性的“Siuuu”庆祝",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "名记：维尼修斯被换下时很顺从，老佛爷招纳达尔是打击对手",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "热苏斯：C罗永远是葡萄牙标杆，曾请他留下但接受他的决定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "法尔克：凯恩续约后薪资上涨，但全欧薪资最高球员是哈兰德",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "老而不死是为贼，热烈庆祝葡萄牙祸害c罗从国家队扫地出门！",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "巴萨官方：罗德里右腿股二头肌受伤无缘战马竞 西媒称将伤缺1个月",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
