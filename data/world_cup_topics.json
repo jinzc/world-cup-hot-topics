@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-11-07 01:52:46",
+  "update_time": "2026-11-07 06:57:50",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "贝林厄姆兄弟同时入选英格兰队",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%85%84%E5%BC%9F%E5%90%8C%E6%97%B6%E5%85%A5%E9%80%89%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -19,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "甲亢哥回应C罗退役",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9B%9E%E5%BA%94C%E7%BD%97%E9%80%80%E5%BD%B9",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -31,32 +30,27 @@
     "抖音": {
       "topics": [
         {
-          "title": "甲亢哥含泪弹琴致敬C罗",
-          "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
-          "hot": "911.5万"
-        },
-        {
           "title": "向C罗和我的青春说再见",
           "url": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "909.7万"
+          "hot": "899.1万"
         },
         {
-          "title": "金鸡百花电影节开幕式",
-          "url": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E7%99%BE%E8%8A%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": "904.9万"
-        },
-        {
-          "title": "贺炜发文致敬C罗国家队生涯",
-          "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": "901.8万"
+          "title": "甲亢哥含泪弹琴致敬C罗",
+          "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": "895.8万"
         },
         {
           "title": "C罗宣布从葡萄牙国家队退役",
           "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": "801.3万"
+          "hot": "843.8万"
+        },
+        {
+          "title": "贺炜发文致敬C罗国家队生涯",
+          "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+          "hot": "811.7万"
         }
       ],
-      "count": 5,
+      "count": 4,
       "status": "success"
     },
     "虎扑": {
@@ -70,24 +64,9 @@
           "title": "官方：内马尔父亲出任桑托斯俱乐部CEO",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "巴黎官方：马尔基尼奥斯、门德斯和登贝莱已恢复个人训练",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "曼联挺有钱的，为啥不买贝林厄姆这种本国巨星？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]帮助球队全胜！皇马官方：贝林厄姆当选10月队内最佳",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
