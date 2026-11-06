@@ -1,22 +1,16 @@
 {
-  "update_time": "2026-11-06 18:40:33",
+  "update_time": "2026-11-07 01:52:46",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "C罗世界杯更衣室发言首度披露",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%8F%91%E8%A8%80%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "C罗世界杯时在更衣室发言情绪激动",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%B6%E5%9C%A8%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%8F%91%E8%A8%80%E6%83%85%E7%BB%AA%E6%BF%80%E5%8A%A8",
+          "title": "贝林厄姆兄弟同时入选英格兰队",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%85%84%E5%BC%9F%E5%90%8C%E6%97%B6%E5%85%A5%E9%80%89%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 2,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -39,27 +33,27 @@
         {
           "title": "甲亢哥含泪弹琴致敬C罗",
           "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
-          "hot": "882.2万"
+          "hot": "911.5万"
         },
         {
           "title": "向C罗和我的青春说再见",
           "url": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "818.6万"
+          "hot": "909.7万"
         },
         {
-          "title": "C罗告别信：交还7号的时候到了",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E4%BA%A4%E8%BF%987%E5%8F%B7%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86",
-          "hot": "786.2万"
-        },
-        {
-          "title": "C罗宣布从葡萄牙国家队退役",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-          "hot": "778.6万"
+          "title": "金鸡百花电影节开幕式",
+          "url": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E7%99%BE%E8%8A%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": "904.9万"
         },
         {
           "title": "贺炜发文致敬C罗国家队生涯",
           "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": "777.9万"
+          "hot": "901.8万"
+        },
+        {
+          "title": "C罗宣布从葡萄牙国家队退役",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "hot": "801.3万"
         }
       ],
       "count": 5,
@@ -68,37 +62,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "穆帅：皇马整体排首位，维尼修斯回常规轮换会做好人员管理",
+          "title": "帮助球队全胜！皇马官方：贝林厄姆当选10月队内最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "穆帅：我尊重C罗从国家队退役决定，不清楚他未来是否做教练",
+          "title": "官方：内马尔父亲出任桑托斯俱乐部CEO",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "弗罗因德：凯恩就是目前世界最佳球员，他表现远超专家预期",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "拜仁助教：穆西亚拉&amp;迪亚斯国际比赛日后回归；孔帕尼还未知",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙官方发视频致敬C罗，其中披露他26年世界杯的发言",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【冠军经理】C罗限编典藏卡上线；第一批传奇卡包开启",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尔纳：切尔西当年不该请图赫尔；C罗最会进球、但梅西最好",
+          "title": "巴黎官方：马尔基尼奥斯、门德斯和登贝莱已恢复个人训练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -108,17 +82,12 @@
           "hot": ""
         },
         {
-          "title": "我们能幻想摸一下贝林厄姆吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "这个比赛把罗德里留在场上有什么意义呢？",
+          "title": "[流言板]帮助球队全胜！皇马官方：贝林厄姆当选10月队内最佳",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
