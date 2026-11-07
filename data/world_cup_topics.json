@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-11-07 10:41:18",
+  "update_time": "2026-11-07 17:52:50",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "C罗帽子戏法绝平西班牙",
-          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%E7%BB%9D%E5%B9%B3%E8%A5%BF%E7%8F%AD%E7%89%99",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -31,43 +24,43 @@
     "抖音": {
       "topics": [
         {
-          "title": "甲亢哥含泪弹琴致敬C罗",
-          "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
-          "hot": "772.1万"
-        },
-        {
-          "title": "向C罗和我的青春说再见",
-          "url": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": "771.2万"
-        },
-        {
           "title": "贺炜发文致敬C罗国家队生涯",
           "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": "765.1万"
+          "hot": "769.5万"
         }
       ],
-      "count": 3,
+      "count": 1,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "伊劳拉：我希望利物浦续约阿利松；丢球多不是某个球员责任",
+          "title": "C罗退出葡萄牙队，泛航航空在飞往丰沙尔的航班上封存7C座位",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]帮助球队全胜！皇马官方：贝林厄姆当选10月队内最佳",
+          "title": "沙奇里：14世界杯前我本有机会去利物浦，但拜仁不同意放人",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "官方：裘德·贝林厄姆和特伦特被英格兰队征召参加即将到来的国际比赛期。多特的弟弟也同样入选",
+          "title": "曼晚：曼联目前伤兵满营，拉什福德和卢克肖或踢利物浦复出",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "我魔现在缺这种爆破手，看看表妹的多库和娜娜的萨卡",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "到底什么时候处理拉什福德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 3,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
