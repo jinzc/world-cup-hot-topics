@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-08 00:16:04",
+  "update_time": "2026-11-08 04:45:53",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "凯恩打门被挡出，随后助攻卡尔推射破门！拜仁2-0美因茨",
+          "title": "迈阿密国际vs夏洛特首发：梅西苏牙、卡塞米罗、德保罗出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨禁区内被拉拽倒地，裁判观看VAR后示意其越位在先",
+          "title": "恩佐本场15次丢失球权，4次被犯规1过人，对抗13胜6",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "半场：美因茨0-1拜仁，凯恩助攻基米希破门，诺伊尔伤退",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "到底什么时候处理拉什福德",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]弗里克：常与罗德里商定出场时间；德容和贝尔纳尔首发未定",
+          "title": "[流言板]世体：法里尼亚斯与亚马尔形影不离，因球商高被称法布劳内",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -59,7 +49,7 @@
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
