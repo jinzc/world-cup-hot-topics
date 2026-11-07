@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-07 17:52:50",
+  "update_time": "2026-11-08 00:16:04",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,35 +22,24 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "贺炜发文致敬C罗国家队生涯",
-          "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": "769.5万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "C罗退出葡萄牙队，泛航航空在飞往丰沙尔的航班上封存7C座位",
+          "title": "凯恩打门被挡出，随后助攻卡尔推射破门！拜仁2-0美因茨",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沙奇里：14世界杯前我本有机会去利物浦，但拜仁不同意放人",
+          "title": "哈弗茨禁区内被拉拽倒地，裁判观看VAR后示意其越位在先",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼晚：曼联目前伤兵满营，拉什福德和卢克肖或踢利物浦复出",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "我魔现在缺这种爆破手，看看表妹的多库和娜娜的萨卡",
+          "title": "半场：美因茨0-1拜仁，凯恩助攻基米希破门，诺伊尔伤退",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -58,9 +47,19 @@
           "title": "到底什么时候处理拉什福德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
+        },
+        {
+          "title": "[流言板]弗里克：常与罗德里商定出场时间；德容和贝尔纳尔首发未定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]每体：巴萨因不愿给1500万而错过JJ，贝林厄姆推荐其去皇马",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
