@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-09 03:30:51",
+  "update_time": "2026-11-09 07:35:30",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "谁可以解释下为什么每次镜头给到B费都是在摊手骂队友？",
+          "title": "加维：费尔明错过世界杯后强势回归，今天能赢多亏了他",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "我感觉巴萨买罗德里有很大一部分原因是不想让国家队核心之一的球员去皇马",
+          "title": "西蒙尼：我们会给阿尔瓦雷斯时间，马竞需要最好的他",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "加维：我们在很多方面都有进步，领先后懂得控制比赛很重要",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "费尔明：与亚马尔彼此很了解，第2球他的传球等于进了半个球",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "还是那句话买罗德里可以但在弗里克体系下就是不如德容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
