@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-08 04:45:53",
+  "update_time": "2026-11-08 08:21:46",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,29 +22,35 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "各级国足集训大名单公布",
+          "url": "https://www.douyin.com/search/%E5%90%84%E7%BA%A7%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%A4%A7%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+          "hot": "774.7万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "迈阿密国际vs夏洛特首发：梅西苏牙、卡塞米罗、德保罗出战",
+          "title": "莫拉：荣幸曾和C罗共用更衣室；继承葡萄牙7号有点难以承受",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "恩佐本场15次丢失球权，4次被犯规1过人，对抗13胜6",
+          "title": "B席：很享受八连胜，这让皇马西甲+欧冠双线争冠处有利位置",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]世体：法里尼亚斯与亚马尔形影不离，因球商高被称法布劳内",
+          "title": "加维真是越来越平庸了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：巴萨因不愿给1500万而错过JJ，贝林厄姆推荐其去皇马",
+          "title": "佩德里存在严重的问题1.人跟球跑，跟着球一直跑，如果对方运球，他就断不下球，只能跟着人一直跑，浪费自己体力，可以学学维蒂尼亚，断不下球，就踢对方脚，也不会给黄牌，而不是一直跟着对方跑",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
