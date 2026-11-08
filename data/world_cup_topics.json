@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-08 08:21:46",
+  "update_time": "2026-11-08 15:08:04",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,7 +26,7 @@
         {
           "title": "各级国足集训大名单公布",
           "url": "https://www.douyin.com/search/%E5%90%84%E7%BA%A7%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%A4%A7%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
-          "hot": "774.7万"
+          "hot": "775.2万"
         }
       ],
       "count": 1,
@@ -35,27 +35,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "莫拉：荣幸曾和C罗共用更衣室；继承葡萄牙7号有点难以承受",
+          "title": "达尼洛：C罗这类人通常不易相处，但我俩相处融洽&amp;他帮我许多",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B席：很享受八连胜，这让皇马西甲+欧冠双线争冠处有利位置",
+          "title": "葡体球迷在比赛第7分钟举横幅，鼓掌高呼C罗名字向其致敬",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "加维真是越来越平庸了",
+          "title": "梅西以26球再度获得美职联金靴奖，成首位连续两次获奖球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里存在严重的问题1.人跟球跑，跟着球一直跑，如果对方运球，他就断不下球，只能跟着人一直跑，浪费自己体力，可以学学维蒂尼亚，断不下球，就踢对方脚，也不会给黄牌，而不是一直跟着对方跑",
+          "title": "我魔现在缺这种爆破手，看看表妹的多库和娜娜的萨卡",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼联俱乐部官方发布视频，穆帅、C罗、贝克汉姆、温格等足坛传奇出镜向弗爵爷表达敬意。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "理性讨论 给你们机会选 你们选24年加维还是现在的罗德里",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩就是我看球以来最拉皇马中锋",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
