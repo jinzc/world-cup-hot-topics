@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-08 22:57:58",
+  "update_time": "2026-11-09 03:30:51",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,27 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "跟队：马雷斯卡围绕恩佐建体系，但他少防守让安德森压力大",
+          "title": "谁可以解释下为什么每次镜头给到B费都是在摊手骂队友？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "感觉罗德里对这支巴萨不是特别重要",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "理性讨论 给你们机会选 你们选24年加维还是现在的罗德里",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "赫伊森以后能在这个区恢复本名了吗？毕竟姆巴佩都可以",
+          "title": "我感觉巴萨买罗德里有很大一部分原因是不想让国家队核心之一的球员去皇马",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
