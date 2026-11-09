@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-09 13:55:41",
+  "update_time": "2026-11-09 23:58:02",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "蒂莱曼斯进球后，b费并没有摊手而是握拳庆祝",
+          "title": "踢球者：因穆西亚拉情况，赫内斯希望他2500万年薪重新调整",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "三连败的曼城已经证明三个亿元中场都无法替代B席",
+          "title": "金：亚马尔是不可思议的天才，愿意为图赫尔踢任何位置",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "金：贝林厄姆很照顾我，凯恩已达到顶尖水平仍主动加练",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "乔什-金：为英格兰赢世界杯是梦想，入选是踏出了第一小步",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]世界杯冠军+西甲冠军，官方：库巴西获得2026年欧洲金童奖",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "还是那句话买罗德里可以但在弗里克体系下就是不如德容",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "B席本赛季效力皇马期间数据",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
