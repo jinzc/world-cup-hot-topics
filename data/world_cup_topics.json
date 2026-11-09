@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-09 07:35:30",
+  "update_time": "2026-11-09 13:55:41",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,17 @@
     "虎扑": {
       "topics": [
         {
-          "title": "加维：费尔明错过世界杯后强势回归，今天能赢多亏了他",
+          "title": "蒂莱曼斯进球后，b费并没有摊手而是握拳庆祝",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "西蒙尼：我们会给阿尔瓦雷斯时间，马竞需要最好的他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "加维：我们在很多方面都有进步，领先后懂得控制比赛很重要",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "费尔明：与亚马尔彼此很了解，第2球他的传球等于进了半个球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "还是那句话买罗德里可以但在弗里克体系下就是不如德容",
+          "title": "三连败的曼城已经证明三个亿元中场都无法替代B席",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
