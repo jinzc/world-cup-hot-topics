@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-11 00:56:47",
+  "update_time": "2026-11-11 06:16:33",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,17 +26,17 @@
         {
           "title": "中国乒协公布混团世界杯名单",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95",
-          "hot": "1059.8万"
+          "hot": "1117.7万"
         },
         {
           "title": "第39届金鸡奖颁奖典礼暨闭幕式",
           "url": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E6%9A%A8%E9%97%AD%E5%B9%95%E5%BC%8F",
-          "hot": "779.1万"
+          "hot": "776.1万"
         },
         {
           "title": "金鸡奖闭幕式红毯",
           "url": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF",
-          "hot": "772.8万"
+          "hot": "772.6万"
         }
       ],
       "count": 3,
@@ -44,6 +44,11 @@
     },
     "虎扑": {
       "topics": [
+        {
+          "title": "哈曼：现在没必要再讨论穆西亚拉薪水，我之前就觉得给多了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
         {
           "title": "单场贡献6次扑救，官方：阿利松当选英超第10轮最佳球员",
           "url": "https://soccer.hupu.com/",
@@ -55,27 +60,22 @@
           "hot": ""
         },
         {
-          "title": "[流言板]世界杯冠军+西甲冠军，官方：库巴西获得2026年欧洲金童奖",
+          "title": "能感受到很多人都爱着C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]每体：费尔明已成欧洲顶尖攻击手，场均参与1.39球超B费贝林",
+          "title": "[流言板]贝尔纳尔：罗德里加盟后出场肯定更难；我尤其需要提高防守",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔受伤了吗？怎么看到写着膝关节损伤",
+          "title": "贝林厄姆入选由 2 万名职业球员投票选出的国际职业球员协会年度最佳阵容",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "贝林厄姆登上《Vogue》英国版12月刊封面，成为首位单人登上英版Vogue封面的运动员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "姆巴佩出现在某足球社交平台海外版的封面照片和新闻通稿中",
+          "title": "表妹VS隔壁，阿尔瓦雷斯涉嫌故意不进球，马竞开启调查！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
