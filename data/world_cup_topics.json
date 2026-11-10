@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-10 16:12:52",
+  "update_time": "2026-11-11 00:56:47",
   "sources": {
     "微博": {
       "topics": [],
@@ -26,46 +26,36 @@
         {
           "title": "中国乒协公布混团世界杯名单",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95",
-          "hot": "906.6万"
+          "hot": "1059.8万"
+        },
+        {
+          "title": "第39届金鸡奖颁奖典礼暨闭幕式",
+          "url": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E6%9A%A8%E9%97%AD%E5%B9%95%E5%BC%8F",
+          "hot": "779.1万"
+        },
+        {
+          "title": "金鸡奖闭幕式红毯",
+          "url": "https://www.douyin.com/search/%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF",
+          "hot": "772.8万"
         }
       ],
-      "count": 1,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "马卡：阿尔瓦雷斯并未站错队，是裁判要求双方球员交错入场",
+          "title": "单场贡献6次扑救，官方：阿利松当选英超第10轮最佳球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "勒温：世界杯对阿根廷的最后半小时发生了什么？我无法评论",
+          "title": "葡萄牙国脚：很遗憾没见到C罗，和他共享更衣室是我向往的事",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "勒温：凯恩是世界上最好的前锋之一，他配得上所有的荣誉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "金：成为历史最佳中场是我的梦想；凯恩和贝林是年轻人榜样",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "和伯恩茅斯那场让b费替补就是dna们的馊主意",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "彻底搞懂了，黑b费的其实是蒂勒曼斯粉",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "不吹不黑的说，除了梅老板，亚马尔的突破过人能力可以达到哪位巴萨前辈水准？",
+          "title": "[流言板]世界杯冠军+西甲冠军，官方：库巴西获得2026年欧洲金童奖",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -75,12 +65,22 @@
           "hot": ""
         },
         {
-          "title": "一名瓦伦西亚球员试图通过谈论金球奖来激怒贝林厄姆",
+          "title": "亚马尔受伤了吗？怎么看到写着膝关节损伤",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "贝林厄姆登上《Vogue》英国版12月刊封面，成为首位单人登上英版Vogue封面的运动员",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩出现在某足球社交平台海外版的封面照片和新闻通稿中",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
