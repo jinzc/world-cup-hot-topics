@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-12 17:39:07",
+  "update_time": "2026-11-13 02:05:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,15 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "C罗官宣进军影视圈",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%98%E5%AE%A3%E8%BF%9B%E5%86%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -32,7 +26,7 @@
         {
           "title": "彭啸补招进入国足集训名单",
           "url": "https://www.douyin.com/search/%E5%BD%AD%E5%95%B8%E8%A1%A5%E6%8B%9B%E8%BF%9B%E5%85%A5%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95",
-          "hot": "787.9万"
+          "hot": "772.4万"
         }
       ],
       "count": 1,
@@ -41,22 +35,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "特奥晒与马尔蒂尼合影，莱奥、卡拉布里亚等老队友评论互动",
+          "title": "扳平比分！德布劳内抢点破门，比利时1-1",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德罗：亚马尔确实天赋惊人，但在我那支巴萨不一定能主力",
+          "title": "太阳报：卡里克下课导火索，是战术调整得不到B费等球员认可",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "桑托斯：不想聊曼联换帅&amp;现在专注巴西，目标参加2030世界杯",
+          "title": "葡萄牙后卫：我一直梦想能在集训营认识C罗，可惜这次没机会",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说实话 德容不比罗德里差",
+          "title": "电讯报：波切蒂诺十分欣赏拉什福德，期待在曼联重新激活他",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "刚看比利时比赛，发现之前那个教练离任了，曼联没有考虑过加西亚吗？这教练真挺不错的。世界杯只有比利时队进了西班牙一球，而且若不是库尔图瓦伤退下场结果还未可知。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -64,19 +63,9 @@
           "title": "[流言板]佩德罗：亚马尔确实天赋惊人，但在我那支巴萨不一定能主力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "休赛期没病急乱投医买恩佐罗德里这种大湿真是太正确了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "欣赏一下一分钟的贝林厄姆过人纯享",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 7,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
