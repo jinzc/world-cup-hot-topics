@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-11-13 15:45:24",
+  "update_time": "2026-11-14 00:05:19",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "葡萄牙全队将穿7号球服致敬C罗",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -12,9 +19,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "葡萄牙全队将穿7号球服致敬C罗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -29,32 +42,27 @@
     "虎扑": {
       "topics": [
         {
-          "title": "进球含点量近4成，凯恩效率下滑，回撤成后腰是无奈",
+          "title": "萨卡：所有教练都以不同的方式影响了我，影响最大的是塔帅",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "奥莱：尽管球迷票选帕斯穿梅西10号球衣，斯帅却不着急决定",
+          "title": "半场：沙特1-0韩国，萨哈菲补时破门，李刚仁失良机",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "TA：皇马高价续约维尼修斯是严重错误，或错过最佳出售时机",
+          "title": "佐野海舟：世界杯进球让我想起输巴西，这次要主动高位逼抢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "科贝：西足协对FIFA态度强硬，世界杯决赛必须在西班牙举行",
+          "title": "假如芒特有b费的身体",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：亚马尔并无特权，他按巴萨和国家队共同制定方案康复",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]佩德罗：亚马尔确实天赋惊人，但在我那支巴萨不一定能主力",
+          "title": "Sully Talkz:卡里克助手霍兰德加入曼联时战术备受好评，但一旦情况恶化，他的固执问题暴露无遗，有时会与球员发生冲突，B费科莫赛后言论是针对霍兰德，而不是卡里克。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -62,24 +70,9 @@
           "title": "[流言板]马卡：有多家豪门询问加维情况，但他踢不上球也不愿离开",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "姆巴佩 卡马文加 科纳特在国家队集训期间勾搭奥利塞 哈哈  加上楚妹这四个人加起来出场10分钟去集训只为了奥利塞吧  笑死了",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]TA：皇马高价续约维尼修斯是严重错误，或错过最佳出售时机",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "可惜恩佐没来，不然皇马这里可以晋升第二乐子圣地",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 10,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
