@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-13 02:05:35",
+  "update_time": "2026-11-13 08:04:03",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,50 +22,24 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "彭啸补招进入国足集训名单",
-          "url": "https://www.douyin.com/search/%E5%BD%AD%E5%95%B8%E8%A1%A5%E6%8B%9B%E8%BF%9B%E5%85%A5%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95",
-          "hot": "772.4万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "扳平比分！德布劳内抢点破门，比利时1-1",
+          "title": "德拉富恩特：44场不败来之不易；亚马尔下场能踢满全场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：卡里克下课导火索，是战术调整得不到B费等球员认可",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙后卫：我一直梦想能在集训营认识C罗，可惜这次没机会",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "电讯报：波切蒂诺十分欣赏拉什福德，期待在曼联重新激活他",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "刚看比利时比赛，发现之前那个教练离任了，曼联没有考虑过加西亚吗？这教练真挺不错的。世界杯只有比利时队进了西班牙一球，而且若不是库尔图瓦伤退下场结果还未可知。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]佩德罗：亚马尔确实天赋惊人，但在我那支巴萨不一定能主力",
+          "title": "范博梅尔：德布劳内被撞+对自己发挥不满，就没庆祝进球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
