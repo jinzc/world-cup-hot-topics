@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-13 08:04:03",
+  "update_time": "2026-11-13 15:45:24",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,57 @@
     "虎扑": {
       "topics": [
         {
-          "title": "德拉富恩特：44场不败来之不易；亚马尔下场能踢满全场",
+          "title": "进球含点量近4成，凯恩效率下滑，回撤成后腰是无奈",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "范博梅尔：德布劳内被撞+对自己发挥不满，就没庆祝进球",
+          "title": "奥莱：尽管球迷票选帕斯穿梅西10号球衣，斯帅却不着急决定",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "TA：皇马高价续约维尼修斯是严重错误，或错过最佳出售时机",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "科贝：西足协对FIFA态度强硬，世界杯决赛必须在西班牙举行",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "马卡：亚马尔并无特权，他按巴萨和国家队共同制定方案康复",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]佩德罗：亚马尔确实天赋惊人，但在我那支巴萨不一定能主力",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]马卡：有多家豪门询问加维情况，但他踢不上球也不愿离开",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "姆巴佩 卡马文加 科纳特在国家队集训期间勾搭奥利塞 哈哈  加上楚妹这四个人加起来出场10分钟去集训只为了奥利塞吧  笑死了",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]TA：皇马高价续约维尼修斯是严重错误，或错过最佳出售时机",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "可惜恩佐没来，不然皇马这里可以晋升第二乐子圣地",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
