@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-11-15 01:53:23",
+  "update_time": "2026-11-15 06:14:12",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "葡足协将封存C罗版7号球衣",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%B0%86%E5%B0%81%E5%AD%98C%E7%BD%97%E7%89%887%E5%8F%B7%E7%90%83%E8%A1%A3",
+          "title": "S16决赛开幕式",
+          "url": "https://s.weibo.com/weibo?q=S16%E5%86%B3%E8%B5%9B%E5%BC%80%E5%B9%95%E5%BC%8F",
           "hot": 0,
           "label": ""
         },
@@ -16,13 +16,19 @@
           "label": ""
         },
         {
-          "title": "国足张玉宁踢到对手 不是点球",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83",
+          "title": "葡萄牙主场Tifo致敬C罗",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%9C%BATifo%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "国足2比0后 球迷从希望到绝望",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B32%E6%AF%940%E5%90%8E%20%E7%90%83%E8%BF%B7%E4%BB%8E%E5%B8%8C%E6%9C%9B%E5%88%B0%E7%BB%9D%E6%9C%9B",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 3,
+      "count": 4,
       "status": "success"
     },
     "百度": {
@@ -31,9 +37,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国足2-0马来西亚",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -48,48 +60,64 @@
     "虎扑": {
       "topics": [
         {
-          "title": "邮报：萨卡在英格兰的右路主力位置已不稳，面临罗杰斯竞争",
+          "title": "C罗、梅西国家队退役后，葡萄牙和阿根廷首战均遭失利",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "国际比赛日伤缺球员身价榜：K77萨卡、若佩、登贝莱4人领衔",
+          "title": "赖斯：亚马尔以后会拿很多座金球奖，但这次凯恩更配得上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "马卡：迪奥曼德踢左路比右路好，维尼修斯复出后穆帅面难题",
+          "title": "b费最后离开曼联时的地位，在球迷们眼里可能还没有芒特高，说来也是讽刺，b费在曼联多年没有功劳也有苦劳吧，这么只要是b费的帖子都是骂的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "OSEN：不能因孙兴慜过去的贡献，就让他场场国家队首发踢满",
+          "title": "葡萄牙1:4丹麦，B席补射。",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "说实话，得为后b费时代做好准备了！库尼亚接替b费打前腰位置，是一个可行选项？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "梦想家看不上迪奥曼德，罗杰斯，今天又被看不上的维尼修斯脸打肿",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "土耳其真配不上居莱尔啊，比莱万带波兰和K77带格鲁吉亚还要难",
+          "title": "维尼修斯这样的球员其实就只适合单身！！！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国足2-0马来西亚，王钰栋、张玉宁分别破门，王上源助攻",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "葡萄牙后C罗时代首战主场1-4丹麦，霍伊伦双响，赫伊别尔传射",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "伊夫科维奇：莫德里奇的时间快走到尽头了，他总能主宰比赛",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "1-4丹麦，葡萄牙遭遇近23年来无C罗出战最大分差失利",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        },
+        {
+          "title": "B费：此前四场比赛并非完美，今天的表现也并非一无是处",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 5,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
