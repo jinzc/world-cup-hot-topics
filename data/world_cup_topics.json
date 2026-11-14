@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-14 06:27:59",
+  "update_time": "2026-11-14 11:00:13",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,49 +22,70 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗或不参加国家队致敬仪式",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%88%96%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%87%B4%E6%95%AC%E4%BB%AA%E5%BC%8F",
+          "hot": "778.9万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "半场：塞尔维亚0-2德国，维尔茨破门，哈弗茨造乌龙",
+          "title": "墨菲：维尔茨难适应英超，他的进球助攻产出不足以支撑首发",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "哈弗茨单刀推射被扑，维尔茨补射破门！塞尔维亚0-2德国",
+          "title": "沙特门将送大礼，孙兴慜面对绝佳机会结果一脚轰飞",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "又是激活拉什又是留住b费的，我选择等下一个天亮",
+          "title": "迪尼：曼联最该动的是B费拉什福德，目光别放桑乔这类球员上",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：波切蒂诺对拉什福德很痴迷，向曼联表示会激活他",
+          "title": "妻子：德布劳内在那不勒斯处处受限，我们要回到比利时生活",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "曼联希望波切蒂诺上任后重用B费，让他能感受被重视以此续长约",
+          "title": "票价太高！后梅西时代阿根廷首战，糖果盒球场半空",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴塞罗那的重生，离不开梅西的离开。”",
+          "title": "前曼联助教：若B费选择离队我也不惋惜，曼联需要营造新活力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]贝尔纳尔：罗德里加盟时俱乐部让我安心，我能向他学很多",
+          "title": "[流言板]罗马诺：曼联和B费就续约谈了快半年，但距离达成协议还很远",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "BBC：波切蒂诺到岗第一件事是说服B费续约留队，之前他已拒绝第二份续约合同",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "Sully：霍兰德与曼联球员冲突不断，不受欢迎，B费批评他后遭雪藏。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "看了下集锦，皇马中场要找一个b席的完美替代者，现阶段可能最好的还得去找找我们的老熟人，看看签麦卡利斯特的可能性！",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 10,
       "status": "success"
     },
     "懂球帝": {
