@@ -1,10 +1,29 @@
 {
-  "update_time": "2026-11-14 19:20:25",
+  "update_time": "2026-11-15 01:53:23",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "葡足协将封存C罗版7号球衣",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%B6%B3%E5%8D%8F%E5%B0%86%E5%B0%81%E5%AD%98C%E7%BD%97%E7%89%887%E5%8F%B7%E7%90%83%E8%A1%A3",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "国足马来西亚冲突后续",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%86%B2%E7%AA%81%E5%90%8E%E7%BB%AD",
+          "hot": 0,
+          "label": ""
+        },
+        {
+          "title": "国足张玉宁踢到对手 不是点球",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 3,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -22,50 +41,49 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "国足对阵马来西亚",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
-          "hot": "1210.6万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "埃斯特旺单刀被扑，维尼修斯世界波破门！巴西1-2日本",
+          "title": "邮报：萨卡在英格兰的右路主力位置已不稳，面临罗杰斯竞争",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "国足FIFA实时排名被巴林反超跌至第97，两队将于17日交手",
+          "title": "国际比赛日伤缺球员身价榜：K77萨卡、若佩、登贝莱4人领衔",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "日本vs巴西首发：久保建英PK拉菲尼亚，维尼修斯出战",
+          "title": "马卡：迪奥曼德踢左路比右路好，维尼修斯复出后穆帅面难题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "因C罗退役+莱奥缺席，布鲁日边锋福布斯将身披葡萄牙7号球衣",
+          "title": "OSEN：不能因孙兴慜过去的贡献，就让他场场国家队首发踢满",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "恩佐称乌拉圭两粒进球靠运气，赛后言论引争议",
+          "title": "说实话，得为后b费时代做好准备了！库尼亚接替b费打前腰位置，是一个可行选项？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "姆巴佩一不上场法国就不会踢球",
+          "title": "梦想家看不上迪奥曼德，罗杰斯，今天又被看不上的维尼修斯脸打肿",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "土耳其真配不上居莱尔啊，比莱万带波兰和K77带格鲁吉亚还要难",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 6,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
