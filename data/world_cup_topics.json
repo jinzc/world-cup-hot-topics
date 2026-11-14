@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-14 11:00:13",
+  "update_time": "2026-11-14 19:20:25",
   "sources": {
     "微博": {
       "topics": [],
@@ -24,9 +24,9 @@
     "抖音": {
       "topics": [
         {
-          "title": "C罗或不参加国家队致敬仪式",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E6%88%96%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%87%B4%E6%95%AC%E4%BB%AA%E5%BC%8F",
-          "hot": "778.9万"
+          "title": "国足对阵马来西亚",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+          "hot": "1210.6万"
         }
       ],
       "count": 1,
@@ -35,57 +35,37 @@
     "虎扑": {
       "topics": [
         {
-          "title": "墨菲：维尔茨难适应英超，他的进球助攻产出不足以支撑首发",
+          "title": "埃斯特旺单刀被扑，维尼修斯世界波破门！巴西1-2日本",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沙特门将送大礼，孙兴慜面对绝佳机会结果一脚轰飞",
+          "title": "国足FIFA实时排名被巴林反超跌至第97，两队将于17日交手",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "迪尼：曼联最该动的是B费拉什福德，目光别放桑乔这类球员上",
+          "title": "日本vs巴西首发：久保建英PK拉菲尼亚，维尼修斯出战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "妻子：德布劳内在那不勒斯处处受限，我们要回到比利时生活",
+          "title": "因C罗退役+莱奥缺席，布鲁日边锋福布斯将身披葡萄牙7号球衣",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "票价太高！后梅西时代阿根廷首战，糖果盒球场半空",
+          "title": "恩佐称乌拉圭两粒进球靠运气，赛后言论引争议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "前曼联助教：若B费选择离队我也不惋惜，曼联需要营造新活力",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗马诺：曼联和B费就续约谈了快半年，但距离达成协议还很远",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "BBC：波切蒂诺到岗第一件事是说服B费续约留队，之前他已拒绝第二份续约合同",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "Sully：霍兰德与曼联球员冲突不断，不受欢迎，B费批评他后遭雪藏。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "看了下集锦，皇马中场要找一个b席的完美替代者，现阶段可能最好的还得去找找我们的老熟人，看看签麦卡利斯特的可能性！",
+          "title": "姆巴佩一不上场法国就不会踢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 10,
+      "count": 6,
       "status": "success"
     },
     "懂球帝": {
