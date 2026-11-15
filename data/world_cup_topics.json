@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-16 01:38:19",
+  "update_time": "2026-11-16 06:42:04",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,47 +29,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "马德里市长：2030世界杯决赛如果不在西班牙，那是一种侮辱",
+          "title": "克洛普：和哈弗茨交手可不轻松，我本子上记着他是顶级球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "U17国足热身赛1-2负洪都拉斯，4天后迎世界杯首战对阵西班牙",
+          "title": "客场击败西班牙，贝林厄姆和凯恩赛后激情拥抱庆祝",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西媒：内马尔与维尼修斯前女友举止亲密，还在派对上接吻",
+          "title": "维尔茨处境不轻松？加克波：他上一场刚刚发挥关键作用",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：B费希望先观察波帅上任后的情况，再决定自己的未来",
+          "title": "亚马尔遭遇西班牙国家队生涯首败，英格兰终结其32场不败",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]库巴西：世界杯决赛后我瘫倒在地上；最想在安菲尔德踢欧冠",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【白衣军团】维尼修斯VS日本 个人集锦",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "如果 我是说如果真的b席和楚妹不是诈伤是真的都踢不了  那么皇马后腰怎么排啊。。。。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "B席和B费赛后吵吵起来了",
+          "title": "虎扑不发亚马尔的新闻？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
