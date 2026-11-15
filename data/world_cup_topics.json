@@ -1,23 +1,11 @@
 {
-  "update_time": "2026-11-15 06:14:12",
+  "update_time": "2026-11-15 10:30:18",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "S16决赛开幕式",
-          "url": "https://s.weibo.com/weibo?q=S16%E5%86%B3%E8%B5%9B%E5%BC%80%E5%B9%95%E5%BC%8F",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "国足马来西亚冲突后续",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%86%B2%E7%AA%81%E5%90%8E%E7%BB%AD",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "葡萄牙主场Tifo致敬C罗",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%9C%BATifo%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "title": "国足张玉宁踢到对手 不是点球",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%BC%A0%E7%8E%89%E5%AE%81%E8%B8%A2%E5%88%B0%E5%AF%B9%E6%89%8B%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83",
           "hot": 0,
           "label": ""
         },
@@ -28,7 +16,7 @@
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -37,15 +25,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "国足2-0马来西亚",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -60,12 +42,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗、梅西国家队退役后，葡萄牙和阿根廷首战均遭失利",
+          "title": "曼晚：波切蒂诺到任后利马会成防线领袖；他想激活拉什福德",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "赖斯：亚马尔以后会拿很多座金球奖，但这次凯恩更配得上",
+          "title": "内维斯：致敬C罗让球队分心？他配得上，与比赛结果无关",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -73,51 +55,15 @@
           "title": "b费最后离开曼联时的地位，在球迷们眼里可能还没有芒特高，说来也是讽刺，b费在曼联多年没有功劳也有苦劳吧，这么只要是b费的帖子都是骂的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "葡萄牙1:4丹麦，B席补射。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯这样的球员其实就只适合单身！！！",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "国足2-0马来西亚，王钰栋、张玉宁分别破门，王上源助攻",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "葡萄牙后C罗时代首战主场1-4丹麦，霍伊伦双响，赫伊别尔传射",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "伊夫科维奇：莫德里奇的时间快走到尽头了，他总能主宰比赛",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "1-4丹麦，葡萄牙遭遇近23年来无C罗出战最大分差失利",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        },
-        {
-          "title": "B费：此前四场比赛并非完美，今天的表现也并非一无是处",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 5,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
