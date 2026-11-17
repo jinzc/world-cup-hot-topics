@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-11-17 21:01:44",
+  "update_time": "2026-11-18 06:09:07",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "国足vs巴林",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -21,8 +14,8 @@
     "B站": {
       "topics": [
         {
-          "title": "U19中国vs韩国",
-          "url": "https://search.bilibili.com/all?keyword=U19%E4%B8%AD%E5%9B%BDvs%E9%9F%A9%E5%9B%BD",
+          "title": "国足2-2巴林",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-2%E5%B7%B4%E6%9E%97",
           "hot": 0
         },
         {
@@ -42,98 +35,58 @@
     "抖音": {
       "topics": [
         {
-          "title": "国足对阵巴林",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E5%B7%B4%E6%9E%97",
-          "hot": "1156.7万"
+          "title": "国足2:2战平巴林",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97",
+          "hot": "1131.7万"
+        },
+        {
+          "title": "U19国足夺得熊猫杯冠军",
+          "url": "https://www.douyin.com/search/U19%E5%9B%BD%E8%B6%B3%E5%A4%BA%E5%BE%97%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "hot": "765.9万"
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "电信报：埃因霍温200万报价德布劳内被拒，那不勒斯认为太少",
+          "title": "B费本场打进1球，2解围2关键传球14丢失球权，对抗5胜4",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "中国VS巴林，郜林今日现场观战",
+          "title": "沙特记者：胜利考虑提拔小C罗至一线队，或实现父子同场竞技",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "巴西助教：世界杯后我们一直处更新换代过程，现已逐渐平衡",
+          "title": "苏亚雷斯：想和梅西一起退役，但他精力太旺盛我可能先停下",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚足联年度最佳海外男球员候选：上田绮世、黄仁范、李刚仁",
+          "title": "[流言板]苏亚雷斯：梅西内马尔让点助我拿金靴，我们之间没有自私",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚足联年度最佳海外女球员候选：肯尼迪、福尔德、长谷川唯",
+          "title": "[流言板]苏亚雷斯：亚马尔和梅西比较不是好事，想追平他几乎不可能",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内马尔蒙着眼睛罚进点球，之后戴上蝙蝠侠潇洒离场",
+          "title": "[流言板]巴萨前品牌总监：亚马尔的个人品牌潜力有望超越梅西和C罗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "梅洛：他们这样对C罗是忘恩负义，没他你们啥都不是",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "金珉佑连续撞倒U19国足两人，裁判出示黄牌",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "摩根：22世界杯期间本-怀特和霍兰爆发冲突，我站球员这边",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "最新消息b席退出国家队了，b费能当上大哥吗。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "体坛周报：构陷亚马尔太恶毒，拿民族感情开玩笑，希望这个人得到惩罚",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "亚马尔rh视频是恶意编造",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "【白衣军团】维尼修斯VS新加坡 个人集锦",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "“维尼修斯只会抱边踢，死人不得不去左边接应”，是吗",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "团蜜现在都支持哪个国家队（除国足以外）",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "为啥维尼过人这么累，内马尔过人玩一样",
+          "title": "[流言板]苏克：皇马高于任何球员，维尼修斯有些事我不喜欢",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 16,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
