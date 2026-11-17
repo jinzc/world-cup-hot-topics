@@ -1,23 +1,10 @@
 {
-  "update_time": "2026-11-17 04:54:15",
+  "update_time": "2026-11-17 11:38:59",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "亚马尔澄清函全文",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "天下足球C罗篇今晚播出",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83C%E7%BD%97%E7%AF%87%E4%BB%8A%E6%99%9A%E6%92%AD%E5%87%BA",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -25,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "天下足球回顾C罗国家队生涯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -39,7 +32,7 @@
         {
           "title": "国足vs巴林前瞻",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB",
-          "hot": "942万"
+          "hot": "943.7万"
         }
       ],
       "count": 1,
@@ -48,67 +41,52 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗社媒再发“M”手势，直指千球目标",
+          "title": "斯卡洛尼：梅西想来教练组当然欢迎，新周期要20名常备球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯：B席不会被排除在国家队之外；能理解C罗母亲的发言",
+          "title": "C罗社媒发视频，做M手势并配文：你搞明白了吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "热苏斯：C罗请我去利雅得胜利，我答应帮他拿冠军",
+          "title": "斯卡洛尼：大马丁将首发对阵哥斯达黎加，轮换四到五名球员",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "内维斯：C罗亲自为国家队生涯画上句号，现在该我们站出来了",
+          "title": "波切蒂诺：真的讲不出再见，相信美国足球有世界杯争冠潜力",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本-戴维斯：C罗不在对我们是好事；很意外葡萄牙1-4丹麦",
+          "title": "天足评选C罗葡萄牙国家队十佳球，哪个是你的最爱？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "本-戴维斯：失去C罗贝尔这样的旗帜后，其他人也有崛起机会",
+          "title": "太阳报：B费希望先观察波帅上任后的情况，再决定自己的未来",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "b费这个赛季一直发挥不好，在葡萄牙这场也不行，他是真的不可逆的下滑了吗，32岁也确实是自然的分水岭了，德布劳内也是这个年龄下滑的",
+          "title": "亚马尔那个截图从出现到被质疑P图，前后不到一天",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔转发争议视频这事，辟谣出来之前你们是什么时候看到媒体报道的",
+          "title": "[流言板]阿斯：佩德里在国家队已沦为替补，在世界杯上失去主帅信任",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔rh视频是恶意编造",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "官方澄清来了，亚马尔事件",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "大家别顶拿贝林厄姆ck图做头像的串贴好么，神马叫咖位上不去？来看看人家怎么夸的",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "维尼修斯回来了，不过回到了哪里？边锋VS影锋，维尼修斯转型进行时",
+          "title": "[流言板]维尼修斯：世界杯让我夏训量少于往年；续约与否也让我分心",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 12,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
