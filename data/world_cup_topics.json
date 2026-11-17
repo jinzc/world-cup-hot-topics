@@ -1,10 +1,17 @@
 {
-  "update_time": "2026-11-17 11:38:59",
+  "update_time": "2026-11-17 21:01:44",
   "sources": {
     "微博": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "国足vs巴林",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97",
+          "hot": 0,
+          "label": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "百度": {
       "topics": [],
@@ -14,12 +21,17 @@
     "B站": {
       "topics": [
         {
+          "title": "U19中国vs韩国",
+          "url": "https://search.bilibili.com/all?keyword=U19%E4%B8%AD%E5%9B%BDvs%E9%9F%A9%E5%9B%BD",
+          "hot": 0
+        },
+        {
           "title": "天下足球回顾C罗国家队生涯",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
           "hot": 0
         }
       ],
-      "count": 1,
+      "count": 2,
       "status": "success"
     },
     "知乎": {
@@ -30,9 +42,9 @@
     "抖音": {
       "topics": [
         {
-          "title": "国足vs巴林前瞻",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB",
-          "hot": "943.7万"
+          "title": "国足对阵巴林",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E5%B7%B4%E6%9E%97",
+          "hot": "1156.7万"
         }
       ],
       "count": 1,
@@ -41,52 +53,87 @@
     "虎扑": {
       "topics": [
         {
-          "title": "斯卡洛尼：梅西想来教练组当然欢迎，新周期要20名常备球员",
+          "title": "电信报：埃因霍温200万报价德布劳内被拒，那不勒斯认为太少",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "C罗社媒发视频，做M手势并配文：你搞明白了吗？",
+          "title": "中国VS巴林，郜林今日现场观战",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "斯卡洛尼：大马丁将首发对阵哥斯达黎加，轮换四到五名球员",
+          "title": "巴西助教：世界杯后我们一直处更新换代过程，现已逐渐平衡",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "波切蒂诺：真的讲不出再见，相信美国足球有世界杯争冠潜力",
+          "title": "亚足联年度最佳海外男球员候选：上田绮世、黄仁范、李刚仁",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天足评选C罗葡萄牙国家队十佳球，哪个是你的最爱？",
+          "title": "亚足联年度最佳海外女球员候选：肯尼迪、福尔德、长谷川唯",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "太阳报：B费希望先观察波帅上任后的情况，再决定自己的未来",
+          "title": "内马尔蒙着眼睛罚进点球，之后戴上蝙蝠侠潇洒离场",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔那个截图从出现到被质疑P图，前后不到一天",
+          "title": "梅洛：他们这样对C罗是忘恩负义，没他你们啥都不是",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]阿斯：佩德里在国家队已沦为替补，在世界杯上失去主帅信任",
+          "title": "金珉佑连续撞倒U19国足两人，裁判出示黄牌",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]维尼修斯：世界杯让我夏训量少于往年；续约与否也让我分心",
+          "title": "摩根：22世界杯期间本-怀特和霍兰爆发冲突，我站球员这边",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "最新消息b席退出国家队了，b费能当上大哥吗。",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "体坛周报：构陷亚马尔太恶毒，拿民族感情开玩笑，希望这个人得到惩罚",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "亚马尔rh视频是恶意编造",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "【白衣军团】维尼修斯VS新加坡 个人集锦",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "“维尼修斯只会抱边踢，死人不得不去左边接应”，是吗",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "团蜜现在都支持哪个国家队（除国足以外）",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "为啥维尼过人这么累，内马尔过人玩一样",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 9,
+      "count": 16,
       "status": "success"
     },
     "懂球帝": {
