@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-18 06:09:07",
+  "update_time": "2026-11-18 12:07:13",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,20 +12,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "国足2-2巴林",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-2%E5%B7%B4%E6%9E%97",
-          "hot": 0
-        },
-        {
-          "title": "天下足球回顾C罗国家队生涯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-          "hot": 0
-        }
-      ],
-      "count": 2,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -35,58 +24,68 @@
     "抖音": {
       "topics": [
         {
+          "title": "APEC工商领导人峰会开幕式举行",
+          "url": "https://www.douyin.com/search/APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C",
+          "hot": "1187.9万"
+        },
+        {
           "title": "国足2:2战平巴林",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97",
-          "hot": "1131.7万"
+          "hot": "1059.8万"
         },
         {
           "title": "U19国足夺得熊猫杯冠军",
           "url": "https://www.douyin.com/search/U19%E5%9B%BD%E8%B6%B3%E5%A4%BA%E5%BE%97%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "hot": "765.9万"
+          "hot": "844.5万"
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "B费本场打进1球，2解围2关键传球14丢失球权，对抗5胜4",
+          "title": "斯卡洛尼：帕斯还能做得更多，连梅西也需要队友才能赢球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "沙特记者：胜利考虑提拔小C罗至一线队，或实现父子同场竞技",
+          "title": "71场47次零封，大马丁成阿根廷队史零封场次最多门将",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "苏亚雷斯：想和梅西一起退役，但他精力太旺盛我可能先停下",
+          "title": "多点开花！麦卡利斯特完成破门，阿根廷6-0",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]苏亚雷斯：梅西内马尔让点助我拿金靴，我们之间没有自私",
+          "title": "罗德里：上赛季同样的伤让我缺阵数月，预计1周后能恢复合练",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]苏亚雷斯：亚马尔和梅西比较不是好事，想追平他几乎不可能",
+          "title": "大家觉得波切蒂诺执教下的曼联，B费应该续约还是不续约？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]巴萨前品牌总监：亚马尔的个人品牌潜力有望超越梅西和C罗",
+          "title": "体坛周报：构陷亚马尔太恶毒，拿民族感情开玩笑，希望这个人得到惩罚",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "[流言板]苏克：皇马高于任何球员，维尼修斯有些事我不喜欢",
+          "title": "[流言板]世体：门德斯与亚马尔+巴尔德会面，后者不满处境想冬窗离队",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "不要把队友的牺牲与付出当成理所应当——维尼修斯只会抱边吗？以及迪奥曼德不抱边吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 8,
       "status": "success"
     },
     "懂球帝": {
