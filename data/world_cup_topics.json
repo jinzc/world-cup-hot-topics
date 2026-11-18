@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-18 21:46:04",
+  "update_time": "2026-11-19 05:46:44",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,32 +29,42 @@
     "虎扑": {
       "topics": [
         {
-          "title": "葡萄牙议员：C罗未获得应有的尊重，主帅和足协主席负有责任",
+          "title": "帕斯叔叔：梅西母亲曾对帕斯说他是梅西接班人，他听完懵了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天体评英超25大球员第25-16位：阿利松、多库、凯塞多等在列",
+          "title": "跟队：尤文米兰分别有意阿利松和范戴克，但2人都想留利物浦",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "阿斯：西班牙U17世界杯首战中国，预计与摩洛哥争夺小组第一",
+          "title": "竞赛报：阿莫林仍然很欣赏B费，米兰把他视为下赛季引援目标",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "FIFA介绍周雨诺：清华附中学生，中国U17晋级世界杯的心脏",
+          "title": "记者：巴黎向队长马尔基尼奥斯提供为期一年的续约合同",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "团蜜现在都支持哪个国家队（除国足以外）",
+          "title": "佩德里有机会冲击金球吗？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "体坛周报：构陷亚马尔太恶毒，拿民族感情开玩笑，希望这个人得到惩罚",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]迪奥曼德西甲成功过人37次仅次亚马尔，成功率仅次贝林厄姆",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
