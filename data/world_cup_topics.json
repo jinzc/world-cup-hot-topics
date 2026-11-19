@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-19 11:07:11",
+  "update_time": "2026-11-19 20:46:06",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,44 +29,58 @@
     "虎扑": {
       "topics": [
         {
-          "title": "曼晚：波切蒂诺会鼓励曼联逼抢，拉什福德会让对方后卫害怕",
+          "title": "杜健鑫携中国裁判组执法2026卡塔尔U17世界杯法国对阵海地",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费坎塞洛赛后视频引热议：手指袖标说“给队长拍照”",
+          "title": "回声报：在克洛普麾下，维尔茨多项数据比在伊劳拉手下更高",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "罗马诺：32岁B费与曼联谈续约已5个月，至今未达成协议",
+          "title": "内马尔秀了一把彩虹过人，可惜最后被对手拉倒了",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "亚马尔rh视频是恶意编造",
+          "title": "马卡：维尼修斯找回状态，皇马前场三选二成为穆帅一大难题",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "居莱尔才21岁？年薪倒数第四，创造进球机会西甲第二，关键传球西甲第一，有没有可能是下一个莫德里奇？很值得期待啊",
+          "title": "菲戈：维尼修斯一定会找回状态，迪奥曼德愿意防守很重要",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "尼科帕斯太强了，颜值高可以做贝克汉姆侯再一个偶像型核心，值得一亿英镑追求，他的球风很像卡卡，高速冲击下的处理球很强，可以完美替代b费",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "曼晚：拉什福德伤愈复出恰逢波切蒂诺上任，他能否就此逆转状态？",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "理性讨论，佩德里离世一中还差哪些不足",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "佩德里有机会冲击金球吗？",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 5,
+      "count": 9,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [
-        {
-          "title": "日媒：马塔宣布退役，哈维、比利亚、B费等名将纷纷发文告别",
-          "url": "https://www.dongqiudi.com/",
-          "hot": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "小红书": {
       "topics": [],
