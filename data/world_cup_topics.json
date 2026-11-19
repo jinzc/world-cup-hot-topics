@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-19 05:46:44",
+  "update_time": "2026-11-19 11:07:11",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,48 +29,44 @@
     "虎扑": {
       "topics": [
         {
-          "title": "帕斯叔叔：梅西母亲曾对帕斯说他是梅西接班人，他听完懵了",
+          "title": "曼晚：波切蒂诺会鼓励曼联逼抢，拉什福德会让对方后卫害怕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "跟队：尤文米兰分别有意阿利松和范戴克，但2人都想留利物浦",
+          "title": "B费坎塞洛赛后视频引热议：手指袖标说“给队长拍照”",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "竞赛报：阿莫林仍然很欣赏B费，米兰把他视为下赛季引援目标",
+          "title": "罗马诺：32岁B费与曼联谈续约已5个月，至今未达成协议",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "记者：巴黎向队长马尔基尼奥斯提供为期一年的续约合同",
+          "title": "亚马尔rh视频是恶意编造",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "佩德里有机会冲击金球吗？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "体坛周报：构陷亚马尔太恶毒，拿民族感情开玩笑，希望这个人得到惩罚",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]迪奥曼德西甲成功过人37次仅次亚马尔，成功率仅次贝林厄姆",
+          "title": "居莱尔才21岁？年薪倒数第四，创造进球机会西甲第二，关键传球西甲第一，有没有可能是下一个莫德里奇？很值得期待啊",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "日媒：马塔宣布退役，哈维、比利亚、B费等名将纷纷发文告别",
+          "url": "https://www.dongqiudi.com/",
+          "hot": ""
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "小红书": {
       "topics": [],
