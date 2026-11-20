@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-20 10:57:00",
+  "update_time": "2026-11-20 19:19:26",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,17 +29,7 @@
     "虎扑": {
       "topics": [
         {
-          "title": "凯恩：我很欣赏本泽马&amp;我们俩都能回撤；我还想再拿一次金球",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "有人说清理B费，用“清理”这个词也太夸张了吧？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "佩德里有机会冲击金球吗？",
+          "title": "[流言板]曼晚：波切蒂诺会鼓励曼联逼抢，拉什福德会让对方后卫害怕",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -47,14 +37,9 @@
           "title": "理性讨论，佩德里离世一中还差哪些不足",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "不只是后防，边锋感觉还得补个大的，现在的几个边锋本质上还是吃亚马尔发挥",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 5,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
