@@ -1,34 +1,22 @@
 {
-  "update_time": "2026-11-21 03:55:59",
+  "update_time": "2026-11-21 09:20:20",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "U17世界杯",
-          "url": "https://s.weibo.com/weibo?q=U17%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "凯恩韧带撕裂",
+          "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E9%9F%A7%E5%B8%A6%E6%92%95%E8%A3%82",
           "hot": 0,
           "label": ""
         },
         {
-          "title": "U17国足0比5西班牙U17",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%A5%BF%E7%8F%AD%E7%89%99U17",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "詹俊谈U17国足0比5西班牙",
-          "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%B0%88U17%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%A5%BF%E7%8F%AD%E7%89%99",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "U17国足对阵西班牙U17战绩对比",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E8%A5%BF%E7%8F%AD%E7%89%99U17%E6%88%98%E7%BB%A9%E5%AF%B9%E6%AF%94",
+          "title": "C罗986球",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97986%E7%90%83",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "百度": {
@@ -54,27 +42,12 @@
     "虎扑": {
       "topics": [
         {
-          "title": "U17世界杯第二比赛日综述：意大利、西班牙、摩洛哥均大胜",
+          "title": "C罗上演不停球抽射破门，打进职业生涯第986球",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "拉菲尼亚+亚马尔本季西甲合计已进25球，五大联赛仅7队更多",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "剑南春首发-拜仁vs科隆：凯恩搭档奥利塞，基米希、卡尔出战",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "U17世界杯：摩洛哥6-0大胜斐济，巴哈双响，奥德1球2助",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "半场：吉达国民1-1胜利，C罗破门+失点，加莱诺建功",
+          "title": "尼科帕斯太强了，颜值高可以做贝克汉姆侯再一个偶像型核心，值得一亿英镑追求，他的球风很像卡卡，高速冲击下的处理球很强，可以完美替代b费",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -84,17 +57,12 @@
           "hot": ""
         },
         {
-          "title": "B费之后，谁会是队长？",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]阿斯：米利唐目前仅是皇马第4中卫，他不甘替补渴望夺回首发",
+          "title": "卧槽 凯恩伤缺3个月 联合韧带撕裂",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 4,
       "status": "success"
     },
     "懂球帝": {
