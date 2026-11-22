@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-22 11:00:53",
+  "update_time": "2026-11-22 20:26:35",
   "sources": {
     "微博": {
       "topics": [],
@@ -22,34 +22,55 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "耐高新赛季揭幕战开赛",
+          "url": "https://www.douyin.com/search/%E8%80%90%E9%AB%98%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%8F%AD%E5%B9%95%E6%88%98%E5%BC%80%E8%B5%9B",
+          "hot": "765.1万"
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "亚洲、南美、非洲足联均支持因凡蒂诺，欧足联+迪亚洛很难办",
+          "title": "U17世界杯中国vs摩洛哥裁判：新西兰裁判卡尔文-伯格执法",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "二刷！杜健鑫携中国裁判组执法U17世界杯希腊对阵巴拿马",
+          "title": "米体：凯恩受伤后拜仁加速追求特雷索尔迪，布鲁日要6000万",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "【集锦】皇马2-1逆转塞尔塔，贝林厄姆、埃斯皮破门",
+          "title": "孙兴慜谈穆勒降级言论：认同美职联压力更小，希望联赛改变",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "天天让贝林休息的是不是串子，梅西在巴萨的时候休息了 还是c罗在皇马的时候休息了？",
+          "title": "[流言板]B费：博格巴伊布也没能帮曼联夺冠；球迷对我们太宽容",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "拉什福德今日无法出战，而且大概率还要继续休战数周",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]B费：已经暂停和曼联的续约谈判；目标帮曼联拿英超和欧冠",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "[流言板]剑南春首发-巴萨vs黄潜：拉菲、亚马尔领衔，戈登替补待命",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 4,
+      "count": 7,
       "status": "success"
     },
     "懂球帝": {
