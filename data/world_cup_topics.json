@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-25 02:47:39",
+  "update_time": "2026-11-25 10:58:58",
   "sources": {
     "微博": {
       "topics": [],
@@ -12,9 +12,15 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [],
-      "count": 0,
-      "status": "empty"
+      "topics": [
+        {
+          "title": "C罗打入生涯第987球",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E6%89%93%E5%85%A5%E7%94%9F%E6%B6%AF%E7%AC%AC987%E7%90%83",
+          "hot": 0
+        }
+      ],
+      "count": 1,
+      "status": "success"
     },
     "知乎": {
       "topics": [],
@@ -29,47 +35,32 @@
     "虎扑": {
       "topics": [
         {
-          "title": "维尔茨：伊劳拉帮我找回了状态，克洛普也经常会给我建议",
+          "title": "队报：拜仁高层否认续约前就知晓穆西亚拉病情，仍在监测中",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "伊劳拉：维尔茨的好表现不止在进球助攻；加克波将缺席德比",
+          "title": "因克洛普护着维尔茨+鼓励他做好根本，利物浦的舆论环境改变",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "基米希格策莱默妻子、诺伊尔前妻，均点赞嘲讽他的相关言论",
+          "title": "C罗不满判罚，朝边裁比拇指向下手势&amp;捂眼模仿举旗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "图片报独家：穆西亚拉经纪人是前图片报副主编，坚称没问题",
+          "title": "有些人对亚马尔别太恨了吧",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "埃贝尔：穆西亚拉能恢复到比巅峰更强；没和他经纪人谈降薪",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿塞拜疆记者问亚马尔是否因在家玩GTA缺席，德容无奈摊手",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "11月25日今日球星，西班牙球星，佩德里24岁生日",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "罗马诺：皇马与贝林达成口头协议！续约5年！皇家马德里与裘德·贝林厄姆达成口头协议，续约事宜敲定。一切就绪，他将续约5年。贝林厄姆对何塞·穆里尼奥和皇家马德里来说都是不可触碰的球员。",
+          "title": "[流言板]弗里克：还没和亚马尔谈点球的事，我们会从中吸取教训",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 8,
+      "count": 5,
       "status": "success"
     },
     "懂球帝": {
