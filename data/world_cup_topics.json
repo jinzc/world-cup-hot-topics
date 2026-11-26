@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-26 06:20:45",
+  "update_time": "2026-11-26 12:52:21",
   "sources": {
     "微博": {
       "topics": [],
@@ -29,42 +29,22 @@
     "虎扑": {
       "topics": [
         {
-          "title": "弗里克：未来不到1个月还有7场比赛，必须控制佩德里出场",
+          "title": "迈阿密主帅：我再次强调要围绕梅西来踢；被淘汰也不算失败",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "卡拉格点评贝林厄姆进球：这球太精彩，比看他穿内裤还过瘾",
+          "title": "赛前发布会：B费坦言续约谈判暂停 ，波切蒂诺怒批VAR",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "B费本场数据：3次射门2射正2进球，0关键传球，2次抢断",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]梅开二度，B费当选葡萄牙体育vs曼联全场最佳球员",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]弗里克：未来不到1个月还有7场比赛，必须控制佩德里出场",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "阿森纳遭遇决定性裘德·贝林厄姆转会打击",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "[流言板]罗马诺：巴黎冬窗引援目标不包含维尼修斯，皇马也不会卖他",
+          "title": "瓜迪奥拉谈C罗和梅西",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 7,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
