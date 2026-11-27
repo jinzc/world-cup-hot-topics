@@ -1,46 +1,16 @@
 {
-  "update_time": "2026-11-27 07:41:08",
+  "update_time": "2026-11-27 15:59:18",
   "sources": {
     "微博": {
       "topics": [
         {
-          "title": "U17国足8比0斐济",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "董路谈U17国足8比0斐济",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E8%B7%AF%E8%B0%88U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "国足回应U17国足8比0斐济",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%9B%9E%E5%BA%94U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "詹俊谈U17国足8比0斐济",
-          "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%B0%88U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "贺炜谈U17国足8比0斐济",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%BA%E7%82%9C%E8%B0%88U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
-          "hot": 0,
-          "label": ""
-        },
-        {
-          "title": "U17国足vs斐济U17",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3vs%E6%96%90%E6%B5%8EU17",
+          "title": "U17国足出线要算净胜球",
+          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E5%87%BA%E7%BA%BF%E8%A6%81%E7%AE%97%E5%87%80%E8%83%9C%E7%90%83",
           "hot": 0,
           "label": ""
         }
       ],
-      "count": 6,
+      "count": 1,
       "status": "success"
     },
     "百度": {
@@ -49,15 +19,9 @@
       "status": "empty"
     },
     "B站": {
-      "topics": [
-        {
-          "title": "U17国足8球大胜斐济后出线",
-          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B38%E7%90%83%E5%A4%A7%E8%83%9C%E6%96%90%E6%B5%8E%E5%90%8E%E5%87%BA%E7%BA%BF",
-          "hot": 0
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "知乎": {
       "topics": [],
@@ -69,7 +33,7 @@
         {
           "title": "U17国足8:0斐济",
           "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
-          "hot": "1213.2万"
+          "hot": "937.7万"
         }
       ],
       "count": 1,
@@ -78,12 +42,7 @@
     "虎扑": {
       "topics": [
         {
-          "title": "C罗更衣室喊话：丢球后要做反应，做到这点相信百分百能赢",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
-        },
-        {
-          "title": "每体：罗德里有望在本周末复出；他尤为看重出战老东家曼城",
+          "title": "加维真的恢复不到以前了吗",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
@@ -91,14 +50,9 @@
           "title": "有没有看了u17世界杯 前两场打西班牙、摩洛哥的",
           "url": "https://soccer.hupu.com/",
           "hot": ""
-        },
-        {
-          "title": "杰拉德：“如果裘德·贝林厄姆继续这样踢下去，他本赛季就能赢得金球奖。",
-          "url": "https://soccer.hupu.com/",
-          "hot": ""
         }
       ],
-      "count": 4,
+      "count": 2,
       "status": "success"
     },
     "懂球帝": {
