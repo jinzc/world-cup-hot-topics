@@ -1,17 +1,10 @@
 {
-  "update_time": "2026-11-27 15:59:18",
+  "update_time": "2026-11-28 02:05:54",
   "sources": {
     "微博": {
-      "topics": [
-        {
-          "title": "U17国足出线要算净胜球",
-          "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E5%87%BA%E7%BA%BF%E8%A6%81%E7%AE%97%E5%87%80%E8%83%9C%E7%90%83",
-          "hot": 0,
-          "label": ""
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "百度": {
       "topics": [],
@@ -29,30 +22,29 @@
       "status": "empty"
     },
     "抖音": {
-      "topics": [
-        {
-          "title": "U17国足8:0斐济",
-          "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38%3A0%E6%96%90%E6%B5%8E",
-          "hot": "937.7万"
-        }
-      ],
-      "count": 1,
-      "status": "success"
+      "topics": [],
+      "count": 0,
+      "status": "empty"
     },
     "虎扑": {
       "topics": [
         {
-          "title": "加维真的恢复不到以前了吗",
+          "title": "下半年曾双杀国少！坦桑尼亚U17世界杯1平2负，小组赛出局",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         },
         {
-          "title": "有没有看了u17世界杯 前两场打西班牙、摩洛哥的",
+          "title": "iNews：曼联激活B费续约条款，但其团队正探讨明夏离队可能",
+          "url": "https://soccer.hupu.com/",
+          "hot": ""
+        },
+        {
+          "title": "格罗斯：维尔茨一定会证明自己，人们还不知道他有多强",
           "url": "https://soccer.hupu.com/",
           "hot": ""
         }
       ],
-      "count": 2,
+      "count": 3,
       "status": "success"
     },
     "懂球帝": {
